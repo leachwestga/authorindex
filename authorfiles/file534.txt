@@ -1,0 +1,6 @@
+
+<li> Epstein, Alyssa
+<ul>
+<li> (with Adam Lott, Steven J. Miller, and Eyvindur A. Palsson) Optimal Point Sets Determining Few Distinct Triangles, <a href="vol18.html">Vol 18</a>
+<li> (with Katherine Cordwell, Anand Hemmandy, Steven J. Miller, Eyvindur Palsson, Aaditya Sharma, Stefan Steinerberger, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+

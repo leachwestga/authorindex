@@ -1,0 +1,7 @@
+
+<li> Filaseta, Michael
+<ul>
+<li> Practical Aspects of Testing the Irreducibility of the Non-reciprocal Part of a <i>0,1</i>-polynomial, <a href="vol20a.html">Vol 20a</a>
+<li> (with Jacob Juillerat) Consecutive Primes Which Are Widely Digitally Delicate, <a href="vol21A.html">Vol 21A</a>
+<li> (with Jacob Juillerat and Thomas Luckner) Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers, <a href="vol23.html">Vol 23</a>
+

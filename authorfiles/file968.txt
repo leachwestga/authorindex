@@ -1,0 +1,5 @@
+
+<li> Kritzer, Peter
+<ul>
+<li> A New Upper Bound on the Star Discrepancy of (0,1)-sequences, <a href="vol5-3.html">Vol 5(3)</a>
+

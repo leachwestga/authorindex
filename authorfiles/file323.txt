@@ -1,0 +1,5 @@
+
+<li> Chim, Kwok Chi
+<ul>
+<li> (with Volker Ziegler) On Diophantine Equations Involving Sums of Fibonacci Numbers and Powers of 2, <a href="vol18.html">Vol 18</a>
+

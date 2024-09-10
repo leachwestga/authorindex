@@ -1,0 +1,5 @@
+
+<li> Gessel, Ira M.
+<ul>
+<li> On the Almkvist--Meurman Theorem for Bernoulli Polynomials, <a href="vol23.html">Vol 23</a>
+

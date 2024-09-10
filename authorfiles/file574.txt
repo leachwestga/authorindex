@@ -1,0 +1,7 @@
+
+<li> Finch(-Smith), Carrie
+<ul>
+<li> (with Lenny Jones) On the Irreducibility of {-1,0,1}-Quadrinomials,
+<a href="vol6.html">Vol 6</a>
+<li> (with Elliot R. Emadian and Margaret G. Kallus) Ruth-Aaron Pairs Containing Riesel or Sierpi&nacute;ski Numbers, <a href="vol18.html">Vol 18</a>
+

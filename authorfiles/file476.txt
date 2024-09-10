@@ -1,0 +1,5 @@
+
+<li> Dufour, Matthieu
+<ul>
+<li> (with Silvia Heubach and Anh Vo) Circular Nim Games CN(7,4), <a href="vol21b.html">Vol 21b</a>
+

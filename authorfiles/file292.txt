@@ -1,0 +1,6 @@
+
+<li> Chan, W. H. 
+<ul>
+<li> (with Richard M. Low) An Atlas of <i>N</i>- and <i>P</i>-positions in `Nim With a Pass', <a href="vol15.html">Vol 15</a>
+<li> (with Richard M. Low, Ardak Kapbasov, Arman Kapbasov, and Stephen C. Locke) A Codex of <i>N</i>- and <i>P</i>-positions in Harary's `Caterpillar Game', <a href="vol21.html">Vol 21</a>
+

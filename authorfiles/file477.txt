@@ -1,0 +1,6 @@
+
+<li> Dujella, Andrej
+<ul>
+<li> (with Vinko Petricevic) Square Roots with Many Good Approximants, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Sa&uacute;l D&iacute;az Alvarado and Florian Luca) On a Conjecture Regarding Balancing With Powers of Fibonacci Numbers, <a href="vol12a.html">Vol 12A</a>
+

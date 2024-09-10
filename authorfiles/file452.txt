@@ -1,0 +1,17 @@
+
+<li> Dilcher, Karl
+<ul>
+<li> (with Ladislav Skula) The Cube of the Fermat Quotient,
+<a href="vol6.html">Vol 6</a>
+<li> (with Takashi Agoh) Generalized Convolution Identities for Stirling Numbers
+ of the Second Kind, <a href="vol8.html">Vol 8(1)</a>
+<li> (with John B. Cosgrave) Extensions of the Gauss-Wilson Theorem,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Takashi Agoh) Convolution Identities for Stirling Numbers of the First Kind, <a href="vol10.html">Vol 10</a>
+<li> (with Takashi Agoh) Convolution and Reciprocity Formulas for Bernoulli Polynomials, <a href="vol11.html">Vol 11</a>
+<li> (with Takashi Agoh) Representations of Stirling Numbers of the First Kind by Multiple Integrals, <a href="vol15.html">Vol 15</a>
+<li> (with Larry Ericksen) Factors and Irreducibility of Generalized Stern Polynomials, <a href="vol15.html">Vol 15</a>
+<li> (with Hayley Tomkins) Square Classes and Divisibility Properties of Stern Polynomials, <a href="vol18.html">Vol 18</a>
+<li> (with Maciej Ulas) Divisibility and Arithmetic Properties of a Class of Sparse Polynomials, <a href="vol22.html">Vol 22</a>
+<li> (with George Beck) A Matrix Related to Stern Polynomials and the Prouhet-Thue-Morse Sequence, <a href="vol22.html">Vol 22</a>
+

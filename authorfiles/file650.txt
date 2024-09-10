@@ -1,0 +1,7 @@
+
+<li> Gil, Juan B.
+<ul>
+<li> (with Daniel Birmajer and Michael D. Weiner) On Hensel's Roots and a Factorization Formula in <b>Z[[x]]</b>, <a href="vol14.html">Vol 14</a>
+<li> (with Daniel Birmajer and Michael D. Weiner ) Linear Recurrence Sequences With Indices in Arithmetic Progression and Their Sums, <a href="vol16.html">Vol 16</a>
+<li> (with Jessica A. Tomasko) Fibonacci Colored Compositions and Applications, <a href="vol21.html">Vol 21</a>
+

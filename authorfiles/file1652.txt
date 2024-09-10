@@ -1,0 +1,6 @@
+
+<li> Shapiro, S. David 
+<ul>
+<li> (with Daniel B. Shapiro) Iterated Exponents in Number Theory,
+<a href="vol7.html">Vol 7</a>
+

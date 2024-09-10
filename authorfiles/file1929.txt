@@ -1,0 +1,5 @@
+
+<li> Wagner, Joshua 
+<ul>
+<li> (with Darren Glass) Arithmetical Structures on Paths With a Doubled Edge, <a href="vol20.html">Vol 20</a>
+

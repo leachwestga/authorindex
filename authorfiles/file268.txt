@@ -1,0 +1,5 @@
+
+<li> Cao, Xue-Qin
+<ul>
+<li> (with Jin-Hui Fang and Nathan McNew) Note on Sets without Geometric Progressions, <a href="vol22.html">Vol 22</a>
+

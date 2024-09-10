@@ -1,0 +1,6 @@
+
+<li> Bouroubi, Sadek
+<ul>
+<li> (with Nesrine Benyahia Tani) Integer Partitions into Arithmetic Progressions with an Odd Common Difference, <a href="vol9.html">Vol 9</a>
+<li> (with Debbache Ali) Some Results on Balancing, Cobalancing, <i>(a,b)</i>-Type Balancing, and <i>(a,b)</i>-Type Cobalancing Numbers, <a href="vol13.html">Vol 13</a>
+

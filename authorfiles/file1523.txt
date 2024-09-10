@@ -1,0 +1,7 @@
+
+<li> Rice, Alex 
+<ul>
+<li> (with Neil Lyall) A Quantitative Result on Diophantine Approximation for Intersective Polynomials, <a href="vol15a.html">Vol 15A</a>
+<li> (with Vajresh Balaji,  Olivia Edwards, Anne Marie Loftin, Solomon Mcharo,   and Bineyam Tsegaye) Lattice Configurations Determining Few Distances, <a href="vol20.html">Vol 20</a>
+<li> (with Vishal Balaji and Andrew Lott) Schur's Theorem in Integer Lattices, <a href="vol22.html">Vol 22</a>
+

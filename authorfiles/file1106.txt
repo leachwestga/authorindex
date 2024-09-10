@@ -1,0 +1,5 @@
+
+<li> Lu, Qing-Lin
+<ul>
+<li> (with Lin Ma) Congruences for Hyper <i>m</i>-ary Overpartition Functions, <a href="vol10.html">Vol 10</a>
+

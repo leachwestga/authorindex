@@ -1,0 +1,5 @@
+
+<li> Kitaoka, Yoshiyuki
+<ul>
+<li> Statistical Distribution of Roots of a Polynomial Modulo Primes, <a href="vol17.html">Vol 17</a>
+

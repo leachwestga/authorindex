@@ -1,0 +1,5 @@
+
+<li> Adam, David
+<ul>
+<li> (with Jean-Luc Chabert and Youssef Fares) Subsets of Z With Simultaneous Orderings, <a href="vol10.html">Vol 10</a>
+

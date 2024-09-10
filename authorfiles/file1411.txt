@@ -1,0 +1,5 @@
+
+<li> Perlmutter, Norman Lewis
+<ul>
+<li> (with C. D. A. Evans and Joel David Hamkins) A Position in Infinite Chess With Game Value &omega;<sup>4</sup>, <a href="vol17.html">Vol 17</a>
+

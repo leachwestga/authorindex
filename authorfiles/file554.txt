@@ -1,0 +1,6 @@
+
+<li> Farhadian, Reza
+<ul>
+<li> A Probabilistic Proof of a Power Sum Identity, <a href="vol23.html">Vol 23</a>
+<li class=fragment> A Probabilistic Proof that \(\sum_{j=1}^{n}H_j^{(s)}=(n+1)H_n^{(s)}-H_n^{(s-1)}\), <a href="vol23.html">Vol 23</a>
+

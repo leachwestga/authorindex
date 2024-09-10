@@ -1,0 +1,6 @@
+
+<li> Goy, Taras 
+<ul>
+<li> (with Robert Frontczak) Chebyshev-Fibonacci Polynomial Relations Using Generating Functions, <a href="vol21.html">Vol 21</a>
+<li> (with Kunle Adegoke and Robert Frontczak) Fibonacci-Catalan Series, <a href="vol22.html">Vol 22</a>
+

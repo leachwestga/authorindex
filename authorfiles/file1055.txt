@@ -1,0 +1,5 @@
+
+<li> Li, Shuguang
+<ul>
+<li> Notes on Primes <i>p&equiv; 1 (mod d)</i> and <i>a<sup>p-1/d</sup>&equiv; 1 (mod p)</i>, <a href="vol15.html">Vol 15</a>
+

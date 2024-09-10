@@ -1,0 +1,9 @@
+
+<li> Ledoan, Andrew H.
+<ul>
+<li> (with A. Zaharescu) Square-Full Divisors of Square-Full Integers, <a href="vol10.html">Vol 10</a>
+<li> (with D. A. Goldston) On the Differences Between Consecutive Prime Numbers, I, <a href="vol12b.html">Vol 12B</a>
+<li> (with Paul Spiegelhalter and Alexandru Zaharescu) Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>), <a href="vol14.html">Vol 14</a>
+<li> (with Alexandru Zaharescu) A Divisibility Obstruction for Certain Walks on Gaussian Integers, <a href="vol14.html">Vol 14</a>
+<li> (with Chadwick Gugg) On the Theorem of N. P. Romanoff, <a href="vol20.html">Vol 20</a>
+

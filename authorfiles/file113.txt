@@ -1,0 +1,14 @@
+
+<li> Banks, William D.
+<ul>
+<li> (with Igor E. Shparlinski) Integers with a Large Smooth Divisor,
+<a href="vol7.html">Vol 7</a>
+<li> (with Ahmet M. G&#252;lo&#287;lu and C. Wesley Nevans ) On the Congruence <i>N &#x2261; A (mod &#981;(N))</i>,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Florian Luca) Power Totients With Almost Primes,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Greg Martin) Optimal Primitive Sets with Restricted Primes, <a href="vol13.html">Vol 13</a>
+<li> Every Natural Number is the Sum of Forty-nine Palindromes, <a href="vol16.html">Vol 16</a>
+<li> (with Paul Pollack and Carl Pomerance) Symmetric Primes Revisited, <a href="vol19.html">Vol 19</a>
+<li> On Ratios of Consecutive Prime Gaps, <a href="vol23.html">Vol 23</a>
+

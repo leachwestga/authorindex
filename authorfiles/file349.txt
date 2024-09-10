@@ -1,0 +1,5 @@
+
+<li> Clem, Stian
+<ul>
+<li> (with Christopher Pinner) The Lind-Lehmer Constant for  3-groups, <a href="vol18.html">Vol 18</a>
+

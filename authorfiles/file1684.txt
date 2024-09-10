@@ -1,0 +1,8 @@
+
+<li> Simpson, Jamie
+<ul>
+<li> (with Scott Jenkins) Composite Covering Systems of Minimum Cardinality, <a href="vol3.html">Vol 3</a>
+<li> Disjoint Beatty Sequences, <a href="vol4.html">Vol 4</a>
+<li> Intersecting Rational Beatty Sequences, <a href="vol13.html">Vol 13</a>
+<li> (with Ofir Schnabel) A New Approach to the Fraenkel Conjecture for Low <i>n</i> Values, <a href="vol19.html">Vol 19</a>
+

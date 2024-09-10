@@ -1,0 +1,5 @@
+
+<li> Liu, Ji-Cai 
+<ul>
+<li> (with Moa Apagodu) Congruence Properties for the Trinomial Coefficients, <a href="vol20.html">Vol 20</a>
+

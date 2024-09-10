@@ -1,0 +1,5 @@
+
+<li> Eitner, Justin 
+<ul>
+<li> (with Daniel Baczkowski) Polygonal-Sierpi&nacute;ski-Riesel Sequences with Terms Having at Least Two Distinct Prime Divisors, <a href="vol16.html">Vol 16</a>
+

@@ -1,0 +1,5 @@
+
+<li> Lan, Bin
+<ul>
+<li> (with James A. Sellers) Properties of a Restricted Binary Partition Function a la Andrews and Lewis, <a href="vol15.html">Vol 15</a>
+

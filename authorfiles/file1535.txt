@@ -1,0 +1,5 @@
+
+<li> Robert, Gerardo Gon&aacute;lez 
+<ul>
+<li> (with Aubin Arroyo) Hausdorff Dimension of Sets of Numbers With Large L&uuml;roth Elements, <a href="vol21.html">Vol 21</a>
+

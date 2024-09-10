@@ -1,0 +1,6 @@
+
+<li> Thiel, Johann
+<ul>
+<li> On RATS Sequences in General Bases, <a href="vol14.html">Vol 14</a>
+<li> (with Sandie Han, Ariane M. Masuda, and Satyanand Singh) Maximal Entries of Elements in Certain Matrix Monoids, <a href="vol20.html">Vol 20</a>
+

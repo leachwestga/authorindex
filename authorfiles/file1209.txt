@@ -1,0 +1,5 @@
+
+<li> Melles, Caroline 
+<ul>
+<li> (with Charles Celerier, David Joyner, David Phillips, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
+

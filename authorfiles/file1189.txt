@@ -1,0 +1,5 @@
+
+<li> McDonald, Daniel C. 
+<ul>
+<li> (with ) A Combinatorial Proof on Partition Function Parity, <a href="vol14.html">Vol 14</a>
+

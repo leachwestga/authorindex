@@ -1,0 +1,8 @@
+
+<li> Bell, George I.
+<ul> 
+<li> Diagonal Peg Solitaire, <a href="vol7.html">Vol 7</a>
+<li> (with Daniel S. Hirschberg and Pablo Guerrero-Garc&iacute;a)
+The Minimum Size Required of a Solitaire Army, <a href="vol7.html">Vol 7</a>
+<li> The Shortest Game of Chinese Checkers and Related Problems, <a href="vol9.html">Vol 9</a>
+

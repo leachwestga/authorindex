@@ -1,0 +1,7 @@
+
+<li> Bayless, Jonathan
+<ul>
+<li> (with Dominic Klyve) On the Sum of Reciprocals of Amicable Numbers,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Dominic Klyve and Tom&aacute;s Oliveira e Silva) New Bounds and Computations on Prime-Indexed Primes, <a href="vol13.html">Vol 13</a>
+

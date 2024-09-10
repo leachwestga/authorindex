@@ -1,0 +1,15 @@
+
+<li> Broughan, Kevin A.
+<ul>
+<li> Asymptotic Order of  the Square-free Part of N!, <a href="vol2.html">Vol 2</a>
+<li> (with Florian Luca and Igor E. Shparlinski) Some Divisibility Properties of Binomial Coefficients and
+the Converse of Wolstenholme's Theorem, <a href="vol10.html">Vol 10</a>
+<li> (with Marcos J. Gonz&aacute;lez, Ryan H. Lewis, Florian Luca,
+V. Janitzio Mej&iacute;a Huguet, and Alain Togb&eacute;) There Are No Multiply-Perfect Fibonacci Numbers,
+<a href="vol11a.html">Vol 11A</a>
+<li> An Explicit Bound for Aliquot Cycles of Repdigits, <a href="vol12.html">Vol 12</a>
+<li> (with Antal Balog and Igor E. Shparlinski) Sum-Products Estimates with Several Sets and Applications, <a href="vol12.html">Vol 12</a>
+<li> (with Qizhi Zhou) Odd Repdigits to Small Bases are Not Perfect, <a href="vol12.html">Vol 12</a>
+<li> (with Daniel Delbourgo and Qizhi Zhou) Improving the Chen and Chen Result for Odd Perfect Numbers, <a href="vol13.html">Vol 13</a>
+<li> (with Tim Trudgian) Robin's Inequality for 11-free Integers, <a href="vol15.html">Vol 15</a>
+

@@ -1,0 +1,5 @@
+
+<li> Kim, Sungjin
+<ul>
+<li> (with Nilotpal Kanti Sinha) Binomial Probability of Prime Number of Successes, <a href="vol20.html">Vol 20</a>
+

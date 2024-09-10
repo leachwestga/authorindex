@@ -1,0 +1,5 @@
+
+<li> Agust&iacute;n-Aquino, Octavio A.
+<ul>
+<li class=fragment> Wang-Sun Formula in \(\overrightarrow{GL}(\mathbb{Z}/2k\mathbb{Z})\), <a href="vol23.html">Vol 23</a>
+

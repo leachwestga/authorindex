@@ -1,0 +1,5 @@
+
+<li> McCurdy, Sarah K.
+<ul>
+<li> (with Richard Nowakowski) Cutthroat, an All-Small Game on Graphs, <a href="vol5-2.html">Vol 5(2)</a>
+

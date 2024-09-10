@@ -1,0 +1,5 @@
+
+<li> Krawchuk, Colin
+<ul>
+<li> (with Narad Rampersad) Cyclic Complexity of Some Infinite Words and Generalizations, <a href="vol18a.html">Vol 18A</a>
+

@@ -1,0 +1,5 @@
+
+<li> Jia, Chang-Kun
+<ul>
+<li class=fragment> (with Chuan-Ze Niu) \(p\)-Adic Valuation of \(\prod_{k=m+1}^{n} (k^2-m^2)\), <a href="vol23.html">Vol 23</a>
+

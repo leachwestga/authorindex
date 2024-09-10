@@ -1,0 +1,5 @@
+
+<li> Blodgett, Aaron 
+<ul>
+<li> (with Daniel Baczkowski) Distinct Covering Systems in Number Fields, <a href="vol20.html">Vol 20</a>
+

@@ -1,0 +1,12 @@
+
+<li> Belbachir, Hac&egrave;ne
+<ul>
+<li> (with Farid Bencherif) Linear Recurrent Sequences and Powers
+of a Square Matrix, <a href="vol6.html">Vol 6</a>
+<li> (with Miloud Mihoubi) The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part I, <a href="vol11.html">Vol 11</a>
+<li> (with Miloud Mihoubi) The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part II, <a href="vol11.html">Vol 11</a>
+<li> (with Miloud Mihoubi) Generalization of Universal Partition and Bipartition Theorems, <a href="vol13.html">Vol 13</a>
+<li> (with S. Hadj-Brahim) Some Explicit Formulas for Euler-Genocchi Polynomials, <a href="vol19.html">Vol 19</a>
+<li> (with Amine Belkhir and Imad-Eddine Bousbaa) Weighted Partitions and Generalized <i>r</i>-Lah Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Yassine Otmani) Quadrinomial-Like Versions for Wolstenholme, Morley and Glaisher Congruences, <a href="vol23.html">Vol 23</a>
+

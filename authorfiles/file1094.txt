@@ -1,0 +1,5 @@
+
+<li> Lomel&iacute;, Ana Cecilia Garc&iacute;a
+<ul>
+<li> (with Santos Hern&aacute;ndez Hern&aacute;ndez) Powers of Two as Sums of Two Padovan Numbers, <a href="vol18.html">Vol 18</a>
+

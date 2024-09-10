@@ -1,0 +1,9 @@
+
+<li> Fl&oacute;rez, Rigoberto
+<ul>
+<li> (with Leandro Junes) A Relation Between Triangular Numbers and Prime Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Robinson A. Higuita and Leandro Junes) <i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers, <a href="vol14.html">Vol 14</a>
+<li> (with Robinson A. Higuita and Antara Mukherjee) Characterization of the Strong Divisibility Property for Generalized Fibonacci Polynomials, <a href="vol18.html">Vol 18</a>
+<li> (with Nathan McAnally and Antara Mukherjee) Identities for the Generalized Fibonacci Polynomial, <a href="vol18b.html">Vol 18B</a>
+<li> (with Matthew Blair and Antara Mukherjee) Geometric Patterns in The Determinant Hosoya Triangle, <a href="vol21.html">Vol 21</a>
+

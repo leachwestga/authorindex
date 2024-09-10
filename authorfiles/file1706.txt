@@ -1,0 +1,6 @@
+
+<li> Slezeviciene-Steuding, Rasa
+<ul>
+<li> (with Jorn Steuding) Simpson's Paradox in the Farey Sequence,
+<a href="vol6.html">Vol 6</a>
+

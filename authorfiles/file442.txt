@@ -1,0 +1,6 @@
+
+<li> DeVos, Matt
+<ul>
+<li> (with Tomas Boothby and Amanda Montejano) New Proof of Kemperman's Theorem, <a href="vol15.html">Vol 15</a>
+<li> On a Generalization of the Cauchy-Davenport Theorem, <a href="vol16.html">Vol 16</a>
+

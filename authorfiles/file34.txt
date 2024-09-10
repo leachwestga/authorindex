@@ -1,0 +1,6 @@
+
+<li> Alkan, Emre
+<ul>
+<li> (with Haydar G&ouml;ral and Do&#287;a Can Sertba&#351;) Hyperharmonic Numbers Can Rarely Be Integers, <a href="vol18.html">Vol 18</a>
+<li> A Generalization of the Hardy-Littlewood Conjecture, <a href="vol22.html">Vol 22</a>
+

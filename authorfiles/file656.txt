@@ -1,0 +1,5 @@
+
+<li>  Girard, Benjamin 
+<ul>
+<li> (with Yair Caro and John R. Schmitt) Higher Degree Davenport Constants over Finite Commutative Rings, <a href="vol21.html">Vol 21</a>
+

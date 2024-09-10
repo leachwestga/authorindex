@@ -1,0 +1,5 @@
+
+<li> Johnson, John H. 
+<ul>
+<li> (with Neil Hindman) Images of <i>C</i>-Sets and Related Large Sets under Nonhomogeneous Spectra, <a href="vol12b.html">Vol 12B</a>
+

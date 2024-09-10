@@ -1,0 +1,5 @@
+
+<li> Verreault, William 
+<ul>
+<li> (with Jean-Marie de Konink and Nicolas Doyon) Repetitions of Multinomial Coefficients and a Generalization of Singmaster's Conjecture, <a href="vol21.html">Vol 21</a>
+

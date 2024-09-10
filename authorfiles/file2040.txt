@@ -1,0 +1,7 @@
+
+<li class="fragment"> Young, Michael 
+<ul>
+<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin, David Offner, and John Talbot) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+<li> (with Erin Bevilacqua, Samuel King, J&uuml;rgen Kritschgau,  and Suzannah Tebon) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+<li class="fragment"> (with Katie Ansaldi, Houssein El Turkey, Jessica Hamm, Anisah Nu'Man, and Nathan Warnberg) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
+

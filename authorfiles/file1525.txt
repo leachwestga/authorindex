@@ -1,0 +1,5 @@
+
+<li> Richardson, Thomas M.
+<ul>
+<li> Generalized Cauchy Determinants, <a href="vol8.html">Vol 8(1)</a>
+

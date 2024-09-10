@@ -1,0 +1,6 @@
+
+<li> Sun, Xinyu
+<ul>
+<li> Improvements on Chomp, <a href="vol2.html">Vol 2</a>
+<li> (with Victor H. Moll) A Binary Tree Representation for the <i>2</i>-Adic Valuation of a Sequence Arising From a Rational Integral, <a href="vol10.html">Vol 10</a>
+

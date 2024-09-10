@@ -1,0 +1,5 @@
+
+<li> Askgaard, Jens
+<ul>
+<li> On the Additive Period Length of the Sprague-Grundy Function of Certain Nim-like Games, <a href="vol21.html">Vol 21</a>
+

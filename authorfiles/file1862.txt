@@ -1,0 +1,11 @@
+
+<li> T&oacute;th, L&aacute;szl&oacute; 
+<ul>
+<li> (with  J&oacute;zsef S&aacute;ndor) 
+Extremal Orders of Compositions of Certain Arithmetical Functions,
+<a href="vol8.html">Vol 8(1)</a>
+<li> On the Number of Certain Relatively Prime Subsets of <i>{1, 2, ..., n}</i>, <a href="vol10.html">Vol 10</a>
+<li> Some Remarks on a Paper of V. A. Liskovets, <a href="vol11.html">Vol 11</a>
+<li> (with Pieter Moree) Unitary Cyclotomic Polynomials, <a href="vol20.html">Vol 20</a>
+<li> (with Olivier Bordell&egrave;s) Mean Values of the Product of an Integer and Its Modular Inverse, <a href="vol24.html">Vol 24</a>
+

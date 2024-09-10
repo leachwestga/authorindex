@@ -1,0 +1,5 @@
+
+<li> Tonien, Joseph 
+<ul>
+<li> (with Martin Bunder) Generalized Fibonacci Numbers and Their <i>2</i>-adic Order, <a href="vol20.html">Vol 20</a>
+

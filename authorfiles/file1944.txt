@@ -1,0 +1,5 @@
+
+<li> Wang, Dan
+<ul>
+<li> On the Sum of Two Squares and at Most <i>k</i> Powers of 2, <a href="vol21.html">Vol 21</a>
+

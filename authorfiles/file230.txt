@@ -1,0 +1,7 @@
+
+<li> Brown, Morgan V.
+<ul>
+<li> (with Neil J. Calkin, Kevin James, Adam J. King, Shannon Lockard, and Rober
+t C Rhoades) Trivial Selmer Groups and Even Partitions of a Graph,
+<a href="vol6.html">Vol 6</a>
+

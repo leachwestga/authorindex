@@ -1,0 +1,5 @@
+
+<li> Gaitanas, Konstantinos
+<ul>
+<li> An Infinite Family of Quartic Polynomials Whose Products of Consecutive Values are Finitely Often Perfect Squares, <a href="vol17.html">Vol 17</a>
+

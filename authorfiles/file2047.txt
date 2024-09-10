@@ -1,0 +1,5 @@
+
+<li> Yue, Heng
+<ul>
+<li> (with Lin Jiu and Italo Simonelli) Loop Decompositions of Random Walks and Nontrivial Identities of Bernoulli and Euler Polynomials, <a href="vol22.html">Vol 22</a>
+

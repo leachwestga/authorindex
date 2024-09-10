@@ -1,0 +1,5 @@
+
+<li> Luong, Tran Dihn 
+<ul>
+<li> (with Arie Bialostocki) An Analogue of the Erd&#337;s-Ginzburg-Ziv Theorem for Quadratic Symmetric Polynomials, <a href="vol9.html">Vol 9</a>
+

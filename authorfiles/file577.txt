@@ -1,0 +1,5 @@
+
+<li> Fink, Alex
+<ul>
+<li> A Generalization of an IMO Problem, <a href="vol6.html">Vol 6</a>
+

@@ -1,0 +1,5 @@
+
+<li> Sidorov, Nikita 
+<ul>
+<li> (with Simon Baker) Expansions in Non-Integer Bases: Lower Order Revisited, <a href="vol14.html">Vol 14</a>
+

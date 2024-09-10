@@ -1,0 +1,6 @@
+
+<li> Gy, Ren&eacute;
+<ul>
+<li> Bernoulli-Stirling Numbers, <a href="vol20.html">Vol 20</a>
+<li> Congruences for Certain Lacunary Sums of Products of Binomial Coefficients, <a href="vol21.html">Vol 21</a>
+

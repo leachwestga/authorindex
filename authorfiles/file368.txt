@@ -1,0 +1,5 @@
+
+<li> Coppo, Marc-Antoine
+<ul>
+<li> Miscellaneous Series Identities with Cauchy and Harmonic Numbers, and Their Interpretation as Ramanujan Summation, <a href="vol23.html">Vol 23</a>
+

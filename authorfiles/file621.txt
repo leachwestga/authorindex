@@ -1,0 +1,6 @@
+
+<li> Gallardo, Luis H.
+<ul>
+<li> On the Prime Factors of  &Phi;<sub>p</sub>(M), <a href="vol21.html">Vol 21</a>
+<li> On the Index of Odd Perfect Numbers, <a href="vol22.html">Vol 22</a>
+

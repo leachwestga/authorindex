@@ -1,0 +1,5 @@
+
+<li> Borges, A. 
+<ul>
+<li> (with P. Catarino ) A Note on Incomplete Leonardo Numbers, <a href="vol20.html">Vol 20</a>
+

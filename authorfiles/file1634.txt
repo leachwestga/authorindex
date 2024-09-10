@@ -1,0 +1,7 @@
+
+<li> Senger, Steven
+<ul>
+<li> A Note on the Multiplicative Structure of an Additively Shifted Product Set <i>AA+1</i>, <a href="vol13.html">Vol 13</a>
+<li> (with Mizan R. Khan, Richard Magner, and Arne Winterhof) Two Combinatorial Geometric Problems involving Modular Hyperbolas, <a href="vol14.html">Vol 14</a>
+<li> (with Hazel N. Brenner,  James S. Depret-Guillaume, and Eyvindur A. Palsson) Uniqueness of Optimal Point Sets Determining Two Distinct Triangles, <a href="vol21.html">Vol 21</a>
+

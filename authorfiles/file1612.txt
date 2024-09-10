@@ -1,0 +1,6 @@
+
+<li> Schneider, Robert
+<ul>
+<li> (with Andrew V. Sills) The Product of Parts or "Norm" of a Partition, <a href="vol20a.html">Vol 20a</a>
+<li> (with Andrew V. Sills) Combinatorial Formulas for Arithmetic Density, <a href="vol22.html">Vol 22</a>
+

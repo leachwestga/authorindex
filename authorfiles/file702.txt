@@ -1,0 +1,5 @@
+
+<li> Gullerud, Emily
+<ul>
+<li> (with aBa Mbirika) An Euler Phi Function for the Eisenstein Integers and Some Applications, <a href="vol20.html">Vol 20</a>
+

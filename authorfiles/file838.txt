@@ -1,0 +1,7 @@
+
+<li> Johnson, Keith
+<ul>
+<li> (with D. Patterson) Projective <i>p</i>-Orderings and Homogeneous Integer-Valued Polynomials, <a href="vol11.html">Vol 11</a>
+<li> (with Y. Fares) The Characteristic Sequence and <i>p</i>-Orderings of the Set of <i>d</i>-th Powers of Integers, <a href="vol12.html">Vol 12</a>
+<li> (with Youssef Fares) The Valuative Capacities of the Sets of Sums of Two and of Three Squares, <a href="vol16.html">Vol 16</a>
+

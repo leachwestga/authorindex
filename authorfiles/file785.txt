@@ -1,0 +1,5 @@
+
+<li> Hsu, Leetsch C.
+<ul>
+<li> (with Xin-Rong Ma) Some Combinatorial Series and Reciprocal Relations Involving Multifold Convolutions, <a href="vol14.html">Vol 14</a>
+

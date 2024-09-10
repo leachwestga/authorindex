@@ -1,0 +1,5 @@
+
+<li> Gaebler, Robert
+<ul>
+<li> (with Arthur T. Benjamin and David Gaebler) A Combinatorial Approach to Hyperharmonic Numbers, <a href="vol3.html">Vol 3</a>
+

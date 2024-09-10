@@ -1,0 +1,5 @@
+
+<li> Abderrezzak, Abdelhamid 
+<ul>
+<li> (with Ali Boussayoud and Mohamed Kerada) Some Applications of Symmetric Functions, <a href="vol15.html">Vol 15</a>
+

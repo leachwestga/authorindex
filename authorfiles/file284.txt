@@ -1,0 +1,6 @@
+
+<li> &#268;erin, Zvonko
+<ul>
+<li> (with Gian Mario Gianella) On Sums of Squares of Pell-Lucas Numbers,
+<a href="vol6.html">Vol 6</a>
+

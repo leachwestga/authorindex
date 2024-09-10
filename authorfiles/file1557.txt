@@ -1,0 +1,6 @@
+
+<li> Rudnev, M.
+<ul>
+<li> (with A. Iosevich) Powder Diffraction from a Combinatorial
+and Analytic Viewpoint, <a href="vol8-2.html">Vol 8(2)</a>
+

@@ -1,0 +1,7 @@
+
+<li> Chapman, Robin
+<ul>
+<li> An Infinite Family of Dual Sequence Identities, <a href="vol5.html">Vol 5(1)</a>
+<li> Lagrange Inversion and Stirling Number Convolutions,
+<a href="vol8.html">Vol 8(1)</a>
+

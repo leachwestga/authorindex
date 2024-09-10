@@ -1,0 +1,8 @@
+
+<li> Girstmair, Kurt
+<ul>
+<li> Equality of Dedekind Sums Modulo 24Z, <a href="vol17.html">Vol 17</a>
+<li> Inversion of Two Cyclotomic Matrices, <a href="vol19.html">Vol 19</a>
+<li> On the Equality of Dedekind Sums, <a href="vol21.html">Vol 21</a>
+<li> Units from Square-Roots of Rational Numbers, <a href="vol23.html">Vol 23</a>
+

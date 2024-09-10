@@ -1,0 +1,5 @@
+
+<li> Singthongla, P.
+<ul>
+<li> (with N. R. Kanasri and V. Laohakosol) Reducibility of Polynomials Over Algebraic Number Fields, <a href="vol17.html">Vol 17</a>
+

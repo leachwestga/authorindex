@@ -1,0 +1,5 @@
+
+<li> Choi, Jongwoo
+<ul>
+<li> (with Kevin J. McGown) Counting Eisenstein Polynomials Satisfying a Condition From Genus Theory, <a href="vol20.html">Vol 20</a>
+

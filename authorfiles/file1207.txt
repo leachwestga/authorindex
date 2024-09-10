@@ -1,0 +1,5 @@
+
+<li> Meleshko, Joseph
+<ul>
+<li> (with James Haoyu Bai, Samin Riasat, and Jeffrey Shallit) Quotients of Palindromic and Antipalindromic Numbers, <a href="vol22.html">Vol 22</a>
+

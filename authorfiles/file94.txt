@@ -1,0 +1,5 @@
+
+<li> Baglini, Lorenzo Luperi
+<ul>
+<li> Partition Regularity of Nonlinear Polynomials: A Nonstandard Approach, <a href="vol14.html">Vol 14</a>
+

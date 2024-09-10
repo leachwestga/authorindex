@@ -1,0 +1,5 @@
+
+<li> Penman, David
+<ul>
+<li> (with Matthew Wells) On Sets with More Restricted Sums than Differences, <a href="vol13.html">Vol 13</a>
+

@@ -1,0 +1,5 @@
+
+<li> Zielinski, Ryan
+<ul>
+<li> Faulhaber's Formula, Odd Bernoulli Numbers, and the Method of Partial Sums, <a href="vol22.html">Vol 22</a>
+

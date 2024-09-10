@@ -1,0 +1,23 @@
+
+<li> Sellers, James A.
+<ul>
+<li> Extending a Recent Result of Santos on Partitions into Odd Parts, <a href="vol3.html">Vol 3</a>
+<li> (with Kevin M. Courtright) Arithmetic Properties for Hyper m-ary Partition Functions, <a href="vol4.html">Vol 4</a>
+<li> Corrigendum to Article A4, Volume 3(2003) (Extending A Recent Result of Santos on Partitions into Odd Parts), <a href="vol4.html">Vol 4</a>
+<li> (with Michael D. Hirschhorn) An Infinite Family of Overpartition Congruences Modulo 12, <a href="vol5.html">Vol 5(1)</a>
+<li> Observations on the Parity of the Total Numbers of Parts
+in Odd-part Partitions, <a href="vol7.html">Vol 7</a>
+<li> (with Brian Hopkins) Exact Enumeration of Garden of Eden Partitions,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Derrick M. Keister and Robert G. Vary) Some Arithmetic Properties of Overpartition <i>k</i>-Tuples, <a href="vol9.html">Vol 9</a>
+<li> (with Michael D. Hirschhorn and &Oslash;ystein J. R&oslash;dseth) Infinite Families of Divis
+ibility Properties Modulo 4 For Non-Squashing Partitions Into Distinct Parts, <a
+href="vol9.html">Vol 9</a>
+<li> (with Shishuo Fu) Enumeration of the Degree Sequences of Line--Hamiltonian Multigraphs, <a href="vol12.html">Vol 12</a>
+<li> (with Frank G. Garvan) Congruences for Generalized Frobenius Partitions with an Arbitrarily Large Number of Colors, <a href="vol14.html">Vol 14</a>
+<li> (with Bin Lan) Properties of a Restricted Binary Partition Function a la Andrews and Lewis, <a href="vol15.html">Vol 15</a>
+<li> (with Matthew S. Mizuhara and Holly Swisher) A Periodic Approach to Plane Partition Congruences, <a href="vol16.html">Vol 16</a>
+<li> (with Abdulaziz M. Alanazi and Augustine O. Munagi) An Infinite Family of Congruences for &#x2113;-regular Overpartitions, <a href="vol16.html">Vol 16</a>
+<li> (with Robson da Silva) New Congruences for <i>3</i>-regular Partitions With Designated Summands, <a href="vol20a.html">Vol 20a</a>
+<li> New Infinite Families of Congruences Modulo Powers of 2 for 2-Regular Partitions with Designated Summands, <a href="vol24.html">Vol 24</a>
+

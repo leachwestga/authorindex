@@ -1,0 +1,5 @@
+
+<li> Lovejoy, Jeremy
+<ul>
+<li> (with Robert Osburn) Quadratic Forms and Four Partition Functions Modulo <i>3</i>, <a href="vol11.html">Vol 11</a>
+

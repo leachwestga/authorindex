@@ -1,0 +1,6 @@
+
+<li> Derbal, Abdallah
+<ul>
+<li> Une Forme Effective d'un Th&eacute;or&egrave;me de Bateman sur la Fonction Phi d'Euler, <a href="vol9.html">Vol 9</a>
+<li> Ordre Maximum d'une Fonction Li&eacute;e aux Diviseurs d'un Nombre Entier, <a href="vol12.html">Vol 12</a>
+

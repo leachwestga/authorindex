@@ -1,0 +1,5 @@
+
+<li> Yokura, Shoji
+<ul>
+<li> A Remark on Periods of Periodic Sequences Modulo <i>m</i>, <a href="vol20.html">Vol 20</a>
+

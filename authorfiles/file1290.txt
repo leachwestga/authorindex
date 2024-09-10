@@ -1,0 +1,8 @@
+
+<li> Narayan, Darren A.
+<ul>
+<li> An Upper Bound for the Representative Number of Graphs with Fixed Order, <a href="vol3.html">Vol 3</a>
+<li> (with Jim Urick)
+Representations of Split Graphs, Their Complements, Stars, and
+Hypercubes, <a href="vol7.html">Vol 7</a>
+

@@ -1,0 +1,5 @@
+
+<li> Dey, Pallab Kanti
+<ul>
+<li> (with Balesh Kumar) An Analogue of Artin's Primitive Root Conjecture, <a href="vol16.html">Vol 16</a>
+

@@ -1,0 +1,5 @@
+
+<li> Au, Yu-Hin
+<ul>
+<li> (with Aaron Robertson and Jeffrey Shallit) Van der Waerden's Theorem and Avoidability in Words, <a href="vol11.html">Vol 11</a>
+

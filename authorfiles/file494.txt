@@ -1,0 +1,6 @@
+
+<li> Dziemia&#x00144;czuk, M.
+<ul>
+<li> First Remark on a &zeta;-Analogue of the Stirling Numbers, <a href="vol11.html">Vol 11</a>
+<li> Generalizing Delannoy Numbers via Counting Weighted Lattice Paths, <a href="vol13.html">Vol 13</a>
+

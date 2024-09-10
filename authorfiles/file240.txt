@@ -1,0 +1,6 @@
+
+<li> Bunder, Martin W.
+<ul>
+<li> Alternative Solutions to Linear Recurrence Equations, <a href="vol19.html">Vol 19</a>
+<li> (with Joseph Tonien) Generalized Fibonacci Numbers and Their <i>2</i>-adic Order, <a href="vol20.html">Vol 20</a>
+

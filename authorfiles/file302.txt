@@ -1,0 +1,8 @@
+
+<li> Charlier, Emilie
+<ul>
+<li> (with Michel Rigo and Wolfgang Steiner)
+Abstract Numeration Systems on Bounded Languages
+and Multiplication by a Constant, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Narad Rampersad, Michel Rigo, and Laurent Waxweiler) The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System, <a href="vol11b.html">Vol 11b</a>
+

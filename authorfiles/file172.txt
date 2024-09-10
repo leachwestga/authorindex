@@ -1,0 +1,5 @@
+
+<li> Binner, Damanvir Singh
+<ul>
+<li> Proofs of Chappelon and Ram&iacute;rez Alfons&iacute;n Conjectures on Square Frobenius Numbers and Their Relationship to Simultaneous Pell Equations, <a href="vol23.html">Vol 23</a>
+

@@ -1,0 +1,6 @@
+
+<li> Gray, Daniel 
+<ul>
+<li> (with Hua Wang and  Charles Lanning) Pattern Containment in Circular Permutations, <a href="vol18b.html">Vol 18B</a>
+<li> (with Stephen J. Curran, Stephen C. Locke, and Richard M. Low) Pyramid Nim, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,6 @@
+
+<li> Sirvent, V&iacute;ctor F.
+<ul>
+<li> Symmetries in  <i>k</i>-Bonacci Adic Systems, <a href="vol11b.html">Vol 11b</a>
+<li> Pisot Numbers and Chromatic Zeros, <a href="vol13.html">Vol 13</a>
+

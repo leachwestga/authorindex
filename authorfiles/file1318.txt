@@ -1,0 +1,6 @@
+
+<li> Noble, Matt
+<ul>
+<li> Isosceles Triangles in Q<sup>3</sup>, <a href="vol18.html">Vol 18</a>
+<li class="fragment"> Isomorphism Classes of Distance Graphs in \(\mathbb{Q}^3\), <a href="vol21.html">Vol 21</a>
+

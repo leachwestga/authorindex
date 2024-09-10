@@ -1,0 +1,7 @@
+
+<li> Bennett, Michael A.
+<ul>
+<li> A Question of Sierpinski on Triangular Numbers, <a href="vol5.html">Vol 5(1)</a>
+<li> Perfect Powers With Few Ternary Digits, <a href="vol12a.html">Vol 12A</a>
+<li> (with Greg Martin and Kevin O'Bryant) Multidimensional Pad&eacute; Approximation of Binomial Functions: Equalities, <a href="vol21A.html">Vol 21A</a>
+

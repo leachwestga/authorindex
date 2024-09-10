@@ -1,0 +1,6 @@
+
+<li> Birmajer, Daniel
+<ul>
+<li> (with Juan B. Gil and Michael D. Weiner) On Hensel's Roots and a Factorization Formula in <b>Z[[x]]</b>, <a href="vol14.html">Vol 14</a>
+<li> (with Juan B. Gil and Michael D. Weiner) Linear Recurrence Sequences With Indices in Arithmetic Progression and Their Sums, <a href="vol16.html">Vol 16</a>
+

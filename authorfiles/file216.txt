@@ -1,0 +1,7 @@
+
+<li> Brent, Barry
+<ul>
+<li> Hecke Groups, Linear Recurrences, and Kepler Limits, <a href="vol19.html">Vol 19</a>
+<li> Polynomial Interpolation of Modular Forms for Hecke Groups, <a href="vol21.html">Vol 21</a>
+<li> Finite Field Models of Polynomials Interpolating Fourier Coefficients of Modular Functions for Hecke Groups, <a href="vol24.html">Vol 24</a>
+

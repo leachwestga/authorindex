@@ -1,0 +1,5 @@
+
+<li> Garc&iacute;a-S&aacute;nchez, Pedro A.
+<ul>
+<li> (with Helena Mart&iacute;n Cruz) Numerical Semigroups With Embedding Dimension Three and Minimal Catenary Degree, <a href="vol20.html">Vol 20</a>
+

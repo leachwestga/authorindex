@@ -1,0 +1,7 @@
+
+<li> Just, Matthew 
+<ul>
+<li> (with Maghann Moriah Gibson and Hua Wang) Note on Restricted Parts in Cyclic Compositions, <a href="vol18.html">Vol 18</a>
+<li> On Upper Bounds for the Count of Elite Primes, <a href="vol20.html">Vol 20</a>
+<li> Compositions That Are Palindromic Modulo <i>m</i>, <a href="vol23.html">Vol 23</a>
+

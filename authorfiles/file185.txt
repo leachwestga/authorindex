@@ -1,0 +1,5 @@
+
+<li> Blomberg, Lars
+<ul>
+<li> (with S. R. Shannon and N. J. A. Sloane) Graphical Enumeration and Stained Glass Windows, 1: Rectangular Grids, <a href="vol21A.html">Vol 21A</a>
+

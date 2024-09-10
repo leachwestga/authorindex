@@ -1,0 +1,5 @@
+
+<li> Holliday, Sarah H.
+<ul>
+<li> (with Takao Komatsu) On the Sum of Reciprocal Generalized Fibonacci Numbers, <a href="vol11a.html">Vol 11A</a>
+

@@ -1,0 +1,7 @@
+
+<li> Lam, Heung Yeung
+<ul>
+<li> The Number of Representations by Sums of Squares and
+Triangular Numbers, <a href="vol7.html">Vol 7</a>
+<li> (with Shaun Cooper and Dongxi Ye) Representations of Squares by Certain Septenary Quadratic Forms, <a href="vol13.html">Vol 13</a>
+

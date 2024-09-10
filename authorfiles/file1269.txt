@@ -1,0 +1,6 @@
+
+<li> Mullen, Todd
+<ul>
+<li> (with Richard Nowakowski) The Self-Referential Impartial Game Minnie, <a href="vol20.html">Vol 20</a>
+<li> (with Richard J. Nowakowski and Danielle Cox) Diffusion and Polyominoes, <a href="vol22.html">Vol 22</a>
+

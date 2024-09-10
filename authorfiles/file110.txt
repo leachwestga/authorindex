@@ -1,0 +1,5 @@
+
+<li> Bamunoba, Alex Samuel
+<ul>
+<li> A Note on Lerch’s Formulae for Euler Quotients, <a href="vol15.html">Vol 15</a>
+

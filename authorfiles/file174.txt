@@ -1,0 +1,5 @@
+
+<li> Blagouchine, Iaroslav V.
+<ul>
+<li> Three Notes on Ser's and Hasse's Representations for the Zeta-functions, <a href="vol18a.html">Vol 18A</a>
+

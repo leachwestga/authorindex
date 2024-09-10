@@ -1,0 +1,9 @@
+
+<li> Robertson, Aaron
+<ul>
+<li> (with Clay Culver and Bruce Landman) Some New Exact van der Waerden Numbers, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Tim LeSaulnier) On Monochromatic Ascending Waves,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Yu-Hin Au and Jeffrey Shallit) Van der Waerden's Theorem and Avoidability in Words, <a href="vol11.html">Vol 11</a>
+<li> (with Bidisha Roy and Subha Sarkar) The Determination of 2-color Zero-sum Generalized Schur Numbers, <a href="vol18.html">Vol 18</a>
+

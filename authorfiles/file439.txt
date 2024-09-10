@@ -1,0 +1,9 @@
+
+<li> Deutsch, Jesse Ira
+<ul>
+<li> Bumby's Technique and a Result of Liouville on a Quadratic Form,
+<a href="vol8-2.html">Vol 8(2)</a>
+<li> A Quaternionic Proof of the Universality of Some Quadratic Forms,
+<a href="vol8-2.html">Vol 8(2)</a>
+<li> A Non-classical Quadratic Form of Hessian Discriminant 4 is Universal Over <i>Q</i>[&radic;<span style="text-decoration: overline">5</span>], <a href="vol16.html">Vol 16</a>
+

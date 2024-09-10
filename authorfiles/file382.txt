@@ -1,0 +1,5 @@
+
+<li> Csernenszky, Andr&aacute;s
+<ul>
+<li> (with Ryan R. Martin and Andr&aacute;s Pluh&aacute;r) On the Complexity of Chooser-Picker Positional Games, <a href="vol11.html">Vol 11</a>
+

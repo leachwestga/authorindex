@@ -1,0 +1,6 @@
+
+<li> Chaudhary, M. P.
+<ul>
+<li> (with Kamel Mazhouda and Mohammed Mekkaoui) Discrete Measures and the Riemann Hypothesis of Some <i>L</i>-Function in the Selberg Class, <a href="vol23.html">Vol 23</a>
+<li class=fragment> (with Salem Guiben, Kamel Mazhouda, and Mohammed Mekkaoui) On the \(a\)-Points of the  \(k^{\mathrm{th}}\) Derivative of an \(L\)-Function in the Selberg Class, <a href="vol24.html">Vol 24</a>
+

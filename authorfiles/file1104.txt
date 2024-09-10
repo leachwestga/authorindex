@@ -1,0 +1,8 @@
+
+<li> Loveless, Andrew D.
+<ul>
+<li>The General gcd-Product Function, <a href="vol6.html">Vol 6</a>
+<li> <i>Corrigendum</i> to Article A19, Volumer 6 (The General gcd-Product Function), <a href="vol6.html">Vol 6</a>
+<li> A Congruence for Products of Binomial  Coefficients Modulo a Composite,
+<a href="vol7.html">Vol 7</a>
+

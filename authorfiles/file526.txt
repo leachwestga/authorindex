@@ -1,0 +1,7 @@
+
+<li> Elsner, Carsten
+<ul>
+<li> (with Martin Stein) On the Value Distribution of Error Sums for Approximations With Rational Numbers, <a href="vol12.html">Vol 12</a>
+<li> On Reciprocal Sums Formed by Solutions of Pell's Equation, <a href="vol16.html">Vol 16</a>
+<li> (with Christopher Robin Havens) On Natural Leaping Convergents of Regular Continued Fractions and an Application to Linear Fractional Transformations, <a href="vol23.html">Vol 23</a>
+

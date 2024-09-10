@@ -1,0 +1,22 @@
+
+<li> Agoh, Takashi
+<ul>
+<li> (with Karl Dilcher) Generalized Convolution Identities for
+Stirling Numbers of the Second Kind, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Karl Dilcher) Convolution Identities for Stirling Numbers of the First Kind, <a href="vol10.html">Vol 10</a>
+<li> (with Karl Dilcher) Convolution and Reciprocity Formulas for Bernoulli Polynomials, <a href="vol11.html">Vol 11</a>
+<li> On the Miki and Matiyasevich Identities for Bernoulli Numbers, <a href="vol14.html">Vol 14</a>
+<li> (with Karl Dilcher) Representations of Stirling Numbers of the First Kind by Multiple Integrals, <a href="vol15.html">Vol 15</a>
+<li> Congruences Related to the Ankeny-Artin-Chowla Conjecture, <a href="vol16.html">Vol 16</a>
+<li> On Miki's Identity for Bernoulli Numbers, <a href="vol16.html">Vol 16</a>
+<li> On Shortened Recurrence Relations for Genocchi Numbers and Polynomials, <a href="vol18.html">Vol 18</a>
+<li> Determinantal Expressions for Bernoulli Polynomials, <a href="vol19.html">Vol 19</a>
+<li> On Generalized Euler Numbers and Polynomials Related to Values of the Lerch Zeta Function, <a href="vol20.html">Vol 20</a>
+<li> On Bivariate and Trivariate Miki-type Identities for Bernoulli Polynomials, <a href="vol20.html">Vol 20</a>
+<li> A New Property of Appell Sequences and Its Application, <a href="vol21.html">Vol 21</a>
+<li> Linear Recurrences for Bernoulli Polynomials Involving Different Kinds of Sums, <a href="vol21.html">Vol 21</a>
+<li> Recurrence Relations for Generalized Laguerre Polynomials, <a href="vol21.html">Vol 21</a>
+<li> A Note of the Wilson Quotient, <a href="vol22.html">Vol 22</a>
+<li> Congruences Related to the Wilson Quotient, <a href="vol22.html">Vol 22</a>
+<li> A Characterization of Primes Based on Eulerian Numbers, <a href="vol23.html">Vol 23</a>
+

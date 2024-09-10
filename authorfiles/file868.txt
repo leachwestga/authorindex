@@ -1,0 +1,6 @@
+
+<li> Kanungo, Siddhartha
+<ul>
+<li> (with Richard M. Low) Further Analysis on the "King and Rook vs.
+King on a Quarter-infinite Board" Problem, <a href="vol7.html">Vol 7</a>
+

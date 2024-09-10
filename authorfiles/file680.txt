@@ -1,0 +1,8 @@
+
+<li> Goswami, Sayan 
+<ul>
+<li> (with Aninda Chakraborty) Richness of Arithmetic Progressions in Commutative Semigroups, <a href="vol20.html">Vol 20</a>
+<li> Cartesian Products of Some Combinatorially Rich Sets, <a href="vol20.html">Vol 20</a>
+<li> (with Subhajit Jana) A Combinatorial Viewpoint on Preserving Notions of Largeness and an Abstract Rado Theorem, <a href="vol21.html">Vol 21</a>
+<li> (with Pintu Debnath) Abundance of Arithmetic Progressions in Some Combinatorially Rich Sets by Elementary Means, <a href="vol21.html">Vol 21</a>
+

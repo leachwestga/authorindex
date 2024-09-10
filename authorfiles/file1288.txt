@@ -1,0 +1,5 @@
+
+<li> Nanoti, Saraswati 
+<ul>
+<li> (with Sakshi Dang and Amitabha Tripathi) Extensions of Midy's Theorem for Periodic Decimals, <a href="vol21.html">Vol 21</a>
+

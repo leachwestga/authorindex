@@ -1,0 +1,5 @@
+
+<li> Bertrand-Mathis, Anne
+<ul>
+<li> (with Florent Nguema Ndong) Perron Numbers and Positive Matrices of Minimal Order, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,5 @@
+
+<li> Peterson, Carsten 
+<ul>
+<li> (with Steven J. Miller, Carsten Sprunger, and Roger Van Peski) The Bidirectional Ballot Polytope, <a href="vol18.html">Vol 18</a>
+

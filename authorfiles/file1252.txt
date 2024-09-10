@@ -1,0 +1,7 @@
+
+<li> Moore, Phil
+<ul>
+<li> (with Louis Helm, Payam Samidoost, and George Woltman)
+Resolution of the Mixed Sierpi&#324;ski Problem,
+<a href="vol8.html">Vol 8(1)</a>
+

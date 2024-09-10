@@ -1,0 +1,5 @@
+
+<li> Sloane, N. J. A. 
+<ul>
+<li> (with Lars Blomber and S. R. Shannon) Graphical Enumeration and Stained Glass Windows, 1: Rectangular Grids, <a href="vol21A.html">Vol 21A</a>
+

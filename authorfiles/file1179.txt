@@ -1,0 +1,7 @@
+
+<li> Mazur, Marcin
+<ul>
+<li> On Mod p Logarithms log<sub>a</sub> b and lob<sub>b</sub> a,
+<a href="vol6.html">Vol 6</a>
+<li> (with Stephen M. Zemyan) Cyclemaster Matrices and Primality Testing, <a href="vol23.html">Vol 23</a>
+

@@ -1,0 +1,5 @@
+
+<li> Ddamulira, Mahadi
+<ul>
+<li> On the <i>X</i>--coordinates of Pell Equations that are Products of Two Padovan Numbers, <a href="vol20.html">Vol 20</a>
+

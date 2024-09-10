@@ -1,0 +1,5 @@
+
+<li> Beste, Meeri-Liisa
+<ul>
+<li> (with Jan-Hendrik de Wiljes and Martin Kreh) Sum and Mod Sum Graphs of Arithmetic Sets, <a href="vol22.html">Vol 22</a>
+

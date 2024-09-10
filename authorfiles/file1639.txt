@@ -1,0 +1,11 @@
+
+<li> Serra, Oriol
+<ul>
+<li> (with Gilles Zemor) On a Generalization of a Theorem by Vosper,
+<a href="vol0.html">Vol 0</a>
+<li> (with J.  Ne&#353;et&#345;il) 
+Semigroups with the Erd&#337;s-Tur&aacute;n Property,
+<a href="vol7-2.html">Vol 7(2)</a> 
+<li> (with Pablo Candela and Juanjo Ru&eacute;) Memorial to Javier Cilleruelo: A Problem List, <a href="vol18.html">Vol 18</a>
+<li> (with Gregory A. Freiman and Christoph Spiegel) Additive Volume of Sets  Contained in Few Arithmetic Progressions, <a href="vol19.html">Vol 19</a>
+

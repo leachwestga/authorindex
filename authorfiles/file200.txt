@@ -1,0 +1,5 @@
+
+<li> Boruah, Bidyaut 
+<ul>
+<li> (with Nayandeep Deka Baruah) Two Theta Function Identities of Ramanujan and Representation of a Number as a Sum of Three Squares and as a Sum of Three Triangular Numbers, <a href="vol12.html">Vol 12</a>
+

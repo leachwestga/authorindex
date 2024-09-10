@@ -1,0 +1,6 @@
+
+<li> Spiegelhalter, Paul
+<ul>
+<li> (with Florin P. Boca and Byron Heersink) Gap Distribution of Farey Fractions under Some Divisibility Constraints, <a href="vol13.html">Vol 13</a>
+<li> (with Andrew Ledoan and Alexandru Zaharescu) Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>), <a href="vol14.html">Vol 14</a>
+

@@ -1,0 +1,5 @@
+
+<li> Zinnel, Laura
+<ul>
+<li class=fragment> (with Kean Fallon, Ethan Manhart, Joe Miller, Hunter Rehm, and Nathan Warnberg) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
+

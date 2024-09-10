@@ -1,0 +1,6 @@
+
+<li> Litsyn, Simon
+<ul>
+<li> (with Vladimir Shevelev) On Factorization of Integers with Restrictions on
+the Exponents, <a href="vol7.html">Vol 7</a>
+

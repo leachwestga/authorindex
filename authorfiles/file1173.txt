@@ -1,0 +1,5 @@
+
+<li> Mauro, David W.
+<ul>
+<li> (with John P. Georges and Yan Wang) Relating Fibonacci Numbers to the Infinitudes of Certain Primes, <a href="vol23.html">Vol 23</a>
+

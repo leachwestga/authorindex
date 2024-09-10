@@ -1,0 +1,5 @@
+
+<li> Prakash, Gyan 
+<ul>
+<li> (with Jean-Marc Deshouillers) Large Zero-Free Subsets of <i>Z/pZ</i>, <a href="vol11a.html">Vol 11A</a>
+

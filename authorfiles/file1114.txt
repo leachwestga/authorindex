@@ -1,0 +1,5 @@
+
+<li class="fragment"> Luo, Wenyu
+<ul>
+<li> (with Pingzhi Yuan) On the Diophantine Equation \(\frac{ax^{n+2l}+c}{abt^2x^n+d}=by^2\), <a href="vol20.html">Vol 20</a>
+

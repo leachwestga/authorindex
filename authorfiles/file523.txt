@@ -1,0 +1,5 @@
+
+<li> Ella, Sophia
+<ul>
+<li> (with Matthias Beck and Sophie Rehberg) Rational Ehrhart Theory, <a href="vol23.html">Vol 23</a>
+

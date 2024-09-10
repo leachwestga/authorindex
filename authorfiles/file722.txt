@@ -1,0 +1,5 @@
+
+<li> Hansen, Cody S.
+<ul>
+<li class=fragment> (with Pace P. Nielsen) Prime Factors of \(\Phi_3(x)\) of the Same Form, <a href="vol22.html">Vol 22</a>
+

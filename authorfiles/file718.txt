@@ -1,0 +1,5 @@
+
+<li> Hammer, James
+<ul>
+<li> (with Joshua Harrington and Lenny Jones) On the Congruence <i>x<sup>x</sup> &equiv; x</i> (mod <i>n</i>), <a href="vol16.html">Vol 16</a>
+

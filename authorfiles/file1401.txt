@@ -1,0 +1,9 @@
+
+<li> Pehlivan, Lerna
+<ul>
+<li> (with Kenneth S. Williams) (<i>k,l</i>)-Universality of Ternary Quadratic Forms <i>ax<sup>2</sup>+by<sup>2</sup>+cz<sup>2</sup></i>, <a href="vol18.html">Vol 18</a>
+<li> (with Kenneth S. Williams) Positive-Definite Ternary Quadratic Forms Which are (4,1)-universal and (4,3)-universal, <a href="vol18.html">Vol 18</a>
+<li> (with Greg Doyle, Joseph B. Muskat, and Kenneth S. Williams) Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms, <a href="vol19.html">Vol 19</a>
+<li> (with Zafer Selcuk Aygin, Greg Doyle, Florian M&uuml;nkel,  and Kenneth S. Williams) Representation Numbers of Spinor Regular Ternary Quadratic Forms, <a href="vol21.html">Vol 21</a>
+<li class=fragment> (with Florian M&uuml;nkel and Kenneth S. Williams) Arithmetic Properties of the Ternary Quadratic Form \(3x^2+6y^2+14z^2+4yz+2zx+2xy\), <a href="vol22.html">Vol 22</a>
+

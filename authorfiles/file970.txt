@@ -1,0 +1,8 @@
+
+<li> Kronholm, Brandt
+<ul>
+<li> On Congruence Properties of Consecutive Values of <em>p(n,m)</em>,
+<a href="vol7.html">Vol 7</a>
+<li> A Result on Ramanujan-Like Congruence Properties of the Restricted Partition Function <i>p(n,m)</i> Across Both Variables, <a href="vol12.html">Vol 12</a>
+<li> (with Jonathan Rehmert) A Generalization of Congruence Properties for a Restricted Partition Function, <a href="vol18.html">Vol 18</a>
+

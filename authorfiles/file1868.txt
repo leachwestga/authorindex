@@ -1,0 +1,5 @@
+
+<li> Tringali, Salvatore
+<ul>
+<li> On the Divisibility of <i>a<sup>n</sup> &plusmn; b<sup>n</sup></i> by Powers of <i>n</i>, <a href="vol13.html">Vol 13</a>
+

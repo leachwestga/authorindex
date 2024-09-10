@@ -1,0 +1,6 @@
+
+<li> Ardal, Hayri
+<ul>
+<li> Upper and Lower Bounds for a Function Related to Brown's Lemma, <a href="vol10.html">Vol 10</a>
+<li> (with Tom Brown, Veselin Jungi&#263;, and Julian Sahasrabudhe) On Abelian and Additive Complexity in Infinite Words, <a href="vol12.html">Vol 12</a>
+

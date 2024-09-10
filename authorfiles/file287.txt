@@ -1,0 +1,7 @@
+
+<li> Chaichana, Tuangrat 
+<ul>
+<li> (with Jittinart Rattanamoong and Vichian Laohakosol) Generalized Folding Lemmas in the Field of Formal Series and Their Applications, <a href="vol15.html">Vol 15</a>
+<li> (with Jittinart Rattanamoong) Continued Fractions of Certain Series, <a href="vol19.html">Vol 19</a>
+<li> (with Natthaphong Chitmung and Sureeporn Chaopraknoi) Transcendence of Some Power Series in Function Fields, <a href="vol23.html">Vol 23</a>
+

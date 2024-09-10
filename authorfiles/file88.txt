@@ -1,0 +1,5 @@
+
+<li> Ayyad, Anwar
+<ul>
+<li> (with Todd Cochrane and Sanying Shi) Modular Hyperbolas and the Congruence <i>ax<sub>1</sub>x<sub>2</sub>&hellip;x<sub>k</sub> + bx<sub>k+1</sub>x<sub>k+2</sub>&hellip;x<sub>2k</sub> &equiv; c</i> mod <i>m</i>, <a href="vol18.html">Vol 18</a>
+

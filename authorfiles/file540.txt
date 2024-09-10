@@ -1,0 +1,6 @@
+
+<li> Eriksson, Kimmo
+<ul>
+<li> A Note on the Exact Expected Length of the <i>k</i>th Part of a Random Partition, <a href="vol10.html">Vol 10</a>
+<li> (with Markus Jonsson and Jonas Sj&ouml;strand) An Exponential Limit Shape of Random <i>q</i>-proportion Bulgarian Solitaire, <a href="vol18.html">Vol 18</a>
+

@@ -1,0 +1,6 @@
+
+<li> Canfield, E. Rodney
+<ul>
+<li> (with Carl Pomerance) On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind, <a href="vol2.html">Vol 2</a>
+<li> (with Carl Pomerance) Corrigendum to Article A1, Volume 2(2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind), <a href="vol5.html">Vol 5(1)</a>
+

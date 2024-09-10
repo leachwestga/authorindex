@@ -1,0 +1,5 @@
+
+<li> Gabor, Zachary 
+<ul>
+<li> (with Samuel Connolly and Anant Godbole) The Location of the First Ascent in a 123-Avoiding Permutation, <a href="vol15.html">Vol 15</a>
+

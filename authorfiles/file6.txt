@@ -1,0 +1,5 @@
+
+<li> Adamczewski, Kamil
+<ul>
+<li> (with Enrique Trevi&ntilde;o) The Smoothed P&oacute;lya--Vinogradov Inequality, <a href="vol15.html">Vol 15</a>
+

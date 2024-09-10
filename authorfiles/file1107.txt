@@ -1,0 +1,37 @@
+
+<li> Luca, Florian
+<ul>
+<li> (with Jean-Marie De Koninck) On Strings of Consecutive Economical Numbers of Arbitrary Length, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with John B. Friedlander and Mihai Stoiciu) On the Irrationality
+of a Divisor Function Series, <a href="vol7.html">Vol 7</a>
+<li> (with Carl Pomerance) Irreducible Radical Extensions and Euler-function Chains, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Paul Loomis) On Totient Abundant Numbers,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Santos Hern&aacute;ndez Hern&aacute;ndez) A Note on Deaconescu's Result
+Converning Lehmer's Problem, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Florin Nicolae) <i>&phi;(F<sub>n</sub>)=F<sub>m</sub></i>, <a href="vol9.html">Vol 9</a>
+<li> (with L&aacute;szl&oacute; Szalay) Lucas Diophantine Triples, <a href="vol9.html">Vol 9</a>
+<li> (with Carl Pomerance) On the Range of the Iterated Euler Function,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Kevin A. Broughan and Igor E. Shparlinski) Some Divisibility Properties of
+ Binomial Coefficients and
+the Converse of Wolstenholme's Theorem, <a href="vol10.html">Vol 10</a>
+<li> (with R. Balasubramanian) On the Number of Factorizations of an Integer, <a href=
+"vol11.html">Vol 11</a>
+<li> (with Herman te Riele) Aliquot Cycles of Repdigits, <a href="vol11.html">Vol 11</a>
+<li> (with William D. Banks) Power Totients With Almost Primes,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Kevin A. Broughan, Marcos J. Gonz&aacute;lez, Ryan H. Lewis, 
+V. Janitzio Mej&iacute;a Huguet, and Alain Togb&eacute;) There Are No Multiply-Perfect Fibonacci Numbers,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Kevin Ford) The Number of Solutions of <i>&lambda;(x)=n</i>, <a href="vol11a.html">Vol 11A</a>
+<li> (with Paul Thomas Young) Coincidences of Catalan and <i>q</i>-Catalan Numbers, <a href="vol11a.html">Vol 11A</a>
+<li> (with Sa&uacute;l D&iacute;az Alvarado and Andrej Dujella) On a Conjecture Regarding Balancing With Powers of Fibonac
+ci Numbers, <a href="vol12a.html">Vol 12A</a>
+<li> (with Takao Komatsu and Yohei Tachiya) On the Multiplicative Order of <i>F<sub>n+1</sub>/F<sub>n</sub></i> Modulo <i>F<sub>m</sub></i>, <a href="vol12b.html">Vol 12B</a>
+<li> (with Roger Oyono) The Diophantine Equation <i>F<sub>n</sub><sup>y</sup> + F<sub>n+1</sub><sup>x</sup> = F<sub>m</sub><sup>x</sup></i>, <a href="vol13.html">Vol 13</a>
+<li> (with Mohamed Taoufiq Damir, Bernadette Faye, and Amadou Tall) Fibonacci Numbers with Prime Sums of Complementary Divisors
+, <a href="vol14.html">Vol 14</a>
+<li> (with Marcos J. Gonz&aacute;lez and V. Janitzio Mej&iacute;a Huguet) On Sierpi&nacute;ski Numbers of the Form  &phi;(N)/2<sup>n</sup>, <a href="vol16.html">Vol 16</a>
+<li class=fragment> (with Jean Lucien Randrianantenaina) There Is No Carmichael Number of the Form \(2^n p^2+1\) with \(p\) Prime, <a href="vol23.html">Vol 23</a>
+

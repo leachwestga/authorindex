@@ -1,0 +1,6 @@
+
+<li> Cooper, Curtis
+<ul>
+<li> Finite Sums of Consecutive Terms of a Second Order Linear Recurrence Relation, <a href="vol21.html">Vol 21</a>
+<li> A Generalization of an Inequality by Graham, <a href="vol22.html">Vol 22</a>
+

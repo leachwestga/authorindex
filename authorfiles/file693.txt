@@ -1,0 +1,5 @@
+
+<li> Groen, Steven R.
+<ul>
+<li class=fragment> (with Jaap Top) A Parametrized Set of Explicit Elements of &#1064;\((E/\mathbb{Q})[3]\), <a href="vol22.html">Vol 22</a>
+

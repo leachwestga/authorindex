@@ -1,0 +1,5 @@
+
+<li> Sorenson, Jonathan P.
+<ul>
+<li> (with Cathal O’Sullivan and Aryn Stahl) Algorithms and Bounds on the Sums of Powers of Consecutive Primes, <a href="vol24.html">Vol 24</a>
+

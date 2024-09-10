@@ -1,0 +1,6 @@
+
+<li> Aygin, Zafer Selcuk
+<ul>
+<li> (with &Scedil;aban Alaca and &Scedil;aban Alaca) Eta Quotients, Eisenstein Series and Elliptic Curves, <a href="vol18.html">Vol 18</a>
+<li> (with Greg Doyle, Florian M&uuml;nkel, Lerna Pehlivan, and Kenneth S. Williams) Representation Numbers of Spinor Regular Ternary Quadratic Forms, <a href="vol21.html">Vol 21</a>
+

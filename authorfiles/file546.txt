@@ -1,0 +1,5 @@
+
+<li> Evans, Ron 
+<ul>
+<li> (with Amanda Bower, Victor Luo, and Steven J Miller) Coordinate Sum and Difference Sets of <i>d</i>-Dimensional Modular Hyperbolas, <a href="vol13.html">Vol 13</a>
+

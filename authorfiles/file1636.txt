@@ -1,0 +1,5 @@
+
+<li> Seraj, Samer
+<ul>
+<li> Resolution of Mathar's Conjectures on Counting Power Residues, <a href="vol23.html">Vol 23</a>
+

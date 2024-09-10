@@ -1,0 +1,5 @@
+
+<li> Boyadzhiev, Khristo N.
+<ul>
+<li> The Euler Series Transformation and the Binomial Identities of Ljunggren, Munarini, and Simons, <a href="vol10.html">Vol 10</a>
+

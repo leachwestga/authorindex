@@ -1,0 +1,5 @@
+
+<li> Araci, Serkan
+<ul>
+<li> (with Nabiha Saba, Ali Boussayoud, and Mohamed Kerada) A New Class of Ordinary Generating Functions for Binary Products of Mersenne Numbers and Gaussian Numbers with Parameters (p) and (q), <a href="vol23.html">Vol 23</a>
+

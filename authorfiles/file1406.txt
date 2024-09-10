@@ -1,0 +1,5 @@
+
+<li> Peng, Junyao
+<ul>
+<li> (with Yong Zhang) On Certain Diophantine Equations Involving Triangular Numbers, <a href="vol21.html">Vol 21</a>
+

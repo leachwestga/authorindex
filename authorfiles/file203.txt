@@ -1,0 +1,6 @@
+
+<li> Bosma, Wieb
+<ul>
+<li> (with Michel Dekking and Wolfgang Steiner) A Remarkable Integer Sequence Related to &pi; and &radic;2, <a href="vol18a.html">Vol 18A</a>
+<li> Aliquot Sequences With Small Starting Values, <a href="vol18.html">Vol 18</a>
+

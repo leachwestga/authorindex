@@ -1,0 +1,5 @@
+
+<li> Ismailescu, Dan
+<ul>
+<li> (with Peter C. Shim) On Numbers That Cannot be Expressed as a Plus-Minus Weighted Sum of a Fibonacci Number and a Prime, <a href="vol14.html">Vol 14</a>
+

@@ -1,0 +1,14 @@
+
+<li> James, Kevin 
+<ul>
+<li> (with Morgan V. Brown, Neil J. Calkin, Adam J. King,
+Shannon Lockard, and Robert
+C Rhoades) Trivial Selmer Groups and Even Partitions of a Graph,
+<a href="vol6.html">Vol 6</a>
+<li> (with Neil Calkin, Nate Drake, Shirley Law, Philip Lee, David Penniston, and Jeanne Radder)
+Divisibility Properties of the 5-regular and 13-regular Partition Functions,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Neil J. Calkin, Julia Davis, Michelle Delcourt, Zebediah Engberg, and Jobby Jacob) Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach, <a href="vol13.html">Vol 13</a>
+<li> (with Jason Hedetniemi and Hui Xue) Champion Primes For Elliptic Curves, <a href="vol14.html">Vol 14</a>
+<li> (with Jim Brown, Robert Cass,  Rodney Keaton, Salvatore Parenti,  and Daniel Shankman) Counting Tamely Ramified Extensions of Local Fields up to Isomorphism, <a href="vol16.html">Vol 16</a>
+

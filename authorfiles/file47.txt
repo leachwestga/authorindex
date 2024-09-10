@@ -1,0 +1,5 @@
+
+<li> Amato, Roberto
+<ul>
+<li> Groups and Monoid in the Set of Pythagorean Triples, <a href="vol24.html">Vol 24</a>
+

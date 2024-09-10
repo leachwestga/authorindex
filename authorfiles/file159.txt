@@ -1,0 +1,5 @@
+
+<li class="fragment"> Bevilacqua, Erin
+<ul>
+<li> (with Samuel King, J&uuml;rgen Kritschgau, Michael Tait, Suzannah Tebon, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+

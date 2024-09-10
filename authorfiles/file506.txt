@@ -1,0 +1,5 @@
+
+<li> Eger, Steffen
+<ul>
+<li> A Proof of the Mann-Shanks Primality Criterion Conjecture for Extended Binomial Coefficients, <a href="vol14.html">Vol 14</a>
+

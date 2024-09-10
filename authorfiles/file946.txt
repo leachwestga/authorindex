@@ -1,0 +1,6 @@
+
+<li> Kominers, Scott Duke
+<ul>
+<li> On Universal Binary Hermitian Forms, <a href="vol9.html">Vol 9</a>
+<li> (with Sherry) On Congruence Conditions for Primality, <a href="vol10.html">Vol 10</a>
+

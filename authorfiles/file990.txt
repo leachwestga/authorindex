@@ -1,0 +1,6 @@
+
+<li> Kwong, Man Kam
+<ul>
+<li> (with Horst Alzer) Extension of an Inequality for Fibonacci Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with Horst Alzer) Two Identities for Complex Numbers with Applications to Special Sequences and Functions, <a href="vol23.html">Vol 23</a>
+

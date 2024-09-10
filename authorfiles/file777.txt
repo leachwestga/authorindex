@@ -1,0 +1,5 @@
+
+<li> Hopkins, Kimberly
+<ul>
+<li> (with Jeffrey Stopple) Lower Bounds for the Principal Genus of Definite Binary Quadratic Forms, <a href="vol10.html">Vol 10</a>
+

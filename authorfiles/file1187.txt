@@ -1,0 +1,5 @@
+
+<li> McDonald, Alex
+<ul>
+<li> (with Brian McDonald, Jonathan Passant, and Anurag Sahay) Distinct Distances From Points on a Circle to a Generic Set, <a href="vol21.html">Vol 21</a>
+

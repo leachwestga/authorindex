@@ -1,0 +1,5 @@
+
+<li> Sheard, Michael 
+<ul>
+<li> (with Eric Gottlieb) Erd&#337;s-Szekeres Results for Set Partitions, <a href="vol15.html">Vol 15</a>
+

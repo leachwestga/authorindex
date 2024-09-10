@@ -1,0 +1,16 @@
+
+<li> Fang, Jin-Hui
+<ul>
+<li> (with Yong-Gao Chen) Triangular Numbers in Geometric Progression,
+<a href="vol7.html">Vol 7</a>
+<li> Nonexistence of a Geometric Progression that Contains
+Four Triangular Numbers, <a href="vol7.html">Vol 7</a>
+<li> (with Yong-Gao Chen) On N | &phi;(N)D(N)+2 and N | &phi;(N)&sigma;(N)+1,
+<a href="vol8.html">Vol 8(1)</a>
+<li>Neither &#x220F;<i> <sup>n</sup><sub>k=1</sub>
+(4k<sup>2</sup>+1)</i> Nor &#x220F;<i>
+<sup>n</sup><sub>k=1</sub> (2k(k-1)+1)</i> is a Perfect Square,
+ <a href="vol9.html">Vol 9</a>
+<li> (with Xue-Qin Cao and Nathan McNew) Note on Sets without Geometric Progressions, <a href="vol22.html">Vol 22</a>
+
+

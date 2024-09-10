@@ -1,0 +1,5 @@
+
+<li> Deveci, &Ouml;m&uuml;r 
+<ul> 
+<li> (with Josh Hiller and Ye&scedil;im Ak&uuml;z&uuml;m) The Adjacency-Pell-Hurwitz Numbers, <a href="vol18.html">Vol 18</a>
+

@@ -1,0 +1,6 @@
+
+<li>Bajnok, B&eacute;la
+<ul>
+<li>(with Imre Ruzsa) The Independence Number of a Subset of an Abelian Group, <a href="vol3.html">Vol 3</a>
+<li> On Asymptotic Approximate Groups of Integers, <a href="vol17.html">Vol 17</a>
+

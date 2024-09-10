@@ -1,0 +1,5 @@
+
+<li> Yamagami, Atsushi
+<ul>
+<li> (with Youichi Inaba) On a Formula and Some Properties of Carmichael Indices, <a href="vol24.html">Vol 24</a>
+

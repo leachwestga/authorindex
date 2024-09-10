@@ -1,0 +1,5 @@
+
+<li> Nansoko, Souleymane
+<ul>
+<li class="fragment"> (with Euloge Tchammou and A. Togb&eacute;) The Diophantine Equation \(\sum_{j=1}^{k}jF_j^p=L_n^q\), <a href="vol22.html">Vol 22</a>
+

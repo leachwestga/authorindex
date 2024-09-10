@@ -1,0 +1,5 @@
+
+<li> Cullinan, John
+<ul>
+<li> (with Farshid Hajir) Primes of Prescribed Congruence Class in Short Intervals, <a href="vol12.html">Vol 12</a>
+

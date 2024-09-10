@@ -1,0 +1,6 @@
+
+<li> Dai, Li-Sia
+<ul>
+<li> (with Yong-Gao Chen) Congruences with Factorials Modulo <it>p</it>,
+<a href="vol6.html">Vol 6</a>
+

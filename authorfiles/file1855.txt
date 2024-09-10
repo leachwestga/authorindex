@@ -1,0 +1,5 @@
+
+<li> Tomovski, Zivorad 
+<ul>
+<li> (with Robert Frontczak) Generalized Euler-Genocchi Polynomials and Lucas Numbers, <a href="vol20.html">Vol 20</a>
+

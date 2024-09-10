@@ -1,0 +1,7 @@
+
+<li> Noll, Jenna
+<ul>
+<li> (with Benjamin Braun, Robert Davis, Jessica Doering, Ashley Harrison, and Clifford
+Taylor) Compositions Constrained by Graph Laplacian Minors, <a href="vol13.h
+tml">Vol 13</a>
+

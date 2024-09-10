@@ -1,0 +1,9 @@
+
+<li> Hegyv&aacute;ri, Norbert 
+<ul>
+<li> (with Fran&ccedil;ois Hennecart) Note on a Result of Chung on Weil Type Sums, <a href="vol15.html">Vol 15</a>
+</ul
+<li> Heim, Bernhard
+<ul>
+<li> (with Markus Neuhauser) Polynomials Related to Powers of the Dedekind Eta Function, <a href="vol18.html">Vol 18</a>
+

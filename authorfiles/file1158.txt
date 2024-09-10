@@ -1,0 +1,7 @@
+
+<li> Martinez, Conrado
+<ul>
+<li> (with Zhicheng Gao, Daniel Panario, and Bruce Richmond)
+The <i>r<sup>th</sup></i> Smallest Part Size of a Random Integer Partition,
+<a href="vol14a.html">Vol 14A</a>
+

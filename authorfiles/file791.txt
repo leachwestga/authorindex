@@ -1,0 +1,8 @@
+
+<li> Huguet, Janitzio Mej&iacute;a 
+<ul>
+<li> (with Kevin A. Broughan, Marcos J. Gonz&aacute;lez, Ryan H. Lewis,
+Florian Luca, and Alain Togb&eacute;) There Are No Multiply-Perfect Fibonacci Numbers,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Marcos J. Gonz&aacute;lez and Florian Luca) On Sierpi&nacute;ski Numbers of the Form  &phi;(N)/2<sup>n</sup>, <a href="vol16.html">Vol 16</a>
+

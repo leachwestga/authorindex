@@ -1,0 +1,9 @@
+
+<li> Revuelta, M.P.
+<ul>
+<li> (with J.M. Mar&iacute;n and J.L. Ram&iacute;rex Alfons&iacute;n)
+On the Frobenius Number of Fibonacci Numerical Semigroups,
+<a href="vol7.html">Vol 7</a>
+<li> (with S. Eliahou and J.M. Mar&iacute;n)
+Zero-sum Balanced Binary Sequences, <a href="vol7-2.html">Vol 7(2)</a>
+

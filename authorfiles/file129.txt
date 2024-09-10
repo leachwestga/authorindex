@@ -1,0 +1,5 @@
+
+<li> Bates, Bruce
+<ul>
+<li> The Stern-Brocot Continued Fraction, <a href="vol14.html">Vol 14</a>
+

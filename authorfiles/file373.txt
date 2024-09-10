@@ -1,0 +1,8 @@
+
+<li> Corteel, Sylvie
+<ul>
+<li> (with Carla D. Savage) Plane Partition Diamonds and Generalizations, <a href="vol3.html">Vol 3</a>
+<li> (with Carla D. Savage and Herbert S. Wilf) A Note on Partitions and Compositions Defined by Inequalities, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Sunyoung Lee and Carla D. Savage)
+Five Guidelines for Partition Analysis with Applications to Lecture Hall-type Theorems, <a href="vol7-2.html">Vol 7(2)</a>
+

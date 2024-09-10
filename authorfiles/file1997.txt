@@ -1,0 +1,6 @@
+
+<li> Wolfe, David
+<ul>
+<li> (with Michael H. Albert, J. P. Grossman, and Richard J. Nowakowski) An Introduction to Clobber, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with William Fraser and Susan Hirshberg) The structure of the Distributive Lattice of Games Born by Day n, <a href="vol5-2.html">Vol 5(2)</a>
+

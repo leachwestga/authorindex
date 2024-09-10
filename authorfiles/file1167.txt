@@ -1,0 +1,5 @@
+
+<li> Matsuki, Norichika
+<ul>
+<li> On the Number of Solutions of a Diophantine Equation Over a Finite Field, <a href="vol16.html">Vol 16</a>
+

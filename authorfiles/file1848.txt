@@ -1,0 +1,6 @@
+
+<li> Timmons, Craig
+<ul>
+<li> Upper and Lower Bounds on <i>B<sub>k</sub><sup>+</sup></i>-Sets, <a href="vol14.html">Vol 14</a>
+<li> Upper Bounds for <i>B<sub>h</sub>[g]</i>-sets With Small <i>h</i>, <a href="vol16.html">Vol 16</a>
+

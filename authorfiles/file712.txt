@@ -1,0 +1,5 @@
+
+<li> Hadj-Brahim, S. 
+<ul>
+<li> (with H. Belbachir) Some Explicit Formulas for Euler-Genocchi Polynomials, <a href="vol19.html">Vol 19</a>
+

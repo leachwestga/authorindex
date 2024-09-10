@@ -1,0 +1,5 @@
+
+<li> Monopoli, Francesco
+<ul>
+<li> (with Imre Z. Ruzsa) Carries and the Arithmetic Progression Structure of Sets, <a href="vol17.html">Vol 17</a>
+

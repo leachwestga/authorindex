@@ -1,0 +1,6 @@
+
+<li> Martin, Harold W.
+<ul>
+<li> Generalizations of Midy's Theorem on Repeating Decimals,
+<a href="vol7.html">Vol 7</a>
+

@@ -1,0 +1,5 @@
+
+<li> Adiga, Chandrashekar
+<ul>
+<li> (with Ranganatha D.) A Simple Proof of a Conjecture of Dou on (3,7)-Regular Bipartitions Modulo 3, <a href="vol17.html">Vol 17</a>
+

@@ -1,0 +1,5 @@
+
+<li> Kruczek, Klay
+<ul>
+<li> (with Eric Sundberg) A Maker--Breaker Game on the Boolean Hypercube With Subcubes as Winning Sets, <a href="vol18.html">Vol 18</a>
+

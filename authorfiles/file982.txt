@@ -1,0 +1,5 @@
+
+<li> Kumar, Nikhil 
+<ul>
+<li> (with Sanjit Singh Batra and Amitabha Tripathi) On a Linear Diophantine Problem Involving the Fibonacci and Lucas Sequences, <a href="vol15.html">Vol 15</a>
+

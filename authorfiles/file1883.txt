@@ -1,0 +1,5 @@
+
+<li> Ulas, Maciej 
+<ul>
+<li> (with Karl Dilcher) Divisibility and Arithmetic Properties of a Class of Sparse Polynomials, <a href="vol22.html">Vol 22</a>
+

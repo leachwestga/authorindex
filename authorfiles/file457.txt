@@ -1,0 +1,5 @@
+
+<li> Doerksen, Kevin
+<ul>
+<li> (with Anna Haensch) Primitive Prime Divisors in Zero Orbits of Polynomials, <a href="vol12.html">Vol 12</a>
+

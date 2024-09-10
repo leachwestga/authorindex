@@ -1,0 +1,5 @@
+
+<li> Gerhold, Stefan
+<ul>
+<li> Counting Finite Languages by Total Word Length, <a href="vol11.html">Vol 11</a>
+

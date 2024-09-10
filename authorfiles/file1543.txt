@@ -1,0 +1,5 @@
+
+<li> R&oslash;dseth, &Oslash;ystein J.
+<ul>
+<li> (with Michael D.Hirschhorn and James A. Sellers) Infinite Families of Divisibility Properties Modulo 4 For Non-Squashing Partitions Into Distinct Parts, <a href="vol9.html">Vol 9</a>
+

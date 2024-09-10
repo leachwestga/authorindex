@@ -1,0 +1,7 @@
+
+<li> Gould, H. W. 
+<ul>
+<li> (with Jocelyn Quaintance) Floor and Roof Function Analogs of the Bell Numbers,
+<a href="vol7.html">Vol 7</a>
+<li> (with Jocelyn Quaintance) Bell Numbers and Variant Sequences Derived from a General Functional Differential Equation, <a href="vol9.html">Vol 9</a>
+

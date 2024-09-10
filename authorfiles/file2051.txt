@@ -1,0 +1,5 @@
+
+<li> Zargar, Arman Shamsi 
+<ul>
+<li> (with Ajai Choudhry) A Sextic Diophantine Chain and a Related Mordell Curve, <a href="vol21.html">Vol 21</a>
+

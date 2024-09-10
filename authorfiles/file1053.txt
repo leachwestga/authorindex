@@ -1,0 +1,6 @@
+
+<li> Li, Rusen 
+<ul>
+<li> (with Takao Komatsu) Infinite Series Containing Generalized <i>q</i>-harmonic Numbers, <a href="vol21.html">Vol 21</a>
+<li> Sums over Primes, <a href="vol21.html">Vol 21</a>
+

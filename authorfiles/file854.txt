@@ -1,0 +1,5 @@
+
+<li> Kahane, J.-P.
+<ul>
+<li> A Brownian Quasi-helix in R<sup>4</sup>, Built From an Automatic Sequence, <a href="vol18a.html">Vol 18A</a>
+

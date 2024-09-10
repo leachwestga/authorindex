@@ -1,0 +1,6 @@
+
+<li> Daugherty, Zajj
+<ul>
+<li>Integrality of Quotients of Wronskians of
+the Andrews-Gordon Series, <a href="vol6.html">Vol 6</a>
+

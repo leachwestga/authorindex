@@ -1,0 +1,8 @@
+
+<li> Bialostocki, Arie
+<ul>
+<li> Some Problems in View of Recent Developments of the Erd&#337;s Ginzburg Ziv Theorem, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Tran Dinh Luong) An Analogue of the Erd&#337;s-Ginzburg-Ziv Theorem for Quadratic Symmetric Polynomials, <a href="vol9.html">Vol 9</a>
+<li> (with Bryan Wilson) On Monochromatic Sets of Integers Whose Diameters Form a Monotone Sequence, <a href="vol9.html">Vol 9</a>
+<li> (with Tanbir Ahmed, Thang Pham, and Le Anh Vinh) Power Sum Polynomials as Relaxed EGZ Polynomials, <a href="vol19.html">Vol 19</a>
+

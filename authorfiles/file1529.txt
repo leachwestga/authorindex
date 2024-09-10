@@ -1,0 +1,5 @@
+
+<li> Richomme, Gwen&auml;el 
+<ul>
+<li> (with Julien Leroy) A Combinatorial Proof of <i><b>S</b></i>-adicity for Sequences with Linear Complexity, <a href="vol13.html">Vol 13</a>
+

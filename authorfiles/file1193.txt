@@ -1,0 +1,5 @@
+
+<li> McIntosh, Richard J.
+<ul>
+<li> Carmichael Numbers with <i>(p+1) | (n-1)</i>, <a href="vol14.html">Vol 14</a>
+

@@ -1,0 +1,11 @@
+
+<p>
+<hr>
+<p>
+<center>
+<object height=300 width=800 data="footer.html"></object>
+</center>
+</body>
+</html>
+
+

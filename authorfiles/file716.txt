@@ -1,0 +1,8 @@
+
+<li> Hamkins, Joel David 
+<ul>
+<li> (with C. D. A. Evans) Transfinite Game Values in Infinite Chess, <a href="vol14.html">Vol 14</a>
+<li> (with C. D. A. Evans and Norman Lewis Perlmutter) A Position in Infinite Chess With Game Value &omega;<sup>4</sup>, <a href="vol17.html">Vol 17</a>
+<li> (with D. Dakota Blair and Kevin O'Bryant) Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers, <a href="vol20a.html">Vol 20a</a>
+<li> (with Davide Leonessi) Infinite Hex Is a Draw, <a href="vol23.html">Vol 23</a>
+

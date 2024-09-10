@@ -1,0 +1,5 @@
+
+<li> Nath, Rishi
+<ul>
+<li> Symmetry in Maximal (<i>s-1,s+1</i>) Cores, <a href="vol16.html">Vol 16</a>
+

@@ -1,0 +1,5 @@
+
+<li> Iordache, Adrian
+<ul>
+<li> (with Cristian Cobeli and Alexandru Zaharescu) The Relative Size of Consecutive Odd Denominators in Farey Series, <a href="vol3.html">Vol 3</a>
+

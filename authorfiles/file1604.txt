@@ -1,0 +1,7 @@
+
+<li> Schmid, Wolfgang A.
+<ul>
+<li> On Zero-Sum Subsequences in Finite Abelian Groups, <a href="vol1.html">Vol 1</a>
+<li> (with W. D. Gao, Q. H. Hou, and R. Thangadurai)
+On Short Zero-Sum Subsequences II, <a href="vol7.html">Vol 7</a>
+

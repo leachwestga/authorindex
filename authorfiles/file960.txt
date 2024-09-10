@@ -1,0 +1,5 @@
+
+<li> K&rcaron;&iacute;&zcaron;ek, Michal
+<ul>
+<li> (with Lawrence Somer) Period Lengths Modulo <i>n</i> and Average of Terms of Second Order Linear Recurrences, <a href="vol24.html">Vol 24</a>
+

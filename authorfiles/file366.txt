@@ -1,0 +1,7 @@
+
+<li> Cooper, Shaun
+<ul>
+<li> (with Michael Hirschhorn) A Combinatorial Proof of a Result from Number Theory, <a href="vol4.html">Vol 4</a>
+<li> (with Sanoli Gun, Michael Hirschhorn, and B. Ramakrishnan) Relations Among Fourier Coefficients of Certain Eta Products, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Heung Yeung Lam and Dongxi Ye) Representations of Squares by Certain Septenary Quadratic Forms, <a href="vol13.html">Vol 13</a>
+

@@ -1,0 +1,6 @@
+
+<li> Tang, Hengcai 
+<ul>
+<li> (with Taiyu Li) On a Theorem of Prachar Involving Prime Powers, <a href="vol11.html">Vol 11</a>
+<li> (with Wen Yu) A Note on Partitions of Natural Numbers and Their Representation Functions, <a href="vol12.html">Vol 12</a>
+

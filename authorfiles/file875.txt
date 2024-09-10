@@ -1,0 +1,5 @@
+
+<li> Karaatli, Olcay
+<ul>
+<li> On Generalized Fibonacci and Lucas Numbers of the Form <i>wkx<sup>2</sup> &plusmn; 1</i>, <a href="vol16.html">Vol 16</a>
+

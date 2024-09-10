@@ -1,0 +1,14 @@
+
+<li> Mas&aacute;kov&aacute;, Zuzana 
+<ul>
+<li> (with Peter Peter Bal&aacute;&#382;i and Edita Pelantov&aacute;)
+Complete Characterization of Substitution Invariant Sturmian Sequences,
+<a href="vol5.html">Vol 5(1)</a>
+<li> (with Pierre Arnoux, Val&eacute;rie Berth&eacute;, and
+Edita Pelantov&aacute;) Sturm Numbers and Substitution Invariance of
+3iet Words, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Peter Peter Bal&aacute;&#382;i and Edita Pelantov&aacute;)
+Characterization of Substitution Invariant Words Coding
+Exchange of Three Intervals,
+<a href="vol8.html">Vol 8(1)</a>
+

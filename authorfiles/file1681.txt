@@ -1,0 +1,5 @@
+
+<li> Simay, Greg 
+<ul>
+<li> (with George E Andrews) Parity Palindrome Compositions, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,7 @@
+
+<li> Adell, Jos&eacute; A.
+<ul>
+<li> (with Alberto Lekuona) Closed Form Expressions for the Stirling Numbers of the First Kind, <a href="vol17.html">Vol 17</a>
+<li> (with Alberto Lekuona) Explicit Expressions for a Certain Subset of Appell Polynomials: A Probabilistic Perspective, <a href="vol21.html">Vol 21</a>
+<li> (with Sithembele Nkonkobe) A Unified Generalization of Touchard and Fubini Polynomial Extensions, <a href="vol23.html">Vol 23</a>
+

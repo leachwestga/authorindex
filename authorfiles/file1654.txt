@@ -1,0 +1,5 @@
+
+<li> Sharma, Aaditya 
+<ul>
+<li> (with Katherine Cordwell, Alyssa Epstein, Anand Hemmandy, Steven J. Miller, Eyvindur Palsson, Stefan Steinerberger, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+

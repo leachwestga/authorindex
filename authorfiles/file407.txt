@@ -1,0 +1,6 @@
+
+<li> David, Chantal
+<ul>
+<li> (with Sukumar Das Adhikari and Jorge Jim&eacute;nez Urroz) Generalizations
+of Some Zero-sum Theorems, <a href="vol8.html">Vol 8(1)</a>
+

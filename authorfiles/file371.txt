@@ -1,0 +1,5 @@
+
+<li> Corr&aacute;di, Kereszt&eacute;ly
+<ul>
+<li> (with S&aacute;ndor Szab&oacute;) Factorization Results with Combinatorial Proofs, <a href="vol9.html">Vol 9</a>
+

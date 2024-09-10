@@ -1,0 +1,5 @@
+
+<li> Athreya, Krishna B. 
+<ul>
+<li> (with Jayadev S. Athreya) Extrema of Luroth Digits and a Zeta Function Limit Relation, <a href="vol21.html">Vol 21</a>
+

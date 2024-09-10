@@ -1,0 +1,6 @@
+
+<li> Grundman, Helen G. 
+<ul>
+<li> (with C. S. Owens) On Bounds for Two Davenport-type Constants, <a href="vol13.html">Vol 13</a>
+<li> (with Rene Ardila, Christine Caples, Laura L. Hall-Seelig, Jill E. Jordan, Karen T. Kohl, and Thomas P. Wakefield) Values of Weighted Davenport Constants, <a href="vol21.html">Vol 21</a>
+

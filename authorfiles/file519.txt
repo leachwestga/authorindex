@@ -1,0 +1,10 @@
+
+<li> Eliahou, Shalom 
+<ul>
+<li> (with Michel Kervaire) Restricted Sumsets in Finite Vector Spaces:  The Case p=3, <a href="vol1.html">Vol 1</a>
+<li> (with Delphine Hachez) On Symmetric and Antisymmetric Balanced Binary Sequences, <a href="vol5.html">Vol 5(1)</a>
+<li> (with J.M. Mar&#237;n and M.P. Revuelta)
+Zero-sum Balanced Binary Sequences, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Jonathan Chappelon) On the Problem of Molluzzo for the Modulus <i>4</i>, <a href="vol12.html">Vol 12</a>
+<li> An Adaptive Upper Bound on the Ramsey Numbers \(R(3,\dots,3)\), <a href="vol20.html">Vol 20</a>
+

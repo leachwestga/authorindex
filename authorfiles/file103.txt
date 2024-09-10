@@ -1,0 +1,8 @@
+
+<li> Bal&aacute;&#382;i, Peter
+<ul>
+<li> (with Zuzana Mas&aacute;kov&aacute; and Edita Pelantov&aacute;) Complete Characterization of Substitution Invariant Sturmian Sequences, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Zuzana Mas&aacute;kov&aacute; and Edita Pelantov&aacute;) 
+Characterization of Substitution Invariant Words Coding
+Exchange of Three Intervals, <a href="vol8.html">Vol 8(1)</a>
+

@@ -1,0 +1,7 @@
+
+<li> Di Nasso, Mauro
+<ul>
+<li> Embeddability Properties of Difference Sets, <a href="vol14.html">Vol 14</a>
+<li> (with Isaac Goldbring, Renling Jin, Steven Leth, Martino Lupini,  and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
+<li> Intersections of Sets of Distance, <a href="vol16.html">Vol 16</a>
+

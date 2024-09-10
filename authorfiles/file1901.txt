@@ -1,0 +1,5 @@
+
+<li> Velich, Jordan  
+<ul>
+<li> (with Elliot Catt and Michael Coons) Strong Normality and Generalized Copeland--Erd&#337;s Numbers, <a href="vol16.html">Vol 16</a>
+

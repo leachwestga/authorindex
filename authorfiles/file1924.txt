@@ -1,0 +1,5 @@
+
+<li> Vu, Yen Nhi Truong 
+<ul>
+<li> (with Katherine Cordwell, Alyssa Epstein, Anand Hemmandy, Steven J. Miller, Eyvindur Palsson, Aaditya Sharma, and Stefan Steinerberger) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+

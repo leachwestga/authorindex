@@ -1,0 +1,7 @@
+
+<li> Ward, Mark Daniel
+<ul>
+<li> (with Xin Lu Tan ) On Kotzig's Nim, <a href="vol14.html">Vol 14</a>
+<li> (with Guy Louchard) Asymptotic Analysis of Sums of Powers of Multinomial Coefficients: A Saddle Point Approach, <a href="vol17.html">Vol 17</a>
+<li> (with Bret Benesh,  Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good, Michael Smith, and Jennifer Travis) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
+

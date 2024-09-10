@@ -1,0 +1,5 @@
+
+<li> Neuhauser, Markus 
+<ul>
+<li> (with Bernhard Heim) Polynomials Related to Powers of the Dedekind Eta Function, <a href="vol18.html">Vol 18</a>
+

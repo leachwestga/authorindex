@@ -1,0 +1,5 @@
+
+<li> Alvarado, Sa&uacute;l D&iacute;az
+<ul>
+<li> (with Andrej Dujella and Florian Luca) On a Conjecture Regarding Balancing With Powers of Fibonacci Numbers, <a href="vol12a.html">Vol 12A</a>
+

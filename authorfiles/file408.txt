@@ -1,0 +1,7 @@
+
+<li> Davis, Donald M.
+<ul>
+<li> Divisibility by 2 and 3 of Certain Stirling Numbers,
+<a href="vol8.html">Vol 8(1)</a>
+<li> Coefficients in Powers of the Log Series, <a href="vol11.html">Vol 11</a>
+

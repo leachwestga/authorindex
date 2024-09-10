@@ -1,0 +1,6 @@
+
+<li> Wage, Nicholas
+<ul>
+<li> Character Sums and Ramsey Properties of Generalized Paley Graphs,
+<a href="vol6.html">Vol 6</a>
+

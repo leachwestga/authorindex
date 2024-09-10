@@ -1,0 +1,5 @@
+
+<li> Tollisen, Gregory
+<ul>
+<li> (with Tamas Lengyel) A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients, <a href="vol4.html">Vol 4</a>
+

@@ -1,0 +1,5 @@
+
+<li> Barai, Rakesh
+<ul>
+<li> (with Anuradha S. Garge) Trace and Discriminant Criteria for a Matrix to Be a Sum of Sixth and Eighth Powers of Matrices, <a href="vol22.html">Vol 22</a>
+

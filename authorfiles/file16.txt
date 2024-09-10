@@ -1,0 +1,9 @@
+
+<li> Ahmed, Tanbir
+<ul>
+<li> Some New Van der Waerden Numbers and Some Van der Waerden-type Numbers, <a href="vol9.html">Vol 9</a>
+<li> Two New Van der Waerden Numbers: <i>w(2;3,17)</i> and <i>w(2;3,18)</i>, <a href="vol10.html">Vol 10</a>
+<li> On Computation of Exact Van Der Waerden Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Michael G. Eldredge, Jonathan J. Marler, and Hunter S. Snevily) Strict Schur Numbers, <a href="vol13.html">Vol 13</a>
+<li> (with Arie Bialostocki, Thang Pham, and Le Anh Vinh) Power Sum Polynomials as Relaxed EGZ Polynomials, <a href="vol19.html">Vol 19</a>
+

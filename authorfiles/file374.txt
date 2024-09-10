@@ -1,0 +1,6 @@
+
+<li> Cosgrave, John B.
+<ul>
+<li> (with Karl Dilcher) Extensions of the Gauss-Wilson Theorem,
+<a href="vol8.html">, Vol 8(1)</a>
+

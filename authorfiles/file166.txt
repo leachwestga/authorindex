@@ -1,0 +1,5 @@
+
+<li> Bhuniya, A. K. 
+<ul>
+<li> (with Sajal Kumar Mukherjee) A Combinatorial Proof of an Ordered-partition Expansion of Determinants Given by Insko, Johnson and Sullivan, <a href="vol19.html">Vol 19</a>
+

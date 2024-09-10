@@ -1,0 +1,6 @@
+
+<li> Alm, Jeremy F.
+<ul>
+<li> (with Jacob Manske) A New Approach to the Results of K&ouml;vari, S&oacute;s, and Tur&aacute;n Concerning Rectangle-Free Subsets of the Grid, <a href="vol12.html">Vol 12</a>
+<li class="fragment"> Arithmetic Progressions of Length Three in Multiplicative Subgroups of \(\mathbb{F}_{p}\), <a href="vol20a.html">Vol 20a</a>
+

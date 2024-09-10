@@ -1,0 +1,5 @@
+
+<li> Schulman, Michael 
+<ul>
+<li> (with Ethan Berkove and Andrew Eickemeyer) The 4-Color Cubes Puzzle, <a href="vol18.html">Vol 18</a>
+

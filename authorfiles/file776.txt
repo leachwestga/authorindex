@@ -1,0 +1,12 @@
+
+<li> Hopkins, Brian
+<ul>
+<li> (with James A. Sellers) Exact Enumeration of Garden of Eden Partitions,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Jenny Buontempo) Tableau Cycling and Catalan Numbers,
+<a href="vol7.html">Vol 7</a>
+<li> Column-To-Row Operations on Partitions: The Envelopes,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> Spotted Tilings and <i>n</i>-Color Compositions, <a href="vol12b.html">Vol 12B</a>
+<li> Introducing Shift-constrained Rado Numbers, <a href="vol21A.html">Vol 21A</a>
+

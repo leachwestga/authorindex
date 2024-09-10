@@ -1,0 +1,5 @@
+
+<li> Morales, Marina C. 
+<ul>
+<li> (with Brian D. Sittinger) The Unit Structure in a Quotient Ring of a Quadratic Number Field, <a href="vol19.html">Vol 19</a>
+

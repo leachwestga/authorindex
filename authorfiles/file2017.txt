@@ -1,0 +1,5 @@
+
+<li> Yamaguchi, Yuka
+<ul>
+<li class=fragment> (with Naoya Yamaguchi) Integer Group Determinants for \(\mathrm{C}_{4}^{2}\), <a href="vol24.html">Vol 24</a>
+

@@ -1,0 +1,5 @@
+
+<li> Insko, Erik
+<ul>
+<li> (with Katie Johnson and Shaun Sullivan) An Ordered Partition Expansion of the Determinant, <a href="vol17.html">Vol 17</a>
+

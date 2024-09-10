@@ -1,0 +1,7 @@
+
+<li> Wang, Hua
+<ul>
+<li> (with Mustafa Ozen and Demet Yalman) Note on Leech-type Questions of Trees, <a href="vol16.html">Vol 16</a>
+<li> (with Maghann Moriah Gibson and Matthew Just) Note on Restricted Parts in Cyclic Compositions, <a href="vol18.html">Vol 18</a>
+<li> (with Daniel Gray and  Charles Lanning) Pattern Containment in Circular Permutations, <a href="vol18b.html">Vol 18B</a>
+

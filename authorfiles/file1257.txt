@@ -1,0 +1,5 @@
+
+<li> Morgenbesser, Johannes F.
+<ul>
+<li> (with Lukas Spiegelhofer) A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function, <a href="vol12.html">Vol 12</a>
+

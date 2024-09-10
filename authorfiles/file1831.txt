@@ -1,0 +1,5 @@
+
+<li> Tenner, Bridget Eileen
+<ul>
+<li> (with T. Kyle Petersen) How to Write a Permutation as a Product of Involutions (and Why You Might Care), <a href="vol13.html">Vol 13</a>
+

@@ -1,0 +1,5 @@
+
+<li> Gravel, Claude
+<ul>
+<li> (with Daniel Panario) Evaluating the Generalized Buchstab Function and Revisiting the Variance of the Distribution of the Smallest Components of Combinatorial Objects, <a href="vol24.html">Vol 24</a>
+

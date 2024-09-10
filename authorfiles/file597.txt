@@ -1,0 +1,5 @@
+
+<li> Franke, Johann
+<ul>
+<li> Dirichlet Series With Trigonometric Coefficients, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,6 @@
+
+<li> De Wannamacker, Steve
+<ul>
+<li> On 2-Adic Orders of Stirling Numbers of the Second Kind,
+<a href="vol5.html">Vol 5(1)</a>
+

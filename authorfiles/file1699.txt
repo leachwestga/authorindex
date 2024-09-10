@@ -1,0 +1,5 @@
+
+<li> Skerritt, Matthew
+<ul>
+<li> (with Jonathan Borwein and Christopher Maitland) Computation of an Improved Lower Bound to Giuga's Primality Conjecture, <a href="vol13.html">Vol 13</a>
+

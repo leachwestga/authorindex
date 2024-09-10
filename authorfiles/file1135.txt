@@ -1,0 +1,5 @@
+
+<li> Makino, Kazuhisa
+<ul>
+<li> (with Endre Boros, Vladimir Gurvich, and Levi Kitrossky) On the Sprague-Grundy Function of Compound Games, <a href="vol23.html">Vol 23</a>
+

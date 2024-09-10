@@ -1,0 +1,5 @@
+
+<li> James, Jeffery
+<ul>
+<li> (with Mark Schlatter) Some Observations and Solutions to Short and Long Global Nim, <a href="vol8.html">Vol 8(1)</a>
+

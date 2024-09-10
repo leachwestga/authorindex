@@ -1,0 +1,10 @@
+
+<li> Munarini, Emanuele
+<ul>
+<li> (with Norma Zagaglia Salvi) Circular Binary Strings without ZigZags, <a href="vol3.html">Vol 3</a>
+<li> Generalization of a Binomial Identity of Simons, <a href="vol5.html">Vol 5(1)</a>
+<li> Combinatorial Properties of the Antichains of a Garland, <a href="vol9.html
+">Vol 9</a>
+<li> Some <i>q</i>-binomial Identities Involving the Generalized <i>q</i>-Fibonacci Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Horst Alzer) A New Class of Polynomials Related to the Stirling Numbers and Series Representations for Some Mathematical Constants, <a href="vol21.html">Vol 21</a>
+

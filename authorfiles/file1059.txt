@@ -1,0 +1,8 @@
+
+<li> Li, Xian-Jin
+<ul>
+<li> An Explicit Formula for Hecke <i>L</i>-functions,
+<a href="vol8-2.html">Vol 8(2)</a>
+<li> On the Euler Product of Some Zeta Functions,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+

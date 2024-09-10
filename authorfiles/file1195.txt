@@ -1,0 +1,6 @@
+
+<li> McKay, Neil A.
+<ul>
+<li> (with Richard J. Nowakowski) Outcomes of Partizan Euclid, <a href="vol12b.html">Vol 12B</a>
+<li> (with Michael Fisher, Richard J. Nowakowski, Paul Ottaway, and Carlos Pereira dos Santos) Atomic Weight Calculus of Spindly Games, <a href="vol20.html">Vol 20</a>
+

@@ -1,0 +1,5 @@
+
+<li> Delcourt, Michelle 
+<ul>
+<li> (with Neil J. Calkin, Julia Davis,  Zebediah Engberg, Jobby Jacob,  and Kevin James) Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach, <a href="vol13.html">Vol 13</a>
+

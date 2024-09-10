@@ -1,0 +1,5 @@
+
+<li> Gao, Peng
+<ul>
+<li> (with Liangyi Zhao) Primes <i>p &equiv; 1</i> mod <i>d</i> and <i>a<sup>(p-1)/d</sup> &equiv; 1</i> mod <i>p</i>, <a href="vol19.html">Vol 19</a>
+

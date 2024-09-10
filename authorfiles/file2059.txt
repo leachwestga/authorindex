@@ -1,0 +1,7 @@
+
+<li> Zeng, Jiang
+<ul>
+<li>The Akiyama-Tanigawa Algorithm for
+Carlitz's <em>q</em>-Bernoulli Numbers,
+<a href="vol6.html">Vol 6</a>
+

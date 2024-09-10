@@ -1,0 +1,8 @@
+
+<li> Hasanalizade, Elchin
+<ul>
+<li> On the Equation &phi;(n+k)=2&phi;(n), <a href="vol21.html">Vol 21</a>
+<li> Multiplicative Functions <i>k</i>-Additive on Generalized Pentagonal Numbers, <a href="vol22.html">Vol 22</a>
+<li class=fragment> On the Equation \(\sigma^*(n)=1+Mn\), <a href="vol23.html">Vol 23</a>
+<li class=fragment> A Note on the Exponential Diophantine Equation \((44m^2+1)^x+(5m^2-1)^y=(7m)^z\), <a href="vol23.html">Vol 23</a>
+

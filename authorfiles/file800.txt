@@ -1,0 +1,8 @@
+
+<li> Iannucci, Douglas E.
+<ul>
+<li> (with Alexia S. Mintos) On Consecutive Integer Pairs with the Same Sum of Distinct Prime Divisors, <a href="vol5.html">Vol 5(1)</a>
+<li> On a Variation of Perfect Numbers, <a href="vol6.html">Vol 6</a> 
+<li> When the Small Divisors of a Natural Number Are in Arithmetic Progression, <a href="vol18.html">Vol 18</a>
+<li> (with Urban Larsson) Game Values of Arithmetic Functions, <a href="vol21b.html">Vol 21b</a>
+

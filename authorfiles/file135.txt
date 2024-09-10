@@ -1,0 +1,5 @@
+
+<li> Beck, George
+<ul>
+<li> (with Karl Dilcher) A Matrix Related to Stern Polynomials and the Prouhet-Thue-Morse Sequence, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,5 @@
+
+<li> Poelstra, Andrew
+<ul>
+<li> (with Tom Brown and Veselin Jungi&#263;) On Double <i>3</i>-Term Arithmetic Progressions, <a href="vol14.html">Vol 14</a>
+

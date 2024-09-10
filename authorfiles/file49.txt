@@ -1,0 +1,7 @@
+
+<li> Amdeberhan, Tewodros
+<ul>
+<li> A Note on Fibonacci-Type Polynomials, <a href="vol10.html">Vol 10</a>
+<li> (with D. Callan and V. Moll) Valuations and Combinatorics of Truncated Exponential Sums, <a href="vol13.html">Vol 13</a>
+<li> (with David Callan, Hideyuki Ohtsuka, and Roberto Tauraso) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
+

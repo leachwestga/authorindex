@@ -1,0 +1,7 @@
+
+<li> S&aacute;ndor, J&oacute;zsef
+<ul>
+<li> (with L&aacute;szl&oacute; T&oacute;th) 
+Extremal Orders of Compositions of Certain Arithmetical Functions,
+<a href="vol8.html">Vol 8(1)</a>
+

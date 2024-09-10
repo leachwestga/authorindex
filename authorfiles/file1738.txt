@@ -1,0 +1,7 @@
+
+<li> Spivey, Michael Z.
+<ul>
+<li> (with Natalio H. Guersenzvaig) Counting Functions and
+Finite Differences, <a href="vol7.html">Vol 7</a>
+<li> Cycles in War, <a href="vol10.html">Vol 10</a>
+

@@ -1,0 +1,5 @@
+
+<li> Krylov, Nikolai A.
+<ul>
+<li> (with Zhangyuan Li) A Congruence Property of Irreducible Laguerre Polynomials in Two Variables, <a href="vol16.html">Vol 16</a>
+

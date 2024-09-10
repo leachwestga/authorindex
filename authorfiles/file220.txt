@@ -1,0 +1,5 @@
+
+<li> Breuer, Florian
+<ul>
+<li> Ducci Sequences in Higher Dimensions, <a href="vol7.html">Vol 7</a>
+

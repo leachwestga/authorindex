@@ -1,0 +1,5 @@
+
+<li> Serbenyuk, Symon
+<ul>
+<li> Representation of Real Numbers by the Alternating Cantor Series, <a href="vol17.html">Vol 17</a>
+

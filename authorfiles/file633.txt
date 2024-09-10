@@ -1,0 +1,5 @@
+
+<li> Garrabrant, Scott M.
+<ul>
+<li> (with Eric J. Friedman and Adam Scott Landsberg) Cofinite Induced Subgraphs of Impartial Combinatorial Games: An Analysis of CIS-Nim, <a href="vol13.html">Vol 13</a>
+

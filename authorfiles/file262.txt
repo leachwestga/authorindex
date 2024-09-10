@@ -1,0 +1,6 @@
+
+<li> Campbell, Andre&eacute; Alexander
+<ul>
+<li> (with Anant Godbole and Bill Kay) Contributions to the Theory of de Bruijn Cycle, 
+<a href="vol14a.html">Vol 14A</a>
+

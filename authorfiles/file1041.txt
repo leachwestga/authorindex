@@ -1,0 +1,5 @@
+
+<li> Levy, Dan
+<ul>
+<li> (with Gil Kaplan) GCD of Truncated Rows in Pascal's Triangle, <a href="vol4.html">Vol 4</a>
+

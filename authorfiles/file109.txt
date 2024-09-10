@@ -1,0 +1,5 @@
+
+<li> Balog, Antal
+<ul>
+<li> (with Kevin A. Broughan and Igor E. Shparlinski) Sum-Products Estimates with Several Sets and Applications, <a href="vol12.html">Vol 12</a>
+

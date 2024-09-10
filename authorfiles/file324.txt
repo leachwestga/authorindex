@@ -1,0 +1,6 @@
+
+<li> Chintamani, Mohan N.
+<ul>
+<li> (with Sukumar Das Adhikari) Number of Weighted Subsequence Sums With Weights in <i>{1, -1}</i>, <a href="vol11.html">Vol 11</a>
+<li> (with Prabal Paul and R. Thangadurai) On Short Zero-sum Sequences Over Abelian p-groups, <a href="vol17.html">Vol 17</a>
+

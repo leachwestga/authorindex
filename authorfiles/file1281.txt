@@ -1,0 +1,5 @@
+
+<li> Nagy, G&aacute;bor V. 
+<ul>
+<li> (with Horst Alzer) Some Identities Involving Central Binomial Coefficients and Catalan Numbers, <a href="vol20.html">Vol 20</a>
+

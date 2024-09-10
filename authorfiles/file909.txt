@@ -1,0 +1,6 @@
+
+<li> Kihel, Omar 
+<ul>
+<li> (with Mohamed Ayad) The Number of Relatively Prime Subsets of <i>{1, 2, ..., n}</i>, <a href="vol9.html">Vol 9</a>
+<li> (with Mohamed Ayad) On Relatively Prime Sets, <a href="vol9.html">Vol 9</a>
+

@@ -1,0 +1,5 @@
+
+<li> Zhang, Philip B. 
+<ul>
+<li> (with Alice L.L. Gao and Sergey Kitaev) On Pattern Avoiding Indecomposable Permutations, <a href="vol18.html">Vol 18</a>
+

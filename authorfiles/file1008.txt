@@ -1,0 +1,6 @@
+
+<li> Lao, Huixue 
+<ul>
+<li> (with Linli Wei) The Mean Value of a Hybrid Arithmetic Function Associated to Fourier Coefficieints of Cusp Forms, <a href="vol19.html">Vol 19</a>
+<li> (with Aiyue Zou and Linli Wei) Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions, <a href="vol22.html">Vol 22</a>
+

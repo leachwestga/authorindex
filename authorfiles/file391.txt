@@ -1,0 +1,5 @@
+
+<li> Dai, Haobo
+<ul>
+<li> Arithmetic of 3<sup>t</sup>-Core Partition Functions, <a href="vol15.html">Vol 15</a>
+

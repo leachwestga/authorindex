@@ -1,0 +1,6 @@
+
+<li> Sagan, Bruce E.
+<ul>
+<li> (with Carla D. Savage) Combinatorial Interpretations of Binomial Coefficient Analogues Related to Lucas Sequences, <a href="vol10.html">Vol 10</a>
+<li> (with Xi Chen) The Fractal Nature of the  Fibonomial Triangle, <a href="vol14.html">Vol 14</a>
+

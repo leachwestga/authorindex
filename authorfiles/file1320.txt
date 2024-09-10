@@ -1,0 +1,5 @@
+
+<li> Normenyo, Benedict Vasco
+<ul>
+<li> (with Bir Kafle and Alain Togb&eacute;) Repdigits as Sums of Two Fibonacci Numbers and Two Lucas Numbers, <a href="vol19.html">Vol 19</a>
+

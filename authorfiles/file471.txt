@@ -1,0 +1,5 @@
+
+<li> Duan, Heli
+<ul>
+<li class=fragment> (with Yangcheng Li) On the Integer Solutions of the Diophantine Equation \((x+y+z)^2=xyw\), <a href="vol23.html">Vol 23</a>
+

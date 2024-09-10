@@ -1,0 +1,10 @@
+
+<li> Walsh, Alexandra 
+<ul>
+<li> (with Seoyoung Kim) Elliptic Fermat Numbers and Elliptic Divisibility Sequences, <a href="vol20.html">Vol 20</a>
+</ul
+<li> Walsh, Matt
+<ul>
+<li> (with David Leach) A Characterization of Lattice-ordered Graphs,
+<a href="vol7-2.html">Vol 7(2)</a>
+

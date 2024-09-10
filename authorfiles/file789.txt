@@ -1,0 +1,5 @@
+
+<li> Hua, Ting 
+<ul>
+<li> (with Shishuo Fu) On the Slack Euler Pair for Vector Partition, <a href="vol18.html">Vol 18</a>
+

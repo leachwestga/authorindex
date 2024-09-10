@@ -1,0 +1,5 @@
+
+<li> Stromquist, Walter
+<ul>
+<li> Winning Paths in N-by-Infinity Hex, <a href="vol7.html">Vol 7</a>
+

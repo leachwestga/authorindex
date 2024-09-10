@@ -1,0 +1,5 @@
+
+<li> Liu, Guodong 
+<ul>
+<li> (with Haiqing Wang) An Explicit Formula for Higher Order Bernoulli Polynomials of the Second Kind, <a href="vol13.html">Vol 13</a>
+

@@ -1,0 +1,8 @@
+
+<li> Shkredov, Ilya D. 
+<ul>
+<li> (with Tomasz Schoen) A Remark on  <i>A+B</i> and <i>A-A</i> for Compact Sets in R<sup><i>n</i></sup>, <a href="vol16.html">Vol 16</a>
+<li> On Tripling Constant of Multiplicative Subgroups, <a href="vol16.html">Vol 16</a>
+<li> (with Oliver Roche-Newton and Arne Winterhof) Packing Sets over Finite Abelian Groups, <a href="vol18.html">Vol 18</a>
+<li> (with J. Solymosi) Tilted Corners in Integer Grids, <a href="vol21A.html">Vol 21A</a>
+

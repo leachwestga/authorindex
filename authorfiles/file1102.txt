@@ -1,0 +1,5 @@
+
+<li> Louchard, Guy
+<ul>
+<li> (with Mark Daniel Ward) Asymptotic Analysis of Sums of Powers of Multinomial Coefficients: A Saddle Point Approach, <a href="vol17.html">Vol 17</a>
+

@@ -1,0 +1,6 @@
+
+<li> Paule, Peter
+<ul>
+<li> (with Carsten Schneider) Truncating Binomial Series with Symbolic
+Summation, <a href="vol7.html">Vol 7</a>
+

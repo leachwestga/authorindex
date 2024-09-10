@@ -1,0 +1,5 @@
+
+<li> Chinwarakorn, Sirawich
+<ul>
+<li> (with Yotsanan Meemark) Lerch's Theorems Over Function Fields, <a href="vol10.html">Vol 10</a>
+

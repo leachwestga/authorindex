@@ -1,0 +1,5 @@
+
+<li> Durham, Gabriel
+<ul>
+<li> Representation of Integers by Ternary Quadratic Forms:  A Geometric Approach, <a href="vol16.html">Vol 16</a>
+

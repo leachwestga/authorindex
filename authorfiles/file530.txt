@@ -1,0 +1,5 @@
+
+<li> Emory, Melissa
+<ul>
+<li> The Diophantine Equation <i>X<sup>4</sup>+Y<sup>4</sup>=D<sup>2</sup>Z<sup>4</sup></i> in Quadratic Fields, <a href="vol12.html">Vol 12</a>
+

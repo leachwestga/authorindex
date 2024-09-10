@@ -1,0 +1,5 @@
+
+<li> Gibbs, Philip
+<ul>
+<li> Adjugates of Diophantine Quadruples, <a href="vol10.html">Vol 10</a>
+

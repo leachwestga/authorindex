@@ -1,0 +1,6 @@
+
+<li> Higuita, Robinson A.
+<ul>
+<li> (with Rigoberto Fl&oacute;rez and Leandro Junes) <i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers, <a href="vol14.html">Vol 14</a>
+<li> (with Rigoberto Fl&oacute;rez and Antara Mukherjee) Characterization of the Strong Divisibility Property for Generalized Fibonacci Polynomials, <a href="vol18.html">Vol 18</a>
+

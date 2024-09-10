@@ -1,0 +1,5 @@
+
+<li> Vukusic, Ingrid 
+<ul>
+<li> (with Tobias Hilgart and Volker Ziegler) On a Family of Cubic Thue Equations Involving Fibonacci and Lucas Numbers, <a href="vol22.html">Vol 22</a>
+

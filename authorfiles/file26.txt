@@ -1,0 +1,6 @@
+
+<li> Alaca, &#350;aban
+<ul>
+<li> (with Yavuz Kesicio&#287;lu) Representations by Certain Octonary Quadratic Forms With Coefficients 1, 2, 3, and 6, <a href="vol15.html">Vol 15</a>
+<li> (with  Ay&scedil;e Alaca  and Zafer Selcuk Aygin) Eta Quotients, Eisenstein Series and Elliptic Curves, <a href="vol18.html">Vol 18</a>
+

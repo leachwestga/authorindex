@@ -1,0 +1,5 @@
+
+<li> Hamm, Jessica 
+<ul>
+<li class="fragment"> (with Katie Ansaldi,  Houssein El Turkey, Anisah Nu'Man, Nathan Warnberg,  and Michael Young) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
+

@@ -1,0 +1,6 @@
+
+<li> Balkov&aacute;, L'ubom&iacute;ra
+<ul>
+<li> (with Karel Klouda and Edita Pelantov&aacute;) Critical Exponent of Infinite Words Coding Beta-Integers Associated with Non-Simple Parry Numbers, <a href="vol11b.html">Vol 11B</a>
+<li> Factor Frequencies in Languages Invariant under Symmetries Preserving Factor Frequencies, <a href="vol12.html">Vol 12</a>
+

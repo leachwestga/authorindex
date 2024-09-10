@@ -1,0 +1,22 @@
+
+<li> Lengyel, Tam&aacute;s
+<ul>
+<li> On the Order of Lacunary Sums of Binomial Coefficients,
+<a href="vol3.html">Vol 3</a>
+<li> (with Gregory Tollisen) A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients,  <a href="vol4.html">Vol 4</a>
+<li> An Invariant Sum Related to Record Statistics,
+<a href="vol7.html">Vol 7</a>
+<li> On Divisibility of Some Power Sums,
+<a href="vol7.html">Vol 7</a>
+<li> Alternative Proofs on the <i>2</i>-Adic Order of Stirling Numbers of the Second Kind, <a href="vol10.html">Vol 10</a>
+<li> On Divisibility Properties of Some Differences of the Central Binomial Coefficients and Catalan Numbers, <a href="vol13.html">Vol 13</a>
+<li> On the Least Significant 2-Adic and Ternary Digits of Certain Stirling Numbers, <a href="vol13.html">Vol 13</a>
+<li> On the Least Significant <i>p</i>-adic Digits of Certain Lucas Numbers, <a href="vol14.html">Vol 14</a>
+<li> (with Diego Marques) The 2-adic Order of Some Generalized Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
+<li> Arithmetic Properties of Lacunary Sums of Binomial Coefficients, <a href="vol18.html">Vol 18</a>
+<li> On <i>p</i>-adic Properties of Some Fibonacci and Lucas Numbers, <a href="vol19.html">Vol 19</a>
+<li> A Note on a Subtraction--Transfer Game, <a href="vol20.html">Vol 20</a>
+<li> On Some <i>p</i>-adic Properties and Supercongruences of Delannoy and Schr&ouml;der Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Arnold Adelberg) New Results on the <i>p</i>-Adic Valuation of Stirling Numbers, <a href="vol22.html">Vol 22</a>
+<li> On the <i>2</i>-Adic Valuation of Differences of Harmonic Numbers, <a href="vol24.html">Vol 24</a>
+

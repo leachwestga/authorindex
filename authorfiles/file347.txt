@@ -1,0 +1,5 @@
+
+<li> Clark, Steven P.
+<ul>
+<li> A Note on Finite Sums of Products of Bernstein Basis Polynomials and Hypergeometric Polynomials, <a href="vol18.html">Vol 18</a>
+

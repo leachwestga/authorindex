@@ -1,0 +1,5 @@
+
+<li> Hemmandy, Anand 
+<ul>
+<li> (with Katherine Cordwell, Alyssa Epstein, Steven J. Miller, Eyvindur Palsson, Aaditya Sharma, Stefan Steinerberger, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+

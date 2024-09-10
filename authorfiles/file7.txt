@@ -1,0 +1,6 @@
+
+<li> Adegoke, Kunle
+<ul>
+<li> A Novel Approach to the Discovery of Binary BBP-Type Formulas for Polylogarithm Constants, <a href="vol11.html">Vol 11</a>
+<li> (with Robert Frontczak and Taras Goy) Fibonacci-Catalan Series, <a href="vol22.html">Vol 22</a>
+

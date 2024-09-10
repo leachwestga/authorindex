@@ -1,0 +1,6 @@
+
+<li> Schramm, Wolfgang
+<ul>
+<li> The Fourier Transform of Functions of the Greatest Common Divisor,
+<a href="vol8.html">Vol 8(1)</a>
+

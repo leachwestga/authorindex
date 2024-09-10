@@ -1,0 +1,9 @@
+
+
+<li> Callan, David
+<ul>
+<li> A Combinatorial Proof of Sun's "Curious" Identity, <a href="vol4.html">Vol 4</a>
+<li> (with T. Amdeberhan and V. Moll) Valuations and Combinatorics of Truncated Exponential Sums, <a href="vol13.html">Vol 13</a>
+<li> (with Tewodros Amdeberhan, Hideyuki Ohtsuka, and Roberto Tauraso) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
+<li> (with Toufik Mansour) Inversion Sequences Avoiding Quadruple Length-3 Patterns, <a href="vol23.html">Vol 23</a>
+

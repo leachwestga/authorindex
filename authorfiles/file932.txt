@@ -1,0 +1,5 @@
+
+<li> Klausen, Frederik Ravn 
+<ul>
+<li> (with Sebastian Tim Holdum and Peter Michael Reichstein Rasmussen) Powers in Prime Bases and a Problem on Central Binomial Coefficients, <a href="vol15.html">Vol 15</a>
+

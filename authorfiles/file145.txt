@@ -1,0 +1,5 @@
+
+<li> Bencherif, Farid
+<ul> (with Hac&egrave;ne Belbachir) Linear Recurrent Sequences and Powers
+of a Square Matrix, <a href="vol6.html">Vol 6</a>
+

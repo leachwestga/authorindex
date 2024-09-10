@@ -1,0 +1,5 @@
+
+<li> te Riele, Herman
+<ul>
+<li> (with Florian Luca) Aliquot Cycles of Repdigits, <a href="vol11.html">Vol 11</a>
+

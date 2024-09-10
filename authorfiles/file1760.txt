@@ -1,0 +1,5 @@
+
+<li> Stender, Matthew 
+<ul>
+<li> (with Mark Budden and Yanbo Zhang) Weakened Ramsey Numbers and Their Hypergraph Analogues, <a href="vol17.html">Vol 17</a>
+

@@ -1,0 +1,8 @@
+
+<li> Milley, Rebecca
+<ul>
+<li> (with Richard J. Nowakowski and Paul Ottaway) The Mis&egrave;re Monoid of One-Handed Alternating Games, <a href="vol12b.html">Vol 12B</a>
+<li> Partizan Kayles and Mis&egrave;re Invertibility, <a href="vol15.html">Vol 15</a>
+<li> (with Aaron Dwyer and Michael Willette) Mis&egrave;re Domineering on <i>2</i> x <i>n</i> Boards, <a href="vol21b.html">Vol 21b</a>
+<li> (with Urban Larsson, Richard Nowakowski, Gabriel Renault, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+

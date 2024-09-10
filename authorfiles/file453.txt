@@ -1,0 +1,5 @@
+
+<li> Diomidov, Yevhenii 
+<ul>
+<li> (with Erik D. Demaine) Strings-and-Coins and Nimstring are PSPACE-complete, <a href="vol21b.html">Vol 21b</a>
+

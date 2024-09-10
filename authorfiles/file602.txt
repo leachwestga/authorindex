@@ -1,0 +1,5 @@
+
+<li> Fried, Katalin
+<ul>
+<li> (with Katalin Gyarmati) On Multiplicative Bases of Finite Sets, <a href="vol20.html">Vol 20</a>
+

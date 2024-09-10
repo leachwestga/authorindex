@@ -1,0 +1,10 @@
+
+<li> Budden, Mark
+<ul>
+<li> (with Nicole Calkins, William Nathan Hack, Joshua Lambert, and Kimberly Thompson) Enumeration of Triangles in Quartic Residue Graphs, <a href="vol11.html">Vol 11</a>
+<li> (with Matthew Stender and Yanbo Zhang) Weakened Ramsey Numbers and Their Hypergraph Analogues, <a href="vol17.html">Vol 17</a>
+<li> (with Josh Hiller and Andrew Penland) Constructive Methods in Gallai-Ramsey Theory for Hypergraphs, <a href="vol20a.html">Vol 20a</a>
+<li> (with Josh Hiller, Tommy Meek, and Andrew Penland) Algebraic Properties of a Hypergraph Lifting Map, <a href="vol21.html">Vol 21</a>
+<li> The Gallai-Ramsey Number for a Tree Versus Complete Graphs, <a href="vol21A.html">Vol 21A</a>
+<li> (with Justin Clifton) Hypergraph Ramsey Numbers Involving Trees, Stars, and Complete Hypergraphs, <a href="vol22.html">Vol 22</a>
+

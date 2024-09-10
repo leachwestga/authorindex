@@ -1,0 +1,20 @@
+
+<li> Shattuck, Mark
+<ul>
+<li> Parity Theorems for Statistics on Permutations and Catalan Words, <a href="vol5.html">Vol 5(1)</a>
+<li> Combinatorial Proof of Some Moriarty-Type Binomial Coefficient Identities,
+<a href="vol6.html">Vol 6</a> 
+<li> Combinatorial Proofs of Some Simon-Type Binomial Coefficient
+Identities, <a href="vol7.html">Vol 7</a>
+<li> (with Arthur T. Benjamin) Recounting Determinants for a Class
+of Hessenberg Matrices, <a href="vol7.html">Vol 7</a>
+<li> Tiling Proofs of Some Fibonacci-Lucas Relations, <a href="vol8.html">
+Vol 8(1)</a>
+<li> Tiling Proofs of Some Formulas for the Pell Numbers of Odd Index, <a href="vol9.html">Vol 9</a>
+<li> Recounting the Number of Rises, Levels, and Descents in Finite Set Partitions, <a href="vol10.html">Vol 10</a>
+<li> (with Alex Eustis) Combinatorial Proofs of Some Identities for the Fibonacci and Lucas Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Toufik Mansour) A Recurrence Related to the Bell Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Toufik Mansour) Avoiding Type <i>(1,2)</i> or <i>(2,1)</i> Patterns in a Partition of a Set, <a href="vol12.html">Vol 12</a>
+<li> Convolution Identities for Stirling Numbers of the First Kind Via Involution, <a href="vol12.html">Vol 12</a>
+<li> (with Be&aacute;ta B&eacute;nyi and Sithembele Nkonkobe) Unfair Distributions Counted by the Generalized Stirling Numbers, <a href="vol22.html">Vol 22</a>
+

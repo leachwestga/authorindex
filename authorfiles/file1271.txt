@@ -1,0 +1,10 @@
+
+<li> Munagi, Augustine O.
+<ul>
+<li> Computation of <em>q</em>-Partial Fractions, <a href="vol7.html">Vol 7</a>
+<li> Combinatorics of Integer Partitions in Arithmetic Progression, <a href="vol10.html">Vol 10</a>
+<li> Euler-type Identities for Integer Compositions Via Zig-Zag Graphs, <a href="vol12.html">Vol 12</a>
+<li> (with Abdulaziz M. Alanazi and James A. Sellers) An Infinite Family of Congruences for &#x2113;-regular Overpartitions, <a href="vol16.html">Vol 16</a>
+<li> (with Abdulaziz M. Alanazi) On Partition Configurations of Andrews-Deutsch, <a href="vol17.html">Vol 17</a>
+<li> (with Ntendeni A. Takalani) Full <i>K</i>-Complete Partitions, <a href="vol22.html">Vol 22</a>
+

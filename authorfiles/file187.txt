@@ -1,0 +1,5 @@
+
+<li> Boca, Florin P.
+<ul>
+<li> (with Byron Heersink and Paul Spiegelhalter) Gap Distribution of Farey Fractions under Some Divisibility Constraints, <a href="vol13.html">Vol 13</a>
+

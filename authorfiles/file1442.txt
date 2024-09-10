@@ -1,0 +1,5 @@
+
+<li> Plick, Thomas A.
+<ul>
+<li> A New Constraint on Perfect Cuboids, <a href="vol17.html">Vol 17</a>
+

@@ -1,0 +1,5 @@
+
+<li> Rayaguru, Sai Gopal
+<ul>
+<li> (with Gopal Krishna Panda) Balancing and Lucas-balancing Numbers Expressible as Sums of Two Repdigits, <a href="vol21.html">Vol 21</a>
+

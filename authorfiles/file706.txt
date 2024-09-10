@@ -1,0 +1,7 @@
+
+<li> Gurvich, Vladimir
+<ul>
+<li> (with Silvia Heubach, Hhan Bao Ho, and Nikolay Chikin) Slow <i>k</i>-Nim, <a href="vol20.html">Vol 20</a>
+<li> (with Nikolay Chikin, Konstantin Knop, Mike Paterson, and Michael Vyalyi) More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
+<li> (with Endre Boros, Levi Kitrossky, and Kazuhisa Makino) On the Sprague-Grundy Function of Compound Games, <a href="vol23.html">Vol 23</a>
+

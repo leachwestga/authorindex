@@ -1,0 +1,5 @@
+
+<li> Volkert, Klaus 
+<ul>
+<li> (with J&ouml;rn Steuding) A Diophantine Problem Related to a Nim-like Game, <a href="vol19.html">Vol 19</a>
+

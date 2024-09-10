@@ -1,0 +1,5 @@
+
+<li> Palka, Ryszard
+<ul>
+<li> (with Zdzislaw Trukszyn) Finite Sums of the Floor Functions Series, <a href="vol20.html">Vol 20</a>
+

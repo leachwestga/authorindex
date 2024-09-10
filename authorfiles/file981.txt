@@ -1,0 +1,5 @@
+
+<li> Kumar, Manish
+<ul>
+<li> (with Mohan Pandey and Ram Krishna Pandey) A Conjecture of Chu et al. and a New Family of MSTD Sets, <a href="vol24.html">Vol 24</a>
+

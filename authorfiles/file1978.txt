@@ -1,0 +1,6 @@
+
+<li> Weinstein, Madeleine 
+<ul>
+<li> (with Andrew Best, Patrick Dynes, Xixi Edelsbrunner, Brian McDonald, Steven J. Miller, Kimsy Tor, and Caroline Turnage-Butterbaugh) Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals, <a href="vol16.html">Vol 16</a>
+<li> Invariance of the Sprague-Grundy Function for Variants of Wythoff's Game, <a href="vol16.html">Vol 16</a>
+

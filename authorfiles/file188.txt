@@ -1,0 +1,5 @@
+
+<li> Bodor, Bertalan
+<ul>
+<li> (with P&eacute;ter &Aacute;rend&aacute;s, Zolt&aacute;n L. Bl&aacute;zsik, and Csaba Szab&oacute;) On the Complexity and Topology of Scoring Games: of Pirates and Treasure, <a href="vol17.html">Vol 17</a>
+

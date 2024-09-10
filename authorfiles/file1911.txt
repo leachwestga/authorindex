@@ -1,0 +1,6 @@
+
+<li> Villacorta, Jorge Luis Cimadevilla
+<ul>
+<li> An Explicit Evaluation of the Gosper Sum, <a href="vol10.html">Vol 10</a>
+<li> An Approach to <i>q</i>-Series, <a href="vol14.html">Vol 14</a>
+

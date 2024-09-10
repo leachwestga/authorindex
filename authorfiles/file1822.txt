@@ -1,0 +1,10 @@
+
+<li> Tauraso, Roberto
+<ul>
+<li> The Dinner Table Problem:  The Rectangular Case,
+<a href="vol6.html">Vol 6</a>
+<li> Supercongruences for a Truncated Hypergeometric Series, <a href="vol12.html">Vol 12</a>
+<li> (with Khodabakhsh Hessami Pilehrood and Tatiana Hessami Pilehrood) Multiple Harmonic Sums and Multiple Harmonic Star Sums are (Nearly) Never  Integers, <a href="vol17.html">Vol 17</a>
+<li> (with Tewodros Amdeberhan, David Callan, and Hideyuki Ohtsuka) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
+<li> A Supercongruence Involving Cubes of Catalan Numbers, <a href="vol20.html">Vol 20</a>
+

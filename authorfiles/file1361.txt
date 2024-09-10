@@ -1,0 +1,6 @@
+
+<li> Pakovich, F.
+<ul>
+<li> A Remark on the Chebotarev Theorem About Roots of Unity,
+<a href="vol7.html">Vol 7</a>
+

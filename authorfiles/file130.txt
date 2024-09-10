@@ -1,0 +1,6 @@
+
+<li> Bat&#305;r, N. 
+<ul>
+<li> (with Anthony Sofo) On Finite Sums and Integral Representations, <a href="vol13.html">Vol 13</a>
+<li> Combinatorial Identities Involving Harmonic Numbers, <a href="vol20.html">Vol 20</a>
+

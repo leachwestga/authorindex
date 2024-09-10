@@ -1,0 +1,5 @@
+
+<li> Xue, Hui 
+<ul>
+<li> (with Jason Hedetniemi and Kevin James) Champion Primes For Elliptic Curves, <a href="vol14.html">Vol 14</a>
+

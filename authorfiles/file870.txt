@@ -1,0 +1,5 @@
+
+<li> Kapbasov, Ardak
+<ul>
+<li> (with Richard M. Low, Arman Kapbasov, Stephen C. Locke, and W. H. Chan) A Codex of <i>N</i>- and <i>P</i>-positions in Harary's `Caterpillar Game', <a href="vol21.html">Vol 21</a>
+

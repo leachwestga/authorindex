@@ -1,0 +1,7 @@
+
+<li> Urick, Jim
+<ul>
+<li> (with Darren A. Narayan)
+Representations of Split Graphs, Their Complements, Stars, and
+Hypercubes, <a href="vol7.html">Vol 7</a>
+

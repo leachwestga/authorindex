@@ -1,0 +1,5 @@
+
+<li> Goldbring, Isaac 
+<ul>
+<li> (with Mauro Di Nasso, Renling Jin, Steven Leth, Martino Lupini,  and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
+

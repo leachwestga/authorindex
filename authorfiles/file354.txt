@@ -1,0 +1,5 @@
+
+<li> Cochrane, Albert
+<ul>
+<li class=fragment> (with Todd Cochrane and Craig Spencer) Doubling Constant for  Subgroups of \(\mathbb Z_p^*\), <a href="vol23.html">Vol 23</a>
+

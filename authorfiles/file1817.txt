@@ -1,0 +1,7 @@
+
+<li> Tang, Min 
+<ul>
+<li> (with Chi-Wu Tang) Note on a Result of Haddad and Helou, <a href="vol10.html">Vol 10</a>
+<li> (with Zhao-Jun Li) A Remark on a Paper of Luca and Walsh, <a href="vol11.html">Vol 11</a>
+<li> (with Zhi-Jun Zhou) On a Conjecture of De Koninick, <a href="vol18.html">Vol 18</a>
+

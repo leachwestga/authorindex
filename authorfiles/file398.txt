@@ -1,0 +1,5 @@
+
+<li> Darling, R. W. R.
+<ul>
+<li> (with E. E. Pyle) Maximum <i>GCD</i> Among Pairs of Random Integers, <a href="vol11.html">Vol 11</a>
+

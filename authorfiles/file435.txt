@@ -1,0 +1,6 @@
+
+<li> Deng, Yingpu
+<ul>
+<li> (with Yanbin Pan) The Sum of Binomial Coefficients and Integer Factorization, <a href="vol16.html">Vol 16</a>
+<li> (with Zhaonan Wang) Finding Sums of Four Squares via Complex Continued Fractions, <a href="vol24.html">Vol 24</a>
+

@@ -1,0 +1,5 @@
+
+<li> Webster, Jonathan 
+<ul>
+<li> (with Richard Brent,  Carl Pomerance, and David Purdum) Algorithms for the Multiplication Table Problem, <a href="vol21.html">Vol 21</a>
+

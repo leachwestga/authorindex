@@ -1,0 +1,5 @@
+
+<li> Li, Chun
+<ul>
+<li> (with Chuanan Wei and Yi Wei) Some Summation and Transformation Formulas from Inversion Techniques, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,5 @@
+
+<li> Horrocks, Jonathan H. 
+<ul>
+<li> (with David G. C. Horrocks) Sprague-Grundy Values of Modular Nim, <a href="vol19.html">Vol 19</a>
+

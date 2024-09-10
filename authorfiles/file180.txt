@@ -1,0 +1,6 @@
+
+<li> Blanchard, Peter F.
+<ul>
+<li> (with Frank Harary and Rog&eacute;rio Reis)
+Partitions into Sum-free Sets, <a href="vol6.html">Vol 6</a>
+

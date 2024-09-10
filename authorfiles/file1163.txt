@@ -1,0 +1,6 @@
+
+<li> Masubuchi, H. 
+<ul>
+<li> (with Y. Hamahata) Recurrence Formulae for Multi-poly-Bernoulli
+Numbers, <a href="vol7.html">Vol 7</a>
+

@@ -1,0 +1,5 @@
+
+<li> Egge, Eric S.
+<ul>
+<li> (with Toufik Mansour) Restricted Permutations, Fibonacci Numbers, and k-generalized Fibonacci Numbers, <a href="vol5.html">Vol 5(1)</a>
+

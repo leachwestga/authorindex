@@ -1,0 +1,11 @@
+     
+<li> Jungi&#263, Veselin
+<ul>
+<li> (with Rado&#353; Radoi&#269;i&#263;) Rainbow 3-term Arithmetic Progressions, <a href="vol3.html">Vol 3</a>
+<li> (with Jaroslav Nesetril and Rado&#353; Radoi&#269;i&#263;) Rainbow Ramsey Theory, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Jacob Fox and Rado&#353; Radoi&#269;i&#263;)
+Sub-Ramsey Numbers for Arithmetic Progressions and Schur Triples,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Hayri Ardal, Tom Brown,  and Julian Sahasrabudhe) On Abelian and Additive Complexity in Infinite Words, <a href="vol12.html">Vol 12</a>
+<li> (with Tom Brown and Andrew Poelstra) On Double <i>3</i>-Term Arithmetic Progressions, <a href="vol14.html">Vol 14</a>
+

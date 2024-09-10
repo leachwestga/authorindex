@@ -1,0 +1,6 @@
+
+<li> Stewart, Fraser
+<ul>
+<li> The Sequential Join of Combinatorial Games, <a href="vol7.html">Vol 7</a>
+<li> Pirates and Treasure, <a href="vol13.html">Vol 13</a>
+

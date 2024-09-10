@@ -1,0 +1,6 @@
+
+<li> Pakianathan, Jonathan 
+<ul>
+<li> (with Alex Iosevich and Hannah Morgan) On Directions Determined by S
+ubsets of Vector Spaces Over Finite Fields, <a href="vol11.html">Vol 11</a>
+

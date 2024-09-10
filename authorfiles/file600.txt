@@ -1,0 +1,6 @@
+
+<li> Freedman, Allen R.
+<ul>
+<li> (with Tom C. Brown) Sequences on Sets of Four Numbers, <a href="vol16.html">Vol 16</a>
+<li> (with Tom C. Brown) On the Averages of Factors of an Infinite Word on a Finite Set of Integers, <a href="vol20.html">Vol 20</a>
+

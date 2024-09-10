@@ -1,0 +1,9 @@
+
+<li> Pan, Hao
+<ul>
+<li> (with Ping Xu) Note on a Congruence Involving
+Products of Binomial Coefficients, <a href="vol7.html">Vol 7</a>
+<li> (with Song Guo and Zhi-Wei Sun)
+Mixed Sums of Squares
+and Triangular Numbers (II), <a href="vol7.html">Vol 7</a>
+

@@ -1,0 +1,6 @@
+
+<li> Loomis, Paul
+<ul>
+<li> (with Florian Luca) On Totient Abundant Numbers,
+<a hrev="vol8.html">Vol 8(1)</a>
+

@@ -1,0 +1,6 @@
+
+<li> Jana, Subhajit 
+<ul>
+<li> (with Dibyendu De) Image Partition Regularity over the Gaussian Integers, <a href="vol17.html">Vol 17</a>
+<li> (with Sayan Goswami) A Combinatorial Viewpoint on Preserving Notions of Largeness and an Abstract Rado Theorem, <a href="vol21.html">Vol 21</a>
+

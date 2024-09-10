@@ -1,0 +1,7 @@
+ 
+<li> Alexeev, Boris
+<ul>
+<li> (with Jacob Fox and Ron Graham), 
+ On Minimimal Colorings without Monochromatic Solutions to a Linear Equation,
+<a href="vol7-2.html">Vol 7(2)</a>
+

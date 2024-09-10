@@ -1,0 +1,8 @@
+
+<li> Strauss, Dona
+<ul>
+<li> (with Neil Hindman and Amir Maleki) Linear Equations in the Stone-Cech Compactification of N, <a href="vol0.html">Vol 0</a>
+<li> (with Timothy J. Carlson and Neil Hindman) Ramsey Theoretic Consequences of Some New Results About Algebra in the Stone-Cech Compactification, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Neil Hindman) Some New Examples of Infinite Image Partition Regular Matrices, <a href="vol19.html">Vol 19</a>
+<li> (with Neil Hindman) Strongly Image Partition Regular Matrices, <a href="vol21A.html">Vol 21A</a>
+

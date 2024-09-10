@@ -1,0 +1,5 @@
+
+<li> Obando, Rodrigo A.
+<ul>
+<li> (with Eugen J. Ionascu) Cubes  in <i>{0,1,...,n}<sup>3</sup></i>, <a href="vol12a.html">Vol 12A</a>
+

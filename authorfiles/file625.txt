@@ -1,0 +1,7 @@
+
+<li> Gao, Shanzhen 
+<ul>
+<li> (with Paul Yiu and K.R.S Sastry)
+Heron Sequences and Their Modifications,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+

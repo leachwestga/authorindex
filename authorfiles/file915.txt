@@ -1,0 +1,5 @@
+
+<li> Kim, John Y.
+<ul>
+<li> Integer Addition and Hamming Weight, <a href="vol16.html">Vol 16</a>
+

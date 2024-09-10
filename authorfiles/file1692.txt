@@ -1,0 +1,5 @@
+
+<li> S&icirc;nt&#x00103;m&#x00103;rian, Alina
+<ul>
+<li> New Sequences That Converge to a Generalization of Euler's Constant, <a href="vol11.html">Vol 11</a>
+

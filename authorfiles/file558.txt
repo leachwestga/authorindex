@@ -1,0 +1,5 @@
+
+<li> Faure, Henri
+<ul>
+<li> Irregularities of Distribution of Digital (0,1)-sequences in Prime Base, <a href="vol5-3.html">Vol 5(3)</a>
+

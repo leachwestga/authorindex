@@ -1,0 +1,6 @@
+
+<li> Mazumdar, Eshita 
+<ul>
+<li> (with Sukumar Das Adhikari) Modifications of Some Methods in the Study of Zero-Sum Constants, <a href="vol14.html">Vol 14</a>
+<li> (with Sukumar Das Adhikari and B. K. Moriya) Relation Between Two Weighted Zero-sum Constants, <a href="vol16.html">Vol 16</a>
+

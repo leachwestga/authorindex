@@ -1,0 +1,6 @@
+
+<li> Mays, Michael E.
+<ul>
+<li> (with A. Knopfmacher) Graph Compositions I:  Basic Enumeration, <a href="vol1.html">Vol 1</a>
+<li> (with Todd Tichenor) Graph Compositions: Deleting Edges from Complete Graphs, <a href="vol15.html">Vol 15</a>
+

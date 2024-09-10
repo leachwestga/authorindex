@@ -1,0 +1,8 @@
+
+<li> Jin, Renling
+<ul>
+<li> Introduction of Nonstandard Methods for Number Theorists,
+<a href="vol8-2.html">Vol 8(2)</a>
+<li> Detailed Structure for Freiman's <i>3k-3</i> Theorem, <a href="vol15a.html">Vol 15A</a>
+<li> (with Mauro Di Nasso, Isaac Goldbring, Steven Leth, Martino Lupini,  and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
+

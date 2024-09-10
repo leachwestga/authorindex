@@ -1,0 +1,5 @@
+
+<li> K&oacute;rus, P&eacute;ter
+<ul>
+<li> (with Horst Alzer) Harmonic Numbers: Combinatorial Identities and Series Representations, <a href="vol23.html">Vol 23</a>
+

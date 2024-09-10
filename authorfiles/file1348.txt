@@ -1,0 +1,5 @@
+
+<li> O'Sullivan, Cathal
+<ul>
+<li> (with Jonathan P. Sorenson and Aryn Stahl) Algorithms and Bounds on the Sums of Powers of Consecutive Primes, <a href="vol24.html">Vol 24</a>
+

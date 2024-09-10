@@ -1,0 +1,6 @@
+
+<li> Schnabel, Ofir
+<ul>
+<li> On the Reducibility of Exact Covering Systems, <a href="vol15.html">Vol 15</a>
+<li> (with Jamie Simpson) A New Approach to the Fraenkel Conjecture for Low <i>n</i> Values, <a href="vol19.html">Vol 19</a>
+

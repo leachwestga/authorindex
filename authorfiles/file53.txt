@@ -1,0 +1,5 @@
+
+<li> Andersen, A.S.
+<ul>
+<li> A Bijection Between Two Different Classes of Partitions Enumerated by <i>p<sub>&#x3BD;</sub>(n)</i>, <a href="vol21.html">Vol 21</a>
+

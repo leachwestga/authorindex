@@ -1,0 +1,5 @@
+
+<li> K&aacute;rolyi, Gyula
+<ul>
+<li> Balanced Subset Sums in Dense Sets of Integers, <a href="vol9.html">Vol 9</a>
+

@@ -1,0 +1,5 @@
+
+<li> Larsen, Bayley
+<ul>
+<li> (with Hunter Lehmann, Andrew Park, and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
+

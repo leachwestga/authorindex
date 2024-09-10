@@ -1,0 +1,5 @@
+
+<li> G&oacute;mez-Flores, Axel O.
+<ul>
+<li> (with Luis A. Medina, Luisiany Pomales, and Carlos F. Santiago-Calder&oacute;n) Recurrences in Terms of Special Polynomials for Exponential Sums of Elementary Symmetric Polynomials over Finite Fields, <a href="vol23.html">Vol 23</a>
+

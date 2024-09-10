@@ -1,0 +1,8 @@
+
+<li> Williams, H. C.
+<ul>
+<li> (with R. K. Guy) Some Monoapparitic Fourth Order Linear Divisibility Sequences, <a href="vol12a.html">Vol 12A</a>
+<li> (with R. K. Guy) Odd and Even Linear Divisibility Sequences of Order 4, <a href="vol15.html">Vol 15</a>
+<li> (with E. L. Roettger) Lucas-Lehmer Primality Tests for Certain Prime Curios, <a href="vol21.html">Vol 21</a>
+<li> (with E. L. Roettger) Some Primality Conditions for <i>N=2 p<sup>n</sup>-1</i>, <a href="vol22.html">Vol 22</a>
+

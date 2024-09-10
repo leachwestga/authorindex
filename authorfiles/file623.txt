@@ -1,0 +1,5 @@
+
+<li> Gao, Alice L.L.
+<ul>
+<li> (with Sergey Kitaev and Philip B. Zhang) On Pattern Avoiding Indecomposable Permutations, <a href="vol18.html">Vol 18</a>
+

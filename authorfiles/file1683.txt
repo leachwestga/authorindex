@@ -1,0 +1,5 @@
+
+<li> Simonelli, Italo
+<ul>
+<li> (with Lin Jiu and Heng Yue) Loop Decompositions of Random Walks and Nontrivial Identities of Bernoulli and Euler Polynomials, <a href="vol22.html">Vol 22</a>
+

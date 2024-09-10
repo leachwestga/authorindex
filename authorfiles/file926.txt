@@ -1,0 +1,5 @@
+
+<li> Kirschenhofer, Peter
+<ul>
+<li> (with Mario Weitzer) A Number Theoretic Problem on the Distribution of Polynomials With Bounded Roots, <a href="vol15.html">Vol 15</a>
+

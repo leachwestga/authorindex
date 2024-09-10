@@ -1,0 +1,6 @@
+
+<li> Nakamura, Shunsuke
+<ul>
+<li> (with Ryohei Miyadera) Impartial Chocolate Bar Games, <a href="vol15.html">Vol 15</a>
+<li> (with Ryohei Miyadera and Yushi Nakaya) Grundy Numbers of Impartial Chocolate Bar Games, <a href="vol20.html">Vol 20</a>
+

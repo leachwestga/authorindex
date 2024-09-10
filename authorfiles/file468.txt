@@ -1,0 +1,6 @@
+
+<li> Dresden, Greg
+<ul>
+<li> (with Yichen Wang) Sums and Convolutions of <i>k</i>-bonacci and <i>k</i>-Lucas Numbers, <a href="vol21.html">Vol 21</a>
+<li class=fragment> On the Brousseau Sums \(\sum_{i=1}^n i^p F_i\), <a href="vol22.html">Vol 22</a>
+

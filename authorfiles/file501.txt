@@ -1,0 +1,7 @@
+
+<li> Edgar, Tom
+<ul>
+<li> Totienomial Coefficients, <a href="vol14.html">Vol 14</a>
+<li> (with Hailey Olafson and James Van Alstine) Approximating the Fibonacci Sequence, <a href="vol16.html">Vol 16</a>
+<li> On the Number of Hyper <i>m</i>-ary Partitions, <a href="vol18.html">Vol 18</a>
+

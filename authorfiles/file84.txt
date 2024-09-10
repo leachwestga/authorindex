@@ -1,0 +1,7 @@
+
+<li> Axenovich, Maria
+<ul>
+<li> (with Jacob Manske) On Monochromatic Subsets of a Rectangular
+Grid, <a href="vol8.html">Vol 8(1)</a>
+<li> (with John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin, David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+

@@ -1,0 +1,5 @@
+
+<li> Singh, Satyanand 
+<ul>
+<li> (with Sandie Han, Ariane M. Masuda,  and Johann Thiel) Maximal Entries of Elements in Certain Matrix Monoids, <a href="vol20.html">Vol 20</a>
+

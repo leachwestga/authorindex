@@ -1,0 +1,5 @@
+
+<li> Takeda, Wataru
+<ul>
+<li> On Solutions to Erd&#337;s' Last Equation, <a href="vol21.html">Vol 21</a>
+

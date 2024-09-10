@@ -1,0 +1,5 @@
+
+<li> Evans, Tyler J.
+<ul>
+<li> (with Benjamin V. Holt) Deriving Divisibility Theorems with Burnside's Theorem, <a href="vol5.html">Vol 5(1)</a>
+

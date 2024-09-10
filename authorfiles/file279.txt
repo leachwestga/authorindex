@@ -1,0 +1,7 @@
+
+<li> Catarino, Paula Maria Machado Cruz 
+<ul>
+<li> (with A. Borges) A Note on Incomplete Leonardo Numbers, <a href="vol20.html">Vol 20</a>
+<li> (with Milena Carolina dos Santos Mangueira, Renata Passos Machado Vieira, Francisco Regis Vieira Alves,  and Renata Te&oacute;filo de Sousa) Two-Dimensional, Three-Dimensional and <i>n</i>-Dimensional Recurrence Relations of Jacobsthal, <a href="vol22.html">Vol 22</a>
+<li> (with Francisco R. V. Alves and Helena Campos) On Hyper <i>k</i>-Pell, Hyper <i>k</i>-Pell-Lucas and Hyper Modified <i>k</i>-Pell Sequences, <a href="vol22.html">Vol 22</a>
+

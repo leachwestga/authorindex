@@ -1,0 +1,7 @@
+
+<li> Hendrickx, Julien M.
+<ul>
+<li> (with Vincent D. Blondel and Rapha&euml;l M. Jungers)
+Solitaire Clobber as an Optimization Problem on Words,
+<a href="vol8.html">Vol 8(1)</a>
+

@@ -1,0 +1,15 @@
+
+<li> Fraenkel, Aviezri S. 
+<ul>
+<li> New Games Related to Old and New Sequences, <a href="vol4.html">Vol 4</a>
+<li> The Raleigh Game, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Alex Kontorovich) 
+The Sierpi&#324;ski Sieve of Nim-varieties and Binomial Coefficients,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Sa&uacute;l A. Blanco)
+Tromping Games: Tiling With Trominoes, <a href="vol11a.html">Vol 11A</a>
+<li> (with Yuval Tanny) A Class of Wythoff-Like Games, <a href="vol12b.html">Vol 12B</a>
+<li> (with Nhan Bao Ho) When are Translations of <i>P</i>-positions of Wythoff's Game <i>P</i>-positions?, <a href="vol15a.html">Vol 15A</a>
+<li> (with Urban Larsson) Games on Arbitrarily Large Rats and Playability, <a href="vol19.html">Vol 19</a>
+<li> Patrolling the Border of a Striking Conjecture, <a href="vol22.html">Vol 22</a>
+

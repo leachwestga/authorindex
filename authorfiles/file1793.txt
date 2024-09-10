@@ -1,0 +1,11 @@
+
+<li> Sury, B.
+<ul>
+<li> A Finite Ring Polynomial, <a href="vol4.html">Vol 4</a>
+<li> (with J. McLaughlin) Powers of a Matrix and Combinatorial Identities, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Ankit Gupta) Decimal Expansion of 1/p and Subgroup Sums, <a href="vol5.html">Vol 5(1)</a>
+<li> (with J. McLaughlin) Some Observations on Khovanskii's Matrix Methods
+for Extracting  Roots
+of Polynomials, <a href="vol7.html">Vol 7</a>
+<li> An Expression for the Legendre Symbol from a Product-Sum Formula, <a href="vol22.html">Vol 22</a>
+

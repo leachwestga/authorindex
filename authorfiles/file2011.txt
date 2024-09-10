@@ -1,0 +1,6 @@
+ 
+<li> Xu, Ping 
+<ul>
+<li> (with Hao Pan) Note on a Congruence Involving
+Products of Binomial Coefficients, <a href="vol7.html">Vol 7</a>
+

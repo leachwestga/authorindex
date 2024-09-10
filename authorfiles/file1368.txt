@@ -1,0 +1,9 @@
+
+<li> Panario, Daniel
+<ul>
+<li> (with Murat Sahin and Qiang Wang) A Family of Fibonacci-Like Conditional Sequences, <a href="vol13.html">Vol 13</a>
+<li> (with Zhicheng Gao, Conrado Martinez, and Bruce Richmond)
+The <i>r<sup>th</sup></i> Smallest Part Size of a Random Integer Partition,
+<a href="vol14a.html">Vol 14A</a>
+<li> (with Claude Gravel) Evaluating the Generalized Buchstab Function and Revisiting the Variance of the Distribution of the Smallest Components of Combinatorial Objects, <a href="vol24.html">Vol 24</a>
+

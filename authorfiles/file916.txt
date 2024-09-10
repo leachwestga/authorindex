@@ -1,0 +1,5 @@
+
+<li> Kim, Seoyoung
+<ul>
+<li> (with Alexandra Walsh) Elliptic Fermat Numbers and Elliptic Divisibility Sequences, <a href="vol20.html">Vol 20</a>
+

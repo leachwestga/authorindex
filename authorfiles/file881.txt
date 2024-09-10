@@ -1,0 +1,5 @@
+
+<li> Katriel, Jacob
+<ul>
+<li> A Multitude of Expressions for the Stirling Numbers of the First Kind, <a href="vol10.html">Vol 10</a>
+

@@ -1,0 +1,7 @@
+
+<li> Lewis, Ryan H.
+<ul>
+<li> (with Kevin A. Broughan, Marcos J. Gonz&aacute;lez, Florian Luca,
+V. Janitzio Mej&iacute;a Huguet, and Alain Togb&eacute;) There Are No Multiply-Perfect Fibonacci Numbers,
+<a href="vol11a.html">Vol 11A</a>
+
