@@ -434,7 +434,6 @@ WZ Proofs for Lemniscate-like Constant Evaluations;;21;;262
 On Hyper <i>k</i>-Pell, Hyper <i>k</i>-Pell-Lucas and Hyper Modified <i>k</i>-Pell Sequences;;22;;263
 Memorial to Javier Cilleruelo: A Problem List;;18;;264
 On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind;;2;;265
-Corrigendum to Article A1, Volume 2(2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind);;ume 2(2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind), <a href="vol5.html">Vol 5(1);;265
 Note on Sets without Geometric Progressions;;22;;266
 A New Proof of Winquist's Identity;;11;;267
 Values of Weighted Davenport Constants;;21;;268
@@ -713,7 +712,6 @@ Bumby's Technique and a Result of Liouville on a Quadratic Form;;8(2);;436
 A Quaternionic Proof of the Universality of Some Quadratic Forms;;8(2);;436
 A Non-classical Quadratic Form of Hessian Discriminant 4 is Universal Over <i>Q</i>[&radic;<span style="text-decoration: overline">5</span>];;16;;436
 The Adjacency-Pell-Hurwitz Numbers;;18;;437
-Integer Subsets with High Volume and Low Perimeter;;ume and Low Perimeter, <a href="vol12.html">Vol 12;;438
 Maximum Distances in the Four-digit Kaprekar Process;;21;;438
 New Proof of Kemperman's Theorem;;15;;439
 On a Generalization of the Cauchy-Davenport Theorem;;16;;439
@@ -971,7 +969,6 @@ On the Tennis Ball Problem;;11;;596
 On Multiplicative Bases of Finite Sets;;20;;597
 Cofinite Induced Subgraphs of Impartial Combinatorial Games: An Analysis of CIS-Nim;;13;;598
 On Levine's Notorious Hat Puzzle;;21A;;599
-Additive Volume of Sets  Contained in Few Arithmetic Progressions;;ume of Sets  Contained in Few Arithmetic Progressions, <a href="vol19.html">Vol 19;;600
 On Congruences Involving Some Fibonomial Coefficients;;19;;601
 A Jacobi Symbol Criterion Involving <i>k</i>-Fibonacci and <i>k</i>-Lucas numbers and Integer Points on Elliptic Curves;;23;;601
 On the Irrationalityof a Divisor Function Series;;7;;602
@@ -1192,7 +1189,6 @@ New Formulas for the Riemann Zeta Function;;23;;745
 GoNII: Universal Quaternary Quadratic Forms;;12;;746
 GoNI: Primes Represented by Binary Quadratic Forms;;13;;746
 GoNIII: More Universal Quaternary Quadratic Forms;;16;;746
-Ehrhart Polynomials of Integral Simplices With Prime Volumes;;umes, <a href="vol14.html">Vol 14;;747
 Finite Representability of Integers as 2-Sums;;18B;;748
 <i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers;;14;;749
 Characterization of the Strong Divisibility Property for Generalized Fibonacci Polynomials;;18;;749
@@ -1754,7 +1750,6 @@ Schur's Theorem in Integer Lattices;;22;;1089
 Asymptotic Analysis of Sums of Powers of Multinomial Coefficients: A Saddle Point Approach;;17;;1090
 Quadratic Forms and Four Partition Functions Modulo <i>3</i>;;11;;1091
 The General gcd-Product Function;;6;;1092
-<i>Corrigendum</i> to Article A19, Volumer 6 (The General gcd-Product Function);;umer 6 (The General gcd-Product Function), <a href="vol6.html">Vol 6;;1092
 A Congruence for Products of Binomial  Coefficients Modulo a Composite;;7;;1092
 King and Rook Vs. King on a Quarter-Infinite Board;;6;;1093
 Further Analysis on the "King and Rookvs. King on a Quarter-infinite Board" Problem;;7;;1093
@@ -2350,7 +2345,6 @@ Dynamical Zeta Functions;;11b;;1430
 Rates of Convergence for Linear Actions of Cocompact Lattices on the Complex Plane;;11B;;1430
 Recurrences in Terms of Special Polynomials for Exponential Sums of Elementary Symmetric Polynomials over Finite Fields;;23;;1431
 On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind;;2;;1432
-Corrigendum to Article A1, Volume 2 (2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind);;ume 2 (2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind), <a href="vol5.html">Vol 5(1);;1432
 Irreducible Radical Extensions and Euler-function Chains;;7(2);;1432
 On the Range of the Iterated Euler Function;;ume 9 Supplement;;1432
 On Pseudosquares and Pseudopowers;;ume 9 Supplement;;1432
@@ -2636,7 +2630,6 @@ Dirichlet Convolution and the Binet Formula;;23;;1599
 <i>k</i>-Fibonacci Numbers and M&ouml;bius Functions;;22;;1600
 Dirichlet Convolution and the Binet Formula;;23;;1600
 Periodic Multiplicative Algorithms of Selmer Type;;5(1);;1601
-Volume as a Measure of Approximation for the Jacobi-Perron Algorithm;;ume as a Measure of Approximation for the Jacobi-Perron Algorithm, <a href="vol10.html">Vol 10;;1601
 Variations of the Poincar&eacute; Map;;11;;1601
 Brun Meets Selmer;;13;;1601
 On David's <i>2</i>-Dimensional Continued Fraction;;14;;1601
@@ -2656,7 +2649,6 @@ On the Combinatorial Value of Hex Positions;;22;;1608
 On \(abc\) Triples of the Form \((1,c-1,c)\);;23;;1609
 Extending a Recent Result of Santos on Partitions into Odd Parts;;3;;1610
 Arithmetic Properties for Hyper m-ary Partition Functions;;4;;1610
-Corrigendum to Article A4, Volume 3(2003) (Extending A Recent Result of Santos on Partitions into Odd Parts);;ume 3(2003) (Extending A Recent Result of Santos on Partitions into Odd Parts), <a href="vol4.html">Vol 4;;1610
 An Infinite Family of Overpartition Congruences Modulo 12;;5(1);;1610
 Observations on the Parity of the Total Numbers of Parts in Odd-part Partitions;;7;;1610
 Exact Enumeration of Garden of Eden Partitions;;7(2);;1610
@@ -2681,7 +2673,6 @@ Supersaturation in the Boolean Lattice;;14A;;1617
 On a Generalization of a Theorem by Vosper;;0;;1618
 Semigroups with the Erd&#337;s-Tur&aacute;n Property;;7(2);;1618
 Memorial to Javier Cilleruelo: A Problem List;;18;;1618
-Additive Volume of Sets  Contained in Few Arithmetic Progressions;;ume of Sets  Contained in Few Arithmetic Progressions, <a href="vol19.html">Vol 19;;1618
 Hyperharmonic Numbers Can Rarely Be Integers;;18;;1619
 Distance in the Affince Buildings of <i>SL<sub>n</sub></i> and
 <i>Sp<sub>n</sub></i>;;8(1);;1620
@@ -2841,7 +2832,6 @@ A Generalization of the Smarandache Functionto Several Variables;;6;;1708
 Doubling Constant for  Subgroups of \(\mathbb Z_p^*\);;23;;1709
 A Generalization of Schauz and Brink's Restricted-Variable Version of Chevalley's Theorem;;17;;1710
 On the Integrality of Factorial Ratios and Mirror Maps;;20;;1711
-Additive Volume of Sets  Contained in Few Arithmetic Progressions;;ume of Sets  Contained in Few Arithmetic Progressions, <a href="vol19.html">Vol 19;;1712
 Gap Distribution of Farey Fractions under Some Divisibility Constraints;;13;;1713
 Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>);;14;;1713
 A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function;;12;;1714
@@ -3366,7 +3356,6 @@ Some Results for Sums of the Inverses of Binomial Coefficients;;5(1);;2044
 Some Results for Generalized Harmonic Numbers;;9;;2044
 The Monotonicity of Some Sequences Related to Hyperharmonic Numbers;;17;;2044
 A Note on Colored Tornheim's Double Series;;10;;2045
-Witten Volume Formulas for Semi-Simple Lie Algebras;;ume Formulas for Semi-Simple Lie Algebras, <a href="vol11a.html">Vol 11A;;2045
 On  <i>q</i>-Analog of Wolstenholme Type Congruences for Multiple Harmonic Sums;;13;;2045
 Extensions of Sury's Relation Involving Fibonacci <i>k</i>-step and Lucas <i>k</i>-step Polynomials;;23;;2046
 The Structure of a Sequence With Prescribed Zero-sum Subsequences;;20;;2047
@@ -3390,3 +3379,15 @@ Faulhaber's Formula, Odd Bernoulli Numbers, and the Method of Partial Sums;;22;;
 Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\);;23;;2061
 Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions;;22;;2062
 A Characterization of Lattice-ordered Graphs;;7(2);;2089
+Corrigendum to Article A1, Volume 2(2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind);;5(1);;265
+Corrigendum to Article A1, Volume 2(2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind);;5(1);;1432
+Corrigendum to Article A19, Volumer 6 (The General gcd-Product Function);;6;;1092
+Corrigendum to Article A4, Volume 3(2003) (Extending A Recent Result of Santos on Partitions into Odd Parts);;4;;1610
+Integer Subsets with High Volume and Low Perimeter;;12;;438
+Ehrhart Polynomials of Integral Simplices With Prime Volumes,;;14;;747
+Volume as a Measure of Approximation for the Jacobi-Perron Algorithm;;10;;1601
+Witten Volume Formulas for Semi-Simple Lie Algebras;;11A;;2045
+Additive Volume of Sets Contained in Few Arithmetic Progressions;;19;;1618
+Additive Volume of Sets Contained in Few Arithmetic Progressions;;19;;1712
+Additive Volume of Sets Contained in Few Arithmetic Progressions;;19;;600
+
