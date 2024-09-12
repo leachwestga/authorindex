@@ -1,5 +1,6 @@
 
-<li> White, Daniel 
+<li> Weselcouch, Michael
 <ul>
-<li> (with Lenny Jones) Sierpi&#324;ski Numbers in Imaginary Quadratic Fields, <a href="vol12a.html">Vol 12A</a>
+<li> (with Sean Meehan, Akalu Tefera, and Aklilu Zeleke) Proofs of Ruehr's Identities, <a href="vol14.html">Vol 14</a>
+<li> (with Edward E. Allen and  Katherine Riley) Multivariable Lucas Polynomials and Lucanomials, <a href="vol21.html">Vol 21</a>
 

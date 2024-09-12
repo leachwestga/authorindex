@@ -1,5 +1,5 @@
 
-<li> Suh, Hong 
+<li> Suda, Sho 
 <ul>
-<li> (with David Burt, Eli Goldstein, Sarah Manski, Steven J. Miller, and Eyvindur Ari Palsson) Crescent Configurations, <a href="vol16.html">Vol 16</a>
+<li> (with Koji Momihara) Conference Matrices With Maximum Excess and  Two-intersection Sets, <a href="vol17.html">Vol 17</a>
 

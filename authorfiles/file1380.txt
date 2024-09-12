@@ -1,6 +1,5 @@
 
-<li> Parreau, Aline 
+<li> Park, Poo-Sung
 <ul>
-<li> (with Antoine Dailly and Julien Moncel) Connected Subtraction Games on Subdivided Stars, <a href="vol19.html">Vol 19</a>
-<li> (with Eric Duch&ecirc;ne, Marc Heinrich, and Richard Nowakowski) Partizan Subtraction Games, <a href="vol21b.html">Vol 21b</a>
+<li> Multiplicative Functions Which Are Additive on Sums of Two Nonzero Squares, <a href="vol22.html">Vol 22</a>
 

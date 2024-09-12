@@ -1,5 +1,5 @@
 
-<li> Veeranna, Y. 
+<li> Vassilev, Tzvetalin S. 
 <ul>
-<li> (with  M. S. Mahadeva Naika and Harishkumar T) Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs, <a href="vol20.html">Vol 20</a>
+<li> (with Borislav Karaivanov) On Certain Sums Involving the Legendre Symbol, <a href="vol16.html">Vol 16</a>
 

@@ -1,5 +1,5 @@
 
-<li> Pongsriiam, Prapanpong
+<li> Pong, Wai Yan 
 <ul>
-<li> A Remark on Relatively Prime Sets, <a href="vol13.html">Vol 13</a>
+<li> (with Chun Yin Hui) Diophantine Equations of Matching Games I, <a href="vol11.html">Vol 11</a>
 

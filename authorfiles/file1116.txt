@@ -1,5 +1,5 @@
 
-<li> Lupini, Martino 
+<li> Luong, Tran Dihn 
 <ul>
-<li> (with Mauro Di Nasso, Isaac Goldbring, Renling Jin, Steven Leth, and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
+<li> (with Arie Bialostocki) An Analogue of the Erd&#337;s-Ginzburg-Ziv Theorem for Quadratic Symmetric Polynomials, <a href="vol9.html">Vol 9</a>
 

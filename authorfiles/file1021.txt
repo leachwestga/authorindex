@@ -1,6 +1,5 @@
 
-<li> Lee, Jaewoo
+<li> Lee, Ethan S. 
 <ul>
-<li> Infinitely Often Dense Bases for the Integers with a Prescribed Representation Function, <a href="vol10.html">Vol 10</a>
-<li> Algebraic Proof for the Geometric Structure of Sumsets, <a href="vol11a.html">Vol 11A</a>
+<li> (with Forrest J. Francis) Additive Representations of Natural Numbers, <a href="vol22.html">Vol 22</a>
 

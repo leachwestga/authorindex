@@ -1,5 +1,5 @@
 
-<li> J&auml;rleberg, Erik
+<li> Jani, Mahendra 
 <ul>
-<li> (with Jonas Sj&ouml;strand) Pomax Games -- A Family of Integer-valued Partizan Games Played on Posets, <a href="vol16.html">Vol 16</a>
+<li> (with Melkamu Zeleke) On Subsets of Ordered Trees Enumerated by a Subsequence of Fibonacci Numbers, <a href="vol15a.html">Vol 15A</a>
 

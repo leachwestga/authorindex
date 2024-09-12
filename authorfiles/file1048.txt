@@ -1,5 +1,5 @@
 
-<li> Li, Chun
+<li> Li, Bei 
 <ul>
-<li> (with Chuanan Wei and Yi Wei) Some Summation and Transformation Formulas from Inversion Techniques, <a href="vol22.html">Vol 22</a>
+<li> (with Wen An Liu, Haifeng Li, and Yingbin Ma) On Supplements of <i> 2 x m</i>  Board in Toppling Towers, <a href="vol12.html">Vol 12</a>
 

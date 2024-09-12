@@ -1,6 +1,5 @@
 
-<li> Hirschberg, Daniel S.
+<li> Hines, Taylor 
 <ul>
-<li> (with George I. Bell and Pablo Guerrero-Garc&iacute;a)
-The Minimum Size Required of a Solitaire Army, <a href="vol7.html">Vol 7</a>
+<li> (with Dawn Curtis, Glenn Hurlbert, and Tatiana Moyer) On Pebbling Graphs By Their Blocks, <a href="vol9.html">Vol 9</a>
 

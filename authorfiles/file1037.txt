@@ -1,5 +1,5 @@
 
-<li> Lettington, Matthew C.
+<li> Leth, Steven 
 <ul>
-<li> (with Karl Michael Schmidt) Divisor Functions and the Number of Sum Systems, <a href="vol20.html">Vol 20</a>
+<li> (with Mauro Di Nasso, Isaac Goldbring, Renling Jin, Martino Lupini,  and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
 

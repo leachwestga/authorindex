@@ -1,5 +1,8 @@
 
-<li> Nguyen, Hoi H.
+<li> Nguyen, Hieu D.
 <ul>
-<li> On Two-point Configurations in a Random Set, <a href="vol9.html">Vol 9</a>
+<li> Generalized Binomial Expansions and Bernoulli Polynomials, <a href="vol13.html">Vol 13</a>
+<li> A Mixing of Prouhet-Thue-Morse Sequences and Rademacher Functions, <a href="vol15.html">Vol 15</a>
+<li> A New Proof of the Prouhet-Tarry-Escott Problem, <a href="vol16.html">Vol 16</a>
+<li> (with Patrick F. Bray) The Area of the Mandelbrot Set and Zagier's Conjecture, <a href="vol18.html">Vol 18</a>
 

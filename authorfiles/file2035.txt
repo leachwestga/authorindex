@@ -1,5 +1,5 @@
 
-<li> Yildirim, C. Y.
+<li> Yeroshkin, Dmytro 
 <ul>
-<li> (with D. A. Goldston) Higher Correlations of Divisor Sums Related to Primes I:  Triple correlations, <a href="vol3.html">Vol 3</a>
+<li> (with Joe Buhler, Chris Freiling, Ron Graham, Jonathan Kariv, James R. Roche, Mark Tiefenbruck, and Clint Van Alten) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
 

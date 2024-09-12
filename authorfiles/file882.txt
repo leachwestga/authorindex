@@ -1,5 +1,5 @@
 
-<li> Katsipis, Nikos
+<li> Katriel, Jacob
 <ul>
-<li> Diophantine Equations Coming From Binomial Near-collisions, <a href="vol20.html">Vol 20</a>
+<li> A Multitude of Expressions for the Stirling Numbers of the First Kind, <a href="vol10.html">Vol 10</a>
 

@@ -1,24 +1,6 @@
 
-<li> Prodinger, Helmut
+<li> Pritikin, Dan 
 <ul>
-<li> On Binary Representations of Integers with Digits -1, 0, 1, <a href="vol0.html">Vol 0</a>
-<li> (with Alois Panholzer) Kirkman's Hypothesis Revisited, <a href="vol1.html">Vol 1</a>
-<li> (with Alois Panholzer) A Generating Functions Proof of a Curious Identity, <a href="vol2.html">Vol 2</a>
-<li> Two q-identities from the Theory of Fountains and Histograms Proved with a Tri-Diagonal Determinant, <a href="vol5.html">Vol 5(1)</a>
-<li> (with Peter J. Grabner and Clemens Heuberger) Counting Optimal Joint Digit Expansions, <a href="vol5-3.html">Vol 5(3)</a>
-<li> Human Proofs of Identities by Osburn and Schneider,
-<a href="vol8.html">Vol 8(1)</a>
-<li> (with Markus Kuba and and Carsten Schneider) Generalized
-Reciprocity Laws for Sums of Harmonic Numbers, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Alois Panholzer) A Short Proof of a Series Evaluation in Terms of Harmonic Numbers, <a href="vol9.html">Vol 9</a>
-<li> (with Markus Kuba) A Note on Stirling Series, <a href="vol10.html">Vol 10</a>
-<li> The Intrinsic Periodic Behaviour of Sequences Related to a Rational Integral, <a href="vol11.html">Vol 11</a>
-<li> (with Horst Alzer) On Combinatorial Identities of Engbers and Stocker, <a href="vol17.html">Vol 17</a>
-<li> Ternary  Smirnov Words and Generating Functions, <a href="vol18.html">Vol 18</a>
-<li> (with Ivica Martinjak) Complementary Families of the Fibonacci-Lucas Relations, <a href="vol19.html">Vol 19</a>
-<li> (with Horst Alzer) Identities and Inequalities for Sums Involving Binomial Coefficients, <a href="vol20.html">Vol 20</a>
-<li> Sums of Powers Over Equally Spaced Fibonacci Numbers, <a href="vol20.html">Vol 20</a>
-<li> On Third-order Pell Polynomials, <a href="vol21.html">Vol 21</a>
-<li> Partial Sums of Horadam Sequences: Sum-free Representations via Generating Functions, <a href="vol22.html">Vol 22</a>
-<li> Partial Dyck paths with Air Pockets, <a href="vol22.html">Vol 22</a>
+<li> (with Reza Akhtar and Anthony B. Evans) Representation Numbers of Stars, <a hre
+f="vol10.html">Vol 10</a>
 

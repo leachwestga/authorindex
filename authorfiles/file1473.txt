@@ -1,5 +1,5 @@
 
-<li> Qian, Jianguo 
+<li> Qi, Wei-Wei
 <ul>
-<li> (with Wei Wang, Xiaoping Li, Xiang-Gen Xia, and Wenjie Wang) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
+<li> Some Variations of <i>q</i>-Analogues of Sun and Tauraso's Congruence, <a href="vol23.html">Vol 23</a>
 

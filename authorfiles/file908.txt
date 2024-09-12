@@ -1,5 +1,5 @@
 
-<li> Kifer, Curtis
+<li> Khoshnam, Foad
 <ul>
-<li> (with Matthias Beck) An Extreme Family of Generalized Frobenius Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Dustin Moody) High rank Elliptic Curves with Torsion Z/4Z Induced by  Kihara's Elliptic Curves, <a href="vol16.html">Vol 16</a>
 

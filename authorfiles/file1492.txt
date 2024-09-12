@@ -1,5 +1,5 @@
 
-<li> Rankin, Stuart A.
+<li> Randrianantenaina, Jean Lucien
 <ul>
-<li> Fine-Wilf Graphs and the Generalized Fine-Wilf Theorem, <a href="vol13.html">Vol 13</a>
+<li class=fragment> (with Florian Luca) There Is No Carmichael Number of the Form \(2^n p^2+1\) With \(p\) Prime, <a href="vol23.html">Vol 23</a>
 

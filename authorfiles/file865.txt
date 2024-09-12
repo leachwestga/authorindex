@@ -1,5 +1,6 @@
 
-<li> Kang, Jeong-Hyun
+<li> Kaneko, Hajime
 <ul>
-<li> (with Hiren Maharaj) Distance Graphs From <i>p</i>-Adic Norms, <a href="vol10.html">Vol 10</a>
+<li> On Normal Numbers and Powers of Algebraic Numbers, <a href="vol10.html">Vol 10</a>
+<li> (with Thomas Stoll) On Subwords in the Base-<i>q</i> Expansion of Polynomial and Exponential Functions, <a href="vol18a.html">Vol 18A</a>
 

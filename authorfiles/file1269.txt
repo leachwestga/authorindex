@@ -1,6 +1,5 @@
 
-<li> Mullen, Todd
+<li> Mukherjee, Sajal Kumar
 <ul>
-<li> (with Richard Nowakowski) The Self-Referential Impartial Game Minnie, <a href="vol20.html">Vol 20</a>
-<li> (with Richard J. Nowakowski and Danielle Cox) Diffusion and Polyominoes, <a href="vol22.html">Vol 22</a>
+<li> (with A. K. Bhuniya) A Combinatorial Proof of an Ordered-partition Expansion of Determinants Given by Insko, Johnson and Sullivan, <a href="vol19.html">Vol 19</a>
 

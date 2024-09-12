@@ -1,6 +1,5 @@
 
-<li> Stamp, Mark
+<li> Stahl, Aryn
 <ul>
-<li> (with Richard M. Low) King and Rook Vs. King on a
-Quarter-Infinite Board, <a href="vol6.html">Vol 6</a>
+<li> (with Cathal O’Sullivan and Jonathan P. Sorenson) Algorithms and Bounds on the Sums of Powers of Consecutive Primes, <a href="vol24.html">Vol 24</a>
 

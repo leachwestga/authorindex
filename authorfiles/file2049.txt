@@ -1,5 +1,8 @@
 
-<li> Zaleski, Anthony
+<li> Zaharescu, Alexandru
 <ul>
-<li> Explicit Expressions for the Moments of the Size of an <i>(n,dn-1)</i>-core Partition With Distinct Parts, <a href="vol19.html">Vol 19</a>
+<li> (with Cristian Cobeli and Adrian Iordache) The Relative Size of Consecutive Odd Denominators in Farey Series, <a href="vol3.html">Vol 3</a>
+<li> (with A. H. Ledoan) Square-Full Divisors of Square-Full Integers, <a href="vol10.html">Vol 10</a>
+<li> (with Andrew Ledoan and Paul Spiegelhalter) Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>), <a href="vol14.html">Vol 14</a>
+<li> (with Andrew Ledoan) A Divisibility Obstruction for Certain Walks on Gaussian Integers, <a href="vol14.html">Vol 14</a>
 

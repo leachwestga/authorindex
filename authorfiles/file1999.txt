@@ -1,7 +1,5 @@
 
-<li> Woltman, George
+<li> Wolird, Christian 
 <ul>
-<li> (with Louis Helm, Phil Moore, and Payam Samidoost)
-Resolution of the Mixed Sierpi&#324;ski Problem,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Thomas Grubb) Cyclotomic Points and Algebraic Properties of Polygon Diagonals, <a href="vol21.html">Vol 21</a>
 

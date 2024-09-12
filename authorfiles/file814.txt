@@ -1,5 +1,5 @@
 
-<li> Isnaini, Uha
+<li> Ismailescu, Dan
 <ul>
-<li> (with Pee Choon Toh) On Some Congruences for Andrews' Singular Overpartitions, <a href="vol18.html">Vol 18</a>
+<li> (with Peter C. Shim) On Numbers That Cannot be Expressed as a Plus-Minus Weighted Sum of a Fibonacci Number and a Prime, <a href="vol14.html">Vol 14</a>
 

@@ -1,8 +1,6 @@
 
-<li> Ye, Dongxi
+<li> Yayenie, Omer
 <ul>
-<li> (with Shaun Cooper and  Heung Yeung Lam)
-Representations of Squares by Certain Septenary Quadratic Forms,
-<a href="vol13.html">Vol 13</a>
-<li> Representations of Squares by Certain Ternary Quadratic Forms, <a href="vol14.html">Vol 14</a>
+<li> (with Marcia Edson) A New Generalization of Fibonacci Sequence and Extended Binet's Formula, <a href="vol9.html">Vol 9</a>
+<li> (with Marcia Edson and Scott Lewis) The <i>k</i>-Periodic Fibonacci Sequence and an Extended Binet's Formula, <a href="vol11.html">Vol 11</a>
 

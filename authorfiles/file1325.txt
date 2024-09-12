@@ -1,5 +1,5 @@
 
-<li> Nu'Man, Anisah 
+<li> Nuida, Koji
 <ul>
-<li class="fragment"> (with Katie Ansaldi, Houssein El Turkey, Jessica Hamm,  Nathan Warnberg,  and Michael Young) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
+<li> Pattern Occurrence in the Dyadic Expansion of Square Root of Two and an Analysis of Pseudorandom Number Generators, <a href="vol10.html">Vol 10</a>
 

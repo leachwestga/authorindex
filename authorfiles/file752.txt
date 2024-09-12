@@ -1,7 +1,5 @@
 
-<li> Hicks, Jacob 
+<li> Hiary, Ghaith
 <ul>
-<li> (with Pete L. Clark, Katherine Thompson, and Nathan Walters) GoNII: Universal Quaternary Quadratic Forms, <a href="vol12.html">Vol 12</a>
-<li> (with Pete L. Clark, Hans Parshall, and Katherine Thompson) GoNI: Primes Represented by Binary Quadratic Forms, <a href="vol13.html">Vol 13</a>
-<li> (with Katherine Thompson) GoNIII: More Universal Quaternary Quadratic Forms, <a href="vol16.html">Vol 16</a>
+<li> (with Aditya Akula) New Formulas for the Riemann Zeta Function, <a href="vol23.html">Vol 23</a>
 

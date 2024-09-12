@@ -1,5 +1,8 @@
 
-<li> Song, Kyunghwan
+<li> Sondow, Jonathan 
 <ul>
-<li> The Frobenius Problem for Extended Thabit Numerical Semigroups, <a href="vol21.html">Vol 21</a>
+<li> (with Geoffrey Caveney and Jean-Louis Nicolas) Robin's Theorem, Primes, and a New Elementary Reformulation of the Riemann Hypothesis, <a href="vol11.html">Vol 11</a>
+<li> (with Kieren MacMillan) Reducing the Erd&#337;s-Moser Equation <i>1<sup>n</sup> + 2<sup>n</sup> + ... + k<sup>n</sup> = (k+1)<sup>n</sup></i> Modulo <i>k</i> and <i>k<sup>2</sup></i>, <a href="vol11.html">Vol 11</a>
+<li> (with Bernd C. Kellner) The Denominators of Power Sums of Arithmetic Progressions, <a href="vol18.html">Vol 18</a>
+<li> (with Bernd C. Kellner) On Carmichael and Polygonal Numbers, Bernoulli Polynomials, and Sums of Base-<i>p</i> Digits, <a href="vol21.html">Vol 21</a>
 

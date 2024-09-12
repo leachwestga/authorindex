@@ -1,5 +1,5 @@
 
-<li> Selinger, Peter
+<li> Selfridge, John 
 <ul>
-<li> On the Combinatorial Value of Hex Positions, <a href="vol22.html">Vol 22</a>
+<li> (with Aaron Meyerowitz) The 392 Problem, <a href="vol12a.html">Vol 12A</a>
 

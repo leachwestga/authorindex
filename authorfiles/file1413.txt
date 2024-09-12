@@ -1,5 +1,8 @@
 
-<li> Peterson, Carsten 
+<li> Petersen, T. Kyle
 <ul>
-<li> (with Steven J. Miller, Carsten Sprunger, and Roger Van Peski) The Bidirectional Ballot Polytope, <a href="vol18.html">Vol 18</a>
+<li> (with Sergey Kitaev and Tyrrell B. McAllister )
+Enumerating Segmented Patterns in Compositions and Encoding by Restricted Permut
+ations, <a href="vol6.html">Vol 6</a>
+<li> (with Bridget Eileen Tenner) How to Write a Permutation as a Product of Involutions (and Why You Might Care), <a href="vol13.html">Vol 13</a>
 

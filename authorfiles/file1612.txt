@@ -1,6 +1,8 @@
 
-<li> Schneider, Robert
+<li> Schneider, Carsten
 <ul>
-<li> (with Andrew V. Sills) The Product of Parts or "Norm" of a Partition, <a href="vol20a.html">Vol 20a</a>
-<li> (with Andrew V. Sills) Combinatorial Formulas for Arithmetic Density, <a href="vol22.html">Vol 22</a>
+<li> (with Peter Paule) Truncating Binomial Series with Symbolic
+Summation, <a href="vol7.html">Vol 7</a>
+<li> (with Markus Kuba and Helmut Prodinger) Generalized
+Reciprocity Laws for Sums of Harmonic Numbers, <a href="vol8.html">Vol 8(1)</a>
 

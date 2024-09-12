@@ -1,5 +1,5 @@
 
-<li> Kuhapatanakul, Kantaphon
+<li> Kubelka, Richard P.
 <ul>
-<li> (with Lalitphat Sukruan) The Generalized Tribonacci Numbers with Negative Subscripts, <a href="vol14.html">Vol 14</a>
+<li> Decomposition of Pascal's Kernels Mod ps, <a href="vol2.html">Vol 2</a>
 

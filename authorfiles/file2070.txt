@@ -1,5 +1,5 @@
 
-<li> Zhang, Zhongfeng
+<li> Zhang, Zhizheng
 <ul>
-<li> (with Pingzhi Yuan) A Note on a Conjecture of Erd&#337;s, Graham, and Spencer, <a href="vol13.html">Vol 13</a>
+<li> (with Jun Wang) A Common Generalization of Some Identities, <a href="vol5.html">Vol 5(1)</a>
 

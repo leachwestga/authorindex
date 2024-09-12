@@ -1,6 +1,5 @@
 
-<li> Kahrobaei, Delaram
+<li> Kahkeshani, Reza
 <ul>
-<li> (with Bilal Khan and Kiran R. Bhutani) A Graphic
-Generalization of Arithmetic, <a href="vol7.html">Vol 7</a>
+<li> (with Meysam Arab) A Generalized Binet Formula That Counts the Tilings of a <i>(2</i> x <i> n)</i>-board, <a href="vol18.html">Vol 18</a>
 

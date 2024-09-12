@@ -1,5 +1,5 @@
 
-<li> Kr&uuml;ger, Oliver
+<li> Kruczek, Klay
 <ul>
-<li> Note on Odd/Odd Vertex Removal Games on Bipartite Graphs, <a href="vol14.html">Vol 14</a>
+<li> (with Eric Sundberg) A Maker--Breaker Game on the Boolean Hypercube With Subcubes as Winning Sets, <a href="vol18.html">Vol 18</a>
 

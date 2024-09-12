@@ -1,6 +1,5 @@
 
-<li> Lao, Huixue 
+<li> Lanning, Charles 
 <ul>
-<li> (with Linli Wei) The Mean Value of a Hybrid Arithmetic Function Associated to Fourier Coefficieints of Cusp Forms, <a href="vol19.html">Vol 19</a>
-<li> (with Aiyue Zou and Linli Wei) Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions, <a href="vol22.html">Vol 22</a>
+<li> (with Daniel Gray and Hua Wang) Pattern Containment in Circular Permutations, <a href="vol18b.html">Vol 18B</a>
 

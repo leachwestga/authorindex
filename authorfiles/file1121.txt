@@ -1,5 +1,5 @@
 
-<li> Ma, Xin-Rong 
+<li> Ma, Shilin
 <ul>
-<li> (with Leetsch C. Hsu) Some Combinatorial Series and Reciprocal Relations Involving Multifold Convolutions, <a href="vol14.html">Vol 14</a>
+<li> (with Kevin J. McGown, Devon Rhodes, and Mathias Wanner) On the Number of Primes for Which a Polynomial is Eisenstein, <a href="vol18.html">Vol 18</a>
 

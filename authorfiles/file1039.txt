@@ -1,5 +1,5 @@
 
-<li> Leung, Wing Hong
+<li> Leung, Ho-Hon
 <ul>
-<li> On the Weakly Prime-Additive Numbers with Length 4, <a href="vol24.html">Vol 24</a>
+<li> (with Elif Tan) On Leonardo <i>p</i>-Numbers, <a href="vol23.html">Vol 23</a>
 

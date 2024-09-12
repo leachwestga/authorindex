@@ -1,5 +1,5 @@
 
-<li> Jacob, Jobby 
+<li> Ito, Shunji
 <ul>
-<li> (with Neil J. Calkin, Julia Davis, Michelle Delcourt, Zebediah Engberg, and Kevin James) Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach, <a href="vol13.html">Vol 13</a>
+<li> (with Taizo Sadahiro) Beta-Expansions With Negative Bases, <a href="vol9.html">Vol 9</a>
 

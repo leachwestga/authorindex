@@ -1,6 +1,5 @@
-
-<li> Smati, A. 
+ 
+<li> Small, Ben 
 <ul>
-<li> (with S. Nyandwi) Distribution Laws of Pairs of Divisors, <a href="vol13.html">Vol 13</a>
-<li> (with S. Nyandwi) Distribution Laws of Friable Divisors, <a href="vol20.html">Vol 20</a>
+<li> (with Leanne Robertson) On Newman's Conjecture and Prime Trees, <a href="vol9.html">Vol 9</a>
 

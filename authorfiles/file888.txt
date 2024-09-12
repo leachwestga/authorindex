@@ -1,5 +1,5 @@
 
-<li> Keane, Michael
+<li> Kazda, Alexandr
 <ul>
-<li> Understanding Ergodicity, <a href="vol11b.html">Vol 11b</a>
+<li> Convergence in M&ouml;bius Number Systems, <a href="vol9.html">Vol 9</a>
 

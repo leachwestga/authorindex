@@ -1,5 +1,5 @@
 
-<li> Nicolae, Florin 
+<li> Nicholson, John W. 
 <ul>
-<li> (with Florian Luca) <i>&phi;(F<sub>n</sub>)=F<sub>m</sub></i>, <a href="vol9.html">Vol 9</a>
+<li> (with Anitha Srinivasan) An Improved Upper Bound for Ramanujan Primes, <a href="vol15.html">Vol 15</a>
 

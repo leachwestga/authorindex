@@ -1,5 +1,5 @@
 
-<li> Hu, Yining
+<li> Hsu, Leetsch C.
 <ul>
-<li> Implicit Function Theorem for Formal Power Series, <a href="vol18a.html">Vol 18A</a>
+<li> (with Xin-Rong Ma) Some Combinatorial Series and Reciprocal Relations Involving Multifold Convolutions, <a href="vol14.html">Vol 14</a>
 

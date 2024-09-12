@@ -15,11 +15,14 @@ a {text-decoration:none;}
 <center>
 <img src="smallbanner.gif">
 <p>
+<b><font size=+1>Author Index</font></b>
 </center>
 <pre>
 
 </pre>
+<font size=-1>
 <ul>
+<p><font size=+1><b>A</b></font>
 <li> Abbasi, Sarmad
 <ul>
 <li> (with Numan Sheikh) Some Hardness Results for Question/Answer Games,
@@ -452,6 +455,7 @@ XXXX
 <ul>
 <li> (with Todd Cochrane and Sanying Shi) Modular Hyperbolas and the Congruence <i>ax<sub>1</sub>x<sub>2</sub>&hellip;x<sub>k</sub> + bx<sub>k+1</sub>x<sub>k+2</sub>&hellip;x<sub>2k</sub> &equiv; c</i> mod <i>m</i>, <a href="vol18.html">Vol 18</a>
 XXXX
+<p><font size=+1><b>B</b></font>
 <li> Bachman, Gennady
 <ul>
 <li> On Ternary Inclusion-Exclusion Polynomials, <a href="vol10.html">Vol 10</a>
@@ -1246,6 +1250,7 @@ XXXX
 <ul>
 <li> Inclusion-Exclusion Polynomials with Large Coefficients, <a href="vol13.html">Vol 13</a>
 XXXX
+<p><font size=+1><b>C</b></font>
 <li> Caballero, Jos&eacute; Manuel Rodr&iacute;guez
 <ul>
 <li> On a Set of Fixed Points Related to Both Fermat and Mersenne Primes, <a href="vol18.html">Vol 18</a>
@@ -1913,6 +1918,7 @@ XXXX
 <ul>
 <li> (with Yuan Li and Pantelimon St&#259;nic&#259;) On a Combinatorial Conjecture, <a href="vol11.html">Vol 11</a>
 XXXX
+<p><font size=+1><b>D</b></font>
 <li> D., Ranganatha 
 <ul>
 <li> (with Ranganatha D.) A Simple Proof of a Conjecture of Dou on (3,7)-Regular Bipartitions Modulo 3, <a href="vol17.html">Vol 17</a>
@@ -2437,6 +2443,7 @@ XXXX
 <ul>
 <li> (with Kurt Herzinger) A Further Investigation of Positions in Sylver Coinage for Which Four Has Been Chosen, <a href="vol23.html">Vol 23</a>
 XXXX
+<p><font size=+1><b>E</b></font>
 <li> Ebrahimi-Fard, Kurusch
 <ul>
 <li> (with Li Guo) Multiple Zeta Values and Rota-Baxter Algebras,
@@ -2679,6 +2686,7 @@ XXXX
 Power of a Prime, <a href="vol8.html">Vol 8(1)</a>
 <li> Subprime Factorization and the Numbers of Binomial Coefficients Exactly Divided by Powers of a Prime, <a href="vol11.html">Vol 11</a>
 XXXX
+<p><font size=+1><b>F</b></font>
 <li> Fallon, Kean
 <ul>
 <li class=fragment> (with Ethan Manhart, Joe Miller, Hunter Rehm, Nathan Warnberg, and Laura Zinnel) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
@@ -2995,6 +3003,7 @@ XXXX
 <ul>
 <li> (with Ryohei Miyadera and  Maakito Inoue) Impartial Chocolate Bar Games with a Pass, <a href="vol16.html">Vol 16</a>
 XXXX
+<p><font size=+1><b>G</b></font>
 <li> Gaebler, David
 <ul>
 <li> (with Arthur T. Benjamin and Robert Gaebler) A Combinatorial Approach to Hyperharmonic Numbers, <a href="vol3.html">Vol 3</a>
@@ -3447,6 +3456,7 @@ XXXX
 <ul>
 <li> (with Katalin Fried) On Multiplicative Bases of Finite Sets, <a href="vol20.html">Vol 20</a>
 XXXX
+<p><font size=+1><b>H</b></font>
 <li> Hadj-Brahim, S. 
 <ul>
 <li> (with H. Belbachir) Some Explicit Formulas for Euler-Genocchi Polynomials, <a href="vol19.html">Vol 19</a>
@@ -3548,7 +3558,7 @@ XXXX
 <li> Hedge, Shruti
 <ul>
 <li> (with Sukumar Das Adhikari, Md Ibrahim Molla, and Subha Sarkar) Inverse Problems Related to Some Weighted Zero-sum Constants for Cyclic Groups, <a href="vol22.html">Vol 22</a>
-</ul
+XXXX
 <li> Hegarty, Peter 
 <ul>
 <li> (with Urban Larsson) Permutations of the Natural Numbers
@@ -3891,6 +3901,7 @@ XXXX
 <ul>
 <li> (with Marina Skyers) On the Increases of the Sequence <sub>&#8970;</sub> <i>k&#8730;n</i> <sub>&#8971;</sub>, <a href="vol15.html">Vol 15</a>
 XXXX
+<p><font size=+1><b>I</b></font>
 <li> Iannucci, Douglas E.
 <ul>
 <li> (with Alexia S. Mintos) On Consecutive Integer Pairs with the Same Sum of Distinct Prime Divisors, <a href="vol5.html">Vol 5(1)</a>
@@ -3968,6 +3979,7 @@ XXXX
 <ul>
 <li> (with Taizo Sadahiro) Beta-Expansions With Negative Bases, <a href="vol9.html">Vol 9</a>
 XXXX
+<p><font size=+1><b>J</b></font>
 <li> Jacob, Jobby 
 <ul>
 <li> (with Neil J. Calkin, Julia Davis, Michelle Delcourt, Zebediah Engberg, and Kevin James) Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach, <a href="vol13.html">Vol 13</a>
@@ -4157,6 +4169,7 @@ XXXX
 <li> (with Shiv Datt Kumar and Dustin Moody) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>
 <li> (with Dustin Moody) On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>, <a href="vol21.html">Vol 21</a>
 XXXX
+<p><font size=+1><b>K</b></font>
 <li> Kadiri, Habiba
 <ul>
 <li> (with Allysa Lumley) Short Effective Intervals Containing Primes, <a href="vol14.html">Vol 14</a>
@@ -4810,6 +4823,7 @@ XXXX
 <ul>
 <li> On Representations of the Riemann Zeta Function, Its Square and of the Positive Integers, <a href="vol21.html">Vol 21</a>
 XXXX
+<p><font size=+1><b>L</b></font>
 <li> &#321;aba, Izabella
 <ul>
 <li> (with A. Iosevich) K-distance Sets, Falconer Conjecture, and Discrete Analogs, <a href="vol5-2.html">Vol 5(2)</a>
@@ -5446,6 +5460,7 @@ XXXX
 <li> (with Anant Godbole, Chang Mou Lim, and Nicholas George Triantafillou) Sharp Threshold Asymptotics for the Emergence of Additive Bases, <a href="vol13.html">Vol 13</a>
 <li> (with Anant Godbole, Samuel Gutekunst, and Yan Zhuang) Logarithmic Representability of Integers as <i>k</i>-Sums, <a href="vol15a.html">Vol 15A</a>
 XXXX
+<p><font size=+1><b>M</b></font>
 <li> Ma, Lin
 <ul>
 <li> (with Qing-Lin Lu) Congruences for Hyper <i>M</i>-ary Overpartitioin Functions, <a href="vol10.html">Vol 10</a>
@@ -6244,6 +6259,7 @@ XXXX
 <ul>
 <li> (with Joseph Parrish) Some Nonlinear Rado Numbers, <a href="vol18b.html">Vol 18B</a>
 XXXX
+<p><font size=+1><b>N</b></font>
 <li> Nadeau, Philippe
 <ul>
 <li> (with Fr&eacute;d&eacute;ric Jouhet) Long Fully Commutative Elements in Affine Coxeter Groups, <a href="vol15.html">Vol 15</a>
@@ -6494,6 +6510,7 @@ XXXX
 <li> (with A. Smati) Distribution Laws of Pairs of Divisors, <a href="vol13.html">Vol 13</a>
 <li> (with A. Smati) Distribution Laws of Friable Divisors, <a href="vol20.html">Vol 20</a>
 XXXX
+<p><font size=+1><b>O</b></font>
 <li> Obando, Rodrigo A.
 <ul>
 <li> (with Eugen J. Ionascu) Cubes  in <i>{0,1,...,n}<sup>3</sup></i>, <a href="vol12a.html">Vol 12A</a>
@@ -6636,6 +6653,7 @@ XXXX
 <ul>
 <li> (with Hua Wang and Demet Yalman) Note on Leech-type Questions of Trees, <a href="vol16.html">Vol 16</a>
 XXXX
+<p><font size=+1><b>P</b></font>
 <li> P., Akhilesh
 <ul>
 <li> (with O. Ramar&eacute;) Tail Of A Moebius Sum With Coprimality Conditions, <a href="vol18.html">Vol 18</a>
@@ -7216,6 +7234,7 @@ XXXX
 <ul>
 <li> (with R. W. R. Darling) Maximum <i>GCD</i> Among Pairs of Random Integers, <a href="vol11.html">Vol 11</a>
 XXXX
+<p><font size=+1><b>Q</b></font>
 <li> Qi, Feng
 <ul>
 <li> (with Xiao-Ting Shi and Bai-Ni Guo) Two Explicit Formulas of the Schr&ouml;der Numbers, <a href="vol16.html">Vol 16</a>
@@ -7239,6 +7258,7 @@ XXXX
 <li> (with H. W. Gould) Bell Numbers and Variant Sequences Derived from a General Functional Differential Equation, <a href="vol9.html">Vol 9</a>
 <li> (with Harris Kwong) A Combinatorial Interpretation of the Catalan and Bell Number Difference Tables, <a href="vol13.html">Vol 13</a>
 XXXX
+<p><font size=+1><b>R</b></font>
 <li> Radder, Jeanne
 <ul>
 <li> (with Neil Calkin, Nate Drake, Kevin James, Shirley Law, Philip Lee, and David Penniston)
@@ -7664,6 +7684,7 @@ XXXX
 <ul>
 <li> (with Ali Boussayoud, Serkan Araci, and Mohamed Kerada) A New Class of Ordinary Generating Functions for Binary Products of Mersenne Numbers and Gaussian Numbers with Parameters (p) and (q), <a href="vol23.html">Vol 23</a>
 XXXX
+<p><font size=+1><b>S</b></font>
 <li> Sabo, Dusty 
 <ul>
 <li> (with Daniel Schaal and Jacent Tokaz) Disjunctive Rado Numbers for
@@ -8861,6 +8882,7 @@ XXXX
 <li> (with Volker Ziegler) <i>S</i>-Diophantine Quadruples with Two Primes Congruent to <i>3</i> Modulo <i>4</i>, <a href="vol13.html">Vol 13</a>
 <li> (with Takao Komatsu) <i>q</i>-multiparameter-Bernoulli Polynomials and <i>q</i>-multiparameter-Cauchy Polynomials by Jackson's Integrals, <a href="vol16.html">Vol 16</a>
 XXXX
+<p><font size=+1><b>T</b></font>
 <li> T, Harishkumar 
 <ul>
 <li> (with M. S. Mahadeva Naika and Y. Veeranna) Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs, <a href="vol20.html">Vol 20</a>
@@ -9275,6 +9297,7 @@ XXXX
 <ul>
 <li> (with Andrew Best, Patrick Dynes, Xixi Edelsbrunner, Brian McDonald, Steven J. Miller, Kimsy Tor, and Madeleine Weinstein) Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals, <a href="vol16.html">Vol 16</a>
 XXXX
+<p><font size=+1><b>U</b></font>
 <li> Ueckerdt, Torsten
 <ul>
 <li> (with Steven Chaplick, Piotr Micek, and Veit Wiechert) A Note on Concurrent Graph Sharing Games, <a href="vol16.html">Vol 16</a>
@@ -9311,6 +9334,7 @@ XXXX
 <ul>
 <li> Elliptic Curves over Finite Fields and Ramanujan Graphs on Two Vertices, <a href="vol24.html">Vol 24</a>
 XXXX
+<p><font size=+1><b>V</b></font>
 <li> Van Alstine, James 
 <ul>
 <li> (with Tom Edgar and Hailey Olafson) Approximating the Fibonacci Sequence, <a href="vol16.html">Vol 16</a>
@@ -9477,6 +9501,7 @@ XXXX
 <ul>
 <li> (with Sean Bibby and Joshua Zelinsky) On the Third Largest Prime Divisor of an Odd Perfect Number, <a href="vol21.html">Vol 21</a>
 XXXX
+<p><font size=+1><b>W</b></font>
 <li> Wage, Nicholas
 <ul>
 <li> Character Sums and Ramsey Properties of Generalized Paley Graphs,
@@ -9850,6 +9875,7 @@ XXXX
 <ul>
 <li> Sums of Products of Binomial Coefficients Mod 2 and Run Length Transforms of Sequences, <a href="vol22.html">Vol 22</a>
 XXXX
+<p><font size=+1><b>X</b></font>
 <li> Xia, Xiang-Gen 
 <ul>
 <li> (with Wei Wang, Xiaoping Li,  Wenjie Wang, and Jianguo Qian) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
@@ -9868,6 +9894,7 @@ XXXX
 <ul>
 <li> (with Jason Hedetniemi and Kevin James) Champion Primes For Elliptic Curves, <a href="vol14.html">Vol 14</a>
 XXXX
+<p><font size=+1><b>Y</b></font>
 <li> Yalman, Demet 
 <ul>
 <li> (with Mustafa Ozen and Hua Wang) Note on Leech-type Questions of Trees, <a href="vol16.html">Vol 16</a>
@@ -10032,6 +10059,7 @@ XXXX
 <ul>
 <li> (with Lin Jiu and Italo Simonelli) Loop Decompositions of Random Walks and Nontrivial Identities of Bernoulli and Euler Polynomials, <a href="vol22.html">Vol 22</a>
 XXXX
+<p><font size=+1><b>Z</b></font>
 <li> Zaharescu, Alexandru
 <ul>
 <li> (with Cristian Cobeli and Adrian Iordache) The Relative Size of Consecutive Odd Denominators in Farey Series, <a href="vol3.html">Vol 3</a>
@@ -10234,6 +10262,7 @@ XXXX
 <li> (with Huixue Lao and Linli Wei) Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions, <a href="vol22.html">Vol 22</a>
 XXXX
 XXXX
+</font>
 <p>
 <hr>
 <p>

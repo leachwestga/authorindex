@@ -1,7 +1,9 @@
 
-<li> Szalay, L&aacute;szl&oacute; 
+<li> Szab&oacute;, S&aacute;ndor
 <ul>
-<li> (with Florian Luca) Lucas Diophantine Triples, <a href="vol9.html">Vol 9</a>
-<li> (with Volker Ziegler) <i>S</i>-Diophantine Quadruples with Two Primes Congruent to <i>3</i> Modulo <i>4</i>, <a href="vol13.html">Vol 13</a>
-<li> (with Takao Komatsu) <i>q</i>-multiparameter-Bernoulli Polynomials and <i>q</i>-multiparameter-Cauchy Polynomials by Jackson's Integrals, <a href="vol16.html">Vol 16</a>
+<li> Some Fourth Degree Diophantine Equations in Gaussian Integers, <a href="vol4.html">Vol 4</a>
+<li> Factorizations and Paige's Theorem on Complete Maps,
+<a href="vol6.html">Vol 6</a>
+<li> (with Kereszt&eacute;ly Corr&aacute;di) Factorization Results with Combinatorial Proofs, <a href="vol9.html">Vol 9</a>
+<li> An Elementary Computer Assisted Unique Factorization Test, <a href="vol21.html">Vol 21</a>
 

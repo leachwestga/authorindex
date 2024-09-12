@@ -1,6 +1,5 @@
 
-<li> Weiner, Michael D. 
+<li> Wei, Yi 
 <ul>
-<li> (with Daniel Birmajer and Juan B. Gil) On Hensel's Roots and a Factorization Formula in <b>Z[[x]]</b>, <a href="vol14.html">Vol 14</a>
-<li> (with Daniel Birmajer and  Juan B. Gil) Linear Recurrence Sequences With Indices in Arithmetic Progression and Their Sums, <a href="vol16.html">Vol 16</a>
+<li> (with Chuanan Wei and Chun Li) Some Summation and Transformation Formulas from Inversion Techniques, <a href="vol22.html">Vol 22</a>
 

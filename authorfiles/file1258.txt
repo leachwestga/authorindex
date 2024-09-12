@@ -1,5 +1,5 @@
 
-<li> Mori, Katsuya
+<li> Morgenbesser, Johannes F.
 <ul>
-<li> On a Certain Inverse Problem for Carousel Numbers, <a href="vol20.html">Vol 20</a>
+<li> (with Lukas Spiegelhofer) A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function, <a href="vol12.html">Vol 12</a>
 

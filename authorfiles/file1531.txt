@@ -1,5 +1,9 @@
 
-<li> Riley, Katherine 
+<li> Rigo, Michel
 <ul>
-<li> (with Edward E. Allen and Michael Weselcouch) Multivariable Lucas Polynomials and Lucanomials, <a href="vol21.html">Vol 21</a>
+<li> (with &Eacute;milie Charlier and Wolfgang Steiner)
+Abstract Numeration Systems on Bounded Languages
+and Multiplication by a Constant, <a href="vol8.html">Vol 8(1)</a>
+<li> (with &Eacute;milie Charlier, Narad Rampersad, and Laurent Waxweiler) The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System, <a href="vol11b.html">Vol 11b</a>
+<li> (with Julien Leroy and Manon Stipulanti) Counting Subword Occurrences in Base-<i>b</i> Expansions, <a href="vol18a.html">Vol 18A</a>
 

@@ -1,5 +1,5 @@
 
-<li> Kallus, Margaret G. 
+<li> Kalle, Charlene 
 <ul>
-<li> (with Elliot R. Emadian and Carrie E. Finch-Smith) Ruth-Aaron Pairs Containing Riesel or Sierpi&nacute;ski Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Karma Dajani) Transformations Generating Negative &beta;-Expansions, <a href="vol11b.html">Vol 11b</a>
 

@@ -1,5 +1,5 @@
 
-<li> Ma&ccaron;aj, Martin 
+<li> Maaouia, Mohamed Ben Fraj Ben 
 <ul>
-<li> (with Slobodan Filipovski) On a Conjecture of Victor Guo, <a href="vol20.html">Vol 20</a>
+<li> (with Bilizimb&eacute;y&eacute; Edjeou and Amadou Tall) On Pillai's  Problem  with Lucas Numbers and Powers of 3, <a href="vol21.html">Vol 21</a>
 

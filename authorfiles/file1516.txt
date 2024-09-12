@@ -1,8 +1,5 @@
 
-<li> Rhoades, Robert C 
+<li> Rho, Yoomi 
 <ul>
-<li> (with Morgan V. Brown, Neil J. Calkin, Kevin James, Adam J. King,
-and Shannon Lockard)
-Trivial Selmer Groups and Even Partitions of a Graph,
-<a href="vol6.html">Vol 6</a>
+<li> (with Byeong Moon Kim) Van der Waerden's Theorem on Homothetic Copies of <i>{1,1+s, 1+s+t}</i>, <a href="vol12.html">Vol 12</a>
 

@@ -1,5 +1,5 @@
 
-<li> Mei, Shu-Yuan
+<li> Mehdizadeh, Marzieh
 <ul>
-<li> The Sum of Digits of Polynomial Values, <a href="vol15.html">Vol 15</a>
+<li> Erd&#337;s-Kac Theorem for Smooth and Ultra-smooth Integers, <a href="vol20.html">Vol 20</a>
 

@@ -1,5 +1,5 @@
 
-<li> K&aacute;rolyi, Gyula
+<li> Kariv, Jonathan 
 <ul>
-<li> Balanced Subset Sums in Dense Sets of Integers, <a href="vol9.html">Vol 9</a>
+<li> (with Joe Buhler, Chris Freiling, Ron Graham,  James R. Roche, Mark Tiefenbruck, Clint Van Alten, and Dmytro Yeroshkin) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
 

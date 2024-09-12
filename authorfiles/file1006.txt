@@ -1,5 +1,5 @@
 
-<li> Langlois, Bruno
+<li> Langeveld, Niels
 <ul>
-<li> Les Endomorphismes de Q<sub>+</sub><sup>*</sup> pour l'Addition des Cancres, <a href="vol18.html">Vol 18</a>
+<li> (with Karma Dajani) Alternating <i>N</i>-Expansions, <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,7 @@
 
-<li> Thornton, DJ 
+<li> Thorne, Frank
 <ul>
-<li> (with Paul Jenkins) Weakly Holomorphic Modular Forms in Prime Power Levels of Genus Zero, <a href="vol18.html">Vol 18</a>
+<li> Maier Matrices Beyond <b><i>Z</i></b>,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> Four Perspectives on Secondary Terms in the Davenport-Heilbronn Theorems, <a href="vol12b.html">Vol 12B</a>
 

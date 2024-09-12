@@ -1,5 +1,5 @@
 
-<li> Mayle, Jacob 
+<li> Mayers, Nicholas W.
 <ul>
-<li> (with Sarah Manski and Nathaniel Zbacnik) The Asymptotic Distribution of a Hybrid Arithmetic Function, <a href="vol15.html">Vol 15</a>
+<li> Periodicity and the Index of Integer Partitions, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,7 @@
 
-<li> Wang, Yichen 
+<li> Wang, Xiaoyuan
 <ul>
-<li> (with Greg Dresden) Sums and Convolutions of <i>k</i>-bonacci and <i>k</i>-Lucas Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Wenchang Chu) Multiple Convolution Formulae on Classical
+Combinatorial Numbers, <a href="vol7.html">Vol 7</a>
+<li> (with Wenchang Chu) Binomial Series Identities Involving Generalized Harmonic Numbers, <a href="vol20.html">Vol 20</a>
 

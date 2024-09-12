@@ -1,5 +1,5 @@
 
-<li> Kaplan, Nathan
+<li> Kaplan, Gil
 <ul>
-<li> Flat Cyclotomic Polynomials of Order Four and Higher, <a href="vol10.html">Vol 10</a>
+<li> (with Dan Levy) GCD of Truncated Rows in Pascal's Triangle, <a href="vol4.html">Vol 4</a>
 

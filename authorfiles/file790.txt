@@ -1,10 +1,5 @@
 
-<li> Huggan, Melissa
+<li> Hua, Ting 
 <ul>
-<li> (with Brett Stevens) Polynomial Time Graph Families for Arc Kayles, <a href="vol16.html">Vol 16</a>
-<li> (with Richard J. Nowakowski) Thinning Thickets, <a href="vol18.html">Vol 18</a>
-<li> (with Anthony Bonato and Richard J. Nowakowski) The Game of Flipping Coins, <a href="vol21b.html">Vol 21b</a>
-<li> (with Alda Carvalho, Richard J. Nowakowski, and Carlos Pereira dos Santos) A Note on Numbers, <a href="vol21b.html">Vol 21b</a>
-<li> (with Alda Carvalho, Richard J. Nowakowski, and Carlos Pereira dos Santos) Ordinal Sums, Clockwise Hackenbush, and Domino Shave, <a href="vol21b.html">Vol 21b</a>
-<li> (with Craig Tennenhouse) Genetically Modified Games, <a href="vol21b.html">Vol 21b</a>
+<li> (with Shishuo Fu) On the Slack Euler Pair for Vector Partition, <a href="vol18.html">Vol 18</a>
 

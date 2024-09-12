@@ -1,5 +1,5 @@
 
-<li> Zhou, Weiyi
+<li> Zhao, Rosie Y.  
 <ul>
-<li> (with Long Zhu) On <i>K</i>-Imperfect Numbers, <a href="vol9.html">Vol 9</a>
+<li> (with Marcel K. Goh) Arithmetic Subsequences in a Random Ordering of an Additive Set, <a href="vol21.html">Vol 21</a>
 

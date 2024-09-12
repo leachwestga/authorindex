@@ -1,6 +1,5 @@
 
-<li> Nakamura, Shunsuke
+<li> Naimi, Ramin
 <ul>
-<li> (with Ryohei Miyadera) Impartial Chocolate Bar Games, <a href="vol15.html">Vol 15</a>
-<li> (with Ryohei Miyadera and Yushi Nakaya) Grundy Numbers of Impartial Chocolate Bar Games, <a href="vol20.html">Vol 20</a>
+<li> (with Eric Sundberg) A Combinatorial Problem Solved by a Meta-Fibonacci Recurrence Relation, <a href="vol19.html">Vol 19</a>
 

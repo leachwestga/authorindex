@@ -1,6 +1,5 @@
 
-<li> Kay, Bill
+<li> Kawasaki, Naho
 <ul>
-<li> (with Andr&eacute; Alexander Campbell and  Anant Godbole) Contributions to the Theory of de Bruijn Cycle,
-<a href="vol14a.html">Vol 14A</a>
+<li> (with Yasuo Ohno) The Triangle Algorithm for Bernoulli Polynomials, <a href="vol23.html">Vol 23</a>
 

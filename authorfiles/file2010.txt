@@ -1,6 +1,5 @@
 
-<li> Xia, Xingwu
+<li> Xia, Xiang-Gen 
 <ul>
-<li> Two Generalized Constants related to Zero-Sum Problems for
-Two Special Sets, <a href="vol7.html">Vol 7</a>
+<li> (with Wei Wang, Xiaoping Li,  Wenjie Wang, and Jianguo Qian) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
 

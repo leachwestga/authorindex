@@ -1,5 +1,5 @@
 
-<li> Maresch, Gabriel
+<li> Marcovici, Ir&egrave;ne
 <ul>
-<li> Filters and Subgroups Associated with Hartman Measurable Functions, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Thomas Stoll and Pierre-Adrien Tahay) Discrete Correlations of Order 2 of Generalized Golay-Shapiro Sequences:  A Combinatorial Approach, <a href="vol21.html">Vol 21</a>
 

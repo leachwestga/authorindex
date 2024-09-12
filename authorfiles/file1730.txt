@@ -1,5 +1,6 @@
 
-<li> Spencer, Craig
+<li> Specker, Ernst
 <ul>
-<li class=fragment> (with Albert Cochrane and Todd Cochrane) Doubling Constant for  Subgroups of \(\mathbb Z_p^*\), <a href="vol23.html">Vol 23</a>
+<li> (with Norbert Hungerbuhler) A Generalization of the Smarandache Function
+to Several Variables, <a href="vol6.html">Vol 6</a>
 

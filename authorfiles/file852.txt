@@ -1,5 +1,6 @@
 
-<li> Kadiri, Habiba
+<li> Juyal, Abhishek
 <ul>
-<li> (with Allysa Lumley) Short Effective Intervals Containing Primes, <a href="vol14.html">Vol 14</a>
+<li> (with Shiv Datt Kumar and Dustin Moody) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Dustin Moody) On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>, <a href="vol21.html">Vol 21</a>
 

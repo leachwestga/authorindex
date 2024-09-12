@@ -1,5 +1,8 @@
 
-<li> Iordache, Adrian
-<ul>
-<li> (with Cristian Cobeli and Alexandru Zaharescu) The Relative Size of Consecutive Odd Denominators in Farey Series, <a href="vol3.html">Vol 3</a>
+<li> Ionascu, Eugen J.
+<ul> 
+<li> (with Ray Chandler) A Characterization of All Equilateral
+Triangles in <b>Z</b><sup>3</sup>, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Rodrigo A. Obando) Cubes  in <i>{0,1,...,n}<sup>3</sup></i>, <a href="vol12a.html">Vol 12A</a>
+<li> (with Dorin Andrica) The Signum Equation for Erd&#337;s-Sur&aacute;nyi Sequences, <a href="vol15a.html">Vol 15A</a>
 

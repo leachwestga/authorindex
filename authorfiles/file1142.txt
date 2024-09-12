@@ -1,7 +1,5 @@
 
-<li> Manske, Jacob
+<li> Mani, Arun P.
 <ul>
-<li> (with Maria Axenovich) On Monchromatic Subsets of a Rectangular
-Grid, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Jeremy F. Alm) A New Approach to the Results of K&ouml;vari, S&oacute;s, and Tur&aacute;n Concerning Rectangle-Free Subsets of the Grid, <a href="vol12.html">Vol 12</a>
+<li> (with Rebecca J. Stones) Congruences for Weighted Number of Labeled Forests, <a href="vol16.html">Vol 16</a>
 

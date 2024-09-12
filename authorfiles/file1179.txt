@@ -1,7 +1,6 @@
 
-<li> Mazur, Marcin
+<li> Mazumdar, Eshita 
 <ul>
-<li> On Mod p Logarithms log<sub>a</sub> b and lob<sub>b</sub> a,
-<a href="vol6.html">Vol 6</a>
-<li> (with Stephen M. Zemyan) Cyclemaster Matrices and Primality Testing, <a href="vol23.html">Vol 23</a>
+<li> (with Sukumar Das Adhikari) Modifications of Some Methods in the Study of Zero-Sum Constants, <a href="vol14.html">Vol 14</a>
+<li> (with Sukumar Das Adhikari and B. K. Moriya) Relation Between Two Weighted Zero-sum Constants, <a href="vol16.html">Vol 16</a>
 

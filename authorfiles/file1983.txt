@@ -1,5 +1,5 @@
 
-<li> White, Susan Calcote 
+<li> White, Daniel 
 <ul>
-<li> (with Adam Jobson, Levi Sledd, and D. Jacob Wildstrom) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
+<li> (with Lenny Jones) Sierpi&#324;ski Numbers in Imaginary Quadratic Fields, <a href="vol12a.html">Vol 12A</a>
 

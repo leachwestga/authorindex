@@ -1,5 +1,5 @@
 
-<li> Luo, Jiagui
+<li> Matiyasevich, Yuri
 <ul>
-<li> (with Alain Togb&eacute; and Pingzhi Yuan) On Some Equations Related to Ma's Conjecture, <a href="vol11.html">Vol 11</a>
+<li> Computational Rediscovery of Ramanujan's Tau Numbers, <a href="vol18a.html">Vol 18A</a>
 

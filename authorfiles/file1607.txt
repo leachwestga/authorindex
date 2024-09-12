@@ -1,5 +1,5 @@
 
-<li> Schmidt, Matthew
+<li> Schmidt, Karl Michael 
 <ul>
-<li> A Determinant of the Artin-Hasse Exponential Coefficients, <a href="vol22.html">Vol 22</a>
+<li> (with Matthew C. Lettington) Divisor Functions and the Number of Sum Systems, <a href="vol20.html">Vol 20</a>
 

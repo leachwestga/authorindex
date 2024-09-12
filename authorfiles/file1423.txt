@@ -1,5 +1,5 @@
 
-<li> Phillips, Tristan 
+<li> Phillips, Reed
 <ul>
-<li> (with Lenny Jones) Arithmetic Progressions of Polygonal Numbers With Common Difference a Polygonal Number, <a href="vol17.html">Vol 17</a>
+<li> (with A.J. Hildebrand) The Number of Optimal Strategies in the Penney-Ante Game, <a href="vol21.html">Vol 21</a>
 

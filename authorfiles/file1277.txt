@@ -1,6 +1,5 @@
 
-<li> Mutafchiev, Ljuben
-<ul> 
-<li>The Size of the Largest Part of Random Plane
-Partitions of Large Integers, <a href="vol6.html">Vol 6</a>
-
+<li> Muskat, Joseph B. 
+	<ul>
+		<li> (with Greg Doyle, Lerna Pehlivan, and Kenneth S. Williams) Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms, <a href="vol19.html">Vol 19</a>
+	

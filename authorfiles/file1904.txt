@@ -1,5 +1,6 @@
 
-<li> Verbitsky, Oleg
+<li> Vella, David C.
 <ul>
-<li> Symmetric Subsets of Lattice Paths, <a href="vol0.html">Vol 0</a>
+<li> Explicit Formulas for Bernoulli and Euler Numbers, <a href="vol8.html">
+Vol 8(1)</a>
 

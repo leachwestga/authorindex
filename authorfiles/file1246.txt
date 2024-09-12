@@ -1,8 +1,5 @@
 
-<li> Mondal, Santanu
+<li> Moncel, Julien 
 <ul>
-<li> (with Krishnendu Paul and Shameek Paul) Extremal Sequences for a Weighted Zero-Sum Constant, <a href="vol22.html">Vol 22</a>
-<li> (with Krishnendu Paul and Shameek Paul) Extremal Sequences Related to the Jacobi Symbol, <a href="vol23.html">Vol 23</a>
-<li class=fragment> (with Krishnendu Paul and Shameek Paul) Extremal Sequences for the Unit-Weighted Gao Constant of \(\mathbb{Z}_n\), <a href="vol23.html">Vol 23</a>
-<li class=fragment> (with Krishnendu Paul and Shameek Paul) On Unit-Weighted Zero-Sum Constants of \(\mathbb{Z}_n\), <a href="vol24.html">Vol 24</a>
+<li> (with Antoine Dailly and Aline Parreau) Connected Subtraction Games on Subdivided Stars, <a href="vol19.html">Vol 19</a>
 

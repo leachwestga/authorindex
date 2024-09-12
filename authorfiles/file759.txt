@@ -1,15 +1,7 @@
 
-<li> Hindman, Neil
+<li> Hiller, Josh
 <ul>
-<li> (with Amir Maleki and Dona Strauss) Linear Equations in the Stone-Cech Compactification of N, <a href="vol0.html">Vol 0</a>
-<li> (with Tomothy J. Carlson and Dona Strauss) Ramsey Theoretic Consequences of Some New Results About Algebra in the Stone-Cech Compactification, <a href="vol5-2.html">Vol 5(2)</a>
-<li> Partition Regularity of Matrices, <a href="vol7-2.html">Vol 7(2)</a>
-<li> Small Sets Satisfying the Central Sets Theorem,
-<a href="vol9supp.html">Volume 9 Supplement</a>
-<li> Monochromatic Sums Equal to Products in <i>N</i>, <a href="vol11a.html">Vol 11A</a>
-<li> (with John H. Johnson) Images of <i>C</i>-Sets and Related Large Sets under Nonhomogeneous Spectra, <a href="vol12b.html">Vol 12B</a>
-<li> (with David S. Gunderson and Hanno Lefmann) Some Partition Theorems for Infinite and Finite Matrices, <a href="vol14.html">Vol 14</a>
-<li> (with Kendra Pleasant) Preserving Integer Images of Matrices, <a href="vol18b.html">Vol 18B</a>
-<li> (with Dona Strauss) Some New Examples of Infinite Image Partition Regular Matrices, <a href="vol19.html">Vol 19</a>
-<li> (with Dona Strauss) Strongly Image Partition Regular Matrices, <a href="vol21A.html">Vol 21A</a>
+<li> (with Ye&scedil;im Ak&uuml;z&uuml;m and &Ouml;m&uuml;r Deveci) The Adjacency-Pell-Hurwitz Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Mark Budden and Andrew Penland) Constructive Methods in Gallai-Ramsey Theory for Hypergraphs, <a href="vol20a.html">Vol 20a</a>
+<li> (with Mark Budden, Tommy Meek, and Andrew Penland) Algebraic Properties of a Hypergraph Lifting Map, <a href="vol21.html">Vol 21</a>
 

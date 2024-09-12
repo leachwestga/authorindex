@@ -1,6 +1,5 @@
 
-<li> Wei, Chuanan
+<li> Webster, Jonathan 
 <ul>
-<li> (with Dianxuan Gong) Euler's Pentagonal Number Theorem Implies the Jacobi Triple Product Identity, <a href="vol11.html">Vol 11</a>
-<li> (with Yi Wei and Chun Li) Some Summation and Transformation Formulas from Inversion Techniques, <a href="vol22.html">Vol 22</a>
+<li> (with Richard Brent,  Carl Pomerance, and David Purdum) Algorithms for the Multiplication Table Problem, <a href="vol21.html">Vol 21</a>
 

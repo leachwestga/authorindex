@@ -1,6 +1,6 @@
 
-<li> Orosz, Brooke
+<li> Ono, Ken
 <ul>
-<li> (with Melvyn B. Nathanson) Asymptotic Estimates for Phi Functions
-for Subsets of <em>{m+1,m+2,...,n}</em>, <a href="vol7.html">Vol7</a>
+<li> A Mock Theta Function for the Delta-Function,
+<a href="vol9supp.html">Volume 9 Supplement</a>
 

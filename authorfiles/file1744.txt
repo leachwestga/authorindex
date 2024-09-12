@@ -1,5 +1,6 @@
 
-<li> Sriram, S.
+<li> Srinivasan, Anitha
 <ul>
-<li> (with A. David Christopher) Congruences Relating Regular Partition Functions, a Generalized Tau Function and Partition Function Weighted Composition Sums, <a href="vol24.html">Vol 24</a>
+<li> An Upper Bound for Ramanujan Primes, <a href="vol14.html">Vol 14</a>
+<li> (with John W. Nicholson) An Improved Upper Bound for Ramanujan Primes, <a href="vol15.html">Vol 15</a>
 

@@ -1,6 +1,5 @@
 
-<li> Silva, Jorge Nuno
+<li> Silva, Elaine
 <ul>
-<li> (with Carlos Pereira dos Santos) Konane has Infinite Nim-dimension,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with G&eacute;rsica Freitas and Jean Lelis) A Jacobi Symbol Criterion Involving <i>k</i>-Fibonacci and <i>k</i>-Lucas numbers and Integer Points on Elliptic Curves, <a href="vol23.html">Vol 23</a>
 

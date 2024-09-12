@@ -1,5 +1,5 @@
 
-<li> Manhart, Ethan
+<li> Mangueira, Milena Carolina dos Santos
 <ul>
-<li class=fragment> (with Kean Fallon, Joe Miller, Hunter Rehm, Nathan Warnberg, and Laura Zinnel) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
+<li> (with Renata Passos Machado Vieira, Francisco Regis Vieira Alves, Paula Maria Machado Cruz Catarino, and Renata Te&oacute;filo de Sousa) Two-Dimensional, Three-Dimensional and <i>n</i>-Dimensional Recurrence Relations of Jacobsthal, <a href="vol22.html">Vol 22</a>
 

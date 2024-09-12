@@ -1,9 +1,5 @@
 
-<li> Ray, Prasanta Kumar
+<li> Ray, Chiranjit
 <ul>
-<li> Some Congruences for Balancing and Lucas-Balancing Numbers and Their Applications, <a href="vol14.html">Vol 14</a>
-<li> (with Utkal Keshari Dutta) Analytic Continuation of Apostol-Vu Multiple Balancing Zeta Functions, <a href="vol20a.html">Vol 20a</a>
-<li> (with Kisan Bhoi) Fermat Numbers in Narayana's Cows Sequence, <a href="vol22.html">Vol 22</a>
-<li> (with Kisan Bhoi) On the <i>x</i>-Coordinates of Pell Equations Which Are Narayana Numbers, <a href="vol22.html">Vol 22</a>
-<li> (with Kisan Bhoi) Narayana Numbers Which Are Concatenations of Two Base <i>b</i> Repdigits, <a href="vol24.html">Vol 24</a>
+<li> (with Rupam Barman) New Congruences for Overpartitions Into Odd Parts, <a href="vol18.html">Vol 18</a>
 

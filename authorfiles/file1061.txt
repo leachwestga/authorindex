@@ -1,7 +1,5 @@
 
-<li> Li, Yangcheng
+<li> Li, Xiaoping 
 <ul>
-<li> Linear Combinations of Two Polygonal Numbers That Take Infinitely Often a Square Value, <a href="vol20.html">Vol 20</a>
-<li class=fragment> (with Heli Duan) On the Integer Solutions of the Diophantine Equation \((x+y+z)^2=xyw\), <a href="vol23.html">Vol 23</a>
-<li> (with Yong Zhang) Primitive Pythagorean Triangles with Sides of Certain Forms, <a href="vol24.html">Vol 24</a>
+<li> (with Wei Wang, Xiang-Gen Xia, Wenjie Wang, and Jianguo Qian) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
 

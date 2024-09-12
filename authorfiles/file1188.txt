@@ -1,6 +1,5 @@
 
-<li> McDonald, Brian 
+<li> McDonald, Alex
 <ul>
-<li> (with Andrew Best, Patrick Dynes, Xixi Edelsbrunner, Steven J. Miller, Kimsy Tor, Caroline Turnage-Butterbaugh, and Madeleine Weinstein) Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals, <a href="vol16.html">Vol 16</a>
-<li> (with Alex McDonald, Jonathan Passant, and Anurag Sahay) Distinct Distances From Points on a Circle to a Generic Set, <a href="vol21.html">Vol 21</a>
+<li> (with Brian McDonald, Jonathan Passant, and Anurag Sahay) Distinct Distances From Points on a Circle to a Generic Set, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,5 @@
 
-<li> Salvi, Norma Zagaglia
+<li> Salerno, Adriana 
 <ul>
-<li> (with Emanuele Munarini) Circular Binary Strings without ZigZags, <a href="vol3.html">Vol 3</a>
+<li> (with J&uuml;rgen Kritschgau) Origami Constructions of Rings of Integers of Imaginary Quadratic Fields, <a href="vol17.html">Vol 17</a>
 

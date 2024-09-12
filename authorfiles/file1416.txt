@@ -1,5 +1,5 @@
 
-<li> Petricevic, Vinko
+<li> Petrenko, B. V.
 <ul>
-<li> (with Andrej Dujella) Square Roots with Many Good Approximants, <a href="vol5-3.html">Vol 5(3)</a>
+<li> On the Distribution of Distances between the Points of Affine Curves over Finite Fields, <a href="vol5.html">Vol 5(1)</a>
 

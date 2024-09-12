@@ -1,5 +1,5 @@
 
-<li> Top, Jaap
+<li> Tonien, Joseph 
 <ul>
-<li class=fragment> (with Steven R. Groen) A Parametrized Set of Explicit Elements of &#1064;\((E/\mathbb{Q})[3]\), <a href="vol22.html">Vol 22</a>
+<li> (with Martin Bunder) Generalized Fibonacci Numbers and Their <i>2</i>-adic Order, <a href="vol20.html">Vol 20</a>
 

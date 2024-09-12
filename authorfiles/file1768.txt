@@ -1,7 +1,7 @@
 
-<li> Stoll, Thomas
+<li> Stoll, Peter 
 <ul>
-<li> On a Multi-parameter Family of Newman Phenomenon Triples, <a href="vol5-3.html">Vol 5(3)</a>
-<li> (with Hajime Kaneko) On Subwords in the Base-<i>q</i> Expansion of Polynomial and Exponential Functions, <a href="vol18a.html">Vol 18A</a>
-<li> (with Ir&egrave;ne Marcovici and Pierre-Adrien Tahay) Discrete Correlations of Order 2 of Generalized Golay-Shapiro Sequences:  A Combinatorial Approach, <a href="vol21.html">Vol 21</a>
+<li> (with Josefina L&oacute;pez) The <i>3x+1</i> Conjugacy Map Over a Sturmian Word, <a href="vol9.html">Vol 9</a>
+<li> (with Josefina L&oacute;pez) The 2-Adic, Binary and Decimal Periods of <i>1/3<sup>k</sup></i> Approach Full Complexity for Increasing <i>k</i>, <a href="vol12.html">Vol 12</a>
+<li> (with Josefina L&oacute;pez) The Repetends of Reduced Fractions <i>a/b<sup>k</sup></i> Approach Full Complexity with an Increasing <i>k</i>, <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,5 @@
 
-<li> Maroti, Attila
+<li> Marler, Jonathan J. 
 <ul>
-<li> On Elementary Lower Bounds for the Partition Function, <a href="vol3.html">Vol 3</a>
+<li> (with Tanbir Ahmed, Michael G. Eldredge,  and Hunter S. Snevily) Strict Schur Numbers, <a href="vol13.html">Vol 13</a>
 

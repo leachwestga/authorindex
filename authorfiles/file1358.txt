@@ -1,5 +1,5 @@
 
-<li> Pach, P&eacute;ter P&aacute;l
+<li> P., Akhilesh
 <ul>
-<li> Ramsey Type Results on the Solvability of Certain Equation in <i><b>Z<sub>m</sub></b></i>, <a href="vol13.html">Vol 13</a>
+<li> (with O. Ramar&eacute;) Tail Of A Moebius Sum With Coprimality Conditions, <a href="vol18.html">Vol 18</a>
 

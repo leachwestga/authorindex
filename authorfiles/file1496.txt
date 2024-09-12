@@ -1,7 +1,5 @@
 
-<li> Rattanamoong, Jittinart
+<li> Rathie, Arjun K.
 <ul>
-<li> (with Vichian Laohakosol and Tuangrat Chaichana) Generalized Folding Lemmas in the Field of Formal Series and Their Applications, <a href="vol15.html">Vol 15</a>
-<li> (with Takao Komatsu and Vichian Laohakosol) Complex Cantor Series, Cantor Products and Their Independence, <a href="vol19.html">Vol 19</a>
-<li> (with Tuangrat Chaichana) Continued Fractions of Certain Series, <a href="vol19.html">Vol 19</a>
+<li> (with Insuk Kim and Richard B. Paris) A Note on a Generalization of Two Well-Known Combinatorial Identities via a Hypergeometric Series Approach, <a href="vol22.html">Vol 22</a>
 

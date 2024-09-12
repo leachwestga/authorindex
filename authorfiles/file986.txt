@@ -1,5 +1,5 @@
 
-<li> Kurt, Veli
+<li> Kurlberg, P&auml;r
 <ul>
-<li> (with Ayhan Dil) Polynomials Related to Harmonic Numbers and Evaluation of Harmonic Number Series I, <a href="vol12.html">Vol 12</a>
+<li> (with Jeffrey C. Lagarias and Carl Pomerance) On Sets of Integers Which Are Both Sum-Free and Product-Free, <a href="vol12b.html">Vol 12B</a>
 

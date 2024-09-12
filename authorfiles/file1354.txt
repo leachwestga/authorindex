@@ -1,5 +1,5 @@
 
-<li> Owens, C. S. 
+<li> Ovsienko, Valentin 
 <ul>
-<li> (with H. G. Grundman) On Bounds for Two Davenport-type Constants, <a href="vol13.html">Vol 13</a>
+<li> (with Sophie Morier-Genoud) Extremal Set Theory, Cubic Forms on F<sub>2</sub><sup>n</sup> and Hurwitz Square Identities, <a href="vol16.html">Vol 16</a>
 

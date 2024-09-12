@@ -1,5 +1,7 @@
 
-<li> Wahlenmayer, Catherine 
+<li> Wagstaff, S. S., Jr.
 <ul>
-<li> (with Sara Fish, Dylan King, Steven J. Miller, and Eyvindur A. Palsson) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
+<li> The Search for Aurifeuillian-Like Factorizations, <a href="vol12a.html">Vol 12A</a>
+<li> Primary Carmichael Numbers, <a href="vol22.html">Vol 22</a>
+<li> Pseudoprimes and Fermat Numbers, <a href="vol24.html">Vol 24</a>
 

@@ -1,5 +1,7 @@
 
-<li> Lewis, Scott 
+<li> Lewis, Ryan H.
 <ul>
-<li> (with Marcia Edson and Omer Yayenie) The <i>k</i>-Periodic Fibonacci Sequence and an Extended Binet's Formula, <a href="vol11.html">Vol 11</a>
+<li> (with Kevin A. Broughan, Marcos J. Gonz&aacute;lez, Florian Luca,
+V. Janitzio Mej&iacute;a Huguet, and Alain Togb&eacute;) There Are No Multiply-Perfect Fibonacci Numbers,
+<a href="vol11a.html">Vol 11A</a>
 

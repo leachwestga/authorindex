@@ -1,5 +1,5 @@
 
-<li> Lal&iacute;n, Matilde
+<li> Lages, Ant&oacute;nio
 <ul>
-<li> (with Rafael Jakimczuk) Sums of &omega;(<i>N</i>) and &Omega;(<i>N</i>) over the <i>K</i>-Free Parts and <i>K</i>-Full Parts of Some Particular Sequences, <a href="vol22.html">Vol 22</a>
+<li> (with Pedro Lopes) A Proof of Euler's Theorem via Quandles, <a href="vol22.html">Vol 22</a>
 

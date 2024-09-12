@@ -1,7 +1,5 @@
 
-
-<li> Reis, Rog&eacute;rio 
+<li> Reinholz, Lindsey
 <ul>
-<li> (with Peter F. Blanchard and Frank Harary)
-Partitions into Sum-free Sets, <a href="vol6.html">Vol 6</a>
+<li> (with Blair K. Spearman and Qiduan Yang) On Congruent Numbers With Three Prime Factors, <a href="vol11.html">Vol 11</a>
 

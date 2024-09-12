@@ -1,5 +1,5 @@
 
-<li> Kraaikamp, Cor
+<li> K&rcaron;&iacute;&zcaron;ek, Michal
 <ul>
-<li> (with Jaap de Jonge) Gaps in Intervals of <i>N</i>-Expansions, <a href="vol23.html">Vol 23</a>
+<li> (with Lawrence Somer) Period Lengths Modulo <i>n</i> and Average of Terms of Second Order Linear Recurrences, <a href="vol24.html">Vol 24</a>
 

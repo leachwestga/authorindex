@@ -1,5 +1,7 @@
 
-<li> Robinson, Jr., E. Arthur
+<li> Robertson, Leanne
 <ul>
-<li> Sturmian Expansions and Entropy, <a href="vol11b.html">Vol 11b</a>
+<li> (with Ben Small) On Newman's Conjecture and Prime Trees, <a href="vol9.html">Vol 9</a>
+<li> (with Bayley Larsen, Hunter Lehmann, and Andrew Park) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
+<li> (with Elsa Magness and Brian Nugent) Walking to Infinity Along Gaussian Lines, <a href="vol21.html">Vol 21</a>
 

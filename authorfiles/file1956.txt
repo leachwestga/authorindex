@@ -1,5 +1,5 @@
 
-<li> Wang, Yan
+<li> Wang, Wenjie
 <ul>
-<li> (with John P. Georges and David W. Mauro) Relating Fibonacci Numbers to the Infinitudes of Certain Primes, <a href="vol23.html">Vol 23</a>
+<li> (with Wei Wang, Xiaoping Li, Xiang-Gen Xia,  and Jianguo Qian) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
 

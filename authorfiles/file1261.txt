@@ -1,5 +1,6 @@
 
-<li> Morrill, Thomas
+<li> Moriya, B. K.
 <ul>
-<li> (with David John Platt) Robin's Inequality for 20-free Integers, <a href="vol21.html">Vol 21</a>
+<li> On Weighted Zero Sum Subsequences of Short Length, <a href="vol14.html">Vol 14</a>
+<li> (with Sukumar Das Adhikari and Eshita Mazumdar) Relation Between Two Weighted Zero-sum Constants, <a href="vol16.html">Vol 16</a>
 

@@ -1,5 +1,5 @@
 
-<li> Tajbakhsh, H. 
+<li> Tahay, Pierre-Adrien 
 <ul>
-<li> (with A. R. Moghaddamfar) Lucas Numbers and Determinants, <a href="vol11.html">Vol 11</a>
+<li> (with Ir&egrave;ne Marcovici and Thomas Stoll) Discrete Correlations of Order 2 of Generalized Golay-Shapiro Sequences:  A Combinatorial Approach, <a href="vol21.html">Vol 21</a>
 

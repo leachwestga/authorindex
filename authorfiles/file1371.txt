@@ -1,5 +1,5 @@
 
-<li> Pandey, Mohan
+<li> Pandey, Mayank
 <ul>
-<li> (with Manish Kumar and Ram Krishna Pandey) A Conjecture of Chu et al. and a New Family of MSTD Sets, <a href="vol24.html">Vol 24</a>
+<li> On Eisenstein Primes, <a href="vol18.html">Vol 18</a>
 

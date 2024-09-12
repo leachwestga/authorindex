@@ -1,9 +1,5 @@
 
-<li> Zelinsky, Joshua 
+<li> Zeleke, Melkamu
 <ul>
-<li> (with Harry Altman) Numbers With Integer Complexity Close to the Lower Bound, <a href="vol12a.html">Vol 12A</a>
-<li> An Improvement of an Inequality of Ochem and Rao Concerning Odd Perfect Numbers, <a href="vol18.html">Vol 18</a>
-<li> On the Total Number of Prime Factors of an Odd Perfect Number, <a href="vol21.html">Vol 21</a>
-<li> (with Sean Bibby and Pieter Vyncke) On the Third Largest Prime Divisor of an Odd Perfect Number, <a href="vol21.html">Vol 21</a>
-<li> On the Small Prime Factors of a Non-deficient Number, <a href="vol23.html">Vol 23</a>
+<li> (with Mahendra Jani) On Subsets of Ordered Trees Enumerated by a Subsequence of Fibonacci Numbers, <a href="vol15a.html">Vol 15A</a>
 

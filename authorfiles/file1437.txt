@@ -1,5 +1,5 @@
 
-<li> Plambeck, Thane E.
+<li> Plagne, Alain
 <ul>
-<li> Taming the Wild in Impartial Combinatorial Games, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Laurent Habsieger) Ensembles B2[2]:  L'Etau se Resserre, <a href="vol2.html">Vol 2</a>
 

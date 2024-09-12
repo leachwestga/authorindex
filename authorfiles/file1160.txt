@@ -1,5 +1,5 @@
 
-<li> Martinjak, Ivica
+<li> Mart&iacute;nez, Fabio Enrique Brochero
 <ul>
-<li> (with Helmut Prodinger) Complementary Families of the Fibonacci-Lucas Relations, <a href="vol19.html">Vol 19</a>
+<li class=fragment> (with S&aacute;vio Ribas) The \(\{1,s\}\)-Weighted Davenport Constant in \(C_{n}^{k}\), <a href="vol22.html">Vol 22</a>
 

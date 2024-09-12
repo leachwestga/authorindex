@@ -1,9 +1,6 @@
 
-<li> Masuda, Ariane M. 
+<li> Masubuchi, H. 
 <ul>
-<li> (with Sandie Han, Satyanand Singh, and Johann Thiel) Maximal Entries of Elements in Certain Matrix Monoids, <a href="vol20.html">Vol 20</a>
-</ul
-<li> Matiyasevich, Yuri
-<ul>
-<li> Computational Rediscovery of Ramanujan's Tau Numbers, <a href="vol18a.html">Vol 18A</a>
+<li> (with Y. Hamahata) Recurrence Formulae for Multi-poly-Bernoulli
+Numbers, <a href="vol7.html">Vol 7</a>
 

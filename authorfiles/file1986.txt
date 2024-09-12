@@ -1,5 +1,5 @@
 
-<li> Wilf, Herbert S.
+<li> Wildstrom, D. Jacob 
 <ul>
-<li> (with Sylvie Corteel and Carla D. Savage) A Note on Partitions and Compositions Defined by Inequalities, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Adam Jobson, Levi Sledd, and  Susan Calcote White) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
 

@@ -1,6 +1,5 @@
 
-<li> Sheikh, Numan  
+<li> Shelton, Kennan
 <ul>
-<li> (with Sarmad Abbasi) Some Hardness Results for Question/Answer Games,
-<a href="vol7.html">Vol 7</a>
+<li> The Game of Take Turn, <a href="vol7-2.html">Vol 7(2)</a>
 

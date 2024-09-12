@@ -1,5 +1,6 @@
 
-<li> Styer, Robert
+<li> Stumpf, Pascal
 <ul>
-<li> (with Reese Scott) Handling a Large Bound for a Problem on the Generalized Pillai Equation <i>&plusmn; r a<sup>x</sup> &plusmn; s b<sup>y</sup>=c</i>, <a href="vol14.html">Vol 14</a>
+<li> A Short Note on Reduced Residues, <a href="vol17.html">Vol 17</a>
+<li> On the Monotonicity of Additive Representation Functions, <a href="vol20.html">Vol 20</a>
 

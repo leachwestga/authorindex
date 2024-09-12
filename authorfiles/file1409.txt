@@ -1,7 +1,5 @@
 
-<li> Penniston, David
+<li> Penman, David
 <ul>
-<li> (with Neil Calkin, Nate Drake, Kevin James, Shirley Law, Philip Lee, and Jeanne Radder)
-Divisibility Properties of the 5-regular and 13-regular Partition Functions,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Matthew Wells) On Sets with More Restricted Sums than Differences, <a href="vol13.html">Vol 13</a>
 

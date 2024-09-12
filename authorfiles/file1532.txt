@@ -1,5 +1,5 @@
 
-<li> Rinaldi, Simone
+<li> Riley, Katherine 
 <ul>
-<li> (with Luca Ferrari) Enumeration of Generalized Hook Partitions, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Edward E. Allen and Michael Weselcouch) Multivariable Lucas Polynomials and Lucanomials, <a href="vol21.html">Vol 21</a>
 

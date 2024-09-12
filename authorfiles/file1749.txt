@@ -1,5 +1,7 @@
 
-<li> Stanger, Adrian Dan
+<li> Stanchescu, Yonutz V.
 <ul>
-<li> A Modular Identity for the Ramanuajan Identity Modulo 35, <a href="vol2.html">Vol 2</a>
+<li> On the Structure of Sets with Small Doubling
+Property on the Plane (II),
+<a href="vol8-2.html">Vol 8(2)</a>
 

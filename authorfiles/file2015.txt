@@ -1,5 +1,8 @@
 
-<li> Yamagami, Atsushi
+<li> Yamada, Tomohiro
 <ul>
-<li> (with Youichi Inaba) On a Formula and Some Properties of Carmichael Indices, <a href="vol24.html">Vol 24</a>
+<li>Linear Equations Involving Iterates of
+&sigma;(N), <a href="vol9supp.html">Volume 9 Supplement</a>
+<li> Quasiperfect Numbers With the Same Exponent, <a href="vol19.html">Vol 19</a>
+<li> On the Divisibility of Odd Perfect Numbers, Quasiperfect Numbers and Amicable Numbers by a High Power of a Prime, <a href="vol20.html">Vol 20</a>
 

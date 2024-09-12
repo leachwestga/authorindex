@@ -1,5 +1,5 @@
 
-<li> James, Jeffery
+<li> Jakimczuk, Rafael
 <ul>
-<li> (with Mark Schlatter) Some Observations and Solutions to Short and Long Global Nim, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Matilde Lal&iacute;n) Sums of &omega;(<i>N</i>) and &Omega;(<i>N</i>) over the <i>K</i>-Free Parts and <i>K</i>-Full Parts of Some Particular Sequences, <a href="vol22.html">Vol 22</a>
 

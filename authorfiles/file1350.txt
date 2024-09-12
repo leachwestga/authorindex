@@ -1,5 +1,6 @@
 
-<li> Otmani, Yassine
+<li> O'Sullivan, Cormac
 <ul>
-<li> (with Hac&egrave;ne Belbachir) Quadrinomial-Like Versions for Wolstenholme, Morley and Glaisher Congruences, <a href="vol23.html">Vol 23</a>
+<li> Asymptotics for the Partial Fractions of the Restricted Partition Generating Function II, <a href="vol16.html">Vol 16</a>
+<li> A Vertex and Edge Deletion Game on Graphs, <a href="vol18.html">Vol 18</a>
 

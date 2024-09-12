@@ -1,6 +1,5 @@
 
-<li> Prasad, Devendra
+<li> Prakash, Om 
 <ul>
-<li> A Generalization of Selfridge's Question, <a href="vol21.html">Vol 21</a>
-<li> Fixed Divisors of Products of Polynomials, <a href="vol23.html">Vol 23</a>
+<li> (with Anshika Srivastava and Ram Krishna Pandey) On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
 

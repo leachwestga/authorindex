@@ -1,9 +1,5 @@
 
-
-<li> S&aacute;ndor, Csaba
+<li> Sander, T.
 <ul>
-<li> Partitions of Natural Numbers and Their Representative Functions, <a href="vol4.html">Vol 4</a>
-<li> Random <em>B<sub>h</sub></em> Sets and Additive Bases
-in <b>Z</b><sub>n</sub>, <a href="vol7.html">Vol 7</a>
-<li> (with S&aacute;ndor Kiss) On the Structure of Sets Which Have Coinciding Representation Functions, <a href="vol19.html">Vol 19</a>
+<li> (with J.W. Sander) On the Kernel of the Coprime Graph of Integers, <a href="vol9.html">Vol 9</a>
 

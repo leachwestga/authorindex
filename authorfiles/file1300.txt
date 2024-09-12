@@ -1,5 +1,5 @@
 
-<li> Nedev, Zhivko
+<li> Nedela, Roman
 <ul>
-<li> Universal Sets and the Vector Game, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Carl Pomerance) Density of Singular Pairs of Integers, <a href="vol18.html">Vol 18</a>
 

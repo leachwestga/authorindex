@@ -1,6 +1,6 @@
 
-<li> Kim, Byungchan
+<li> Kim, Byeong Moon
 <ul>
-<li> The Overpartition Function Modulo 128,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Yoomi Rho) Van der Waerden's Theorem on Homothetic Copies of <i>{1,1+
+s, 1+s+t}</i>, <a href="vol12.html">Vol 12</a>
 

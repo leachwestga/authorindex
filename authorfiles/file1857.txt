@@ -1,5 +1,5 @@
 
-<li> Tonien, Joseph 
+<li> Tongsomporn, Janyarak
 <ul>
-<li> (with Martin Bunder) Generalized Fibonacci Numbers and Their <i>2</i>-adic Order, <a href="vol20.html">Vol 20</a>
+<li> (with Saeree Wananiyakul and J&ouml;rn Steuding) Sums of Consecutive Prime Squares, <a href="vol22.html">Vol 22</a>
 

@@ -1,7 +1,6 @@
 
-<li> Shapiro, Daniel B.
+<li> Shao, Lily 
 <ul>
-<li> (with S. David Shapiro) Iterated Exponents in Number Theory,
-<a href="vol7.html">Vol 7</a>
-<li> Divisibility Properties for Integer Sequences, <a href="vol23.html">Vol 23</a>
+<li> (with H&#249;ng Vi&#7879;t Chu, Noah Luntzlara, and Steven J. Miller) Infinite Families of Partitions Into MSTD Subsets, <a href="vol19.html">Vol 19</a>
+<li> (with H&#249;ng Vi&#7879;t, Noah Luntzlara, and Steven J. Miller) Generalizations of a Curious Family of MSTD Sets Hidden by Interior Blocks, <a href="vol20a.html">Vol 20a</a>
 

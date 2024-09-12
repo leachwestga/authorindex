@@ -1,5 +1,6 @@
 
-<li> Zhao, Rosie Y.  
+<li> Zhou, Qizhi 
 <ul>
-<li> (with Marcel K. Goh) Arithmetic Subsequences in a Random Ordering of an Additive Set, <a href="vol21.html">Vol 21</a>
+<li> (with Kevin A. Broughan) Odd Repdigits to Small Bases are Not Perfect, <a href="vol12.html">Vol 12</a>
+<li> (with Kevin A. Broughan and Daniel Delbourgo) Improving the Chen and Chen Result for Odd Perfect Numbers, <a href="vol13.html">Vol 13</a>
 

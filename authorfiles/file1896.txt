@@ -1,5 +1,5 @@
 
-<li> Van Peski, Roger 
+<li> Vanlalngaia, Ramdinmawia
 <ul>
-<li> (with Sten J. Miller, Carsten Peterson, and Carsten Sprunger) The Bidirectional Ballot Polytope, <a href="vol18.html">Vol 18</a>
+<li> Explicit Mertens Sums, <a href="vol17.html">Vol 17</a>
 

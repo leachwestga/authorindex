@@ -1,5 +1,5 @@
 
-<li> Sivek, Gary
+<li> Sittinger, Brian D.
 <ul>
-<li> On Vanishing Sums of Distinct Roots of Unity, <a href="vol10.html">Vol 10</a>
+<li> (with Marina C. Morales) The Unit Structure in a Quotient Ring of a Quadratic Number Field, <a href="vol19.html">Vol 19</a>
 

@@ -1,6 +1,5 @@
 
-<li> Rubinstein, Michael O.
+<li> Rozier, Olivier
 <ul>
-<li> The Distribution of Solutions to <i>xy = N </i> (MOD <i>a</i>) with an Application to Factoring Integers, <a href="vol13.html">Vol 13</a>
-<li> The South Caicos Factoring Algorithm, <a href="vol21.html">Vol 21</a>
+<li> Parity Sequences of the <i>3x+1</i> Map on the 2-adic Integers and Euclidean Embedding, <a href="vol19.html">Vol 19</a>
 

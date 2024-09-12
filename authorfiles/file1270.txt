@@ -1,5 +1,6 @@
 
-<li> Muller, Tom
+<li> Mullen, Todd
 <ul>
-<li> A Negative Answer to Two Questions about the Smallest Prime Numbers Having Given Digital Sums, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Richard Nowakowski) The Self-Referential Impartial Game Minnie, <a href="vol20.html">Vol 20</a>
+<li> (with Richard J. Nowakowski and Danielle Cox) Diffusion and Polyominoes, <a href="vol22.html">Vol 22</a>
 

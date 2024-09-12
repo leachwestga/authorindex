@@ -1,5 +1,5 @@
 
-<li> Krylov, Nikolai A.
+<li> Kr&uuml;ger, Oliver
 <ul>
-<li> (with Zhangyuan Li) A Congruence Property of Irreducible Laguerre Polynomials in Two Variables, <a href="vol16.html">Vol 16</a>
+<li> Note on Odd/Odd Vertex Removal Games on Bipartite Graphs, <a href="vol14.html">Vol 14</a>
 

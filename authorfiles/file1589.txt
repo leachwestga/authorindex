@@ -1,5 +1,5 @@
 
-<li> Sarkar, Santanu 
+<li> Santos, Jos&eacute; Pl&iacute;nio O. 
 <ul>
-<li> (with Pantelimon St&#259;nic&#259;, Sourav Sen Gupta, Subhamoy Maitra, and Nirupam Kar) Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
+<li> (with Hemar Godinho) A Family of Partitions Equinumerous With the Set of Nodes of a Family of Trees, <a href="vol20.html">Vol 20</a>
 

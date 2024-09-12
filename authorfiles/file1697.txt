@@ -1,6 +1,5 @@
 
-<li> Sj&ouml;strand, Jonas 
+<li> Sivek, Gary
 <ul>
-<li> (with Erik J&auml;rleberg) Pomax Games -- A Family of Integer-valued Partizan Games Played on Posets, <a href="vol16.html">Vol 16</a>
-<li> (with Kimmo Eriksson and Markus Jonsson) An Exponential Limit Shape of Random <i>q</i>-proportion Bulgarian Solitaire, <a href="vol18.html">Vol 18</a>
+<li> On Vanishing Sums of Distinct Roots of Unity, <a href="vol10.html">Vol 10</a>
 

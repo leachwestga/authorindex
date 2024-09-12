@@ -1,6 +1,5 @@
 
-<li> Wage, Nicholas
+<li> Vyncke, Pieter 
 <ul>
-<li> Character Sums and Ramsey Properties of Generalized Paley Graphs,
-<a href="vol6.html">Vol 6</a>
+<li> (with Sean Bibby and Joshua Zelinsky) On the Third Largest Prime Divisor of an Odd Perfect Number, <a href="vol21.html">Vol 21</a>
 

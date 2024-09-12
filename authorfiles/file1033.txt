@@ -1,5 +1,5 @@
 
-<li> Lepinski, Mathew
+<li> Leonessi, Davide
 <ul>
-<li> (with Sami Assaf, Li-Chung Chen, Tegan Cheslack-Postava, Benjamin Cooper, Alexander Diesl, Thomas Garrity, and Adam Schuyler) A Dual Approach to Triangle Sequences:  A Multidimensional Continued Fraction Algorithm, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Joel David Hamkins) Infinite Hex Is a Draw, <a href="vol23.html">Vol 23</a>
 

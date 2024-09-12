@@ -1,5 +1,6 @@
 
-<li> Prasad, K. V. 
+<li> Prasad, Devendra
 <ul>
-<li> (with M. Prasad) On <i>5</i>-regular Bipartitions Into Distinct Parts, <a href="vol20.html">Vol 20</a>
+<li> A Generalization of Selfridge's Question, <a href="vol21.html">Vol 21</a>
+<li> Fixed Divisors of Products of Polynomials, <a href="vol23.html">Vol 23</a>
 

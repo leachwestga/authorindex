@@ -1,5 +1,5 @@
 
-<li> Zhao, Kevin 
+<li> Zhao, Kanglun
 <ul>
-<li> (with David J. Grynkiewicz and Chunlin Wang) The Structure of a Sequence With Prescribed Zero-sum Subsequences, <a href="vol20.html">Vol 20</a>
+<li> (with Chan-Liang Chung and Jialing Zhao) Extensions of Sury's Relation Involving Fibonacci <i>k</i>-step and Lucas <i>k</i>-step Polynomials, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,8 @@
 
-<li> Siegel, Aaron N.
+<li> Sieben, N&aacute;ndor
 <ul>
-<li> On the Structure of Mis&egrave;re Impartial Games, <a href="vol21b.html">Vol 21b</a>
+<li> Snaky is a 41-dimensional Winner, <a href="vol4.html">Vol 4</a>
+<li> Proof Trees for Weak Achievement Games, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Ian Douglas) Edge Animal Weak <i>(1,2)</i>-Achievement Games, <a href="vol12.html">Vol 12</a>
+<li> (with Bret J. Benesh and Dana C. Ernst) The Spectrum of Nim-Values for Achievement Games for Generating Finite Groups, <a href="vol23.html">Vol 23</a>
 

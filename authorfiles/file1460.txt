@@ -1,5 +1,5 @@
 
-<li> Pratt, Kyle 
+<li> Prasad, M.
 <ul>
-<li> (with Julio C. Andrade, Steven J. Miller,  and Minh-Tam Trinh) Special Sets of Primes in Function Fields, <a href="vol14.html">Vol 14</a>
+<li> (with K. V. Prasad) On <i>5</i>-regular Bipartitions Into Distinct Parts, <a href="vol20.html">Vol 20</a>
 

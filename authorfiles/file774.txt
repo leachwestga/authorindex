@@ -1,5 +1,5 @@
 
-<li> Holshouser, Arthur
+<li> Holliday, Sarah H.
 <ul>
-<li> (with Harold Reiter and James Rudzinski) Pilesize Dynamic One-pile Nim and Beatty's Theorem, <a href="vol4.html">Vol 4</a>
+<li> (with Takao Komatsu) On the Sum of Reciprocal Generalized Fibonacci Numbers, <a href="vol11a.html">Vol 11A</a>
 

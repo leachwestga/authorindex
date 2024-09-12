@@ -1,5 +1,6 @@
 
-<li> Simay, Greg 
+<li> Silva, Jorge Nuno
 <ul>
-<li> (with George E Andrews) Parity Palindrome Compositions, <a href="vol21.html">Vol 21</a>
+<li> (with Carlos Pereira dos Santos) Konane has Infinite Nim-dimension,
+<a href="vol8.html">Vol 8(1)</a>
 

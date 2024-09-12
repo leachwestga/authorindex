@@ -1,7 +1,7 @@
 
-<li> Szab&oacute, Csaba
+<li> Swisher, Holly 
 <ul>
-<li> (with Andries E. Brouwer, Gabor Horvath, and Ildiko Molnar-Saska) On Three-rowed Chomp, <a href="vol5.html">Vol 5(1)</a>
-<li> (with P&eacute;ter &Aacute;rend&aacute;s, Ferenc Bencs,  and Zolt&aacute;n L. Bl&aacute;zsik) Compositions of Complements of Graphs, <a href="vol16.html">Vol 16</a>
-<li> (with P&eacute;ter &Aacute;rend&aacute;s, Zolt&aacute;n L. Bl&aacute;zsik, and Bertalan Bodor) On the Complexity and Topology of Scoring Games: of Pirates and Treasure, <a href="vol17.html">Vol 17</a>
+<li> (with Oleg Lazarev) A Combinatorial Proof of a Recursive Formula for Multipartitions, <a href="vol11.html">Vol 11</a>
+<li> (with Matthew S. Mizuhara and James A. Sellers) A Periodic Approach to Plane Partition Congruences, <a href="vol16.html">Vol 16</a>
+<li> (with Savana Ammons, Young Jin Kim, and Laura Seaberg) An Analogue of <i>k</i>-marked Durfee Symbols for Strongly Unimodal Sequences, <a href="vol21.html">Vol 21</a>
 

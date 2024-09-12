@@ -1,6 +1,5 @@
 
-<li> Li, Rusen 
+<li> Li, Jinjiang 
 <ul>
-<li> (with Takao Komatsu) Infinite Series Containing Generalized <i>q</i>-harmonic Numbers, <a href="vol21.html">Vol 21</a>
-<li> Sums over Primes, <a href="vol21.html">Vol 21</a>
+<li> (with Min Zhang) On a Diophantine Equation With Three Prime Variables, <a href="vol19.html">Vol 19</a>
 

@@ -1,5 +1,5 @@
 
-<li> Mackenzie, Dana
+<li> MacMillan, Kieren 
 <ul>
-<li> 2184: An Absurd (and Adsurd) Tale, <a href="vol18.html">Vol 18</a>
+<li> (with Jonathan Sondow) Reducing the Erd&#337;s-Moser Equation <i>1<sup>n</sup> + 2<sup>n</sup> + ... + k<sup>n</sup> = (k+1)<sup>n</sup></i> Modulo <i>k</i> and <i>k<sup>2</sup></i>, <a href="vol11.html">Vol 11</a>
 

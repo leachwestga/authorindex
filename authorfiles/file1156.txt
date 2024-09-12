@@ -1,5 +1,6 @@
 
-<li> Martin, James B.
+<li> Martin, Harold W.
 <ul>
-<li> Extended Sprague-Grundy Theory for Locally Finite Games, and Applications to Random Game-trees, <a href="vol21b.html">Vol 21b</a>
+<li> Generalizations of Midy's Theorem on Repeating Decimals,
+<a href="vol7.html">Vol 7</a>
 

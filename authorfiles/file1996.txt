@@ -1,5 +1,7 @@
 
-<li> Klaudiusz W&oacute;jcik, Klaudiusz
+<li> Witu&#322;a, Roman
 <ul>
-<li> Newton Sequences and Dirichlet Convolution, <a href="vol21.html">Vol 21</a>
+<li> (with Damian S&#322;ota) Conjugate Sequences in a Fibonacci-Lucas
+Sense and Some Identities for Sums of Powers
+of Their Elements, <a href="vol7.html">Vol 7</a>
 

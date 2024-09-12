@@ -1,5 +1,5 @@
 
-<li> Phillips, Reed
+<li> Phillips, David 
 <ul>
-<li> (with A.J. Hildebrand) The Number of Optimal Strategies in the Penney-Ante Game, <a href="vol21.html">Vol 21</a>
+<li> (with Charles Celerier, David Joyner, Caroline Melles, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
 

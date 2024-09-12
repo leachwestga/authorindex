@@ -1,5 +1,5 @@
 
-<li> Mez&#337;, Istv&aacute;n
+<li> Meyerowitz, Aaron
 <ul>
-<li> (with Jos&eacute; L. Ram&iacute;rez and Chen-Ying Wang) On Generalized Derangements and Some Orthogonal Polynomials, <a href="vol19.html">Vol 19</a>
+<li> (with John Selfridge) The 392 Problem, <a href="vol12a.html">Vol 12A</a>
 

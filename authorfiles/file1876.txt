@@ -1,5 +1,6 @@
 
-<li> Tsegaye, Bineyam 
+<li> Tsai, Daniel
 <ul>
-<li> (with Vajresh Balaji, Olivia Edwards, Anne Marie Loftin, Solomon Mcharo, and Alex Rice) Lattice Configurations Determining Few Distances, <a href="vol20.html">Vol 20</a>
+<li> A Recurring Pattern in Natural Numbers of a Certain Property, <a href="vol21.html">Vol 21</a>
+<li> On the Computation of Fundamental Periods of <i>v</i>-Palindromic Numbers, <a href="vol22.html">Vol 22</a>
 

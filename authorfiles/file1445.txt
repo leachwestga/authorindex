@@ -1,5 +1,5 @@
 
-<li> Pohoata, Cosmin
+<li> Poelstra, Andrew
 <ul>
-<li> Boole's Formula as a Consequence of Lagrange's Interpolating Polynomial Theorem, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Tom Brown and Veselin Jungi&#263;) On Double <i>3</i>-Term Arithmetic Progressions, <a href="vol14.html">Vol 14</a>
 

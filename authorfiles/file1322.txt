@@ -1,6 +1,24 @@
 
-<li> Ntienjem, Eb&eacute;n&eacute;zer
+<li> Nowakowski, Richard J.
 <ul>
-<li> Evaluation of Convolution Sums involving the Sum of Divisors Function for Levels 48 and 64, <a href="vol17.html">Vol 17</a>
-<li> Evaluation of Convolution Sums Involving Cubic Divisor Functions for a Class of Levels, <a href="vol21.html">Vol 21</a>
+<li> (with D. G. Horrocks) Regularity in the G-Sequences of Octal Games with a Pass, <a href="vol3.html">Vol 3</a>
+<li> (with M. H. Albert) Nim Restrictions, <a href="vol4.html">Vol 4</a>
+<li> (with Michael H. Albert, J. P. Grossman, and David Wolfe) An Introduction to Clobber, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Sarah K. McCurdy) Cutthroat, an All-Small Game on Graphs, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Paul Ottaway) Vertex Deletion Games with Parity Rules, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with A. A. Siegel) 
+Partizan Geography on <i>K<sub>n</sub></i> x <i>K<sub>2</sub></i>,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Rebecca Milley and Paul Ottaway) The Mis&egrave;re Monoid of One-Handed Alternating Games, <a href="vol12b.html">Vol 12B</a>
+<li> (with Neil A. McKay) Outcomes of Partizan Euclid, <a href="vol12b.html">Vol 12B</a>
+<li> (with Melissa Huggan) Thinning Thickets, <a href="vol18.html">Vol 18</a>
+<li> (with Michael Fisher, Neil McKay, Paul Ottaway, and Carlos Pereira dos Santos) Atomic Weight Calculus of Spindly Games, <a href="vol20.html">Vol 20</a>
+<li> (with Todd Mullen) The Self-Referential Impartial Game Minnie, <a href="vol20.html">Vol 20</a>
+<li> (with Anthony Bonato and Melissa A. Huggan) The Game of Flipping Coins, <a href="vol21b.html">Vol 21b</a>
+<li> (with Alda Carvalho,  Melissa A. Huggan,  and Carlos Pereira dos Santos) A Note on Numbers, <a href="vol21b.html">Vol 21b</a>
+<li> (with Alda Carvalho,  Melissa A. Huggan,  and Carlos Pereira dos Santos) Ordinal Sums, Clockwise Hackenbush, and Domino Shave, <a href="vol21b.html">Vol 21b</a>
+<li> (with Eric Duch&ecirc;ne, Marc Heinrich, and Aline Parreau) Partizan Subtraction Games, <a href="vol21b.html">Vol 21b</a>
+<li> (with Urban Larsson and Carlos P. Santos) Impartial Games with Entailing Moves, <a href="vol21b.html">Vol 21b</a>
+<li> (with Urban Larsson, Rebecca Milley, Gabriel Renault, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+<li> (with Todd Mullen and Danielle Cox) Diffusion and Polyominoes, <a href="vol22.html">Vol 22</a>
 

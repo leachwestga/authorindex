@@ -1,5 +1,7 @@
 
-<li> Shaikh, Md. Moid 
+<li> Severini, Simone
 <ul>
-<li> (with Sourav Kanti Patra) Monochromatic Sums Equal to Products Near Zero, <a href="vol20.html">Vol 20</a>
+<li> (with Qing-Hu Hou and Toufik Mansour)
+Partial Transposes of Permutation Matrices,
+<a href="vol8.html">Vol 8(1)</a>
 

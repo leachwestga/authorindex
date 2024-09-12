@@ -1,6 +1,5 @@
 
-<li> Regev, Alon
+<li> Reddy, A. Satyanarayana
 <ul>
-<li> A Proof of Catalan's Convolution Formula, <a href="vol12.html">Vol 12</a>
-<li> (with Andrei Asinowski) Triangulations with Few Ears:  Symmetry Classes and Disjointness, <a href="vol16.html">Vol 16</a>
+<li> (with Ayush Bohra) Permanents of 3 x 3 Invertible Matrices Modulo <i>n</i>, <a href="vol22.html">Vol 22</a>
 

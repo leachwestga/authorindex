@@ -1,5 +1,5 @@
 
-<li> Tomkins, Hayley 
+<li> Tomasko, Jessica A. 
 <ul>
-<li> (with Karl Dilcher) Square Classes and Divisibility Properties of Stern Polynomials, <a href="vol18.html">Vol 18</a>
+<li> (with Juan B. Gil) Fibonacci Colored Compositions and Applications, <a href="vol21.html">Vol 21</a>
 

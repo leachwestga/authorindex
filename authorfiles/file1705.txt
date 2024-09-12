@@ -1,5 +1,6 @@
 
-<li> Sledd, Levi 
+<li> Slavin, Keith R.
 <ul>
-<li> (with Adam Jobson, Susan Calcote White, and D. Jacob Wildstrom) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
+<li> <i>Q</i>-Binomials and the Greatest Common Divisor, <a hrev="vol8.html">
+Vol 8(1)</a>
 

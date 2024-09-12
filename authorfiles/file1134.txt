@@ -1,6 +1,5 @@
 
-<li> Maitra, Subhamoy 
+<li> Maitland, Christopher
 <ul>
-<li> (with Pantelimon St&#259;nic&#259;, Santanu Sarkar, Sourav Sen Gupta, and Nirupam
- Kar) Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
+<li> (with Jonathan Borwein and Matthew Skerritt) Computation of an Improved Lower Bound to Giuga's Primality Conjecture, <a href="vol13.html">Vol 13</a>
 

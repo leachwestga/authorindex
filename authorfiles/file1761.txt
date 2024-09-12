@@ -1,8 +1,5 @@
 
-<li> Steuding, J&ouml;rn
+<li> Stender, Matthew 
 <ul>
-<li> (with Rasa Slezeviciene-Steuding) Simpson's Paradox in the Farey
-Sequence, <a href="vol6.html">Vol 6</a>
-<li> (with Klaus Volkert) A Diophantine Problem Related to a Nim-like Game, <a href="vol19.html">Vol 19</a>
-<li> (with Janyarak Tongsomporn and Saeree Wananiyakul) Sums of Consecutive Prime Squares, <a href="vol22.html">Vol 22</a>
+<li> (with Mark Budden and Yanbo Zhang) Weakened Ramsey Numbers and Their Hypergraph Analogues, <a href="vol17.html">Vol 17</a>
 

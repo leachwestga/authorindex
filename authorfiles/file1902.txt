@@ -1,5 +1,5 @@
 
-<li> Velk&aacute;, Tereza
+<li> Velich, Jordan  
 <ul>
-<li> (with L'ubom&iacute;ra Dvo&rcaron;&aacute;kov&aacute;) Fixed Points of Morphisms Among Binary Generalized Pseudostandard Words, <a href="vol18.html">Vol 18</a>
+<li> (with Elliot Catt and Michael Coons) Strong Normality and Generalized Copeland--Erd&#337;s Numbers, <a href="vol16.html">Vol 16</a>
 

@@ -1,7 +1,5 @@
 
-<li> Remmel, Jeffrey 
+<li> Reiter, Harold
 <ul>
-<li> (with Sergey Kitaev) Place-Difference-Value Patterns: A Generalization of Generalized Permutation and Word Patterns, <a href="vol10.html">Vol 10</a>
-<li> (with Sergey Kitaev and Mark Tiefenbruck) Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations II, <a href="vol15.html">Vol 15</a>
-<li> (with Sergey Kitaev and Mark Tiefenbruck) Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations III, <a href="vol15.html">Vol 15</a>
+<li> (with Arthur Holshouser and James Rudzinski) Pilesize Dynamic One-pile Nim and Beatty's Theorem, <a href="vol4.html">Vol 4</a>
 

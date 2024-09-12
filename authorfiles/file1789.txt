@@ -1,5 +1,6 @@
 
-<li> Yewen, Sun 
+<li> Sun, Xinyu
 <ul>
-<li> (with Ashley Armbruster, Grace Barger, Sofya Bykova, Tyler Dvoracheck, Emily Eckard, Joshua Harrington,  and Tony W. H. Wong) On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers, <a href="vol21.html">Vol 21</a>
+<li> Improvements on Chomp, <a href="vol2.html">Vol 2</a>
+<li> (with Victor H. Moll) A Binary Tree Representation for the <i>2</i>-Adic Valuation of a Sequence Arising From a Rational Integral, <a href="vol10.html">Vol 10</a>
 

@@ -1,5 +1,5 @@
 
-<li> Kitrossky, Levi
+<li> Kitaoka, Yoshiyuki
 <ul>
-<li> (with Endre Boros, Vladimir Gurvich, and Kazuhisa Makino) On the Sprague-Grundy Function of Compound Games, <a href="vol23.html">Vol 23</a>
+<li> Statistical Distribution of Roots of a Polynomial Modulo Primes, <a href="vol17.html">Vol 17</a>
 

@@ -1,5 +1,5 @@
 
-<li> Takalani, Ntendeni A.
+<li> Tajbakhsh, H. 
 <ul>
-<li> (with Augustine O. Munagi) Full <i>K</i>-Complete Partitions, <a href="vol22.html">Vol 22</a>
+<li> (with A. R. Moghaddamfar) Lucas Numbers and Determinants, <a href="vol11.html">Vol 11</a>
 

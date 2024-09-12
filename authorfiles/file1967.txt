@@ -1,5 +1,5 @@
 
-<li> Watling, Neil 
+<li> W&auml;stlund, Johan 
 <ul>
-<li> (with Rosemary Sullivan) Independent Divisibility Pairs on the Set of Integers from <i>1</i> to <i>N</i>, <a href="vol13.html">Vol 13</a>
+<li> (with Urban Larsson) Maharaja Nim: Wythoff's Queen meets the Knight, <a href="vol14.html">Vol 14</a>
 

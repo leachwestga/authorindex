@@ -1,6 +1,5 @@
 
-<li> Klouda, Karel
+<li> Klop, Jan Willem 
 <ul>
-<li> (with Edita Pelantov&aacute;) Factor Complexity of Infinite Words Associated With Non-Simple Parry Numbers, <a href="vol9.html">Vol 9</a>
-<li> (with L'ubom&iacute;ra Balkov&aacute;  and Edita Pelantov&aacute;) Critical Exponent of Infinite Words Coding Beta-Integers Associated with Non-Simple Parry Numbers, <a href="vol11b.html">Vol 11b</a>
+<li> (with J&ouml;rg Endrullis and Dimitri Hendriks) Degrees of Streams, <a href="vol11b.html">Vol 11b</a>
 

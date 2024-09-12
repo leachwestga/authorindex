@@ -1,5 +1,5 @@
 
-<li> Catherine Yan 
+<li> Yamamoto, Shuji
 <ul>
-<li> (with Ayomikun Adeniran and Lauren Snider) Multivariate Difference Gon&ccaron;arov Polynomials, <a href="vol21A.html">Vol 21A</a>
+<li> (with Ken Kamano and Yasuo Ohno) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
 

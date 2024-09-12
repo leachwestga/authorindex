@@ -1,5 +1,6 @@
 
-<li> Olson, Jeffrey S.
+<li> Oller-Marc&eacute;n, Antonio M.
 <ul>
-<li> Variants of Bulgarian Solitaire, <a href="vol16.html">Vol 16</a>
+<li> The Dying Rabbit Problem Revisited, <a href="vol9.html">Vol 9</a>
+<li> (with Jos&eacute; Mar&iacute;a Grau) On <i>k</i>-Lehmer Numbers, <a href="vol12.html">Vol 12</a>
 

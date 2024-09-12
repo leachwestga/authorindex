@@ -1,6 +1,5 @@
 
-<li> Lee, Sunyoung
+<li> Lee, Si Ying 
 <ul>
-<li> (with Sylvie Corteel and Carla D. Savage)
-Five Guidelines for Partition Analysis with Applications to Lecture Hall-type Theorems, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Heng Huat Chan) Congruences Associated with the Modular <i>j</i>-Invariant, <a href="vol17.html">Vol 17</a>
 

@@ -1,5 +1,9 @@
 
-<li> Heuberger, Clemens 
+<li> Heubach, Silvia
 <ul>
-<li> (with Peter J. Grabner and Helmut Prodinger) counting Optimal Joint Digit Expansions, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Toufik Mansour) Counting Rises, Levels, and Drops in Compositions, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Toufik Mansour) Enumeration of 3-letter Patterns in Compositions,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Vladimir Gurvich, Hhan Bao Ho, and Nikolay Chikin) Slow <i>k</i>-Nim, <a href="vol20.html">Vol 20</a>
+<li> (with Matthieu Dufour and Anh Vo) Circular Nim Games CN(7,4), <a href="vol21b.html">Vol 21b</a>
 

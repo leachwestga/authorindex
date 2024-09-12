@@ -1,5 +1,7 @@
 
-<li> Khongsit, S.
+<li> Khomovsky, Dmitry I.
 <ul>
-<li> (with P.K. Saikia) A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>, <a href="vol16.html">Vol 16</a>
+<li> On the Relationship Between the Number of Solutions of Congruence Systems and the Resultant of Two Polynomials, <a href="vol16.html">Vol 16</a>
+<li> Efficient Computation of Terms of Linear Recurrence Sequences of  Any Order, <a href="vol18.html">Vol 18</a>
+<li> A Method for Obtaining Fibonacci Identities, <a href="vol18.html">Vol 18</a>
 

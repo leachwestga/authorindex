@@ -1,8 +1,6 @@
 
-<li> Nguyen, Hieu D.
+<li> Nkonkobe, Sithembele
 <ul>
-<li> Generalized Binomial Expansions and Bernoulli Polynomials, <a href="vol13.html">Vol 13</a>
-<li> A Mixing of Prouhet-Thue-Morse Sequences and Rademacher Functions, <a href="vol15.html">Vol 15</a>
-<li> A New Proof of the Prouhet-Tarry-Escott Problem, <a href="vol16.html">Vol 16</a>
-<li> (with Patrick F. Bray) The Area of the Mandelbrot Set and Zagier's Conjecture, <a href="vol18.html">Vol 18</a>
+<li> (with Be&aacute;ta B&eacute;nyi and Mark Shattuck) Unfair Distributions Counted by the Generalized Stirling Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with Jose&eacute; A. Adell) A Unified Generalization of Touchard and Fubini Polynomial Extensions, <a href="vol23.html">Vol 23</a>
 

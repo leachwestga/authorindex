@@ -1,5 +1,5 @@
 
-<li> Van Alten, Clint 
+<li> Van Alstine, James 
 <ul>
-<li> (with Joe Buhler,  Chris Freiling, Ron Graham, Jonathan Kariv, James R. Roche, Mark Tiefenbruck,  and Dmytro Yeroshkin) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
+<li> (with Tom Edgar and Hailey Olafson) Approximating the Fibonacci Sequence, <a href="vol16.html">Vol 16</a>
 

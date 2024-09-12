@@ -1,5 +1,5 @@
 
-<li> Kafle, Bir 
+<li> Kadiri, Habiba
 <ul>
-<li> (with Benedict Vasco Normenyo and Alain Togb&eacute;) Repdigits as Sums of Two Fibonacci Numbers and Two Lucas Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Allysa Lumley) Short Effective Intervals Containing Primes, <a href="vol14.html">Vol 14</a>
 

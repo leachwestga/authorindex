@@ -1,5 +1,5 @@
 
-<li> Wildstrom, D. Jacob 
+<li> Wiechert, Veit
 <ul>
-<li> (with Adam Jobson, Levi Sledd, and  Susan Calcote White) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
+<li> (with Steven Chaplick, Piotr Micek, and Torsten Ueckerdt) A Note on Concurrent Graph Sharing Games, <a href="vol16.html">Vol 16</a>
 

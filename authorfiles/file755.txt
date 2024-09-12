@@ -1,6 +1,5 @@
 
-<li> Higuita, Robinson A.
+<li> Higgins, Zach 
 <ul>
-<li> (with Rigoberto Fl&oacute;rez and Leandro Junes) <i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers, <a href="vol14.html">Vol 14</a>
-<li> (with Rigoberto Fl&oacute;rez and Antara Mukherjee) Characterization of the Strong Divisibility Property for Generalized Fibonacci Polynomials, <a href="vol18.html">Vol 18</a>
+<li> (with Anant Godbole and Zoe Koch) Finite Representability of Integers as 2-Sums, <a href="vol18b.html">Vol 18B</a>
 

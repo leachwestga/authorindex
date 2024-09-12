@@ -1,5 +1,5 @@
 
-<li> Yee, Ae Ja 
+<li> Ye, Lynnelle
 <ul>
-<li> (with Michael Rowell) The Finite Heine Transformation and Conjugate Durfee Squares, <a href="vol9.html">Vol 9</a>
+<li> (with Keenan Monks) Congruences of Concave Composition Functions, <a href="vol13.html">Vol 13</a>
 

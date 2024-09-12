@@ -1,5 +1,5 @@
 
-<li> McDonald, Alex
+<li> McCurdy, Sarah K.
 <ul>
-<li> (with Brian McDonald, Jonathan Passant, and Anurag Sahay) Distinct Distances From Points on a Circle to a Generic Set, <a href="vol21.html">Vol 21</a>
+<li> (with Richard Nowakowski) Cutthroat, an All-Small Game on Graphs, <a href="vol5-2.html">Vol 5(2)</a>
 

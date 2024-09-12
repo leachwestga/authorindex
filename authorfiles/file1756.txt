@@ -1,6 +1,5 @@
 
-<li> Stein, Martin
+<li> Stein, Alan H.
 <ul>
-<li> (with Carsten Elsner) On the Value Distribution of Error Sums for Approximati
-ons With Rational Numbers, <a href="vol12.html">Vol 12</a>
+<li> (with Dennis Eichhorn, Mizan R. Khan, and Christian L. Yankov) Sums and Differences of the Coordinates of Points on Modular Hyperbolas, <a href="vol9supp.html">Volume 9 Supplement</a>
 

@@ -1,6 +1,15 @@
 
-<li> Peng, Jiangtao 
+<li> Pelantov&aacute;, Edita
 <ul>
-<li> (with Weidong Gao) On the Number of Zero-Sum Subsequences of Restricted Size, <a href="vol9.html">Vol 9</a>
-<li> (with Yushuang Fan, Weidong Gao, Linlin Wang, and Qinghai Zhong) Remarks on Tiny Zero-Sum Sequences, <a href="vol13.html">Vol 13</a>
+<li> (with Peter Bal&aacute;&#382;i, Zuzana Mas&aacute;kov&aacute)
+Complete Characterization of Substitution Invariant Sturmian Sequences, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Pierre Arnoux, Val&eacute;rie Berth&eacute;, and
+Zuzana Mas&aacute;kov&aacute;) Sturm Numbers and Substitution Invariance of
+3iet Words, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Peter Bal&aacute;&#382;i, Zuzana Mas&aacute;kov&aacute)
+Characterization of Substitution Invariant Words Coding
+Exchange of Three Intervals,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Karel Klouda) Factor Complexity of Infinite Words Associated With Non-Simple Parry Numbers, <a href="vol9.html">Vol 9</a>
+<li> (with L'ubom&iacute;ra Balkov&aacute; and  Karel Klouda) Critical Exponent of Infinite Words Coding Beta-Integers Associated with Non-Simple Parry Numbers, <a href="vol11b.html">Vol 11B</a>
 

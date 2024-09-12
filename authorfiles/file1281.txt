@@ -1,5 +1,5 @@
 
-<li> Nagy, G&aacute;bor V. 
+<li> Nadeau, Philippe
 <ul>
-<li> (with Horst Alzer) Some Identities Involving Central Binomial Coefficients and Catalan Numbers, <a href="vol20.html">Vol 20</a>
+<li> (with Fr&eacute;d&eacute;ric Jouhet) Long Fully Commutative Elements in Affine Coxeter Groups, <a href="vol15.html">Vol 15</a>
 

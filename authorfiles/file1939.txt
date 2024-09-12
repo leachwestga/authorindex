@@ -1,5 +1,5 @@
 
-<li> Walters, Nathan 
+<li> Walsh, Steven 
 <ul>
-<li> (with Pete L. Clark, Jacob Hicks, and Katherine Thompson) GoNII: Universal Quaternary Quadratic Forms, <a href="vol12.html">Vol 12</a>
+<li> (with Charles Celerier, David Joyner, Caroline Melles, and David Phillips) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
 

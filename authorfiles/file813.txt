@@ -1,5 +1,5 @@
 
-<li> Ismailescu, Dan
+<li> Isaacson, Brad
 <ul>
-<li> (with Peter C. Shim) On Numbers That Cannot be Expressed as a Plus-Minus Weighted Sum of a Fibonacci Number and a Prime, <a href="vol14.html">Vol 14</a>
+<li> Three Imprimitive Character Sums, <a href="vol21.html">Vol 21</a>
 

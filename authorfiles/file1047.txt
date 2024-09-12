@@ -1,5 +1,6 @@
 
-<li> Li, Bei 
+
+<li> Lewittes, Joseph
 <ul>
-<li> (with Wen An Liu, Haifeng Li, and Yingbin Ma) On Supplements of <i> 2 x m</i>  Board in Toppling Towers, <a href="vol12.html">Vol 12</a>
+<li> Midy's Theorem for Periodic Decimals, <a href="vol7.html">Vol 7</a>
 

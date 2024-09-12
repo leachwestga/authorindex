@@ -1,5 +1,5 @@
 
-<li> Wang, Wei
+<li> Wang, Tianming
 <ul>
-<li> (with Xiaoping Li, Xiang-Gen Xia, Wenjie Wang, and Jianguo Qian) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
+<li> (with Feng-Zhen Zhao) Some Results for Sums of the Inverses of Binomial Coefficients, <a href="vol5.html">Vol 5(1)</a>
 

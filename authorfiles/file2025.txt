@@ -1,5 +1,5 @@
 
-<li> Yang, Quan-Hui
+<li> Yang, Qiduan 
 <ul>
-<li> (with Feng-Juan Chen) On Bases With a <i>T</i>-Order, <a href="vol11.html">Vol 11</a>
+<li> (with Lindsey Reinholz and Blair K. Spearman) On Congruent Numbers With Three Prime Factors, <a href="vol11.html">Vol 11</a>
 

@@ -1,6 +1,6 @@
 
-<li> Timmons, Craig
+<li> Tijdeman, Robert
 <ul>
-<li> Upper and Lower Bounds on <i>B<sub>k</sub><sup>+</sup></i>-Sets, <a href="vol14.html">Vol 14</a>
-<li> Upper Bounds for <i>B<sub>h</sub>[g]</i>-sets With Small <i>h</i>, <a href="vol16.html">Vol 16</a>
+<li> (with S. W. Rosema) The Tribonacci Substitution, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Luca Q. Zamboni) Characterizations of Words With Many Periods, <a href="vol9.html">Vol 9</a>
 

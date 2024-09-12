@@ -1,5 +1,5 @@
 
-<li> Randriam, Hugues
+<li> Rana, Meenakshi
 <ul>
-<li> (with Jean-Pierre Flori) On the Number of Carries Occurring in an Addition Mod <i>2<sup>k</sup>-1</i>, <a href="vol12.html">Vol 12</a>
+<li> (with Abhimanyu Kumar) Raw Moments and Entropy Associated with the Last Part in a Composition, <a href="vol23.html">Vol 23</a>
 

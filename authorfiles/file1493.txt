@@ -1,5 +1,5 @@
 
-<li> Rasmussen, Peter Michael Reichstein 
+<li> Rankin, Stuart A.
 <ul>
-<li> (withSebastian Tim Holdum and  Frederik Ravn Klausen ) Powers in Prime Bases and a Problem on Central Binomial Coefficients, <a href="vol15.html">Vol 15</a>
+<li> Fine-Wilf Graphs and the Generalized Fine-Wilf Theorem, <a href="vol13.html">Vol 13</a>
 

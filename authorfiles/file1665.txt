@@ -1,5 +1,5 @@
 
-<li> Shelton, Kennan
+<li> Sheard, Michael 
 <ul>
-<li> The Game of Take Turn, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Eric Gottlieb) Erd&#337;s-Szekeres Results for Set Partitions, <a href="vol15.html">Vol 15</a>
 

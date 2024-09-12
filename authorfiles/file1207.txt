@@ -1,5 +1,6 @@
 
-<li> Meleshko, Joseph
+<li> Mekkaoui, Mohammed
 <ul>
-<li> (with James Haoyu Bai, Samin Riasat, and Jeffrey Shallit) Quotients of Palindromic and Antipalindromic Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with M. P. Chaudhary and Kamel Mazhouda) Discrete Measures and the Riemann Hypothesis of Some <i>L</i>-Function in the Selberg Class, <a href="vol23.html">Vol 23</a>
+<li class=fragment> (with M. P. Chaudhary, Salem Guiben, Kamel Mazhouda) On the \(a\)-Points of the  \(k^{\mathrm{th}}\) Derivative of an \(L\)-Function in the Selberg Class, <a href="vol24.html">Vol 24</a>
 

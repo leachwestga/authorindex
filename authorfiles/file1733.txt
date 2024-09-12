@@ -1,5 +1,5 @@
 
-<li> Spiegel, Christoph 
+<li> Sperber, Steven 
 <ul>
-<li> (with Gregory A. Freiman and Oriol Serra) Additive Volume of Sets  Contained in Few Arithmetic Progressions, <a href="vol19.html">Vol 19</a>
+<li> (with Alan Adolphson) On the Integrality of Factorial Ratios and Mirror Maps, <a href="vol20.html">Vol 20</a>
 

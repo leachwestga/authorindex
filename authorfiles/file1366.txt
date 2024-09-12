@@ -1,5 +1,9 @@
 
-<li> Pan, Minghao
+<li> Pan, Hao
 <ul>
-<li> (with Wentao Zhang) Quotients of Hurwitz Primes, <a href="vol21.html">Vol 21</a>
+<li> (with Ping Xu) Note on a Congruence Involving
+Products of Binomial Coefficients, <a href="vol7.html">Vol 7</a>
+<li> (with Song Guo and Zhi-Wei Sun)
+Mixed Sums of Squares
+and Triangular Numbers (II), <a href="vol7.html">Vol 7</a>
 

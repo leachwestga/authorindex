@@ -1,5 +1,5 @@
 
-<li> Qi, Wei-Wei
+<li> Qi, Feng
 <ul>
-<li> Some Variations of <i>q</i>-Analogues of Sun and Tauraso's Congruence, <a href="vol23.html">Vol 23</a>
+<li> (with Xiao-Ting Shi and Bai-Ni Guo) Two Explicit Formulas of the Schr&ouml;der Numbers, <a href="vol16.html">Vol 16</a>
 

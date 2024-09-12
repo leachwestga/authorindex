@@ -1,5 +1,7 @@
 
-<li> Ho, Pak Tung
+<li> Ho, Nhan Bao
 <ul>
-<li> Squares in <i> (1<sup>2</sup>+m<sup>2</sup>)...(n<sup>2</sup>+m<sup>2</sup>)</i>, <a href="vol9.html">Vol 9</a>
+<li> (with Grant Cairns) Min, A Combinatorial Game Having a Connection With Prime Numbers, <a href="vol10.html">Vol 10</a>
+<li> (with Aviezri S. Fraenkel) When are Translations of <i>P</i>-positions of Wythoff's Game <i>P</i>-positions?, <a href="vol15a.html">Vol 15A</a>
+<li> (with Vladimir Gurvich, Silvia Heubach, and Nikolay Chikin) Slow <i>k</i>-Nim, <a href="vol20.html">Vol 20</a>
 

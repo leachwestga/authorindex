@@ -1,5 +1,5 @@
 
-<li> Ulas, Maciej 
+<li> Ueckerdt, Torsten
 <ul>
-<li> (with Karl Dilcher) Divisibility and Arithmetic Properties of a Class of Sparse Polynomials, <a href="vol22.html">Vol 22</a>
+<li> (with Steven Chaplick, Piotr Micek, and Veit Wiechert) A Note on Concurrent Graph Sharing Games, <a href="vol16.html">Vol 16</a>
 

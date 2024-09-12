@@ -1,5 +1,7 @@
 
-<li> Hussein, Saud
+<li> Hurlbert, Glenn H. 
 <ul>
-<li> A Note on the Converse of Wolstenholme's Theorem, <a href="vol18.html">Vol 18</a>
+<li> (with Shawn Elledge) An Application of Graph Pebbling to Zero-Sum Sequences in Abelian Groups, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Dawn Curtis, Taylor Hines, and Tatiana Moyer) On Pebbling Graphs By
+ Their Blocks, <a href="vol9.html">Vol 9</a>
 

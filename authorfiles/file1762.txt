@@ -1,5 +1,8 @@
 
-<li> Stevens, Brett 
+<li> Steuding, J&ouml;rn
 <ul>
-<li> (with Melissa Huggan) Polynomial Time Graph Families for Arc Kayles, <a href="vol16.html">Vol 16</a>
+<li> (with Rasa Slezeviciene-Steuding) Simpson's Paradox in the Farey
+Sequence, <a href="vol6.html">Vol 6</a>
+<li> (with Klaus Volkert) A Diophantine Problem Related to a Nim-like Game, <a href="vol19.html">Vol 19</a>
+<li> (with Janyarak Tongsomporn and Saeree Wananiyakul) Sums of Consecutive Prime Squares, <a href="vol22.html">Vol 22</a>
 

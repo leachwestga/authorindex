@@ -1,6 +1,5 @@
 
-<li> Luo, Victor
+<li> Luo, Jiagui
 <ul>
-<li> (with Amanda Bower, Ron Evans, and Steven J Miller) Coordinate Sum and Difference Sets of <i>d</i>-Dimensional Modular Hyperbolas, <a href="vol13.html">Vol 13</a>
-<li> (with Oliva Beckwith, Steven J. Miller, Karen Shen, and Nicholas Triantafillou) Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles, <a href="vol15.html">Vol 15</a>
+<li> (with Alain Togb&eacute; and Pingzhi Yuan) On Some Equations Related to Ma's Conjecture, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,6 @@
 
-<li> Leth, Steven 
+<li> LeSaulnier, Tim
 <ul>
-<li> (with Mauro Di Nasso, Isaac Goldbring, Renling Jin, Martino Lupini,  and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
+<li> (with Aaron Robertson) On Monochromatic Ascending Waves,
+<a href="vol7-2.html">Vol 7(2)</a>
 

@@ -1,7 +1,5 @@
 
-<li> Kolitsch, Louis W.
+<li> K&ouml;kl&uuml;ce, B&uuml;lent
 <ul>
-<li> A Connection Between Ordinary Partitions and
-Tilings with Dominoes and Squares, <a href="vol7.html">Vol 7</a>
-<li> (with Yuriy Choliy and Andrew V. Sills) Partition Recurrences, <a href="vol18b.html">Vol 18B</a>
+<li> Representation of Numbers by Sums of Squares and the Forms of Type <i>x<sub>1</sub><sup>2</sup>+ x<sub>1</sub>x<sub>2</sub>+x<sub>2</sub><sup>2</sup></i>, <a href="vol17.html">Vol 17</a>
 

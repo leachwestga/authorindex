@@ -1,5 +1,6 @@
 
-<li> Pigno, Vincent
+
+<li> Piddle, Melissa 
 <ul>
-<li> (with Chris Pinner and Wasin Vipismakul) The Lind-Lehmer Constant for <i>Z<sub>m</sub> x Z<sup>n</sup></i>, <a href="vol16.html">Vol 16</a>
+<li> (with Dominic Klyve and Kathryn E. Temple) Estimating the Density of the Abundant Numbers, <a href="vol19.html">Vol 19</a>
 

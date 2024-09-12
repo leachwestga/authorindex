@@ -1,5 +1,6 @@
 
-<li> Schulman, Michael 
+<li> Schramm, Wolfgang
 <ul>
-<li> (with Ethan Berkove and Andrew Eickemeyer) The 4-Color Cubes Puzzle, <a href="vol18.html">Vol 18</a>
+<li> The Fourier Transform of Functions of the Greatest Common Divisor,
+<a href="vol8.html">Vol 8(1)</a>
 

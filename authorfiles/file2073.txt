@@ -1,7 +1,7 @@
 
-<li> Zhao, Jianqiang
+<li> Zhao, Feng-Zhen
 <ul>
-<li> A Note on Colored Tornheim's Double Series, <a href="vol10.html">Vol 10</a>
-<li> Witten Volume Formulas for Semi-Simple Lie Algebras, <a href="vol11a.html">Vol 11A</a>
-<li> On  <i>q</i>-Analog of Wolstenholme Type Congruences for Multiple Harmonic Sums, <a href="vol13.html">Vol 13</a>
+<li> (with Tianming Wang) Some Results for Sums of the Inverses of Binomial Coefficients, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Cong-Jiao Feng) Some Results for Generalized Harmonic Numbers, <a href="vol9.html">Vol 9</a>
+<li> The Monotonicity of Some Sequences Related to Hyperharmonic Numbers, <a href="vol17.html">Vol 17</a>
 

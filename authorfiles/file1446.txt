@@ -1,5 +1,5 @@
 
-<li> Polasub, Mickey
+<li> Pohoata, Cosmin
 <ul>
-<li> A Short Proof of a Result of Gica and Luca, <a href="vol13.html">Vol 13</a>
+<li> Boole's Formula as a Consequence of Lagrange's Interpolating Polynomial Theorem, <a href="vol8.html">Vol 8(1)</a>
 

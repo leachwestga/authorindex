@@ -1,5 +1,6 @@
 
-<li> Pattanayak, S. K. 
+<li> Patry, Miriam
 <ul>
-<li> (with S. S. Kannan) Normality, Projective Normality and EGZ Theorem, <a href="vol11.html">Vol 11</a>
+<li> (with Krishnendu Bhowmick and Oliver Roche-Newton) Local Differences Determined by Convex Sets, <a href="vol23.html">Vol 23</a>
+<li> (with Audie Warren) Line Sidon Sets, <a href="vol23.html">Vol 23</a>
 

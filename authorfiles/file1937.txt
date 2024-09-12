@@ -1,6 +1,5 @@
 
-<li> Walsh, P. G. 
+<li> Walsh, Alexandra 
 <ul>
-<li> Squares in Lucas Sequences with Rational Roots, <a href="vol5-3.html">Vol 5(3)</a>
-<li class="fragment"> An Effective Version of a Theorem of Shioda on the Ranks of Elliptic Curves Given by \(y^2=f(x)+m^2\), <a href="vol22.html">Vol 22</a>
+<li> (with Seoyoung Kim) Elliptic Fermat Numbers and Elliptic Divisibility Sequences, <a href="vol20.html">Vol 20</a>
 

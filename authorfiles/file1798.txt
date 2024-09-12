@@ -1,6 +1,7 @@
 
-<li> T, Harishkumar 
+<li> Szalay, L&aacute;szl&oacute; 
 <ul>
-<li> (with M. S. Mahadeva Naika and Y. Veeranna) Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs, <a href="vol20.html">Vol 20</a>
-<li> (with M. S. Mahadeva Naika and T. N. Veeranayaka) On  <i>(4, 5)</i>-regular Partitions With Odd Parts Overlined, <a href="vol20.html">Vol 20</a>
+<li> (with Florian Luca) Lucas Diophantine Triples, <a href="vol9.html">Vol 9</a>
+<li> (with Volker Ziegler) <i>S</i>-Diophantine Quadruples with Two Primes Congruent to <i>3</i> Modulo <i>4</i>, <a href="vol13.html">Vol 13</a>
+<li> (with Takao Komatsu) <i>q</i>-multiparameter-Bernoulli Polynomials and <i>q</i>-multiparameter-Cauchy Polynomials by Jackson's Integrals, <a href="vol16.html">Vol 16</a>
 

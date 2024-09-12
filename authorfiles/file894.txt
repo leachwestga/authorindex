@@ -1,5 +1,11 @@
 
-<li> Kelvey, Robert 
+<li> Kellner, Bernd C.
 <ul>
-<li> (with Zachary Gates) Relator Games on Groups, <a href="vol21b.html">Vol 21b</a>
+<li> On Asymptotic Constants Related to Products of Bernoulli Numbers and Factorials, <a href="vol9.html">Vol 9</a>
+<li> Identities Between Polynomials Related to Stirling and Harmonic Numbers, <a href="vol14.html">Vol 14</a>
+<li> (with Jonathan Sondow) The Denominators of Power Sums of Arithmetic Progressions, <a href="vol18.html">Vol 18</a>
+<li> (with Jonathan Sondow) On Carmichael and Polygonal Numbers, Bernoulli Polynomials, and Sums of Base-<i>p</i> Digits, <a href="vol21.html">Vol 21</a>
+<li> On (Self-) Reciprocal Appell Polynomials: Symmetry and Faulhaber-type Polynomials, <a href="vol21.html">Vol 21</a>
+<li> On Primary Carmichael Numbers, <a href="vol22.html">Vol 22</a>
+<li> On the Nonintegrality of Certain Generalized Binomial Sums, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,6 @@
 
-<li> Pomales, Luisiany
+<li> Pollicott, Mark
 <ul>
-<li> (with Axel O. G&oacute;mez-Flores, Luis A. Medina, and Carlos F. Santiago-Calder&oacute;n) Recurrences in Terms of Special Polynomials for Exponential Sums of Elementary Symmetric Polynomials over Finite Fields, <a href="vol23.html">Vol 23</a>
+<li> Dynamical Zeta Functions, <a href="vol11b.html">Vol 11b</a>
+<li> Rates of Convergence for Linear Actions of Cocompact Lattices on the Complex Plane, <a href="volb.html">Vol 11B</a>
 

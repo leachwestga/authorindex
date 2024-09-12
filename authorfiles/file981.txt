@@ -1,5 +1,5 @@
 
-<li> Kumar, Manish
+<li> Kumar, Hitesh
 <ul>
-<li> (with Mohan Pandey and Ram Krishna Pandey) A Conjecture of Chu et al. and a New Family of MSTD Sets, <a href="vol24.html">Vol 24</a>
+<li> (with Kamal Lochan Patra and Binod Kumar Sahoo) Proper Divisor Graph of a Positive Integer, <a href="vol21.html">Vol 21</a>
 

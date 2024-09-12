@@ -1,16 +1,6 @@
 
-<li> Schweiger, Fritz
+<li> Schwab, Gabriela
 <ul>
-<li> Periodic Multiplicative Algorithms of Selmer Type, <a href="vol5.html">Vol 5(1)</a>
-<li> Volume as a Measure of Approximation for the Jacobi-Perron Algorithm, <a href="vol10.html">Vol 10</a>
-<li> Variations of the Poincar&eacute; Map, <a href="vol11.html">Vol 11</a>
-<li> Schweiger, Fritz
-<li> Brun Meets Selmer, <a href="vol13.html">Vol 13</a>
-<li> On David's <i>2</i>-Dimensional Continued Fraction, <a href="vol14.html">Vol 14</a>
-<li> Convergence of David's <i>2</i>-dimensional Continued Fraction, <a href="vol15.html">Vol 15</a>
-<li> Invariant Measures for Continued Fractions With Variable Numerators, <a href="vol17.html">Vol 17</a>
-<li> Invariant Measures for New Classes of Piecewise Fractional Linear Maps, <a href="vol19.html">Vol 19</a>
-<li> Invariant measures for <i>2</i>-dimensional maps and associated R&eacute;nyi maps, <a href="vol21.html">Vol 21</a>
-<li> The Continued Fraction Map Composed with  Fractional Linear Maps, <a href="vol22.html">Vol 22</a>
-<li> A Remark on Singular Duals of Moebius Maps, <a href="vol24.html">Vol 24</a>
+<li> (with Emil Daniel Schwab) <i>k</i>-Fibonacci Numbers and M&ouml;bius Functions, <a href="vol22.html">Vol 22</a>
+<li> (with Emil Daniel Schwab) Dirichlet Convolution and the Binet Formula, <a href="vol23.html">Vol 23</a>
 

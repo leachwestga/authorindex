@@ -1,11 +1,6 @@
 
-<p>
-<hr>
-<p>
-<center>
-<object height=300 width=800 data="footer.html"></object>
-</center>
-</body>
-</html>
-
+<li> Walsh, Matt
+<ul>
+<li> (with David Leach) A Characterization of Lattice-ordered Graphs,
+<a href="vol7-2.html">Vol 7(2)</a>
 

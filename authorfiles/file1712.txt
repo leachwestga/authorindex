@@ -1,5 +1,5 @@
 
-<li> Smith, Michael 
+<li> Smith, Furman
 <ul>
-<li> (with Bret Benesh, Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good,  Jennifer Travis, and Mark Daniel Ward) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
+<li> (with Pantelimon St&#259;nic&#259;) Comply/Constrain Games or Games with a Muller Twist, <a href="vol2.html">Vol 2</a>
 

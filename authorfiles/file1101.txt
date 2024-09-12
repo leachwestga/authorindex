@@ -1,5 +1,6 @@
 
-<li> Lott, Andrew
+<li> Lott, Adam 
 <ul>
-<li> (with Vishal Balaji and Alex Rice) Schur's Theorem in Integer Lattices, <a href="vol22.html">Vol 22</a>
+<li> (with Anand Hemmady and Steven J. Miller) When Almost All Sets Are Difference Dominated in <i>Z/nZ</i>, <a href="vol17.html">Vol 17</a>
+<li> (with Alyssa Epstein, Steven J. Miller, and Eyvindur A. Palsson) Optimal Point Sets Determining Few Distinct Triangles, <a href="vol18.html">Vol 18</a>
 

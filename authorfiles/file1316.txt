@@ -1,5 +1,5 @@
 
-<li> Nitica, Viorel
+<li> Nienborg, Hauke 
 <ul>
-<li> High Degree <i>b</i>-Niven Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Heiko Harborth) Rook Domination on Hexagonal Hexagon Boards, <a href="vol21A.html">Vol 21A</a>
 

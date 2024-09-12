@@ -1,5 +1,5 @@
 
-<li> Ljuji&#263;, &#381;eljka
+<li> Liu, Zhi-Guo
 <ul>
-<li> (with Melvyn B. Nathanson) On a Partition Problem of Canfield and Wilf, <a href="vol12a.html">Vol 12A</a>
+<li> Some Theta Functions Identities Associated with the Modular Equations of Degree 5, <a href="vol1.html">Vol 1</a>
 

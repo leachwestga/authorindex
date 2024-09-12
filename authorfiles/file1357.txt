@@ -1,5 +1,5 @@
 
-<li> P., Akhilesh
+<li> Ozen, Mustafa
 <ul>
-<li> (with O. Ramar&eacute;) Tail Of A Moebius Sum With Coprimality Conditions, <a href="vol18.html">Vol 18</a>
+<li> (with Hua Wang and Demet Yalman) Note on Leech-type Questions of Trees, <a href="vol16.html">Vol 16</a>
 

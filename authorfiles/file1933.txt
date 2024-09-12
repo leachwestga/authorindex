@@ -1,5 +1,5 @@
 
-<li> Wakefield, Thomas P. 
+<li> Wahlenmayer, Catherine 
 <ul>
-<li> (with Rene Ardila, Christine Caples, Helen G. Grundman, Laura L. Hall-Seelig, Jill E. Jordan, and Karen T. Kohl) Values of Weighted Davenport Constants, <a href="vol21.html">Vol 21</a>
+<li> (with Sara Fish, Dylan King, Steven J. Miller, and Eyvindur A. Palsson) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
 

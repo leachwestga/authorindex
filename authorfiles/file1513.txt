@@ -1,9 +1,6 @@
 
-<li> Revuelta, M.P.
+<li> Reutenauer, Christophe
 <ul>
-<li> (with J.M. Mar&iacute;n and J.L. Ram&iacute;rex Alfons&iacute;n)
-On the Frobenius Number of Fibonacci Numerical Semigroups,
-<a href="vol7.html">Vol 7</a>
-<li> (with S. Eliahou and J.M. Mar&iacute;n)
-Zero-sum Balanced Binary Sequences, <a href="vol7-2.html">Vol 7(2)</a>
+<li> Christoffel Words and Markoff Triples, <a href="vol9.html">Vol 9</a>
+<li> (with M&eacute;lodie Lapointe) On the Frobenius Conjecture, <a href="vol21.html">Vol 21</a>
 

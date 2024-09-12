@@ -1,5 +1,5 @@
 
-<li> Moncel, Julien 
+<li> Momihara, Koji
 <ul>
-<li> (with Antoine Dailly and Aline Parreau) Connected Subtraction Games on Subdivided Stars, <a href="vol19.html">Vol 19</a>
+<li> (with Sho Suda) Conference Matrices With Maximum Excess and  Two-intersection Sets, <a href="vol17.html">Vol 17</a>
 

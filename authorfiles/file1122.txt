@@ -1,5 +1,5 @@
 
-<li> Ma, Yingbin 
+<li> Ma, Xin-Rong 
 <ul>
-<li> (with Wen An Liu, Haifeng Li, and Bei Li) On Supplements of <i> 2 x m</i>  Board in Toppling Towers, <a href="vol12.html">Vol 12</a>
+<li> (with Leetsch C. Hsu) Some Combinatorial Series and Reciprocal Relations Involving Multifold Convolutions, <a href="vol14.html">Vol 14</a>
 

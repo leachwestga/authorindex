@@ -1,6 +1,5 @@
 
-<li> Spindler, Mark
+<li> Spier, Thom&aacute;s Jung
 <ul>
-<li> Equality Classes of Nim Positions under Mis&egrave;re Play, <a href="vol16.html">Vol 16</a>
-<li> An Extension of the Normal Play Convention to <i>N</i>-player combinatorial games, <a href="vol20a.html">Vol 20a</a>
+<li> On Means of Near Continued Fractions, <a href="vol23.html">Vol 23</a>
 

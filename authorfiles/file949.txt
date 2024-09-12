@@ -1,7 +1,5 @@
 
-<li> Kontorovich, Alex
+<li> Konstantogiannis, Spiros
 <ul>
-<li> (with Aviezri Fraenkel)
-The Sierpi&#324;ski Sieve of Nim-varieties and Binomial Coefficients,
-<a href="vol7-2.html">Vol 7(2)</a>
+<li> The Euclidean Algorithm as a Sequence of Modular Inverse Switching Formulas, <a href="vol24.html">Vol 24</a>
 

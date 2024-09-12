@@ -1,5 +1,5 @@
 
-<li> Jin, Hai-Tao
+<li> Jiang, Wen 
 <ul>
-<li> (with Daniel K. Du) Abel's Lemma and Identities on Harmonic Numbers, <a href="vol15.html">Vol 15</a>
+<li> (with Yong-Gao Chen) Catalan Numbers Modulo a Prime Power, <a href="vol13.html">Vol 13</a>
 

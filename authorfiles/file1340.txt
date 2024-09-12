@@ -1,5 +1,5 @@
 
-<li> Omar, Mohamed 
+<li> Olson, Jeffrey S.
 <ul>
-<li> (with Pamela E. Harris) Lattice Point Visibility on Power Functions, <a href="vol18.html">Vol 18</a>
+<li> Variants of Bulgarian Solitaire, <a href="vol16.html">Vol 16</a>
 

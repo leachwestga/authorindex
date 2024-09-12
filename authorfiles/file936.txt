@@ -1,9 +1,6 @@
 
-<li> Klyve, Dominic
+<li> Klouda, Karel
 <ul>
-<li> (with Jonathan Bayless) On the Sum of Reciprocals of Amicable Numbers,
-<a href="vol11a.html">Vol 11A</a>
-<li> (with Jonathan Bayless and Tom&aacute;s Oliveira e Silva) New Bounds and Computations on Prime-Indexed Primes, <a href="vol13.html">Vol 13</a>
-<li> (with Melissa Piddle and Kathryn E. Temple) Estimating the Density of the Abundant Numbers, <a href="vol19.html">Vol 19</a>
-<li> (with Tasha Fellman) Existence of Cycles in Ducci’s Four-Number Game with Modular Multiplication, <a href="vol23.html">Vol 23</a>
+<li> (with Edita Pelantov&aacute;) Factor Complexity of Infinite Words Associated With Non-Simple Parry Numbers, <a href="vol9.html">Vol 9</a>
+<li> (with L'ubom&iacute;ra Balkov&aacute;  and Edita Pelantov&aacute;) Critical Exponent of Infinite Words Coding Beta-Integers Associated with Non-Simple Parry Numbers, <a href="vol11b.html">Vol 11b</a>
 

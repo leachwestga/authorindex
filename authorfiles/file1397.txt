@@ -1,5 +1,5 @@
 
-<li> Paul, Prabal 
+<li> Paul, Michael D.
 <ul>
-<li> (with M. N. Chintamani and R. Thangadurai) On Short Zero-sum Sequences Over Abelian p-groups, <a href="vol17.html">Vol 17</a>
+<li> (with Michael P. Knapp) On Weakly Complete Sequences Formed by the Greedy Algorithm, <a href="vol12.html">Vol 12</a>
 

@@ -1,6 +1,5 @@
 
-<li> Verri, M. Cecilia
+<li> Verreault, William 
 <ul>
-<li> (with Francesca Uncini and Donatella Merlini) A Unified Approach to the Study of General and Palindromic Compositions, <a href="vol4.html">Vol 4</a>
-<li> (with Donatella Merlini and Renzo Sprugnoli) The Akiyama-Tanigawa Transformation, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Jean-Marie de Konink and Nicolas Doyon) Repetitions of Multinomial Coefficients and a Generalization of Singmaster's Conjecture, <a href="vol21.html">Vol 21</a>
 

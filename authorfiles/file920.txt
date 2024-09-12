@@ -1,8 +1,6 @@
 
-<li> King, Adam J. 
+<li> Kimberling, Clark
 <ul>
-<li> (with Morgan V. Brown, Neil J. Calkin, Kevin James,
-Shannon Lockard, and Robert
-C Rhoades) Trivial Selmer Groups and Even Partitions of a Graph,
-<a href="vol6.html">Vol 6</a>
+<li> Beatty Sequences and Trigonometric Functions, <a href="vol16.html">Vol 16</a>
+<li> (with Peter J. C. Moses) Nested Interval Sequences of Positive Real Numbers, <a href="vol17.html">Vol 17</a>
 

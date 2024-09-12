@@ -1,5 +1,7 @@
 
-<li> McAnally, Nathan 
+<li> McAllister, Tyrrell B.
 <ul>
-<li> (with Rigoberto Fl&oacute;rez and Antara Mukherjee) Identities for the Generalized Fibonacci Polynomial, <a href="vol18b.html">Vol 18B</a>
+<li> (with Sergey Kitaev and T. Kyle Petersen)
+Enumerating Segmented Patterns in Compositions and Encoding by Restricted Permut
+ations, <a href="vol6.html">Vol 6</a>
 

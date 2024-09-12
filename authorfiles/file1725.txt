@@ -1,5 +1,5 @@
 
-<li> Sorenson, Jonathan P.
+<li> Song, Kyunghwan
 <ul>
-<li> (with Cathal O’Sullivan and Aryn Stahl) Algorithms and Bounds on the Sums of Powers of Consecutive Primes, <a href="vol24.html">Vol 24</a>
+<li> The Frobenius Problem for Extended Thabit Numerical Semigroups, <a href="vol21.html">Vol 21</a>
 

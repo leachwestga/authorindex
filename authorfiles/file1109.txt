@@ -1,5 +1,5 @@
 
-<li> Lumley, Allysa 
+<li> Luckner, Thomas
 <ul>
-<li> (with Habiba Kadiri) Short Effective Intervals Containing Primes, <a href="vol14.html">Vol 14</a>
+<li> (with Michael Filaseta and Jacob Juillerat) Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers, <a href="vol23.html">Vol 23</a>
 

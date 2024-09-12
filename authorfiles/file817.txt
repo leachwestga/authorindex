@@ -1,5 +1,5 @@
 
-<li> Jacobs, R.
+<li> Jacob, Jobby 
 <ul>
-<li> (with C. E. Larson) A Graph Theoretic Formula for the Number of Primes &pi;(<i>n</i>), <a href="vol20.html">Vol 20</a>
+<li> (with Neil J. Calkin, Julia Davis, Michelle Delcourt, Zebediah Engberg, and Kevin James) Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach, <a href="vol13.html">Vol 13</a>
 

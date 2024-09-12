@@ -1,5 +1,5 @@
 
-<li> Kathiravan, T.
+<li> K&aacute;rolyi, Gyula
 <ul>
-<li> (with K. Srilakshmi) Some Congruences for <i>(s,t)</i>-regular Bipartitions Modulo <i>t</i>, <a href="vol21.html">Vol 21</a>
+<li> Balanced Subset Sums in Dense Sets of Integers, <a href="vol9.html">Vol 9</a>
 

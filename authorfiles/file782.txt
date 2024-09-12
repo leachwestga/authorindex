@@ -1,5 +1,5 @@
 
-<li> Horvath, Gabor
+<li> Horrocks, Jonathan H. 
 <ul>
-<li> (with Andries E. Brouwer, Ildiko Molnar-Saska, and Csaba Szabo) On Three-rowed Chomp, <a href="vol5.html">Vol 5(1)</a>
+<li> (with David G. C. Horrocks) Sprague-Grundy Values of Modular Nim, <a href="vol19.html">Vol 19</a>
 

@@ -1,5 +1,5 @@
 
-<li> Lomel&iacute;, Ana Cecilia Garc&iacute;a
+<li> Lombaers, Peter
 <ul>
-<li> (with Santos Hern&aacute;ndez Hern&aacute;ndez) Powers of Two as Sums of Two Padovan Numbers, <a href="vol18.html">Vol 18</a>
+<li> Generalizations of Wolstenholme's Theorem Via the <i>p</i>-adic Logarithm, <a href="vol20.html">Vol 20</a>
 

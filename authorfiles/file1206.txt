@@ -1,6 +1,5 @@
 
-<li> Mekkaoui, Mohammed
+<li> Mei, Shu-Yuan
 <ul>
-<li> (with M. P. Chaudhary and Kamel Mazhouda) Discrete Measures and the Riemann Hypothesis of Some <i>L</i>-Function in the Selberg Class, <a href="vol23.html">Vol 23</a>
-<li class=fragment> (with M. P. Chaudhary, Salem Guiben, Kamel Mazhouda) On the \(a\)-Points of the  \(k^{\mathrm{th}}\) Derivative of an \(L\)-Function in the Selberg Class, <a href="vol24.html">Vol 24</a>
+<li> The Sum of Digits of Polynomial Values, <a href="vol15.html">Vol 15</a>
 

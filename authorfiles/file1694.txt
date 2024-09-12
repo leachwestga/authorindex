@@ -1,7 +1,6 @@
 
-<li> Sissokho, Papa A.
+<li> Sirvent, V&iacute;ctor F.
 <ul>
-<li> (with Marvin L. Sahs and Jordan N. Torf) A Zero-Sum Theorem Over Z, <a href="vol13.html">Vol 13</a>
-<li> (with C. Augspurger, M. Minter, K. Shoukry,  and K. Voss) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
-<li> (with Sunil K. Chebolu) Zero-sum-free Tuples and Hyperplane Arrangements, <a href="vol22.html">Vol 22</a>
+<li> Symmetries in  <i>k</i>-Bonacci Adic Systems, <a href="vol11b.html">Vol 11b</a>
+<li> Pisot Numbers and Chromatic Zeros, <a href="vol13.html">Vol 13</a>
 

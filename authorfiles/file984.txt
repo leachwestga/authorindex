@@ -1,5 +1,5 @@
 
-<li> Kumchev, Angel V.
+<li> Kumar, Shiv Datt
 <ul>
-<li> On Sums of Primes from Beatty Seqeuences, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Abhishek Juyal and Dustin Moody) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>
 

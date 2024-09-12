@@ -1,5 +1,5 @@
 
-<li> Pan, Yanbin 
+<li> Pan, Minghao
 <ul>
-<li> (with Yingpu Deng) The Sum of Binomial Coefficients and Integer Factorization, <a href="vol16.html">Vol 16</a>
+<li> (with Wentao Zhang) Quotients of Hurwitz Primes, <a href="vol21.html">Vol 21</a>
 

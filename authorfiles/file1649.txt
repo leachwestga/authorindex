@@ -1,6 +1,5 @@
 
-<li> Shao, Lily 
+<li> Shannon, S. R. 
 <ul>
-<li> (with H&#249;ng Vi&#7879;t Chu, Noah Luntzlara, and Steven J. Miller) Infinite Families of Partitions Into MSTD Subsets, <a href="vol19.html">Vol 19</a>
-<li> (with H&#249;ng Vi&#7879;t, Noah Luntzlara, and Steven J. Miller) Generalizations of a Curious Family of MSTD Sets Hidden by Interior Blocks, <a href="vol20a.html">Vol 20a</a>
+<li> (with Lars Blomberg and N. J. A. Sloane) Graphical Enumeration and Stained Glass Windows, 1: Rectangular Grids, <a href="vol21A.html">Vol 21A</a>
 

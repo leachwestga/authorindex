@@ -1,5 +1,6 @@
 
-<li> Tanny, Yuval
+<li> Tanimoto, Shinji
 <ul>
-<li> (with Aviezri Fraenkel) A Class of Wythoff-Like Games, <a href="vol12b.html">Vol 12B</a>
+<li> A Study of Eulerian Numbers for Permutations
+in the Alternating Group, <a href="vol6.html">Vol 6</a>
 

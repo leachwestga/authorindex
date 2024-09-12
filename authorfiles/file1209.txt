@@ -1,5 +1,13 @@
 
-<li> Melles, Caroline 
+<li> Melham, R. S.
 <ul>
-<li> (with Charles Celerier, David Joyner, David Phillips, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
+<li> Analogues of Two Classical Theorems on the Representations of a Number,
+<a href="vol8.html">Vol 8(1)</a>
+<li> Analogues of Jacobi's Two-Square Theorem:  An Informal Account, <a href="vol10.html">Vol 10</a>
+<li> On Product Difference Fibonacci Identities, <a href="vol11.html">Vol 11</a>
+<li> On Finite Sums of Good and Shar that Involve Reciprocals of Fibonacci Numbers, <a href="vol12.html">Vol 12</a>
+<li> Finite Sums that Involve Reciprocals of Products of Generalized Fibonacci Numbers, <a href="vol13.html">Vol 13</a>
+<li> More on Finite Sums that Involve Reciprocals of Products of Generalized Fibonacci Numbers, <a href="vol14.html">Vol 14</a>
+<li> Finite Reciprocal Sums in Which the Denominator of the Summand Contains Squares of Generalized Fibonacci Numbers, <a href="vol16.html">Vol 16</a>
+<li> Finite Reciprocal Sums of Products Involving Squares of Sines or Cosines With Arguments in Arithmetic Progression, <a href="vol17.html">Vol 17</a>
 

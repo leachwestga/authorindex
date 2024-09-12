@@ -1,8 +1,5 @@
 
-<li> Siegel, Anne
+<li> Siegel, Aaron N.
 <ul>
-<li> (with Val&eacute;rie Berth&eacute;) Tilings Associated with Beta-numeration and Substitutions, <a href="vol5-3.html">Vol 5(3)</a>
-<li> (with R. J. Nowakowski)
-Partizan Geography on <i>K<sub>n</sub></i> x <i>K<sub>2</sub></i>,
-<a href="vol7-2.html">Vol 7(2)</a>
+<li> On the Structure of Mis&egrave;re Impartial Games, <a href="vol21b.html">Vol 21b</a>
 

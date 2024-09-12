@@ -1,6 +1,7 @@
 
-<li> Manski, Sarah
+<li> Manske, Jacob
 <ul>
-<li> (with Jacob Mayle and Nathaniel Zbacnik) The Asymptotic Distribution of a Hybrid Arithmetic Function, <a href="vol15.html">Vol 15</a>
-<li> (with David Burt, Eli Goldstein, Steven J. Miller, Eyvindur Ari Palsson, and Hong Suh) Crescent Configurations, <a href="vol16.html">Vol 16</a>
+<li> (with Maria Axenovich) On Monchromatic Subsets of a Rectangular
+Grid, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Jeremy F. Alm) A New Approach to the Results of K&ouml;vari, S&oacute;s, and Tur&aacute;n Concerning Rectangle-Free Subsets of the Grid, <a href="vol12.html">Vol 12</a>
 

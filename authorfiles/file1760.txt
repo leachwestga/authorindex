@@ -1,5 +1,6 @@
 
-<li> Stender, Matthew 
+<li> Steinerberger, Stefan 
 <ul>
-<li> (with Mark Budden and Yanbo Zhang) Weakened Ramsey Numbers and Their Hypergraph Analogues, <a href="vol17.html">Vol 17</a>
+<li> (with Noah Kravitz) Ulam Sequences and Ulam Sets, <a href="vol18.html">Vol 18</a>
+<li> (with Katherine Cordwell,  Alyssa Epstein, Anand Hemmandy, Steven J. Miller, Eyvindur Palsson, Aaditya Sharma, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
 

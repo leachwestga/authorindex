@@ -1,5 +1,5 @@
 
-<li> Mahlburg, Karl 
+<li> Maharaj, Hiren 
 <ul>
-<li> (with Mauro Di Nasso, Isaac Goldbring, Renling Jin, Steven Leth, and Martino Lupini) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
+<li> (with Jeong-Hyun Kang) Distance Graphs From <i>p</i>-Adic Norms, <a href="vol10.html">Vol 10</a>
 

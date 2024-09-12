@@ -1,6 +1,5 @@
 
-<li> Sen Gupta, Sourav 
+<li> Sengupta, Sayak
 <ul>
-<li> (with Pantelimon St&#259;nic&#259;, Santanu Sarkar, Subhamoy Maitra, and Nirupam
- Kar) Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
+<li class=fragment> Locally Nilpotent Polynomials over \(\mathbb{Z}\), <a href="vol24.html">Vol 24</a>
 

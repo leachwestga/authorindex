@@ -1,5 +1,7 @@
 
-<li> Zhang, Zhizheng
+<li> Zhang, Yong 
 <ul>
-<li> (with Jun Wang) A Common Generalization of Some Identities, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Tianxin Cai and Liuquan Wang) Perfect Numbers and Fibonacci Primes II, <a href="vol19.html">Vol 19</a>
+<li> (with Junyao Peng) On Certain Diophantine Equations Involving Triangular Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Yangcheng Li) Primitive Pythagorean Triangles with Sides of Certain Forms, <a href="vol24.html">Vol 24</a>
 

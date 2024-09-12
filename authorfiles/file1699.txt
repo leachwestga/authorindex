@@ -1,5 +1,5 @@
 
-<li> Skerritt, Matthew
+<li> Ska&lstrok;ba, Mariusz
 <ul>
-<li> (with Jonathan Borwein and Christopher Maitland) Computation of an Improved Lower Bound to Giuga's Primality Conjecture, <a href="vol13.html">Vol 13</a>
+<li> A Note on Sums of Two Squares and Sum-of-divisors Functions, <a href="vol20.html">Vol 20</a>
 

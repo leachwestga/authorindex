@@ -1,5 +1,5 @@
 
-<li> Liu, Ji-Cai 
+<li> Liu, Guodong 
 <ul>
-<li> (with Moa Apagodu) Congruence Properties for the Trinomial Coefficients, <a href="vol20.html">Vol 20</a>
+<li> (with Haiqing Wang) An Explicit Formula for Higher Order Bernoulli Polynomials of the Second Kind, <a href="vol13.html">Vol 13</a>
 

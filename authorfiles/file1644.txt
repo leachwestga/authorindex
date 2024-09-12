@@ -1,14 +1,5 @@
 
-<li> Shallit, Jeffrey
+<li> Shaikh, Md. Moid 
 <ul>
-<li> (with James Stankewicz) Unbounded Discrepancy in Frobenius Numbers, <a href="vol11.html">Vol 11</a>
-<li> (with Yu-Hin Au and Aaron Robertson) Van der Waerden's Theorem and Avoidability in Words, <a href="vol11.html">Vol 11</a>
-<li> (with Sajed Haque) Discriminators and <i>k</i>-Regular Sequences, <a href="vol16.html">Vol 16</a>
-<li> Length of the Continued Logarithm Algorithm on Rational Inputs, <a href="vol20.html">Vol 20</a>
-<li> Abelian Complexity and Synchronization, <a href="vol21.html">Vol 21</a>
-<li> Frobenius Numbers and Automatic Sequences, <a href="vol21.html">Vol 21</a>
-<li> (with James Haoyu Bai, Joseph Meleshko, and Samin Riasat) Quotients of Palindromic and Antipalindromic Numbers, <a href="vol22.html">Vol 22</a>
-<li> Proof of a Conjecture of Krawchuk and Rampersad on the Cyclic Complexity of the Thue-Morse Sequence, <a href="vol23.html">Vol 23</a>
-<li> A Dombi Counterexample with Positive Lower Density, <a href="vol23.html">Vol 23</a>
-<li> Proof of Irvine’s Conjecture via Mechanized Guessing, <a href="vol24.html">Vol 24</a>
+<li> (with Sourav Kanti Patra) Monochromatic Sums Equal to Products Near Zero, <a href="vol20.html">Vol 20</a>
 

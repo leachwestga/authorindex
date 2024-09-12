@@ -1,5 +1,5 @@
 
-<li> Morrison, Robert 
+<li> Morrill, Thomas
 <ul>
-<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
+<li> (with David John Platt) Robin's Inequality for 20-free Integers, <a href="vol21.html">Vol 21</a>
 

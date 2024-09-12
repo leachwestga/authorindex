@@ -1,5 +1,5 @@
 
-<li> Staps, Merlijn
+<li> Stanton, Caitlin
 <ul>
-<li> The Relative Sizes of Sumsets and Difference Sets, <a href="vol15.html">Vol 15</a>
+<li> Packing Polynomials on Sectors of R<sup>2</sup>, <a href="vol14.html">Vol 14</a>
 

@@ -1,3 +1,7 @@
+# create the authorlist.csv file
+
+import re
+
 numberOfAuthors = 10
 numberOfAuthors = 2092
 
@@ -30,7 +34,7 @@ def getAuthorname(number):
     while(len(name)==0 and tries > 0):
         name= f.readline().strip()
         tries = tries - 1
-    name=name[5:]
+    name=re.sub("^.*>","",name).strip();
     f.close()
     return(name)
 
@@ -51,7 +55,7 @@ class AuthorRecord:
         return(str(self.ID) + " " + self.name)
 
     def toCsvLine(self):
-        c = str(self.ID)
+        c = str(self.ID+1)
         c += ", "
         c += self.name
         c += '\n'

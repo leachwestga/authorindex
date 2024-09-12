@@ -1,5 +1,5 @@
 
-<li> Yalman, Demet 
+<li> Xue, Hui 
 <ul>
-<li> (with Mustafa Ozen and Hua Wang) Note on Leech-type Questions of Trees, <a href="vol16.html">Vol 16</a>
+<li> (with Jason Hedetniemi and Kevin James) Champion Primes For Elliptic Curves, <a href="vol14.html">Vol 14</a>
 

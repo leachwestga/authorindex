@@ -1,5 +1,5 @@
 
-<li> Tanabe, Naomi
+<li class="fragment"> Tait, Michael 
 <ul>
-<li class=fragment> (with Nawapan Wattanawanichkul) An Alternative Approach to Computing \(\beta(2k+1)\), <a href="vol23.html">Vol 23</a>
+<li> (with Erin Bevilacqua, Samuel King, J&uuml;rgen Kritschgau,  Suzannah Tebon, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
 

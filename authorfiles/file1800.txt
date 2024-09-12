@@ -1,5 +1,7 @@
 
-<li> Tachiya, Yohei 
+<li> Ta, Ha
 <ul>
-<li> (with Takao Komatsu and Florian Luca) On the Multiplicative Order of <i>F<sub>n+1</sub>/F<sub>n</sub></i> Modulo <i>F<sub>m</sub></i>, <a href="vol12b.html">Vol 12B</a>
+<li> (with David Garth and Joseph Palmer)
+Self Generating Sets and Numeration Systems,
+<a href="vol9supp.html">Volume 9  Supplement</a>
 

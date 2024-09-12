@@ -1,6 +1,7 @@
 
-<li> Juyal, Abhishek
+<li> Just, Matthew 
 <ul>
-<li> (with Shiv Datt Kumar and Dustin Moody) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>
-<li> (with Dustin Moody) On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>, <a href="vol21.html">Vol 21</a>
+<li> (with Maghann Moriah Gibson and Hua Wang) Note on Restricted Parts in Cyclic Compositions, <a href="vol18.html">Vol 18</a>
+<li> On Upper Bounds for the Count of Elite Primes, <a href="vol20.html">Vol 20</a>
+<li> Compositions That Are Palindromic Modulo <i>m</i>, <a href="vol23.html">Vol 23</a>
 

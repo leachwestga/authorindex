@@ -1,5 +1,10 @@
 
-<li> Irie, Yuki
+<li> Iosevich, Alex
 <ul>
-<li> A Base-<i>p</i> Sprague-Grundy Type Theorem for <i>p</i>-calm Subtraction Games: Welter's Game and Representations of Generalized Symmetric Groups, <a href="vol21b.html">Vol 21b</a>
+<li> (with I. Laba) K-distance Sets, Falconer Conjecture, and Discrete Analogs, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with M. Rudnev) Powder Diffraction from a
+Combinatorial and Analytic Viewpoint,
+<a href="vol8-2.html">Vol 8(2)</a>
+<li> (with Jeremy Chapman) On Rapid Generation of <i>SL<sub>2</sub>(<b>F</b><sub>q</sub>)</i>, <a href="vol9.html">Vol 9</a>
+<li> (with Hannah Morgan and Jonathan Pakianathan) On Directions Determined by Subsets of Vector Spaces Over Finite Fields, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,5 @@
 
-<li> Rushall, Jeff
+<li> Ru&eacute;, Juanjo 
 <ul>
-<li> (with Marcela Guttierez and Viola McCarty) On the Complete Tree of Primitive Pythagorean Quadruples, <a href="vol20.html">Vol 20</a>
+<li> (with Pablo Candela and Oriol Serra) Memorial to Javier Cilleruelo: A Problem List, <a href="vol18.html">Vol 18</a>
 

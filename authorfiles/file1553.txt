@@ -1,5 +1,5 @@
 
-<li> Roy, Bidisha 
+<li> Rowley, Fred
 <ul>
-<li> (with Aaron Robertson and Subha Sarkar) The Determination of 2-color Zero-sum Generalized Schur Numbers, <a href="vol18.html">Vol 18</a>
+<li> New Lower Bounds for Weak Schur Partitions, <a href="vol21.html">Vol 21</a>
 

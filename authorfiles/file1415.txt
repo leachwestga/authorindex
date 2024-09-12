@@ -1,5 +1,7 @@
 
-<li> Petrenko, B. V.
+<li> Peth&#337;, Attila
 <ul>
-<li> On the Distribution of Distances between the Points of Affine Curves over Finite Fields, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Guy Barat and Christiane Frougny) A Note on Linear Recurrent Mahler Numbers, <a href="vol5-3.html">Vol 5(3)</a>
+<li> On the Boundary of the Set of the Closure of Contractive Polynomials, <a href="vol9.html">Vol 9</a>
+<li> (with J&ouml;rg Thuswaldner and Mario Weitzer) The Finiteness Property for Shift Radix Systems With General Parameters, <a href="vol19.html">Vol 19</a>
 

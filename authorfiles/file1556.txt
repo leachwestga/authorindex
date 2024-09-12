@@ -1,5 +1,6 @@
 
-<li> Ruci&nacute;ski, Andrzej 
+<li> Rubinstein, Michael O.
 <ul>
-<li> (with Andrzej Dudek and Jaros&lstrok;aw Grytczuk) On Weak Twins and Up-and-down Sub-permutations, <a href="vol21A.html">Vol 21A</a>
+<li> The Distribution of Solutions to <i>xy = N </i> (MOD <i>a</i>) with an Application to Factoring Integers, <a href="vol13.html">Vol 13</a>
+<li> The South Caicos Factoring Algorithm, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,5 @@
 
-<li> Randrianantenaina, Jean Lucien
+<li> Randriam, Hugues
 <ul>
-<li class=fragment> (with Florian Luca) There Is No Carmichael Number of the Form \(2^n p^2+1\) With \(p\) Prime, <a href="vol23.html">Vol 23</a>
+<li> (with Jean-Pierre Flori) On the Number of Carries Occurring in an Addition Mod <i>2<sup>k</sup>-1</i>, <a href="vol12.html">Vol 12</a>
 

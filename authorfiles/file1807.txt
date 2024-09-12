@@ -1,5 +1,5 @@
 
-<li> Talbot, John 
+<li> Takeda, Wataru
 <ul>
-<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin, David Offner,  and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+<li> On Solutions to Erd&#337;s' Last Equation, <a href="vol21.html">Vol 21</a>
 

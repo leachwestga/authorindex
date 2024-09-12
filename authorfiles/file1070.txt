@@ -1,5 +1,6 @@
 
-<li> Lidick&yacute;, Bernard 
+<li> Lichtman, Jared Ducker 
 <ul>
-<li> (with Maria Axenovich, John Goldwasser, Ryan R. Martin, David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+<li> Mertens' Prime Product Formula, Dissected,
+<a href="vol21a.html">Vol 21A</a>
 

@@ -1,5 +1,8 @@
 
-<li> Rhodes, Devon  
+<li> Rhoades, Robert C 
 <ul>
-<li> (with Shilin Ma, Kevin J. McGown, and Mathias Wanner) On the Number of Primes for Which a Polynomial is Eisenstein, <a href="vol18.html">Vol 18</a>
+<li> (with Morgan V. Brown, Neil J. Calkin, Kevin James, Adam J. King,
+and Shannon Lockard)
+Trivial Selmer Groups and Even Partitions of a Graph,
+<a href="vol6.html">Vol 6</a>
 

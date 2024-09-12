@@ -1,7 +1,9 @@
 
-<li> S&aacute;ndor, J&oacute;zsef
+
+<li> S&aacute;ndor, Csaba
 <ul>
-<li> (with L&aacute;szl&oacute; T&oacute;th) 
-Extremal Orders of Compositions of Certain Arithmetical Functions,
-<a href="vol8.html">Vol 8(1)</a>
+<li> Partitions of Natural Numbers and Their Representative Functions, <a href="vol4.html">Vol 4</a>
+<li> Random <em>B<sub>h</sub></em> Sets and Additive Bases
+in <b>Z</b><sub>n</sub>, <a href="vol7.html">Vol 7</a>
+<li> (with S&aacute;ndor Kiss) On the Structure of Sets Which Have Coinciding Representation Functions, <a href="vol19.html">Vol 19</a>
 

@@ -1,5 +1,5 @@
 
-<li> Michael, T. S. 
+<li> Micek, Piotr 
 <ul>
-<li> (with Nicholas A. Loehr) The Combinatorics of Evenly Spaced Binomial Coefficients, <a href="vol18.html">Vol 18</a>
+<li> (with Steven Chaplick, Torsten Ueckerdt, and Veit Wiechert) A Note on Concurrent Graph Sharing Games, <a href="vol16.html">Vol 16</a>
 

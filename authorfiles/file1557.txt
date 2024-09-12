@@ -1,6 +1,5 @@
 
-<li> Rudnev, M.
+<li> Ruci&nacute;ski, Andrzej 
 <ul>
-<li> (with A. Iosevich) Powder Diffraction from a Combinatorial
-and Analytic Viewpoint, <a href="vol8-2.html">Vol 8(2)</a>
+<li> (with Andrzej Dudek and Jaros&lstrok;aw Grytczuk) On Weak Twins and Up-and-down Sub-permutations, <a href="vol21A.html">Vol 21A</a>
 

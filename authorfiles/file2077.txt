@@ -1,5 +1,5 @@
 
-<li> Zheng, Jinze 
+<li> Zhao, Liangyi 
 <ul>
-<li> (with Tian-Xiao He) Duals of the Bernoulli Numbers and Polynomials and the Euler Numbers and Polynomials, <a href="vol17.html">Vol 17</a>
+<li> (with Peng Gao) Primes <i>p &equiv; 1</i> mod <i>d</i> and <i>a<sup>(p-1)/d</sup> &equiv; 1</i> mod <i>p</i>, <a href="vol19.html">Vol 19</a>
 

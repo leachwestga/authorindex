@@ -1,5 +1,5 @@
 
-<li> Knop, Konstantin 
+<li> Knapp, Michael P.
 <ul>
-<li> (with Nikolay Chikin, Vladimir Gurvich,  Mike Paterson, and Michael Vyalyi) More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
+<li> (with Michael D. Paul) On Weakly Complete Sequences Formed by the Greedy Algorithm, <a href="vol12.html">Vol 12</a>
 

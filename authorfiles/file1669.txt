@@ -1,5 +1,5 @@
 
-<li> Shen, Karen 
+<li> Shen, Chun-Yen
 <ul>
-<li> (with Oliva Beckwith, Victor Luo, Steven J. Miller, and Nicholas Triantafillou) Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles, <a href="vol15.html">Vol 15</a>
+<li> (with Doowon Koh) Additive Energy and the Falconer Distance Problem in Finite Fields, <a href="vol13.html">Vol 13</a>
 

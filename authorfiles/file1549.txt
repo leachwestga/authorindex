@@ -1,5 +1,5 @@
 
-<li> Rout, S. S.
+<li> Rouse, Jeremy 
 <ul>
-<li> (with R. Thangadurai) On &#x2113;-th Order Gap Balancing Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Bart Goddard) Sum of Two Repdigits a Square, <a href="vol17.html">Vol 17</a>
 

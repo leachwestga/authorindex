@@ -1,6 +1,6 @@
 
-<li> Junes, Leandro 
+<li> Juillerat, Jacob 
 <ul>
-<li> (with Rigoberto Fl&oacute;rez) A Relation Between Triangular Numbers and Prime Numbers, <a href="vol11.html">Vol 11</a>
-<li> (with Rigoberto Fl&oacute;rez and Robinson A. Higuita) <i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers, <a href="vol14.html">Vol 14</a>
+<li> (with Michael Filaseta) Consecutive Primes Which Are Widely Digitally Delicate, <a href="vol21A.html">Vol 21A</a>
+<li> (with Michael Filaseta and Thomas Luckner) Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers, <a href="vol23.html">Vol 23</a>
 

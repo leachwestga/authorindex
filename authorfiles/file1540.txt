@@ -1,7 +1,5 @@
 
-<li> Robinson, Rhett S.
+<li> Robinson, Luc 
 <ul>
-<li> (with Gretchen L. Matthews)
-A Variant of the Frobenius Problem and Generalized Suzuki Semigroups,
-<a href="vol7-2.html">Vol7(2)</a>
+<li> (with Steven J. Miller and Sean Pegado) Explicit Constructions of Large Families of Generalized More Sums Than Differences Sets, <a href="vol12.html">Vol 12</a>
 

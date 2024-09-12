@@ -1,5 +1,5 @@
 
-<li> Viswanadham, G. K.
+<li> Vishwakarma, Chandan Kumar
 <ul>
-<li> (with R. Thangadurai) On  the Prime <I>k</I>-tuple Conjecture, <a href="vol14.html">Vol 14</a>
+<li> (with Rajesh P. Singh) A Congruence Identity on Ordered Partition Using Permutation Polynomials, <a href="vol24.html">Vol 24</a>
 

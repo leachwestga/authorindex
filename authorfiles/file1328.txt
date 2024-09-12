@@ -1,14 +1,5 @@
 
-<li> O'Bryant, Kevin
+<li> Obando, Rodrigo A.
 <ul>
-<li> Fraenkel's Partition and Brown's Decomposition, <a href="vol3.html">Vol 3</a>
-<li> Gaps in the Spectrum of Nathanson Heights of Projective Points,
-<a href="vol7.html">Vol 7</a>
-<li> On Z.-W. Sun's Disjoint Congruence Classes Conjecture,
-<a href="vol7-2.html">Vol 7(2)</a>
-<li> Thick Subsets that Do Not Contain Arithmetic Progressions, <a href="vol13.html">Vol 13</a>
-<li> (with Melvyn B. Nathanson) On Sequences without Geometric Progressions, <a href="vol13.html">Vol 13</a>
-<li> (with Melvyn B. Nathanson) Irrational Numbers Associated to Sequences Without Geometric Progressions, <a href="vol14.html">Vol 14</a>
-<li> (with D. Dakota Blair and Joel David Hamkins) Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers, <a href="vol20a.html">Vol 20a</a>
-<li> (with Michael A. Bennett and Greg Martin) Multidimensional Pad&eacute; Approximation of Binomial Functions: Equalities, <a href="vol21A.html">Vol 21A</a>
+<li> (with Eugen J. Ionascu) Cubes  in <i>{0,1,...,n}<sup>3</sup></i>, <a href="vol12a.html">Vol 12A</a>
 

@@ -1,6 +1,6 @@
 
-<li> Kim, Dae San
+<li> Kim, Byungchan
 <ul>
-<li> Codes Associated With <i>O<sup>+</sup>(2n,2<sup>r</sup>)</i> and Power Moments of Kloosterman Sums, <a href="vol11.html">Vol 11</a>
-<li> An Infinite Family of Recursive Formulas Generating Power Moments of Kloosterman Sums with Trace One Arguments: <i>O(2n+1, 2<sup>r</sup>)</i> Case, <a href="vol13.html">Vol 13</a>
+<li> The Overpartition Function Modulo 128,
+<a href="vol8.html">Vol 8(1)</a>
 

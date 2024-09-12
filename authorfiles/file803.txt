@@ -1,5 +1,6 @@
 
-<li> Imatomi, Kohtaro
+<li> Iiams, Joel 
 <ul>
-<li> Multi-Poly-Bernoulli-Star Numbers and Finite Multiple Zeta-Star Values, <a href="vol14.html">Vol 14</a>
+<li> (with Jeremiah Bartz and Bruce Dearden) Almost Gap Balancing Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Jeremiah Bartz and Bruce Dearden) Polygonal Balancing Numbers I, <a href="vol22.html">Vol 22</a>
 

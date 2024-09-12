@@ -1,7 +1,6 @@
 
-<li> Laohakosol, Vichian 
+<li> Lao, Huixue 
 <ul>
-<li> (with Jittinart Rattanamoong and Tuangrat Chaichana) Generalized Folding Lemmas in the Field of Formal Series and Their Applications, <a href="vol15.html">Vol 15</a>
-<li> (with  P. Singthongla and N. R. Kanasri) Reducibility of Polynomials Over Algebraic Number Fields, <a href="vol17.html">Vol 17</a>
-<li> (with Takao Komatsu and Jittinart Rattanamoong) Complex Cantor Series, Cantor Products and Their Independence, <a href="vol19.html">Vol 19</a>
+<li> (with Linli Wei) The Mean Value of a Hybrid Arithmetic Function Associated to Fourier Coefficieints of Cusp Forms, <a href="vol19.html">Vol 19</a>
+<li> (with Aiyue Zou and Linli Wei) Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions, <a href="vol22.html">Vol 22</a>
 

@@ -1,12 +1,6 @@
 
-<li> Khan, Mizan R.
+<li> Khan, Bilal
 <ul>
-<li> (with Dennis Eichhorn, Alan H. Stein, and Christian L. Yankov)
-Sums and Differences of the Coordinates of Points on Modular Hyperbolas,
-<a href="vol9supp.html">Volume 9 Supplement</a>
-<li> Modular Hyperbolas and the Coefficients of <i>(x<sup>-1</sup>+6+x)<sup>k</sup></i>,
-<a href="vol11a.html">Vol 11A</a>
-<li> Khan, Mizan R.
-<ul>
-<li> (with Richard Magner, Steven Senger, and Arne Winterhof) Two Combinatorial Geometric Problems involving Modular Hyperbolas, <a href="vol14.html">Vol 14</a>
+<li> (with Kiran R. Bhutani and Delaram Kahrobaei) A Graphic
+Generalization of Arithmetic, <a href="vol7.html">Vol 7</a>
 

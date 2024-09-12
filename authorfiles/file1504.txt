@@ -1,5 +1,6 @@
 
-<li> Rehberg, Sophie
+<li> Regev, Alon
 <ul>
-<li> (with Matthias Beck and Sophia Ella) Rational Ehrhart Theory, <a href="vol23.html">Vol 23</a>
+<li> A Proof of Catalan's Convolution Formula, <a href="vol12.html">Vol 12</a>
+<li> (with Andrei Asinowski) Triangulations with Few Ears:  Symmetry Classes and Disjointness, <a href="vol16.html">Vol 16</a>
 

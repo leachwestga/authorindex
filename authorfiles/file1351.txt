@@ -1,10 +1,5 @@
 
-<li> Ottaway, Paul
+<li> Otmani, Yassine
 <ul>
-<li> (with Richard J. Nowakowski) Vertex Deletion Games with Parity Rules, <a href="vol5-2.html">Vol 5(2)</a>
-<li> (with G. A. Mesdal) Simplification of Partizan Games in
-Mis&egrave;re Play, <a href="vol7.html">Vol 7</a>
-<li> (with Rebecca Milley and Richard J. Nowakowski) The Mis&egrave;re Monoid of One-Handed Alternating Games, <a href="vol12b.html">Vol 12B</a>
-<li> (with Peter Harding) Edge Deletion Games with Parity Rules, <a href="vol14.html">Vol 14</a>
-<li> (with Michael Fisher, Neil McKary, Richard J. Nowakowski, and Carlos Pereira dos Santos) Atomic Weight Calculus of Spindly Games, <a href="vol20.html">Vol 20</a>
+<li> (with Hac&egrave;ne Belbachir) Quadrinomial-Like Versions for Wolstenholme, Morley and Glaisher Congruences, <a href="vol23.html">Vol 23</a>
 

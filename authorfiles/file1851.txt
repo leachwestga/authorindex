@@ -1,7 +1,5 @@
 
-<li> Tokaz, Jacent 
+<li> Toh, Pee Choon 
 <ul>
-<li> (with Dusty Sabo and Daniel Schaal) Disjunctive Rado Numbers for
-<i>x<sub>1</sub> + x<sub>2</sub> + c = x<sub>3</sub></i>,
-<a href="vol7.html">Vol 7</a>
+<li> (with Uha Isnaini) On Some Congruences for Andrews' Singular Overpartitions, <a href="vol18.html">Vol 18</a>
 

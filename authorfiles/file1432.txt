@@ -1,5 +1,5 @@
 
-<li> Pineda-Villavicencio, Guillermo 
+<li> Pillichshammer, Fridrich
 <ul>
-<li> (with Charles Delorme) Continuants and Some Decompositions Into Squares, <a href="vol15.html">Vol 15</a>
+<li> (with Josef Dick) The Figure of Merit of 2-dimensional Rank 2 Lattice Rules, <a href="vol5-3.html">Vol 5(3)</a>
 

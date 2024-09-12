@@ -1,5 +1,5 @@
 
-<li> Pham, Nhung
-<ul>
-<li> Limiting Behavior in Growth of Bulgarian Solitaire Orbits, <a href="vol23.html">Vol 23</a>
-
+<li> Petrossian, Armen 
+	<ul>
+		<li> (with Jean-Luc Baril and Sergey Kirgizov) Motzkin Paths With a Restricted First Return Decomposition, <a href="vol19.html">Vol 19</a>
+	

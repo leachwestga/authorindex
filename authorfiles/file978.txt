@@ -1,6 +1,6 @@
 
-<li> Kumar, Abhimanyu
+<li> Kukla, Andrzej 
 <ul>
-<li> Prime Floor and Prime Ceiling Functions, <a href="vol22.html">Vol 22</a>
-<li> (with Meenakshi Rana) Raw Moments and Entropy Associated with the Last Part in a Composition, <a href="vol23.html">Vol 23</a>
+<li> (with Sai Teja Somu) On Some Generalizations to Floor Function Identities of Ramanujan, <a href="vol22.html">Vol 22</a>
+<li> (with Sai Teja Somu and Ting Hon Stanford Li) On Some Results on Practical Numbers, <a href="vol23.html">Vol 23</a>
 

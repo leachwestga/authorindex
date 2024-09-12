@@ -1,5 +1,6 @@
 
-<li> Juarez, Jazmine 
+<li> Joyner, David
 <ul>
-<li> (with Matthew Guhl, Vadim Ponomarenko, Rebecca Rechkin, and Deepesh Singhal) Complementary Numerical Sets, <a href="vol22.html">Vol 22</a>
+<li> Mathematics of Ghaly's Machine, <a href="vol6.html">Vol 6</a>
+<li> (with Charles Celerier, Caroline Melles, David Phillips, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
 

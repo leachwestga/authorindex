@@ -1,5 +1,5 @@
 
-<li> Morier-Genoud, Sophie
+<li> Mori, Katsuya
 <ul>
-<li> (with Valentin Ovsienko) Extremal Set Theory, Cubic Forms on F<sub>2</sub><sup>n</sup> and Hurwitz Square Identities, <a href="vol16.html">Vol 16</a>
+<li> On a Certain Inverse Problem for Carousel Numbers, <a href="vol20.html">Vol 20</a>
 

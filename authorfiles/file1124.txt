@@ -1,5 +1,6 @@
 
-<li> Maaouia, Mohamed Ben Fraj Ben 
+<li> Maamra, Mohammed Said
 <ul>
-<li> (with Bilizimb&eacute;y&eacute; Edjeou and Amadou Tall) On Pillai's  Problem  with Lucas Numbers and Powers of 3, <a href="vol21.html">Vol 21</a>
+<li> (with Miloud Mihoubi) The (<i>r<sub>1</sub>,...,r<sub>p</sub></i>)-Stirling Numbers of the Second Kind, <a href="vol12.html">Vol 12</a>
+<li> (with Miloud Mihoubi) The <i>(r<sub>1</sub>,...,r<sub>p</sub>)</i>-Bell Polynomials, <a href="vol14.html">Vol 14</a>
 

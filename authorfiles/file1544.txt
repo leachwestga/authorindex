@@ -1,7 +1,5 @@
 
-<li> Roettger, E. L.
+<li> R&oslash;dseth, &Oslash;ystein J.
 <ul>
-<li> (with H. C. Williams) Lucas-Lehmer Primality Tests for Certain Prime Curios, <a href="vol21.html">Vol 21</a>
-<li> (with H. C. Williams) Some Primality Conditions for <i>N=2 p<sup>n</sup>-1</i>, <a href="vol22.html">Vol 22</a>
-<li> A Note on Public Key Cryptography Based on  Williams-Guy Functions, <a href="vol23.html">Vol 23</a>
+<li> (with Michael D.Hirschhorn and James A. Sellers) Infinite Families of Divisibility Properties Modulo 4 For Non-Squashing Partitions Into Distinct Parts, <a href="vol9.html">Vol 9</a>
 

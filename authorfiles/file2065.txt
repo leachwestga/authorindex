@@ -1,5 +1,5 @@
 
-<li> Zhang, Shaohua
+<li> Zhang, Philip B. 
 <ul>
-<li>An Improved Inequality of Rosser and Schoenfled and Its Application, <a href="vol20.html">Vol 20</a>
+<li> (with Alice L.L. Gao and Sergey Kitaev) On Pattern Avoiding Indecomposable Permutations, <a href="vol18.html">Vol 18</a>
 

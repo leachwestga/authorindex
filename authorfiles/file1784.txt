@@ -1,5 +1,6 @@
 
-<li> Sullivan, Rosemary
+<li> Sullivan, Blair D.
 <ul>
-<li> (with Neil Watling) Independent Divisibility Pairs on the Set of Integers from <i>1</i> to <i>N</i>, <a href="vol13.html">Vol 13</a>
+<li> (with Melvyn B. Nathanson) Heights in Finite Projective Space, and
+a Problem on Directed Graphs, <a href="vol8.html">Vol 8(1)</a>
 

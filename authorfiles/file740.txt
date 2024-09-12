@@ -1,7 +1,5 @@
 
-<li> Hendrickx, Julien M.
+<li> Henderson, Philip
 <ul>
-<li> (with Vincent D. Blondel and Rapha&euml;l M. Jungers)
-Solitaire Clobber as an Optimization Problem on Words,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Ryan B. Hayward) Captured-Reversible Moves and Star Decomposition Domination in Hex, <a href="vol13.html">Vol 13</a>
 

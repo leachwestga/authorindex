@@ -1,5 +1,5 @@
 
-<li> Karaivanov, Borislav
+<li> Karabulut, Cihan 
 <ul>
-<li> (with Tzvetalin S. Vassilev) On Certain Sums Involving the Legendre Symbol, <a href="vol16.html">Vol 16</a>
+<li> (with Jorge Fl&oacute;rez and Elkin Quintero Vanegas) The Distribution of the Generalized Greatest Common Divisor and Visibility of Lattice Points, <a href="vol20.html">Vol 20</a>
 

@@ -1,5 +1,5 @@
 
-<li> Nanoti, Saraswati 
+<li> Namboothiri, K Vishnu 
 <ul>
-<li> (with Sakshi Dang and Amitabha Tripathi) Extensions of Midy's Theorem for Periodic Decimals, <a href="vol21.html">Vol 21</a>
+<li> (with Neha Elizabeth Thomas) On an Exponential Power Sum, <a href="vol23.html">Vol 23</a>
 

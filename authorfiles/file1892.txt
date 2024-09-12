@@ -1,5 +1,5 @@
 
-<li> van der Kamp, Peter H.
+<li> Van Alten, Clint 
 <ul>
-<li> On the Fourier Transform of the Greatest Common Divisor, <a href="vol13.html">Vol 13</a>
+<li> (with Joe Buhler,  Chris Freiling, Ron Graham, Jonathan Kariv, James R. Roche, Mark Tiefenbruck,  and Dmytro Yeroshkin) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
 

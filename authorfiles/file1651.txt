@@ -1,5 +1,7 @@
 
-<li> Shapiro, Louis W. 
+<li> Shapiro, Daniel B.
 <ul>
-<li> (with Dennis E. Davenport and Leon C. Woodson) A Bijection Between the Triangulations of Convex Polygons and Ordered Trees, <a href="vol20.html">Vol 20</a>
+<li> (with S. David Shapiro) Iterated Exponents in Number Theory,
+<a href="vol7.html">Vol 7</a>
+<li> Divisibility Properties for Integer Sequences, <a href="vol23.html">Vol 23</a>
 

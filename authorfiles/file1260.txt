@@ -1,6 +1,5 @@
 
-<li> Moriya, B. K.
+<li> Morier-Genoud, Sophie
 <ul>
-<li> On Weighted Zero Sum Subsequences of Short Length, <a href="vol14.html">Vol 14</a>
-<li> (with Sukumar Das Adhikari and Eshita Mazumdar) Relation Between Two Weighted Zero-sum Constants, <a href="vol16.html">Vol 16</a>
+<li> (with Valentin Ovsienko) Extremal Set Theory, Cubic Forms on F<sub>2</sub><sup>n</sup> and Hurwitz Square Identities, <a href="vol16.html">Vol 16</a>
 

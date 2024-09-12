@@ -1,5 +1,5 @@
 
-<li> Smyth, Chris 
+<li> Smith, William W.
 <ul>
-<li> (with K&aacute;lm&aacute;n Gy&#337;ry) The Divisibility of <i>a<sup>n</sup>-b<sup>n</sup></i> by Powers of <i>n</i>, <a href="vol10.html">Vol 10</a>
+<li> (with Scott T. Chapman) A Characterization of Minimal Zero-Sequences of Index One in Finite Cyclic Groups, <a href="vol5.html">Vol 5(1)</a>
 

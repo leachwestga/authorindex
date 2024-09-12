@@ -1,7 +1,5 @@
 
-<li> S&#322;ota, Damian
+<li> Sloane, N. J. A. 
 <ul>
-<li> (with Roman Witu&#322;a) Conjugate Sequences in a Fibonacci-Lucas
-Sense and Some Identities for Sums of Powers
-of Their Elements, <a href="vol7.html">Vol 7</a>
+<li> (with Lars Blomber and S. R. Shannon) Graphical Enumeration and Stained Glass Windows, 1: Rectangular Grids, <a href="vol21A.html">Vol 21A</a>
 

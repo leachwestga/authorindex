@@ -1,7 +1,5 @@
 
-<li> Singh, Rajesh P.
+<li> Singh, Mritunjay Kumar 
 <ul>
-<li> (with Mritunjay Kumar Singh) Two Congruence Identities on Ordered Partitions, <a href="vol18.html">Vol 18</a>
-<li> A Method for Generating Permutation Polynomials Modulo <i>p<sup>n</sup></i>, <a href="vol21.html">Vol 21</a>
-<li> (with Chandan Kumar Vishwakarma) A Congruence Identity on Ordered Partition Using Permutation Polynomials, <a href="vol24.html">Vol 24</a>
+<li> (with Rajesh P. Singh) Two Congruence Identities on Ordered Partitions, <a href="vol18.html">Vol 18</a>
 

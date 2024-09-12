@@ -1,5 +1,5 @@
 
-<li> Oyono, Roger 
+<li> Owens, C. S. 
 <ul>
-<li> (with Florian Luca) The Diophantine Equation <i>F<sub>n</sub><sup>y</sup> + F<sub>n+1</sub><sup>x</sup> = F<sub>m</sub><sup>x</sup></i>, <a href="vol13.html">Vol 13</a>
+<li> (with H. G. Grundman) On Bounds for Two Davenport-type Constants, <a href="vol13.html">Vol 13</a>
 

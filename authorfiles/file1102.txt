@@ -1,5 +1,5 @@
 
-<li> Louchard, Guy
+<li> Lott, Andrew
 <ul>
-<li> (with Mark Daniel Ward) Asymptotic Analysis of Sums of Powers of Multinomial Coefficients: A Saddle Point Approach, <a href="vol17.html">Vol 17</a>
+<li> (with Vishal Balaji and Alex Rice) Schur's Theorem in Integer Lattices, <a href="vol22.html">Vol 22</a>
 

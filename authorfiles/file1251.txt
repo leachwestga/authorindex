@@ -1,6 +1,6 @@
 
-<li> Moody, Dustin 
+<li> Montejano, Amanda 
 <ul>
-<li> (with Foad Khoshnam) High rank Elliptic Curves with Torsion Z/4Z Induced by  Kihara's Elliptic Curves, <a href="vol16.html">Vol 16</a>
-<li> (with Abhishek Juyal) On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>, <a href="vol21.html">Vol 21</a>
-<li> (with Abhishek Juyal and Shiv Datt Kumar) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Tomas Boothby and Matt DeVos) New Proof of Kemperman's Theorem, <a href="vol15.html">Vol 15</a>
+<li> (with Mario Huicochea) The Structure of Rainbow-free Colorings for Linear Equations on Three Variables in Z<sub><i>p</i></sub>, <a href="vol15a.html">Vol 15A</a>
+

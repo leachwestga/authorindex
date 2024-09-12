@@ -1,6 +1,5 @@
 
-<li> Niederhausen, Heinrich
+<li> Nicolas, Jean-Louis 
 <ul>
-<li> (with Shaun Sullivan) Counting Depth Zero Patterns in Ballot Paths, <a href="vol11.html">Vol 11</a>
-<li> Inverses of Motzkin and Schr&ouml;der Paths, <a href="vol12.html">Vol 12</a>
+<li> (with Geoffrey Caveney and Jonathan Sondow) Robin's Theorem, Primes, and a New Elementary Reformulation of the Riemann Hypothesis, <a href="vol11.html">Vol 11</a>
 

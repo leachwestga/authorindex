@@ -1,6 +1,5 @@
 
-<li> Jenkins, Paul
+<li> Jenkins, Hugo
 <ul>
-<li> (with DJ Thornton) Weakly Holomorphic Modular Forms in Prime Power Levels of Genus Zero, <a href="vol18.html">Vol 18</a>
-<li> (with Victoria Iba and Merrill Warnick) Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels, <a href="vol19.html">Vol 19</a>
+<li> Repeated Binomial Coefficients and High-Degree Curves, <a href="vol16.html">Vol 16</a>
 

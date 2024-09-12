@@ -1,7 +1,6 @@
 
-<li> Khomovsky, Dmitry I.
+<li> Khodkar, Abdollah
 <ul>
-<li> On the Relationship Between the Number of Solutions of Congruence Systems and the Resultant of Two Polynomials, <a href="vol16.html">Vol 16</a>
-<li> Efficient Computation of Terms of Linear Recurrence Sequences of  Any Order, <a href="vol18.html">Vol 18</a>
-<li> A Method for Obtaining Fibonacci Identities, <a href="vol18.html">Vol 18</a>
+<li> (with Bruce Landman) Recent Progress in Ramsey Theory on the Integers,
+<a href="vol7-2.html">Vol 7(2)</a>
 

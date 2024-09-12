@@ -1,11 +1,5 @@
 
-<li> Lev, Vsevolod F.
+<li> Leung, Wing Hong
 <ul>
-<li> (with Sergei V. Konyagin) On the Distribution of Exponential Sums, <a href="vol0.html">Vol 0</a>
-<li> Distribution of Points on Arcs, <a href="vol5-2.html">Vol 5(2)</a>
-<li> More on Points and Arcs,
-<a href="vol7-2.html">Vol 7(2)</a>
-<li> (with Andra&aacute;s S&aacute;rk&ouml;zy) An Erd&#337;s-Fuchs Type Theorem for Finite Groups,
-<a href="vol11a.html">Vol 11A</a>
-<li> (with Yong-Gao Chen) Integer Sets with Identical Representation Functions, <a href="vol16.html">Vol 16</a>
+<li> On the Weakly Prime-Additive Numbers with Length 4, <a href="vol24.html">Vol 24</a>
 

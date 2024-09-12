@@ -1,5 +1,5 @@
 
-<li> Yamamoto, Shuji
+<li> Yamaguchi, Yuka
 <ul>
-<li> (with Ken Kamano and Yasuo Ohno) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
+<li class=fragment> (with Naoya Yamaguchi) Integer Group Determinants for \(\mathrm{C}_{4}^{2}\), <a href="vol24.html">Vol 24</a>
 

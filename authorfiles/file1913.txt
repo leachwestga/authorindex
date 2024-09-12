@@ -1,5 +1,8 @@
 
-<li> Vincent, Andrew 
+<li> Vinagre, Sandra
 <ul>
-<li> (with Breille Duncan and Joshua Harrington) Exceptional Totient Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Alda Carvalho, Carlos P. Santos, C&aacute;tia Lente Dias,
+ Francisco Coelho, and Jo&atilde;o
+ Pedro Neto) A Recursive Process Related to a Partizan Vari
+ation of Wythoff, <a href="vol12.html">Vol 12</a>
 

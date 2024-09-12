@@ -1,5 +1,8 @@
 
-<li> Sprunger, Carsten 
+<li> Sprugnoli, Renzo
 <ul>
-<li> (with Steven J. Miller, Carsten Peterson, and Roger Van Peski) The Bidirectional Ballot Polytope, <a href="vol18.html">Vol 18</a>
+<li> (with Donatella Merlini) A Riordan Array Proof of a Curious Identity, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Donatella Merlini and M. Cecilia Verri) The Akiyama-Tanigawa Transformation, <a href="vol5.html">Vol 5(1)</a>
+<li> Sums of Reciprocals of the Central Binomial Coefficients,
+<a href="vol6.html">Vol 6</a>
 

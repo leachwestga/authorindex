@@ -1,5 +1,5 @@
-
-<li> Myers, Kellen
+ 
+<li> M&uuml;yesser, Alp 
 <ul>
-<li> (with Joseph Parrish) Some Nonlinear Rado Numbers, <a href="vol18b.html">Vol 18B</a>
+<li> (with Calvin Beideman and Matthew Bowen) The Sprague-Grundy Function for Some Selective Compound Games, <a href="vol20.html">Vol 20</a>
 

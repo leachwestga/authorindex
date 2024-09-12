@@ -1,5 +1,5 @@
 
-<li> Wang, Qiang 
+<li> Wang, Liuquan 
 <ul>
-<li> (with Murat Sahin and Daniel Panario) A Family of Fibonacci-Like Conditional Sequences, <a href="vol13.html">Vol 13</a>
+<li> (with Tianxin Cai and Yong Zhang) Perfect Numbers and Fibonacci Primes II, <a href="vol19.html">Vol 19</a>
 

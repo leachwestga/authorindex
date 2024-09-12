@@ -1,5 +1,5 @@
 
-<li> Philippe, Fabrice
+<li> Pham, Thang 
 <ul>
-<li> (with Filippo Disanto and Laurent Imbert) On the Maximal Weight of <i>(P,Q)</i>-ary Chain Partitions With Bounded Parts, <a href="vol14.html">Vol 14</a>
+<li> (with Tanbir Ahmed, Arie Bialostocki, and Le Anh Vinh) Power Sum Polynomials as Relaxed EGZ Polynomials, <a href="vol19.html">Vol 19</a>
 

@@ -1,7 +1,5 @@
 
-<li> Snevily, Hunter
+<li> Smyth, Chris 
 <ul>
-<li> (with Daniel Schaal) A Multiplicity Problem
-Related to Schur Numbers, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Tanbir Ahmed, Michael G. Eldredge, and Jonathan J. Marler) Strict Schur Numbers, <a href="vol13.html">Vol 13</a>
+<li> (with K&aacute;lm&aacute;n Gy&#337;ry) The Divisibility of <i>a<sup>n</sup>-b<sup>n</sup></i> by Powers of <i>n</i>, <a href="vol10.html">Vol 10</a>
 

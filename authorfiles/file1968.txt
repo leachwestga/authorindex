@@ -1,5 +1,5 @@
 
-<li> Watson, Lori D. 
+<li> Watling, Neil 
 <ul>
-<li> (with Pete L. Clark) Varga's Theorem in Number Fields, <a href="vol18.html">Vol 18</a>
+<li> (with Rosemary Sullivan) Independent Divisibility Pairs on the Set of Integers from <i>1</i> to <i>N</i>, <a href="vol13.html">Vol 13</a>
 

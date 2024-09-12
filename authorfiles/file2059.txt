@@ -1,7 +1,6 @@
 
-<li> Zeng, Jiang
+<li> Zemyan, Stephen M.
 <ul>
-<li>The Akiyama-Tanigawa Algorithm for
-Carlitz's <em>q</em>-Bernoulli Numbers,
-<a href="vol6.html">Vol 6</a>
+<li> Cyclemaster Matrices and Collatz Cycles, <a href="vol20.html">Vol 20</a>
+<li> (with Marcin Mazur) Cyclemaster Matrices and Primality Testing, <a href="vol23.html">Vol 23</a>
 

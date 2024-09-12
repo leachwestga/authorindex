@@ -1,5 +1,7 @@
 
-<li> Yao, Jialing
+<li> Yankov, Christian L.
 <ul>
-<li> (with Chan-Liang Chung and Kanglun Zhou) Extensions of Sury's Relation Involving Fibonacci <i>k</i>-step and Lucas <i>k</i>-step Polynomials, <a href="vol23.html">Vol 23</a>
+<li> (with Dennis Eichhorn, Mizan R. Khan, and Alan H. Stein)
+Sums and Differences of the Coordinates of Points on Modular Hyperbolas,
+<a href="vol9supp.html">Volume 9 Supplement</a>
 

@@ -1,5 +1,5 @@
 
-<li> Herzinger, Kurt
+<li> Hertlein, Alexander
 <ul>
-<li> (with Rachel Eaton) A Further Investigation of Positions in Sylver Coinage for Which Four Has Been Chosen, <a href="vol23.html">Vol 23</a>
+<li> Robin's Inequality for New Families of Integers, <a href="vol18.html">Vol 18</a>
 

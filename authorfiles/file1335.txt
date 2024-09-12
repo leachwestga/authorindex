@@ -1,5 +1,5 @@
 
-<li> O'Kuhn, Cooper
+<li> Ojah, Kanan Kumari
 <ul>
-<li> (with Todd Fellman) The Mondrian Puzzle: A Bound Concerning the <i>M(n)=0</i> Case, <a href="vol21.html">Vol 21</a>
+<li> (with Nayandeep Deka Baruah) Partitions With Designated Summands in Which All Parts Are Odd, <a href="vol15.html">Vol 15</a>
 

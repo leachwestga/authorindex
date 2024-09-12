@@ -1,5 +1,5 @@
 
-<li> Ohyama, Hiroshi
+<li> Ohtsuka, Hideyuki 
 <ul>
-<li> An Identity Involving Binomial Coefficients Equivalent to an Identity of Lagrange, <a href="vol20.html">Vol 20</a>
+<li> (with Tewodros Amdeberhan, David Callan,  and Roberto Tauraso) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
 

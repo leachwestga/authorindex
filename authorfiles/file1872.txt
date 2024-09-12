@@ -1,6 +1,5 @@
 
-<li> Trudgian, Tim
+<li> Tripathy, Bibhu Prasad
 <ul>
-<li> There Are No Socialist Primes Less Than <i>10<sup>9</sup></i>, <a href="vol14.html">Vol 14</a>
-<li> (with Kevin A. Broughan) Robin's Inequality for 11-free Integers, <a href="vol15.html">Vol 15</a>
+<li> (with Bijan Kumar Patel) Sums of Three Fibonacci Numbers Close to a Power of 2, <a href="vol23.html">Vol 23</a>
 

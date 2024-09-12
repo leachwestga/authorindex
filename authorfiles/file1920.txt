@@ -1,6 +1,5 @@
 
-<li> Voloch, Felipe Jos&eacute;
+<li> Volkert, Klaus 
 <ul>
-<li> On the Order of Points on Curves Over Finite Fields,
-<a href="vol7.html">Vol 7</a>
+<li> (with J&ouml;rn Steuding) A Diophantine Problem Related to a Nim-like Game, <a href="vol19.html">Vol 19</a>
 

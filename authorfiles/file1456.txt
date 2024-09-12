@@ -1,5 +1,5 @@
 
-<li> Prakash, Om 
+<li> Prakash, Gyan 
 <ul>
-<li> (with Anshika Srivastava and Ram Krishna Pandey) On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with Jean-Marc Deshouillers) Large Zero-Free Subsets of <i>Z/pZ</i>, <a href="vol11a.html">Vol 11A</a>
 

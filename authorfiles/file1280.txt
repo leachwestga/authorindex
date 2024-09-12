@@ -1,5 +1,5 @@
 
-<li> Nadeau, Philippe
+<li> Myers, Kellen
 <ul>
-<li> (with Fr&eacute;d&eacute;ric Jouhet) Long Fully Commutative Elements in Affine Coxeter Groups, <a href="vol15.html">Vol 15</a>
+<li> (with Joseph Parrish) Some Nonlinear Rado Numbers, <a href="vol18b.html">Vol 18B</a>
 

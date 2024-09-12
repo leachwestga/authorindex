@@ -1,5 +1,6 @@
 
-<li> Ohtsuka, Hideyuki 
+<li> Ohno, Yasuo 
 <ul>
-<li> (with Tewodros Amdeberhan, David Callan,  and Roberto Tauraso) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
+<li> (with Ken Kamano and Shuji Yamamoto) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
+<li> (with Naho Kawasaki) The Triangle Algorithm for Bernoulli Polynomials, <a href="vol23.html">Vol 23</a>
 

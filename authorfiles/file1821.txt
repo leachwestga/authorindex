@@ -1,5 +1,5 @@
 
-<li> Tarnu, Daniel
+<li> Tanny, Yuval
 <ul>
-<li class=fragment> (with Stephen Choi) The  Order of the Fundamental Solution  of \(x^2-Dy^2 =1\) in \(\mathbb{Z}[\sqrt{D}]/\langle D \rangle\), <a href="vol22.html">Vol 22</a>
+<li> (with Aviezri Fraenkel) A Class of Wythoff-Like Games, <a href="vol12b.html">Vol 12B</a>
 

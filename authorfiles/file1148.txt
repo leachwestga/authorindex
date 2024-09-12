@@ -1,9 +1,5 @@
 
-<li> Mar&iacute;n, J.M.
+<li> Maresch, Gabriel
 <ul>
-<li> (with J.L. Ram&iacute;rex Alfons&iacute;n and M.P. Revuelta)
-On the Frobenius Number of Fibonacci Numerical Semigroups,
-<a href="vol7.html">Vol 7</a>
-<li> (with S. Eliahou and M.P. Revuelta)
-Zero-sum Balanced Binary Sequences, <a href="vol7-2.html">Vol 7(2)</a>
+<li> Filters and Subgroups Associated with Hartman Measurable Functions, <a href="vol5-3.html">Vol 5(3)</a>
 

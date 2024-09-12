@@ -1,5 +1,5 @@
 
-<li> Schmidt, Karl Michael 
+<li> Schmid, Wolfgang Ch.
 <ul>
-<li> (with Matthew C. Lettington) Divisor Functions and the Number of Sum Systems, <a href="vol20.html">Vol 20</a>
+<li> (with Jurgen Bierbrauer) An Asymptotic Gilber-Varshamov Bound for (t,m,s)-nets, <a href="vol5-3.html">Vol 5(3)</a>
 

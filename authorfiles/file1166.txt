@@ -1,6 +1,5 @@
 
-<li> Matsuda, Kazuhide 
+<li> Matolcsi, M.
 <ul>
-<li> Mixed Sums of Triangular Numbers and Certain Binary Quadratic Forms, <a href="vol15.html">Vol 15</a>
-<li> On Certain Quaternary Quadratic Forms, <a href="vol18.html">Vol 18</a>
+<li> (with C. Bachoc and I. Z. Ruzsa) Squares and Difference Sets in Finite Fields, <a href="vol13.html">Vol 13</a>
 

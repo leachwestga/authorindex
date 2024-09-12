@@ -1,5 +1,5 @@
 
-<li> Purdum, David 
+<li> Punyani, Pooja
 <ul>
-<li> (with Richard Brent, Carl Pomerance,  and Jonathan Webster) Algorithms for the Multiplication Table Problem, <a href="vol21.html">Vol 21</a>
+<li> (with Amitabha Tripathi) On Changes in the Frobenius and Sylvester Numbers, <a href="vol18b.html">Vol 18B</a>
 

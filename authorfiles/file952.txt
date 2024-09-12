@@ -1,6 +1,5 @@
 
-<li> Koparal, Sibel
+<li> Kook, Woong
 <ul>
-<li> (with Laid Elkhiri and Ne&#x15F;e &Ouml;m&uuml;r) A <i>q</i>-Analogue of Granville's Congruence, <a href="vol22.html">Vol 22</a>
-<li> (with &Ouml;mer Duran and Ne&scedil;e &Ouml;m&uuml;r) Generalized Degenerate Harmonic Numbers and Their Applications with Riordan Arrays, <a href="vol24.html">Vol 24</a>
+<li> On the Product of Log-Concave Polynomials, <a href="vol6.html">Vol 6</a>
 

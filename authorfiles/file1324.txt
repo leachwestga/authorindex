@@ -1,5 +1,5 @@
 
-<li> Nuida, Koji
+<li> Nugent, Brian 
 <ul>
-<li> Pattern Occurrence in the Dyadic Expansion of Square Root of Two and an Analysis of Pseudorandom Number Generators, <a href="vol10.html">Vol 10</a>
+<li> (with Elsa Magness and Leanne Robertson) Walking to Infinity Along Gaussian Lines, <a href="vol21.html">Vol 21</a>
 

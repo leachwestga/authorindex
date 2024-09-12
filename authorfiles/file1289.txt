@@ -1,5 +1,5 @@
 
-<li> Nansoko, Souleymane
+<li> Nanoti, Saraswati 
 <ul>
-<li class="fragment"> (with Euloge Tchammou and A. Togb&eacute;) The Diophantine Equation \(\sum_{j=1}^{k}jF_j^p=L_n^q\), <a href="vol22.html">Vol 22</a>
+<li> (with Sakshi Dang and Amitabha Tripathi) Extensions of Midy's Theorem for Periodic Decimals, <a href="vol21.html">Vol 21</a>
 

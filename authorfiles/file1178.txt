@@ -1,6 +1,6 @@
 
-<li> Mazumdar, Eshita 
+<li> Mazhouda, Kamel
 <ul>
-<li> (with Sukumar Das Adhikari) Modifications of Some Methods in the Study of Zero-Sum Constants, <a href="vol14.html">Vol 14</a>
-<li> (with Sukumar Das Adhikari and B. K. Moriya) Relation Between Two Weighted Zero-sum Constants, <a href="vol16.html">Vol 16</a>
+<li> (with M. P. Chaudhary and Mohammed Mekkaoui) Discrete Measures and the Riemann Hypothesis of Some <i>L</i>-Function in the Selberg Class, <a href="vol23.html">Vol 23</a>
+<li class=fragment> (with M. P. Chaudhary, Salem Guiben, and Mohammed Mekkaoui) On the \(a\)-Points of the  \(k^{\mathrm{th}}\) Derivative of an \(L\)-Function in the Selberg Class, <a href="vol24.html">Vol 24</a>
 

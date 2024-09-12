@@ -1,10 +1,5 @@
 
-<li> Mihoubi, Miloud
+<li> Michael, T. S. 
 <ul>
-<li> (with Hac&egrave;ne Belbachir) The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part I, <a href="vol11.html">Vol 11</a>
-<li> (with Hac&egrave;ne Belbachir) The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part II, <a href="vol11.html">Vol 11</a>
-<li> (with Mohammed Said Maamra) The (<i>r<sub>1</sub>,...,r<sub>p</sub></i>)-Stirling Numbers of the Second Kind, <a href="vol12.html">Vol 12</a>
-<li> (with Hac&egrave;ne Belbachir) Generalization of Universal Partition and Bipartition Theorems, <a href="vol13.html">Vol 13</a>
-<li> (with Mohammed Said Maamra) The <i>(r<sub>1</sub>,...,r<sub>p</sub>)</i>-Bell Polynomials, <a href="vol14.html">Vol 14</a>
-<li> (with Meriem Tiachachat) A New Class of the <i>r</i>-Stirling Numbers and the Generalized Bernoulli Polynomials, <a href="vol20.html">Vol 20</a>
+<li> (with Nicholas A. Loehr) The Combinatorics of Evenly Spaced Binomial Coefficients, <a href="vol18.html">Vol 18</a>
 

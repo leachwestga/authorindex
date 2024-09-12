@@ -1,7 +1,5 @@
 
-<li> Hurlbert, Glenn H. 
+<li> Huntemann, Svenja
 <ul>
-<li> (with Shawn Elledge) An Application of Graph Pebbling to Zero-Sum Sequences in Abelian Groups, <a href="vol5.html">Vol 5(1)</a>
-<li> (with Dawn Curtis, Taylor Hines, and Tatiana Moyer) On Pebbling Graphs By
- Their Blocks, <a href="vol9.html">Vol 9</a>
+<li> (with Lexi Nash) The Polynomial Profile of Distance Games on Paths and Cycles, <a href="vol22.html">Vol 22</a>
 

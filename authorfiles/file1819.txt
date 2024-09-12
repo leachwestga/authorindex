@@ -1,6 +1,5 @@
 
-<li> Tanimoto, Shinji
+<li> Tang, Tai-Man 
 <ul>
-<li> A Study of Eulerian Numbers for Permutations
-in the Alternating Group, <a href="vol6.html">Vol 6</a>
+<li> (with Shu-Juan Duan and Dan Liu) A Planar Integral Self-Affine Tile with Cantor Set Intersections With Its Neighbors, <a href="vol9.html">Vol 9</a>
 

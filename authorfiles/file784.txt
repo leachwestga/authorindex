@@ -1,9 +1,5 @@
 
-<li> Hou, Qing-Hu
+<li> Ho&scedil;ten, Serkan
 <ul>
-<li> (with W. D. Gao, W. A. Schmid, and R. Thangadurai)
-On Short Zero-Sum Subsequences II, <a href="vol7.html"> Vol 7</a>
-<li> (with Toufik Mansour and Simone Severini)
-Partial Transposes of Permutation Matrices,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Matthias Beck and Matthias Schymura) Lonely Runner Polyhedra, <a href="vol19.html">Vol 19</a>
 

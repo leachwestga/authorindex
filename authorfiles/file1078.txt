@@ -1,5 +1,9 @@
 
-<li> Liskovets, Valery A.
+<li> Liqun, Tao
 <ul>
-<li> A Multivariate Arithmetic Function of Combinatorial and Topological Significance, <a href="vol10.html">Vol 10</a>
+<li> On the Property <em>P<sub>-1</sub></em>, <a href="vol7.html">Vol 7</a>
+<li> On the Diophantine Equation
+ <i>x<sup>2</sup> + 3<sup>m</sup> = y<sup>n</sup></i>,
+ <a href="vol8.html">Vol 8(1)</a>
+<li> On the Conditioned Binomial Coefficients, <a href="vol11.html">Vol 11</a>
 

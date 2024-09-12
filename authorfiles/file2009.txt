@@ -1,5 +1,5 @@
 
-<li> Xia, Xiang-Gen 
+<li> Wu, Chai Wah
 <ul>
-<li> (with Wei Wang, Xiaoping Li,  Wenjie Wang, and Jianguo Qian) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
+<li> Sums of Products of Binomial Coefficients Mod 2 and Run Length Transforms of Sequences, <a href="vol22.html">Vol 22</a>
 

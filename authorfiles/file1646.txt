@@ -1,5 +1,5 @@
 
-<li> Shankar, Ajeet
+<li> Shaman, Paul
 <ul>
-<li> (with Manu Sridharan) New Temperatures in Domineering, <a href="vol5.html">Vol 5(1)</a>
+<li> Generalized Levinson-Durbin Sequences and Binomial Coefficients, <a href="vol9.html">Vol 9</a>
 

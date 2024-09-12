@@ -1,5 +1,5 @@
 
-<li> Tseng, Dennis
+<li> Tsegaye, Bineyam 
 <ul>
-<li> Generalized Nonaveraging Integer Sequences, <a href="vol11.html">Vol 11</a>
+<li> (with Vajresh Balaji, Olivia Edwards, Anne Marie Loftin, Solomon Mcharo, and Alex Rice) Lattice Configurations Determining Few Distances, <a href="vol20.html">Vol 20</a>
 

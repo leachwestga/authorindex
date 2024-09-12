@@ -1,7 +1,6 @@
 
-<li> Spiegelhofer, Lukas
+<li> Spiegelhalter, Paul
 <ul>
-<li> (with Johannes F. Morgenbesser) A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function, <a href="vol12.html">Vol 12</a>
-<li> A Digit Reversal Property for Stern Polynomials, <a href="vol17.html">Vol 17</a>
-<li> Approaching Cusick's Conjecture on the Sum-of-digits Function, <a href="vol19.html">Vol 19</a>
+<li> (with Florin P. Boca and Byron Heersink) Gap Distribution of Farey Fractions under Some Divisibility Constraints, <a href="vol13.html">Vol 13</a>
+<li> (with Andrew Ledoan and Alexandru Zaharescu) Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>), <a href="vol14.html">Vol 14</a>
 

@@ -1,5 +1,5 @@
 
-<li> Li, Hsuan-Chu
+<li> Li, Haifeng 
 <ul>
-<li> (with Young-Ming Chen and Eng-Tjioe Tan) Counting Determinants of Fibonacci-Hessenberg Matrices Using LU Factorizations, <a href="vol9.html">Vol 9</a>
+<li> (with Wen An Liu, Yingbin Ma, and Bei Li) On Supplements of <i> 2 x m</i>  Board in Toppling Towers, <a href="vol12.html">Vol 12</a>
 

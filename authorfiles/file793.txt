@@ -1,7 +1,5 @@
 
-<li> Huicochea, Mario
+<li> Hui, Chun Yin
 <ul>
-<li> Extending Nathanson Heights to Arbitrary Finite Fields, <a href="vol12.html">Vol 12</a>
-<li> (with Amanda Montejano) The Structure of Rainbow-free Colorings for Linear Equations on Three Variables in Z<sub><i>p</i></sub>, <a href="vol15a.html">Vol 15A</a>
-<li> Inverse Theorems in  Z/<i>p</i>Z When a Subset is Contained in a Short  Arithmetic Progression, <a href="vol17.html">Vol 17</a>
+<li> (with Wai Yan Pong) Diophantine Equations of Matching Games I, <a href="vol11.html">Vol 11</a>
 

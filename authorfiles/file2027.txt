@@ -1,7 +1,5 @@
 
-<li> Yankov, Christian L.
+<li> Yang, Shichun
 <ul>
-<li> (with Dennis Eichhorn, Mizan R. Khan, and Alan H. Stein)
-Sums and Differences of the Coordinates of Points on Modular Hyperbolas,
-<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Alain Togb&eacute;) Odd Deficient-Perfect Numbers with Four Distinct Prime Factors, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,7 @@
 
-<li> Konyagin, Sergei V.
+<li> Kontorovich, Alex
 <ul>
-<li> (with Vsevelod F. Lev) On the Distribution of Exponential Sums, <a href="vol0.html">Vol 0</a>
+<li> (with Aviezri Fraenkel)
+The Sierpi&#324;ski Sieve of Nim-varieties and Binomial Coefficients,
+<a href="vol7-2.html">Vol 7(2)</a>
 

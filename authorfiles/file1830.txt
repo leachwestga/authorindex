@@ -1,6 +1,5 @@
 
-<li> Tennenhouse, Craig 
+<li> Teng, Shang-Hua 
 <ul>
-<li> (with Kyle Burke, Matthew Ferland, Michael Fisher, and Valentin Gledel) The Game of Blocking Pebbles, <a href="vol21b.html">Vol 21b</a>
-<li> (with Melissa A. Huggan) Genetically Modified Games, <a href="vol21b.html">Vol 21b</a>
+<li> (with Kyle Burke and Matthew Ferland) Transverse Wave: An Impartial Color-propagation Game Inspried by Social Influence and Quantum Nim, <a href="vol21b.html">Vol 21b</a>
 

@@ -1,5 +1,5 @@
 
-<li> Paterson, Mike 
+<li> Patel, Bijan Kumar
 <ul>
-<li> (with Nikolay Chikin, Vladimir Gurvich, Konstantin Knop,  and Michael Vyalyi) More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
+<li> (with Bibhu Prasad Tripathy) Sums of Three Fibonacci Numbers Close to a Power of 2, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,6 @@
 
-<li> Jenkins, Scott
+<li> Jenkins, Paul
 <ul>
-<li> (with Jamie Simpson) Composite Covering Systems of Minimum Cardinality, <a href="vol3.html">Vol 3</a>
+<li> (with DJ Thornton) Weakly Holomorphic Modular Forms in Prime Power Levels of Genus Zero, <a href="vol18.html">Vol 18</a>
+<li> (with Victoria Iba and Merrill Warnick) Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels, <a href="vol19.html">Vol 19</a>
 

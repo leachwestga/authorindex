@@ -1,5 +1,6 @@
 
-<li> Poelstra, Andrew
+<li> Pluh&aacute;r, Andr&aacute;s
 <ul>
-<li> (with Tom Brown and Veselin Jungi&#263;) On Double <i>3</i>-Term Arithmetic Progressions, <a href="vol14.html">Vol 14</a>
+<li> (with Andr&aacute;s Csernenszky and Ryan R. Martin) On the Complexity of
+Chooser-Picker Positional Games, <a href="vol11.html">Vol 11</a>
 

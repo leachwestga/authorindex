@@ -1,5 +1,8 @@
 
-<li> Hirshberg, susan
+<li> Hirschhorn, Michael
 <ul>
-<li> (with William Fraser and David Wolfe) The Structure of Distributive Lattice of Games Born by Day n, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Shaun Cooper) A Combinatorial Proof of a Result from Number Theory, <a href="vol4.html">Vol 4</a>
+<li> (with James A. Sellers) An Infinite Family of Overpartition Congruences Modulo 12, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Shaun Cooper, Sanoli Gun, and B. Ramakrishnan) Relations Among Fourier Coefficients of Certain Eta Products, <a href="vol5.html">Vol 5(1)</a>
+<li> (with &Oslash;ystein J. R&oslash;dseth and James A. Sellers) Infinite Families of Divisibility Properties Modulo 4 For Non-Squashing Partitions Into Distinct Parts, <a href="vol9.html">Vol 9</a>
 

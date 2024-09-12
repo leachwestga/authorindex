@@ -1,5 +1,5 @@
 
-<li> Skogman, Howard 
+<li> Skerritt, Matthew
 <ul>
-<li> (with Adam Krause) On Ozanam's Rule, <a href="vol18.html">Vol 18</a>
+<li> (with Jonathan Borwein and Christopher Maitland) Computation of an Improved Lower Bound to Giuga's Primality Conjecture, <a href="vol13.html">Vol 13</a>
 

@@ -1,5 +1,5 @@
 
-<li> Offner, David 
+<li> O'Dorney, Evan
 <ul>
-<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin,  John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+<li> Continued Fractions and Linear Fractional Transformations, <a href="vol15.html">Vol 15</a>
 

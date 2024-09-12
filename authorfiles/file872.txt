@@ -1,5 +1,5 @@
 
-<li> Kaplan, Gil
+<li> Kapbasov, Arman 
 <ul>
-<li> (with Dan Levy) GCD of Truncated Rows in Pascal's Triangle, <a href="vol4.html">Vol 4</a>
+<li> (with Richard M. Low, Ardak Kapbasov, Stephen C. Locke, and W. H. Chan) A Codex of <i>N</i>- and <i>P</i>-positions in Harary's `Caterpillar Game', <a href="vol21.html">Vol 21</a>
 

@@ -1,6 +1,5 @@
 
-<li> Slezeviciene-Steuding, Rasa
+<li> Sledd, Levi 
 <ul>
-<li> (with Jorn Steuding) Simpson's Paradox in the Farey Sequence,
-<a href="vol6.html">Vol 6</a>
+<li> (with Adam Jobson, Susan Calcote White, and D. Jacob Wildstrom) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
 

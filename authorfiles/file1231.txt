@@ -1,7 +1,5 @@
 
-<li> Mistri, Raj Kumar
+<li> Mishra, Bhawesh
 <ul>
-<li> (with Ram Krishna Pandey) Derivative of an Ideal in a Number Ring, <a href="vol14.html">Vol 14</a>
-<li> (with Ram Krishna Pandey) The Direct and Inverse Theorems on Integer Subsequence Sums Revisited, <a href="vol16.html">Vol 16</a>
-<li> (with Himanshu Kumar Dwivedi) Direct and Inverse Problems for Subset Sums with Certain Restrictions, <a href="vol22.html">Vol 22</a>
+<li> Minimally Intersective Polynomials with Arbitrarily Long Factorization, <a href="vol22.html">Vol 22</a>
 

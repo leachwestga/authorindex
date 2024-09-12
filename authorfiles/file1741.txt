@@ -1,5 +1,5 @@
 
-<li> Sridharan, Manu
+<li> Sprunger, Carsten 
 <ul>
-<li> (with Ajeet Shankar) New Temperatures in Domineering, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Steven J. Miller, Carsten Peterson, and Roger Van Peski) The Bidirectional Ballot Polytope, <a href="vol18.html">Vol 18</a>
 

@@ -1,5 +1,6 @@
 
-<li> Kaye, Ian
+<li> Kay, Bill
 <ul>
-<li> (with Narad Rampersad) The Abelian Complexity of Infinite Words and the Frobenius Problem, <a href="vol21.html">Vol 21</a>
+<li> (with Andr&eacute; Alexander Campbell and  Anant Godbole) Contributions to the Theory of de Bruijn Cycle,
+<a href="vol14a.html">Vol 14A</a>
 

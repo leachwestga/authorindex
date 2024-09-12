@@ -1,5 +1,5 @@
 
-<li> Prikhod'ko, Alexander 
+<li> Preece, D.A.
 <ul>
-<li> (with Jordan Emme) On the Asymptotic Behavior of Density of Sets Defined by Sum-of-digits Function in Base 2, <a href="vol17.html">Vol 17</a>
+<li> (with Ian Anderson) Obtaining All or Half of <i><b>U<sub>n</sub></b></i> as <i>&lang; x &rang; x &lang; x+1 &rang;</i>, <a href="vol12.html">Vol 12</a>
 

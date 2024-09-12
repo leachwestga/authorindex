@@ -1,5 +1,5 @@
 
-<li> Wang, Qinghong 
+<li> Wang, Qiang 
 <ul>
-<li> (with Weidong Gao, Yuanlin Li, and Yongke Qu) Additive Bases of Finite Abelian Groups of Rank 2, <a href="vol22.html">Vol 22</a>
+<li> (with Murat Sahin and Daniel Panario) A Family of Fibonacci-Like Conditional Sequences, <a href="vol13.html">Vol 13</a>
 

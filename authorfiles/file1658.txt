@@ -1,5 +1,5 @@
 
-<li> Shiu, Peter
+<li> Shim, Peter C. 
 <ul>
-<li> On a Result of Bambah and Chowla, <a href="vol19.html">Vol 19</a> 
+<li> (with Dan Ismailescu) On Numbers That Cannot be Expressed as a Plus-Minus Weighted Sum of a Fibonacci Number and a Prime, <a href="vol14.html">Vol 14</a>
 

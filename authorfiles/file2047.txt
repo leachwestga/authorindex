@@ -1,5 +1,5 @@
 
-<li> Yue, Heng
+<li> Yuan, Xueying 
 <ul>
-<li> (with Lin Jiu and Italo Simonelli) Loop Decompositions of Random Walks and Nontrivial Identities of Bernoulli and Euler Polynomials, <a href="vol22.html">Vol 22</a>
+<li> (with Xiaoxia Wang) Infinite Summation Formulas Involving the Riemann--Zeta Function, <a href="vol20.html">Vol 20</a>
 

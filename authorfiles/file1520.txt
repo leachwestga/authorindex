@@ -1,5 +1,5 @@
 
-<li> Ribas, S&aacute;vio 
+<li> Ribenboim, Paulo
 <ul>
-<li class=fragment> (with Fabio Enrique Brochero Mart&iacute;nez) The \(\{1,s\}\)-Weighted Davenport Constant in \(C_{n}^{k}\), <a href="vol22.html">Vol 22</a>
+<li> Explicit Solutions of Certain Systems of Pell Equations, <a href="vol12a.html">Vol 12A</a>
 

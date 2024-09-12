@@ -1,6 +1,5 @@
 
-<li> Saikia, Nipen
+<li> Saikia, Anupam 
 <ul>
-<li> (with Shraddha Rajkhowa) Theta-Function Identities, Explicit Values for Ramanujan's Continued Fractions of Order Sixteen and Applications to Partition Theory, <a href="vol23.html">Vol 23</a>
-<li> (with Rinchin Drema) Arithmetic Properties For Overpartition Triples with Odd Parts, <a href="vol23.html">Vol 23</a>
+<li> (with Shamik Das) Families of Non-congruent Numbers With Arbitrarily Many Pairs of Prime Factors, <a href="vol20.html">Vol 20</a>
 

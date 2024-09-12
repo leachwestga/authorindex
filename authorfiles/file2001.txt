@@ -1,6 +1,7 @@
 
-<li> Wong, Tian An 
+<li> Wong, Erick B.
 <ul>
-<li> (with Snehal M. Shekatkar) Shifts of the Prime Divisor Function of Alladi and Erd&#337;s, <a href="vol20.html">Vol 20</a>
-<li> (with A. Suki Dasher and A. Hermida) The Three Gap Theorem and Periodic Functions, <a href="vol22.html">Vol 22</a>
+<li> (with Luis Goddyn) Tight Instances of the Lonely Runner,
+<a href="vol6.html">Vol 6</a>
+<li> (with Greg Martin and Alexis Peilloux) Lower Bounds for Sumsets of Multisets in F<sub><i>p</sub><sup>2</sup></i>, <a href="vol13.html">Vol 13</a>
 

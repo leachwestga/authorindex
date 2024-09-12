@@ -1,5 +1,7 @@
 
-<li> Reiter, Harold
+
+<li> Reis, Rog&eacute;rio 
 <ul>
-<li> (with Arthur Holshouser and James Rudzinski) Pilesize Dynamic One-pile Nim and Beatty's Theorem, <a href="vol4.html">Vol 4</a>
+<li> (with Peter F. Blanchard and Frank Harary)
+Partitions into Sum-free Sets, <a href="vol6.html">Vol 6</a>
 

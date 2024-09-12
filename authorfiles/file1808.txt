@@ -1,7 +1,5 @@
 
-<li> Tall, Amadou 
+<li> Talbot, John 
 <ul>
-<li> (with Mohamed Taoufiq Damir, Bernadette Faye, and Florian Luca) Fibonacci Numbers with Prime Sums of Complementary Divisors
-, <a href="vol14.html">Vol 14</a>
-<li> (with Bilizimb&eacute;y&eacute; and Mohamed Ben Fraj Ben Maaouia) On Pillai's  Problem  with Lucas Numbers and Powers of 3, <a href="vol21.html">Vol 21</a>
+<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin, David Offner,  and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
 

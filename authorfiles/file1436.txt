@@ -1,5 +1,6 @@
 
-<li> Plagne, Alain
+<li> Pita-Ruiz, Claudio 
 <ul>
-<li> (with Laurent Habsieger) Ensembles B2[2]:  L'Etau se Resserre, <a href="vol2.html">Vol 2</a>
+<li> Some Weighted Sums of Powers of Fibonacci Polynomials, <a href="vol13.html">Vol 13</a>
+<li> Generalized Eulerian Polynomials and Some Applications, <a href="vol18.html">Vol 18</a>
 

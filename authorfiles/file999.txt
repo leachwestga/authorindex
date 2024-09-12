@@ -1,5 +1,6 @@
 
-<li> Lambert, Joshua 
+<li> Kushwaha, Seema 
 <ul>
-<li> (with Mark Budden, Nicole Calkins, William Nathan Hack, and Kimberly Thompson) Enumeration of Triangles in Quartic Residue Graphs, <a href="vol11.html">Vol 11</a>
+<li> (with Ritumoni Sarma) On Finite Semi-regular Continued Fractions, <a href="vol16.html">Vol 16</a>
+<li> Pell Equation: A Revisit through Periodic \(\mathcal{F}_{2^{{\ell}}}\)-Continued Fractions, <a href="vol20a.html">Vol 20a</a>
 

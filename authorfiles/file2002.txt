@@ -1,6 +1,6 @@
 
-<li> Wong, Tony W. H. 
+<li> Wong, Tian An 
 <ul>
-<li> (with Ashley Armbruster, Grace Barger, Sofya Bykova, Tyler Dvoracheck, Emily Eckard, Joshua Harrington,and Yewen Sun) On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers, <a href="vol21.html">Vol 21</a>
-<li> (with Carrie Finch-Smith and Joshua Harrington) Sums of Distinct Polynomial Residues, <a href="vol23.html">Vol 23</a>
+<li> (with Snehal M. Shekatkar) Shifts of the Prime Divisor Function of Alladi and Erd&#337;s, <a href="vol20.html">Vol 20</a>
+<li> (with A. Suki Dasher and A. Hermida) The Three Gap Theorem and Periodic Functions, <a href="vol22.html">Vol 22</a>
 

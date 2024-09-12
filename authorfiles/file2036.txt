@@ -1,5 +1,5 @@
 
-<li> Yip, Chi Hoi
+<li> Yildirim, C. Y.
 <ul>
-<li> On the Directions Determined by Cartesian Products and the Clique Number of Generalized Paley Graphs, <a href="vol21.html">Vol 21</a>
+<li> (with D. A. Goldston) Higher Correlations of Divisor Sums Related to Primes I:  Triple correlations, <a href="vol3.html">Vol 3</a>
 

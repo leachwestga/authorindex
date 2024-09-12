@@ -1,5 +1,6 @@
 
-<li> Kendrick, Caleb 
-<ul>
-<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
+<li> Kemkes, Graeme
+<ul> 
+<li> (with Donatella Merlini and Bruce Richmond) Maximum Stirling
+Numbers of the Second Kind, <a href="vol8.html">Vol 8(1)</a>
 

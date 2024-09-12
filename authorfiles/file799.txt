@@ -1,5 +1,5 @@
 
-<li> Hyatt, Matthew
+<li> Hussein, Saud
 <ul>
-<li> (with Marina Skyers) On the Increases of the Sequence <sub>&#8970;</sub> <i>k&#8730;n</i> <sub>&#8971;</sub>, <a href="vol15.html">Vol 15</a>
+<li> A Note on the Converse of Wolstenholme's Theorem, <a href="vol18.html">Vol 18</a>
 

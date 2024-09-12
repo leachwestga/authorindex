@@ -1,8 +1,5 @@
 
-<li> Paul, Shameek
+<li> Paul, Prabal 
 <ul>
-<li> (with Santanu Mondal and Krishnendu Paul) Extremal Sequences for a Weighted Zero-Sum Constant, <a href="vol22.html">Vol 22</a>
-<li> (with Santanu Mondal and Krishnendu Paul) Extremal Sequences Related to the Jacobi Symbol, <a href="vol23.html">Vol 23</a>
-<li class=fragment> (with Santanu Mondal and Krishnendu Paul) Extremal Sequences for the Unit-Weighted Gao Constant of \(\mathbb{Z}_n\), <a href="vol23.html">Vol 23</a>
-<li class=fragment> (with Santanu Mondal and Krishnendu Paul) On Unit-Weighted Zero-Sum Constants of \(\mathbb{Z}_n\), <a href="vol24.html">Vol 24</a>>
+<li> (with M. N. Chintamani and R. Thangadurai) On Short Zero-sum Sequences Over Abelian p-groups, <a href="vol17.html">Vol 17</a>
 

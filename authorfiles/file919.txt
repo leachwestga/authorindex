@@ -1,6 +1,5 @@
 
-<li> Kimberling, Clark
+<li> Kim, Young Jin 
 <ul>
-<li> Beatty Sequences and Trigonometric Functions, <a href="vol16.html">Vol 16</a>
-<li> (with Peter J. C. Moses) Nested Interval Sequences of Positive Real Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with Savana Ammons, Laura Seaberg, and Holly Swisher) An Analogue of <i>k</i>-marked Durfee Symbols for Strongly Unimodal Sequences, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,5 @@
 
-<li> Pejkovi&cacute;, Tomislav 
+<li> Peilloux, Alexis
 <ul>
-<li> (with Yann Bugeaud) Explicit Examples of <i>p</i>-adic Numbers With Prescribed Irrationality Exponent, <a href="vol18a.html">Vol 18A</a>
+<li> (with Greg Martin and Erick B. Wong) Lower Bounds for Sumsets of Multisets in F<sub><i>p</sub><sup>2</sup></i>, <a href="vol13.html">Vol 13</a>
 

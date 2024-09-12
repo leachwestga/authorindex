@@ -1,5 +1,5 @@
 
-<li> Hennecart, Fran&ccedil;ois 
+<li> Hendriks, Dimitri 
 <ul>
-<li> (with Norbert Hegyv&aacute;ri) Note on a Result of Chung on Weil Type Sums, <a href="vol15.html">Vol 15</a>
+<li> (with J&ouml;rg Endrullis and Jan Willem Klop) Degrees of Streams, <a href="vol11b.html">Vol 11b</a>
 

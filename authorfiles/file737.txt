@@ -1,5 +1,5 @@
 
-<li> Hemmandy, Anand 
+<li> Heinrich, Marc 
 <ul>
-<li> (with Katherine Cordwell, Alyssa Epstein, Steven J. Miller, Eyvindur Palsson, Aaditya Sharma, Stefan Steinerberger, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+<li> (with Eric Duch&ecirc;ne, Richard Nowakowski, and Aline Parreau) Partizan Subtraction Games, <a href="vol21b.html">Vol 21b</a>
 

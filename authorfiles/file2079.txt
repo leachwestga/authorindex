@@ -1,5 +1,5 @@
 
-<li> Zhong, Qinghai
+<li> Zheng, Qi-Yang
 <ul>
-<li> (with Yushuang Fan, Weidong Gao, Jiangtao Peng, and Linlin Wang) Remarks on Tiny Zero-Sum Sequences, <a href="vol13.html">Vol 13</a>
+<li> Distribution of 3-Regular and 5-Regular Partitions, <a href="vol23.html">Vol 23</a>
 

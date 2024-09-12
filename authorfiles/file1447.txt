@@ -1,11 +1,5 @@
 
-<li> Pollack, Paul
+<li> Polasub, Mickey
 <ul>
-<li> Values of the Euler and Carmichael Functions Which Are Sums of Three Squares, <a href="vol11.html">Vol 11</a>
-<li> Perfect Numbers With Identical Digits, <a href="vol11a.html">Vol 11A</a>
-<li> (with Carl Pomerance) Prime-Perfect Numbers, <a href="vol12a.html">Vol 12A</a>
-<li> Palindromic Sums of Proper Divisors, <a href="vol15a.html">Vol 15A</a>
-<li> (with Enrique Trevi&ntilde;o) Finding the Four Squares in Lagrange's Theorem, <a href="vol18a.html">Vol 18A</a>
-<li> (with William Banks and Carl Pomerance) Symmetric Primes Revisited, <a href="vol19.html">Vol 19</a>
-<li> (with Dipika Subramaniam and  Enrique Trevi&ntilde;o) On Sums of Consecutive Triangular Numbers, <a href="vol20a.html">Vol 20a</a>
+<li> A Short Proof of a Result of Gica and Luca, <a href="vol13.html">Vol 13</a>
 

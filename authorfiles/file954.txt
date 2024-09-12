@@ -1,5 +1,5 @@
 
-<li> K&ouml;ppe, Matthias
+<li> K&oacute;rus, P&eacute;ter
 <ul>
-<li> (with Velleda Baldoni, Nicole Berline, Jes&uacute;s A. De Loera, Brandon E. Dutra,  and Mich&egrave;le Vergne) Coefficients of Sylvester's Denumerant, <a href="vol15.html">Vol 15</a>
+<li> (with Horst Alzer) Harmonic Numbers: Combinatorial Identities and Series Representations, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,5 @@
 
-<li> Keister, Derrick M.
+<li> Keilthy, Adam
 <ul>
-<li> (with James A. Sellers and Robert G. Vary) Some Arithmetic Properties of Overpartition <i>k</i>-Tuples, <a href="vol9.html">Vol 9</a>
+<li> A Generalization of Quasi-Shuffle Algebras and an Application to Multiple Zeta Values, <a href="vol22.html">Vol 22</a>
 

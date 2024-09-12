@@ -1,6 +1,5 @@
 
-<li> Sullivan, Shaun 
+<li> Sullivan, Rosemary
 <ul>
-<li> (with Heinrich Niederhausen) Counting Depth Zero Patterns in Ballot Paths, <a href="vol11.html">Vol 11</a>
-<li> (with Erik Insko and Katie Johnson) An Ordered Partition Expansion of the Determinant, <a href="vol17.html">Vol 17</a>
+<li> (with Neil Watling) Independent Divisibility Pairs on the Set of Integers from <i>1</i> to <i>N</i>, <a href="vol13.html">Vol 13</a>
 

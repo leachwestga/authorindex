@@ -1,5 +1,5 @@
 
-<li> Turnage-Butterbaugh, Caroline 
+<li> Tung, Katherine 
 <ul>
-<li> (with Andrew Best, Patrick Dynes, Xixi Edelsbrunner, Brian McDonald, Steven J. Miller, Kimsy Tor, and Madeleine Weinstein) Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals, <a href="vol16.html">Vol 16</a>
+<li> (with Jesse Geneson and Peter Tian) Formations and Generalized Davenport-Schinzel Sequences, <a href="vol22.html">Vol 22</a>
 

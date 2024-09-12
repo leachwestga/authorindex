@@ -1,9 +1,5 @@
 
-<li> Heubach, Silvia
+<li> Herzinger, Kurt
 <ul>
-<li> (with Toufik Mansour) Counting Rises, Levels, and Drops in Compositions, <a href="vol5.html">Vol 5(1)</a>
-<li> (with Toufik Mansour) Enumeration of 3-letter Patterns in Compositions,
-<a href="vol7-2.html">Vol 7(2)</a>
-<li> (with Vladimir Gurvich, Hhan Bao Ho, and Nikolay Chikin) Slow <i>k</i>-Nim, <a href="vol20.html">Vol 20</a>
-<li> (with Matthieu Dufour and Anh Vo) Circular Nim Games CN(7,4), <a href="vol21b.html">Vol 21b</a>
+<li> (with Rachel Eaton) A Further Investigation of Positions in Sylver Coinage for Which Four Has Been Chosen, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,5 @@
 
-<li> Rho, Yoomi 
+<li> Rezig, Boualam
 <ul>
-<li> (with Byeong Moon Kim) Van der Waerden's Theorem on Homothetic Copies of <i>{1,1+s, 1+s+t}</i>, <a href="vol12.html">Vol 12</a>
+<li> (with Moussa Ahmia) Total Positivity of Toeplitz Matrices of Hyperlucas Sequence, <a href="vol20.html">Vol 20</a>
 

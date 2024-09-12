@@ -1,5 +1,5 @@
 
-<li> Robbins, Neville
+<li> Rivera, Luis Manuel
 <ul>
-<li> On Partitions and Cyclotomic Polynomials, <a href="vol0.html">Vol 0</a>
+<li> Integer Sequences and <i>k</i>-commuting Permutations, <a href="vol15.html">Vol 15</a>
 

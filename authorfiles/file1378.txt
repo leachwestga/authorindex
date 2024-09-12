@@ -1,5 +1,5 @@
 
-<li class="fragment"> Park, Poo-Sung
+<li> Park, Andrew 
 <ul>
-<li> Multiplicative Functions with \(f(p+q-n_0) = f(p)+f(q)-f(n_0)\), <a href="vol21.html">Vol 21</a>
+<li> (with Bayley Larsen, Hunter Lehmann,  and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
 

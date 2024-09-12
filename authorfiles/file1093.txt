@@ -1,5 +1,5 @@
 
-<li> Lombaers, Peter
+<li> Lohr, Andrew
 <ul>
-<li> Generalizations of Wolstenholme's Theorem Via the <i>p</i>-adic Logarithm, <a href="vol20.html">Vol 20</a>
+<li> (with Doron Zeilberger) On The Limiting Distributions of the Total Height On Families of Trees, <a href="vol18.html">Vol 18</a>
 

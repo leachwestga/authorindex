@@ -1,5 +1,5 @@
 
-<li> Singh, Mritunjay Kumar 
+<li> Sing, Bernd
 <ul>
-<li> (with Rajesh P. Singh) Two Congruence Identities on Ordered Partitions, <a href="vol18.html">Vol 18</a>
+<li> More Kolakoski Sequences, <a href="vol11b.html">Vol 11b</a>
 

@@ -1,5 +1,6 @@
- 
-<li> M&uuml;yesser, Alp 
-<ul>
-<li> (with Calvin Beideman and Matthew Bowen) The Sprague-Grundy Function for Some Selective Compound Games, <a href="vol20.html">Vol 20</a>
+
+<li> Mutafchiev, Ljuben
+<ul> 
+<li>The Size of the Largest Part of Random Plane
+Partitions of Large Integers, <a href="vol6.html">Vol 6</a>
 

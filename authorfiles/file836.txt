@@ -1,5 +1,5 @@
 
-<li> Johnson, John H. 
+<li> Jobson, Adam
 <ul>
-<li> (with Neil Hindman) Images of <i>C</i>-Sets and Related Large Sets under Nonhomogeneous Spectra, <a href="vol12b.html">Vol 12B</a>
+<li> (with Levi Sledd, Susan Calcote White, and D. Jacob Wildstrom) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
 

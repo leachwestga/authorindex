@@ -1,9 +1,5 @@
 
-<li> Richmond, Bruce
+<li> Richman, David Ross
 <ul>
-<li> (with Graeme Kemkes and Donatella Merlini) Maximum Stirling
-Numbers of the Second Kind, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Zhicheng Gao,  Conrado Martinez, and Daniel Panario)
-The <i>r<sup>th</sup></i> Smallest Part Size of a Random Integer Partition,
-<a href="vol14a.html">Vol 14A</a>
+<li> A Sum Involving the Greatest-Integer Function, <a href="vol19.html">Vol 19</a>
 

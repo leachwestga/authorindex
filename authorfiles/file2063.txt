@@ -1,5 +1,5 @@
-
-<li> Zhang, Min
+ 
+<li> Zhan, Tong
 <ul>
-<li> (with Jinjiang Li) On a Diophantine Equation With Three Prime Variables, <a href="vol19.html">Vol 19</a>
+<li> On Rainbow Solutions to an Equation with a Quadratic Term, <a href="vol9.html">Vol 9</a>
 

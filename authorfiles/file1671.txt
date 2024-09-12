@@ -1,5 +1,10 @@
 
-<li> Siavashi, Sahar 
+<li> Shevelev, Vladimir 
 <ul>
-<li> (with Amir Akbary) The Largest Known Wieferich Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Simon Litsyn) On Factorization of Integers with Restrictions on
+the Exponents, <a href="vol7.html">Vol 7</a>
+<li> The Number of Permutations with Prescribed Up-Down Structure as a Function of Two Variables, <a href="vol12.html">Vol 12</a>
+<li> (with Peter J. C. Moses) On a Sequence of Polynomials with Hypothetically Integer Coefficients, <a href="vol13.html">Vol 13</a>
+<li> (with Peter J. C. Moses) Tangent Power Sums and Their Applications, <a href="vol14.html">Vol 14</a>
+<li> (with Peter J. C. Moses) Alice and Bob Go to Dinner: A Variation on <i>m&eacute;nage</i>, <a href="vol16.html">Vol 16</a>
 

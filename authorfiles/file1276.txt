@@ -1,5 +1,5 @@
 
-<li> Muskat, Joseph B. 
-	<ul>
-		<li> (with Greg Doyle, Lerna Pehlivan, and Kenneth S. Williams) Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms, <a href="vol19.html">Vol 19</a>
-	
+<li> Murru, Nadir 
+<ul>
+<li> (with Marco Abrate, Stefano Barbero, and Umberto Cerruti) Polynomial Sequences on Quadratic Curves, <a href="vol15.html">Vol 15</a>
+

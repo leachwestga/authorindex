@@ -1,7 +1,6 @@
 
-<li> Stanchescu, Yonutz V.
+<li> Stamp, Mark
 <ul>
-<li> On the Structure of Sets with Small Doubling
-Property on the Plane (II),
-<a href="vol8-2.html">Vol 8(2)</a>
+<li> (with Richard M. Low) King and Rook Vs. King on a
+Quarter-Infinite Board, <a href="vol6.html">Vol 6</a>
 

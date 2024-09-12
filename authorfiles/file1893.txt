@@ -1,8 +1,5 @@
 
-<li> Vandehey, Joseph
+<li> van der Kamp, Peter H.
 <ul>
-<li> On Multiplicative Functions with Bounded Partial Sums, <a href="vol12.html">Vol 12</a>
-<li> On an Incomplete Argument of Erd&#337;s on the Irrationality of Lambert Series, <a href="vol13.html">Vol 13</a>
-<li> On the Binary Digits of &radic;2, <a href="vol18.html">Vol 18</a>
-<li> A Proof of the Infinitude of Primes Via Continued Fractions, <a href="vol20.html">Vol 20</a>
+<li> On the Fourier Transform of the Greatest Common Divisor, <a href="vol13.html">Vol 13</a>
 

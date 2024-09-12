@@ -1,5 +1,6 @@
 
-<li> Liu, Dan 
+<li> Litsyn, Simon
 <ul>
-<li> (with Shu-Juan Duan and Tai-Man Tang) A Planar Integral Self-Affine Tile with Cantor Set Intersections With Its Neighbors, <a href="vol9.html">Vol 9</a>
+<li> (with Vladimir Shevelev) On Factorization of Integers with Restrictions on
+the Exponents, <a href="vol7.html">Vol 7</a>
 

@@ -1,8 +1,5 @@
 
-<li> Mercer, Idris
+<li> Mennen, Carminda M.
 <ul>
-<li> Newman Polynomials, Reducibility, and Roots on the Unit Circle, <a href="vol12.html">Vol 12</a>
-<li> Newman Polynomials Not Vanishing on the Unit Circle, <a href="vol12.html">Vol 12</a>
-<li> Dirichlet's Theorem and Jacobsthal's Function, <a href="vol18.html">Vol 18</a>
-<li> Finite Searches, Chowla's Cosine Problem, and Large Newman Polynomials, <a href="vol19.html">Vol 19</a>
+<li> M&ouml;bius Maps and Continued Fractions, <a href="vol24.html">Vol 24</a>
 

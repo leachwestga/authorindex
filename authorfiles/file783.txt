@@ -1,5 +1,5 @@
 
-<li> Ho&scedil;ten, Serkan
+<li> Horvath, Gabor
 <ul>
-<li> (with Matthias Beck and Matthias Schymura) Lonely Runner Polyhedra, <a href="vol19.html">Vol 19</a>
+<li> (with Andries E. Brouwer, Ildiko Molnar-Saska, and Csaba Szabo) On Three-rowed Chomp, <a href="vol5.html">Vol 5(1)</a>
 

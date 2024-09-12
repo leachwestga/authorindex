@@ -1,5 +1,5 @@
 
-<li> Pyle, E. E.
+<li> Purdum, David 
 <ul>
-<li> (with R. W. R. Darling) Maximum <i>GCD</i> Among Pairs of Random Integers, <a href="vol11.html">Vol 11</a>
+<li> (with Richard Brent, Carl Pomerance,  and Jonathan Webster) Algorithms for the Multiplication Table Problem, <a href="vol21.html">Vol 21</a>
 

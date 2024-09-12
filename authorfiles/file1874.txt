@@ -1,5 +1,5 @@
 
-<li> Trukszyn, Zdzislaw 
+<li> Trujillo, Timothy
 <ul>
-<li> (with Ryszard Palka) Finite Sums of the Floor Functions Series, <a href="vol20.html">Vol 20</a>
+<li> (with Zachary Chaney, Jed Menard, and Connor Mattes) Triangular Ramsey Numbers, <a href="vol19.html">Vol 19</a>
 

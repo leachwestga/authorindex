@@ -1,5 +1,5 @@
 
-<li> Kumar, Nikhil 
+<li> Kumar, Manish
 <ul>
-<li> (with Sanjit Singh Batra and Amitabha Tripathi) On a Linear Diophantine Problem Involving the Fibonacci and Lucas Sequences, <a href="vol15.html">Vol 15</a>
+<li> (with Mohan Pandey and Ram Krishna Pandey) A Conjecture of Chu et al. and a New Family of MSTD Sets, <a href="vol24.html">Vol 24</a>
 

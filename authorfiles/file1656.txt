@@ -1,5 +1,7 @@
 
-<li> Shi, Xiao-Ting 
+<li> Shi, Sanying 
 <ul>
-<li> (with Feng Qi and Bai-Ni Guo) Two Explicit Formulas of the Schr&ouml;der Numbers, <a href="vol16.html">Vol 16</a>
+<li> (with Anwar Ayyad and Todd Cochrane) Modular Hyperbolas and the Congruence <i>ax<sub>1</sub>x<sub>2</sub>&hellip;x<sub>k</sub> + bx<sub>k+1</sub>x<sub>k+2</sub>&hellip;x<sub>2k</sub> &equiv; c</i> mod <i>m</i>, <a href="vol18.html">Vol 18</a>
+<li class="fragment"> (with Todd Cochrane) Sum-Products mod <i>m</i> and the Congruence \(ax_1x_2 \cdots x_k + bx_{k+1}x_{k+2}\cdots x_{2k} \equiv c \pmod {m}\), <a href="vol20.html">Vol 20</a>
+<li class="fragment"> (with Todd Cochrane) Small Solutions of \(ax_1\cdots x_k + bx_{k+1}\cdots x_{2k} \equiv c \pmod {m}\) under the Lindel&ouml;f Hypothesis, <a href="vol21.html">Vol 21</a>
 

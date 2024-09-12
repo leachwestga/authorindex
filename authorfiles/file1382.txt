@@ -1,5 +1,5 @@
 
-<li> Parshall, Hans 
+<li> Parrish, Joseph 
 <ul>
-<li> (with Pete L. Clark, Jacob Hicks, and Katherine Thompson) GoNI: Primes Represented by Binary Quadratic Forms, <a href="vol13.html">Vol 13</a>
+<li> (with Kellen Myers) Some Nonlinear Rado Numbers, <a href="vol18b.html">Vol 18B</a>
 

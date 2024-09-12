@@ -1,5 +1,5 @@
 
-<li> Shankman, Daniel 
+<li> Shankar, Ajeet
 <ul>
-<li> (with Jim Brown, Robert Cass, Kevin James, Rodney Keaton, and Salvatore Parenti) Counting Tamely Ramified Extensions of Local Fields up to Isomorphism, <a href="vol16.html">Vol 16</a>
+<li> (with Manu Sridharan) New Temperatures in Domineering, <a href="vol5.html">Vol 5(1)</a>
 

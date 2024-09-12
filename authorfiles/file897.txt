@@ -1,5 +1,5 @@
 
-<li> Kendirli, Bar&inodot;&scedil;
+<li> Kendrick, Caleb 
 <ul>
-<li> Fourier Coefficients of a Class of Eta Quotients, <a href="vol16.html">Vol 16</a>
+<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
 

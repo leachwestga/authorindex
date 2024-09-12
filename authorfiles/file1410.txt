@@ -1,5 +1,7 @@
 
-<li> Pensyl, Thomas W.
+<li> Penniston, David
 <ul>
-<li> (with Carla D. Savage) Lecture Hall Partitions and the Wreath Products <i>C<sub>k</sub> &#8768; S<sub>n</sub></i>, <a href="vol12b.html">Vol 12B</a>
+<li> (with Neil Calkin, Nate Drake, Kevin James, Shirley Law, Philip Lee, and Jeanne Radder)
+Divisibility Properties of the 5-regular and 13-regular Partition Functions,
+<a href="vol8.html">Vol 8(1)</a>
 

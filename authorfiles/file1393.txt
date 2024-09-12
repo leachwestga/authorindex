@@ -1,5 +1,5 @@
 
-<li> Patterson, D. 
+<li> Pattanayak, S. K. 
 <ul>
-<li> (with K. Johnson) Projective <i>p</i>-Orderings and Homogeneous Integer-Valued Polynomials, <a href="vol11.html">Vol 11</a>
+<li> (with S. S. Kannan) Normality, Projective Normality and EGZ Theorem, <a href="vol11.html">Vol 11</a>
 

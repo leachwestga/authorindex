@@ -1,5 +1,5 @@
 
-<li> Hisert, George A.
+<li> Hirshberg, susan
 <ul>
-<li> Unchained <i>r</i>-sequences and a Generalized Cassini Formula, <a href="vol15.html">Vol 15</a>
+<li> (with William Fraser and David Wolfe) The Structure of Distributive Lattice of Games Born by Day n, <a href="vol5-2.html">Vol 5(2)</a>
 

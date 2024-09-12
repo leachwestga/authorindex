@@ -1,5 +1,5 @@
 
-<li> Warren, Audie
+<li> Warnick, Merrill
 <ul>
-<li> (with Miriam Patry) Line Sidon Sets, <a href="vol23.html">Vol 23</a>
+<li> (with Victoria Iba and Paul Jenkins) Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels, <a href="vol19.html">Vol 19</a>
 

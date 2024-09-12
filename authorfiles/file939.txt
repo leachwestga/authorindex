@@ -1,5 +1,5 @@
 
-<li> Knopfmacher, A.
+<li> Knop, Konstantin 
 <ul>
-<li> (with M. E. Mays) Graph Compositions I:  Basic Enumeration, <a href="vol1.html">Vol 1</a>
+<li> (with Nikolay Chikin, Vladimir Gurvich,  Mike Paterson, and Michael Vyalyi) More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
 

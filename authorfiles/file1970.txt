@@ -1,5 +1,5 @@
 
-<li> Weba, Michael
+<li> Waxweiler, Laurent
 <ul>
-<li> Finite Representations of the Summatory Divisor Function and Ramanujan’s  &tau;-Function, <a href="vol17.html">Vol 17</a>
+<li> (with &Eacute;milie Charlier, Narad Rampersad, and Michel Rigo) The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System, <a href="vol11b.html">Vol 11b</a>
 

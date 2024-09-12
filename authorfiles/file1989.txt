@@ -1,10 +1,8 @@
 
-<li> Williams, Kenneth S. 
+<li> Williams, H. C.
 <ul>
-<li> (with Greg Doyle) A Positive-Definite Ternary Quadratic Form Does Not Represent All Positive Integers, <a href="vol17.html">Vol 17</a>
-<li> (with Lerna Pehlivan) (<i>k,l</i>)-Universality of Ternary Quadratic Forms <i>ax<sup>2</sup>+by<sup>2</sup>+cz<sup>2</sup></i>, <a href="vol18.html">Vol 18</a>
-<li> (with Lerna Pehlivan) Positive-Definite Ternary Quadratic Forms Which are (4,1)-universal and (4,3)-universal, <a href="vol18.html">Vol 18</a>
-<li> (with Greg Doyle, Joseph B. Muskat, and Lerna Pehlivan) Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms, <a href="vol19.html">Vol 19</a>
-<li> (with Zafer Selcuk Aygin, Greg Doyle, Florian M&uuml;nkel, and Lerna Pehlivan) Representation Numbers of Spinor Regular Ternary Quadratic Forms, <a href="vol21.html">Vol 21</a>
-<li class=fragment> (with Florian M&uuml;nkel and Lema Pehlivan) Arithmetic Properties of the Ternary Quadratic Form \(3x^2+6y^2+14z^2+4yz+2zx+2xy\), <a href="vol22.html">Vol 22</a>
+<li> (with R. K. Guy) Some Monoapparitic Fourth Order Linear Divisibility Sequences, <a href="vol12a.html">Vol 12A</a>
+<li> (with R. K. Guy) Odd and Even Linear Divisibility Sequences of Order 4, <a href="vol15.html">Vol 15</a>
+<li> (with E. L. Roettger) Lucas-Lehmer Primality Tests for Certain Prime Curios, <a href="vol21.html">Vol 21</a>
+<li> (with E. L. Roettger) Some Primality Conditions for <i>N=2 p<sup>n</sup>-1</i>, <a href="vol22.html">Vol 22</a>
 

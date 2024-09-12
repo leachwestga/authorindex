@@ -1,5 +1,5 @@
 
-<li> Tian, Peter
+<li> Tiachachat, Meriem 
 <ul>
-<li> (with Jesse Geneson and Katherine Tung) Formations and Generalized Davenport-Schinzel Sequences, <a href="vol22.html">Vol 22</a>
+<li> (with Miloud Mihoubi) A New Class of the <i>r</i>-Stirling Numbers and the Generalized Bernoulli Polynomials, <a href="vol20.html">Vol 20</a>
 

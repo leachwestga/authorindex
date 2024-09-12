@@ -1,7 +1,6 @@
 
-<li> Ta, Ha
+<li> T, Harishkumar 
 <ul>
-<li> (with David Garth and Joseph Palmer)
-Self Generating Sets and Numeration Systems,
-<a href="vol9supp.html">Volume 9  Supplement</a>
+<li> (with M. S. Mahadeva Naika and Y. Veeranna) Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs, <a href="vol20.html">Vol 20</a>
+<li> (with M. S. Mahadeva Naika and T. N. Veeranayaka) On  <i>(4, 5)</i>-regular Partitions With Odd Parts Overlined, <a href="vol20.html">Vol 20</a>
 

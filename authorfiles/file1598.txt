@@ -1,11 +1,5 @@
 
-<li> Savage, Carla D.
+<li> Saunders, J. C. 
 <ul>
-<li> (with Sylvie Corteel) Plane Partition Diamonds and Generalizations, <a href="vol3.html">Vol 3</a>
-<li> (with Sylvie Corteel and Herbert S. Wilf) A Note on Partitions and Compositions Defined by Inequalities, <a href="vol5.html">Vol 5(1)</a>
-<li> (with Sylvie Corteel and Sunyoung Lee)
-Five Guidelines for Partition Analysis with Applications to Lecture Hall-type Theorems, <a href="vol7-2.html">Vol 7(2)</a>
-<li> (with Nicholas A. Loehr) Generalizing the Combinatorics of Binomial Coefficients Via <i>l</i>-Nomials, <a href="vol10.html">Vol 10</a>
-<li> (with Bruce E. Sagan) Combinatorial Interpretations of Binomial Coefficient Analogues Related to Lucas Sequences, <a href="vol10.html">Vol 10</a>
-<li> (with Thomas W. Pensyl) Lecture Hall Partitions and the Wreath Products <i>C<sub>k</sub> &#8768; S<sub>n</sub></i>, <a href="vol12b.html">Vol 12B</a>
+<li> (with Rigoberto Fl&oacute;rez) Irreducibility of Generalized Fibonacci Polynomials, <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,5 @@
 
-<li> Pillichshammer, Fridrich
+<li> Pilehrood, Tatiana Hessami 
 <ul>
-<li> (with Josef Dick) The Figure of Merit of 2-dimensional Rank 2 Lattice Rules, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Khodabakhsh Hessami Pilehrood and Roberto Tauraso) Multiple Harmonic Sums and Multiple Harmonic Star Sums are (Nearly) Never  Integers, <a href="vol17.html">Vol 17</a>
 

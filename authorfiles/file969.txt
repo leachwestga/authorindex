@@ -1,5 +1,5 @@
 
-<li> K&#345;&iacute;&#382;ek, Michal 
+<li> Kritzer, Peter
 <ul>
-<li> (with Lawrence Somer) Nondefective Integers With Respect to Certain Lucas Sequences of the Second Kind, <a href="vol18.html">Vol 18</a>
+<li> A New Upper Bound on the Star Discrepancy of (0,1)-sequences, <a href="vol5-3.html">Vol 5(3)</a>
 

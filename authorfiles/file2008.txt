@@ -1,5 +1,5 @@
 
-<li> Wu, Chai Wah
+<li> Wright, Thomas
 <ul>
-<li> Sums of Products of Binomial Coefficients Mod 2 and Run Length Transforms of Sequences, <a href="vol22.html">Vol 22</a>
+<li> The Impossibility of Certain Types of Carmichael Numbers, <a href="vol12.html">Vol 12</a>
 

@@ -1,5 +1,9 @@
 
-<li> Knapp, Michael P.
+<li> Klyve, Dominic
 <ul>
-<li> (with Michael D. Paul) On Weakly Complete Sequences Formed by the Greedy Algorithm, <a href="vol12.html">Vol 12</a>
+<li> (with Jonathan Bayless) On the Sum of Reciprocals of Amicable Numbers,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Jonathan Bayless and Tom&aacute;s Oliveira e Silva) New Bounds and Computations on Prime-Indexed Primes, <a href="vol13.html">Vol 13</a>
+<li> (with Melissa Piddle and Kathryn E. Temple) Estimating the Density of the Abundant Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Tasha Fellman) Existence of Cycles in Ducci’s Four-Number Game with Modular Multiplication, <a href="vol23.html">Vol 23</a>
 

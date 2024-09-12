@@ -1,5 +1,5 @@
 
-<li> Mbirika, aBa 
+<li> Mbarki, Khadija
 <ul>
-<li> (with Emily Gullerud) An Euler Phi Function for the Eisenstein Integers and Some Applications, <a href="vol20.html">Vol 20</a>
+<li> On a Cubic Moment for Sums of Hecke Eigenvalues, <a href="vol16.html">Vol 16</a>
 

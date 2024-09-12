@@ -1,5 +1,6 @@
 
-<li> Shar, Nathaniel
+<li> Shapiro, S. David 
 <ul>
-<li> Bijective Proofs of Vajda's Ninetieth Fibonacci Number Identity and Related Identities, <a href="vol12.html">Vol 12</a>
+<li> (with Daniel B. Shapiro) Iterated Exponents in Number Theory,
+<a href="vol7.html">Vol 7</a>
 

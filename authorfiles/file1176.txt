@@ -1,6 +1,5 @@
 
-<li> Mays, Michael E.
+<li> Mayle, Jacob 
 <ul>
-<li> (with A. Knopfmacher) Graph Compositions I:  Basic Enumeration, <a href="vol1.html">Vol 1</a>
-<li> (with Todd Tichenor) Graph Compositions: Deleting Edges from Complete Graphs, <a href="vol15.html">Vol 15</a>
+<li> (with Sarah Manski and Nathaniel Zbacnik) The Asymptotic Distribution of a Hybrid Arithmetic Function, <a href="vol15.html">Vol 15</a>
 

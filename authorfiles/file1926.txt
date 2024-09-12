@@ -1,5 +1,5 @@
 
-<li> Vyalyi, Michael 
+<li> Vukusic, Ingrid 
 <ul>
-<li> (with Nikolay Chikin, Vladimir Gurvich, Konstantin Knop, and Mike Paterson)  More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
+<li> (with Tobias Hilgart and Volker Ziegler) On a Family of Cubic Thue Equations Involving Fibonacci and Lucas Numbers, <a href="vol22.html">Vol 22</a>
 

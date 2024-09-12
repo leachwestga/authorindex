@@ -1,7 +1,7 @@
 
-<li> Schmid, Wolfgang A.
+<li> Schlatter, Mark
 <ul>
-<li> On Zero-Sum Subsequences in Finite Abelian Groups, <a href="vol1.html">Vol 1</a>
-<li> (with W. D. Gao, Q. H. Hou, and R. Thangadurai)
-On Short Zero-Sum Subsequences II, <a href="vol7.html">Vol 7</a>
+<li> (with Jeffery James) Some Observations and Solutions to Short and Long Glo
+bal Nim, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Mark Goadrich) Analyzing Two-Color Babylon, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,6 @@
 
-<li> Solymosi, J. 
+<li> Sol&eacute;, Patrick
 <ul>
-<li> (with  I. D. Shkredov) Tilted Corners in Integer Grids, <a href="vol21A.html">Vol 21A</a>
+<li> (with Michel Planat) The Robin Inequality for <i>7</i>-Free Integers, <a href="vol11.html">Vol 11</a>
+<li> (with Yuyang Zhu) An Asymptotic Robin Inequality, <a href="vol16.html">Vol 16</a>
 

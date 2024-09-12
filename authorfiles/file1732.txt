@@ -1,5 +1,5 @@
 
-<li> Sperber, Steven 
+<li> Spencer, Craig V. 
 <ul>
-<li> (with Alan Adolphson) On the Integrality of Factorial Ratios and Mirror Maps, <a href="vol20.html">Vol 20</a>
+<li> (with Yogesh More) A Generalization of Schauz and Brink's Restricted-Variable Version of Chevalley's Theorem, <a href="vol17.html">Vol 17</a>
 

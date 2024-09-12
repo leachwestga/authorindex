@@ -1,5 +1,5 @@
 
-<li> Takeda, Wataru
+<li> Takalani, Ntendeni A.
 <ul>
-<li> On Solutions to Erd&#337;s' Last Equation, <a href="vol21.html">Vol 21</a>
+<li> (with Augustine O. Munagi) Full <i>K</i>-Complete Partitions, <a href="vol22.html">Vol 22</a>
 

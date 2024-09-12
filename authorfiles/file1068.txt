@@ -1,7 +1,5 @@
 
-<li> Lichtblau, Daniel 
+<li> Liardet, Pierre 
 <ul>
-<li> (with David Einstein, Adam Strzebonski, and Stan Wagon)
-Frobenius Numbers by Lattice Point Enumeration,
-<a href="vol7.html">Vol 7</a>
+<li> (with Vladim&iacute;r Bal&aacute;&#382; and Oto Strauch) Distribution Functions of the Sequence <i>&phi;(M)/M, M &isin; (K,K+N]</i> As <i>K, N</i> Go to Infinity, <a href="vol10.html">Vol 10</a>
 

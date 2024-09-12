@@ -1,5 +1,5 @@
 
-<li> te Riele, Herman
+<li> Tenner, Bridget Eileen
 <ul>
-<li> (with Florian Luca) Aliquot Cycles of Repdigits, <a href="vol11.html">Vol 11</a>
+<li> (with T. Kyle Petersen) How to Write a Permutation as a Product of Involutions (and Why You Might Care), <a href="vol13.html">Vol 13</a>
 

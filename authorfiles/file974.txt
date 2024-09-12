@@ -1,7 +1,5 @@
 
-<li> Kuba, Markus
+<li> Krylov, Nikolai A.
 <ul>
-<li> (with Helmut Prodinger and Carsten Schneider) Generalized
-Reciprocity Laws for Sums of Harmonic Numbers, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Helmut Prodinger) A Note on Stirling Series, <a href="vol10.html">Vol 10</a>
+<li> (with Zhangyuan Li) A Congruence Property of Irreducible Laguerre Polynomials in Two Variables, <a href="vol16.html">Vol 16</a>
 

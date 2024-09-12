@@ -1,5 +1,7 @@
 
-<li> Roche, James R. 
+<li> Robinson, Rhett S.
 <ul>
-<li> (with Joe Buhler, Chris Freiling, Ron Graham, Jonathan Kariv,  Mark Tiefenbruck, Clint Van Alten, and Dmytro Yeroshkin) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
+<li> (with Gretchen L. Matthews)
+A Variant of the Frobenius Problem and Generalized Suzuki Semigroups,
+<a href="vol7-2.html">Vol7(2)</a>
 

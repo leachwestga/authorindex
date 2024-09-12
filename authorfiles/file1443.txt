@@ -1,6 +1,5 @@
 
-<li> Pluh&aacute;r, Andr&aacute;s
+<li> Plick, Thomas A.
 <ul>
-<li> (with Andr&aacute;s Csernenszky and Ryan R. Martin) On the Complexity of
-Chooser-Picker Positional Games, <a href="vol11.html">Vol 11</a>
+<li> A New Constraint on Perfect Cuboids, <a href="vol17.html">Vol 17</a>
 

@@ -1,5 +1,5 @@
 
-<li> Tada, Masato
+<li> Tachiya, Yohei 
 <ul>
-<li> (with Tomoaki Abuku) A Multiple Hook Removing Game Whose Starting Position is a Rectangular Young Diagram with Unimodal Numbering, <a href="vol23.html">Vol 23</a>
+<li> (with Takao Komatsu and Florian Luca) On the Multiplicative Order of <i>F<sub>n+1</sub>/F<sub>n</sub></i> Modulo <i>F<sub>m</sub></i>, <a href="vol12b.html">Vol 12B</a>
 

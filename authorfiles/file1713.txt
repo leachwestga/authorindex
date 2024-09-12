@@ -1,5 +1,5 @@
 
-<li> Smith, William W.
+<li> Smith, Michael 
 <ul>
-<li> (with Scott T. Chapman) A Characterization of Minimal Zero-Sequences of Index One in Finite Cyclic Groups, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Bret Benesh, Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good,  Jennifer Travis, and Mark Daniel Ward) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
 

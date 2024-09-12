@@ -1,6 +1,5 @@
 
-<li> Srinivasan, Anitha
+<li> Srilakshmi, K. 
 <ul>
-<li> An Upper Bound for Ramanujan Primes, <a href="vol14.html">Vol 14</a>
-<li> (with John W. Nicholson) An Improved Upper Bound for Ramanujan Primes, <a href="vol15.html">Vol 15</a>
+<li> (with T. Kathiravan) Some Congruences for <i>(s,t)</i>-regular Bipartitions Modulo <i>t</i>, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,5 @@
 
-<li> Jouhet, Fr&eacute;d&eacute;ric
+<li> Jordan, Jill E. 
 <ul>
-<li> (with Philippe Nadeau) Long Fully Commutative Elements in Affine Coxeter Groups, <a href="vol15.html">Vol 15</a>
+<li> (with Rene Ardila, Christine Caples, Helen G. Grundman, Laura L. Hall-Seelig,  Karen T. Kohl, and Thomas P. Wakefield) Values of Weighted Davenport Constants, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,5 @@
 
-<li> Nataraj, Karthik
+<li> Natalini, Pierpaolo
 <ul>
-<li> Further Multivariate Generalizations of Euler's Pentagonal Number Theorem and the Rogers-Ramanujan Identities, <a href="vol16.html">Vol 16</a>
+<li> (with Paolo Emilio Ricci) Hypergeometric Bernoulli Polynomials and <i>r</i>-Associated Stirling Numbers of the Second Kind, <a href="vol22.html">Vol 22</a>
 

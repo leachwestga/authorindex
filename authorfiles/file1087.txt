@@ -1,5 +1,5 @@
 
-<li> L&oacute;pez, Josefina
+<li> Ljuji&#263;, &#381;eljka
 <ul>
-<li> (with Peter Stoll) The Repetends of Reduced Fractions <i>a/b<sup>k</sup></i> Approach Full Complexity with an Increasing <i>k</i>, <a href="vol22.html">Vol 22</a>
+<li> (with Melvyn B. Nathanson) On a Partition Problem of Canfield and Wilf, <a href="vol12a.html">Vol 12A</a>
 

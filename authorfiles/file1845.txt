@@ -1,5 +1,5 @@
 
-<li> Tichenor, Todd
+<li> Tian, Peter
 <ul>
-<li> (with Michael Mays) Graph Compositions: Deleting Edges from Complete Graphs, <a href="vol15.html">Vol 15</a>
+<li> (with Jesse Geneson and Katherine Tung) Formations and Generalized Davenport-Schinzel Sequences, <a href="vol22.html">Vol 22</a>
 

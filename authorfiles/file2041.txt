@@ -1,12 +1,7 @@
 
-<li> Young, Paul Thomas
+<li class="fragment"> Young, Michael 
 <ul>
-<li> (with Florian Luca) Coincidences of Catalan and <i>q</i>-Catalan Numbers,
-<a href="vol11a.html">Vol 11A</a>
-<li> Bernoulli Numbers and Generalized Factorial Sums,
-<a href="vol11a.html">Vol 11A</a>
-<li> 2-adic Valuations of Generalized Fibonacci Numbers of Odd Order, <a href="vol18.html">Vol 18</a>
-<li> <i>2</i>-adic Properties of Generalized Fibonacci Numbers, <a href="vol20.html">Vol 20</a>
-<li> On the 2-Adic Valuation of Generalized Fibonacci Sequences, <a href="vol22.html">Vol 22</a>
-<li> Series of Height One Multiple Zeta Functions, <a href="vol24.html">Vol 24</a>
+<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin, David Offner, and John Talbot) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+<li> (with Erin Bevilacqua, Samuel King, J&uuml;rgen Kritschgau,  and Suzannah Tebon) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+<li class="fragment"> (with Katie Ansaldi, Houssein El Turkey, Jessica Hamm, Anisah Nu'Man, and Nathan Warnberg) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
 

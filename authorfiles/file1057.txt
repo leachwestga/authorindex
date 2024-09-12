@@ -1,5 +1,5 @@
 
-<li> Li, Teresa X.S.
+<li> Li, Taiyu
 <ul>
-<li> (with Alina F.Y. Zhao) Weighted Free Lattice Paths and Legendre Polynomials, <a href="vol22.html">Vol 22</a>
+<li> (with Hengcai Tang) On a Theorem of Prachar Involving Prime Powers, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,5 @@
 
-<li> Langeveld, Niels
+<li> Lane-Harvard, Liz
 <ul>
-<li> (with Karma Dajani) Alternating <i>N</i>-Expansions, <a href="vol22.html">Vol 22</a>
+<li> (with Daniel Schaal) Disjunctive Rado Numbers for <i>ax<sub>1</sub>+x<sub>2</sub>=x<sub>3</sub></i> and <i>bx<sub>1</sub>+x<sub>2</sub>=x<sub>3</sub></i>, <a href="vol13.html">Vol 13</a>
 

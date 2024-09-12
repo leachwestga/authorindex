@@ -1,5 +1,6 @@
 
-<li> Withrow, Camron 
+<li> Winterhof, Arne 
 <ul>
-<li> (with Peter Fletcher) Primes <i>p</i> Having at Most One Divisor of <i>p-1</i> of a Specified Multiplicative Order, <a href="vol19.html">Vol 19</a>
+<li> (with Mizan R. Khan, Richard Magner, and Steven Senger) Two Combinatorial Geometric Problems involving Modular Hyperbolas, <a href="vol14.html">Vol 14</a>
+<li> (with Oliver Roche-Newton and Ilya D. Shkredov) Packing Sets over Finite Abelian Groups, <a href="vol18.html">Vol 18</a>
 

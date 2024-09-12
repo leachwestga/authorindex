@@ -1,5 +1,7 @@
 
-<li> Lapointe, M&eacute;lodie
+<li> Laohakosol, Vichian 
 <ul>
-<li> (with Christophe Reutenauer) On the Frobenius Conjecture, <a href="vol21.html">Vol 21</a>
+<li> (with Jittinart Rattanamoong and Tuangrat Chaichana) Generalized Folding Lemmas in the Field of Formal Series and Their Applications, <a href="vol15.html">Vol 15</a>
+<li> (with  P. Singthongla and N. R. Kanasri) Reducibility of Polynomials Over Algebraic Number Fields, <a href="vol17.html">Vol 17</a>
+<li> (with Takao Komatsu and Jittinart Rattanamoong) Complex Cantor Series, Cantor Products and Their Independence, <a href="vol19.html">Vol 19</a>
 

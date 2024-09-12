@@ -1,6 +1,5 @@
 
-<li> Juillerat, Jacob 
+<li> Juarez, Jazmine 
 <ul>
-<li> (with Michael Filaseta) Consecutive Primes Which Are Widely Digitally Delicate, <a href="vol21A.html">Vol 21A</a>
-<li> (with Michael Filaseta and Thomas Luckner) Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers, <a href="vol23.html">Vol 23</a>
+<li> (with Matthew Guhl, Vadim Ponomarenko, Rebecca Rechkin, and Deepesh Singhal) Complementary Numerical Sets, <a href="vol22.html">Vol 22</a>
 

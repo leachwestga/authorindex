@@ -1,7 +1,6 @@
 
-<li> Martinez, Conrado
+<li> Martin, Ryan R. 
 <ul>
-<li> (with Zhicheng Gao, Daniel Panario, and Bruce Richmond)
-The <i>r<sup>th</sup></i> Smallest Part Size of a Random Integer Partition,
-<a href="vol14a.html">Vol 14A</a>
+<li> (with Andr&aacute;s Csernenszky and Andr&aacute;s Pluh&aacute;r) On the Complexity of Chooser-Picker Positional Games, <a href="vol11.html">Vol 11</a>
+<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;,  David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
 

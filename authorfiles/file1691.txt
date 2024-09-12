@@ -1,5 +1,5 @@
 
-<li> Sinha, Nilotpal Kanti
+<li> Singthongla, P.
 <ul>
-<li> (with Sungjin Kim) Binomial Probability of Prime Number of Successes, <a href="vol20.html">Vol 20</a>
+<li> (with N. R. Kanasri and V. Laohakosol) Reducibility of Polynomials Over Algebraic Number Fields, <a href="vol17.html">Vol 17</a>
 

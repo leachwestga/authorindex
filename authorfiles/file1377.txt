@@ -1,5 +1,5 @@
 
-<li> Park, Andrew 
+<li> Paris, Richard B. 
 <ul>
-<li> (with Bayley Larsen, Hunter Lehmann,  and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
+<li> (with Arjun K. Rathie and Insuk Kim) A Note on a Generalization of Two Well-Known Combinatorial Identities via a Hypergeometric Series Approach, <a href="vol22.html">Vol 22</a>
 

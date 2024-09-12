@@ -1,5 +1,5 @@
 
-<li> Lanning, Charles 
+<li> Langlois, Bruno
 <ul>
-<li> (with Daniel Gray and Hua Wang) Pattern Containment in Circular Permutations, <a href="vol18b.html">Vol 18B</a>
+<li> Les Endomorphismes de Q<sub>+</sub><sup>*</sup> pour l'Addition des Cancres, <a href="vol18.html">Vol 18</a>
 

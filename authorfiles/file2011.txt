@@ -1,6 +1,6 @@
- 
-<li> Xu, Ping 
+
+<li> Xia, Xingwu
 <ul>
-<li> (with Hao Pan) Note on a Congruence Involving
-Products of Binomial Coefficients, <a href="vol7.html">Vol 7</a>
+<li> Two Generalized Constants related to Zero-Sum Problems for
+Two Special Sets, <a href="vol7.html">Vol 7</a>
 

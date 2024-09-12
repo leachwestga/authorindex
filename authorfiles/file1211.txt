@@ -1,5 +1,5 @@
 
-<li> Mennen, Carminda M.
+<li> Menard, Jed 
 <ul>
-<li> M&ouml;bius Maps and Continued Fractions, <a href="vol24.html">Vol 24</a>
+<li> (with Zachary Chaney, Connor Mattes, and Timothy Trujillo) Triangular Ramsey Numbers, <a href="vol19.html">Vol 19</a>
 

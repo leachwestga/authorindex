@@ -1,5 +1,5 @@
 
-<li> Mac&iacute;as, Jhixon
+<li> Ma&ccaron;aj, Martin 
 <ul>
-<li> Another Topological Proof of the Infinitude of Prime Numbers, <a href="vol24.html">Vol 24</a>
+<li> (with Slobodan Filipovski) On a Conjecture of Victor Guo, <a href="vol20.html">Vol 20</a>
 

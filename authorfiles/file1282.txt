@@ -1,7 +1,5 @@
 
-<li> Naika, M. S. Mahadeva
+<li> Nagy, G&aacute;bor V. 
 <ul>
-<li> (with D. S. Gireesh) Congruences for 3-Regular Partitions With Designated Summands, <a href="vol16.html">Vol 16</a>
-<li> (with Harishkumar T and Y. Veeranna) Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs, <a href="vol20.html">Vol 20</a>
-<li> (with Harishkumar T and T. N. Veeranayaka) On  <i>(4, 5)</i>-regular Partitions With Odd Parts Overlined, <a href="vol20.html">Vol 20</a>
+<li> (with Horst Alzer) Some Identities Involving Central Binomial Coefficients and Catalan Numbers, <a href="vol20.html">Vol 20</a>
 

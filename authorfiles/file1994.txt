@@ -1,5 +1,5 @@
 
-<li> Witno, Amin
+<li> Withrow, Camron 
 <ul>
-<li> Smith Numbers With Extra Digital Features, <a href="vol14.html">Vol 14</a>
+<li> (with Peter Fletcher) Primes <i>p</i> Having at Most One Divisor of <i>p-1</i> of a Specified Multiplicative Order, <a href="vol19.html">Vol 19</a>
 

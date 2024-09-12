@@ -1,6 +1,5 @@
 
-<li> Iiams, Joel 
+<li> Iba, Victoria
 <ul>
-<li> (with Jeremiah Bartz and Bruce Dearden) Almost Gap Balancing Numbers, <a href="vol18.html">Vol 18</a>
-<li> (with Jeremiah Bartz and Bruce Dearden) Polygonal Balancing Numbers I, <a href="vol22.html">Vol 22</a>
+<li> (with Paul Jenkins and Merrill Warnick) Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels, <a href="vol19.html">Vol 19</a>
 

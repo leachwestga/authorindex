@@ -1,6 +1,5 @@
 
-<li> Wood, Philip Matchett
+<li> Wood, David R. 
 <ul>
-<li> A Bijective Proof of f<sub>n+4</sub>+f<sub>1</sub> + 2f<sub>2</sub> + ... +
-n f<sub>n</sub> = (n+1)f<sub>n+2</sub>+3, <a href="vol6.html">Vol 6</a>
+<li> (with David Wakeham) On Multiplicative Sidon Sets, <a href="vol13.html">Vol 13</a>
 

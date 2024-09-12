@@ -1,5 +1,5 @@
 
-<li> Yeroshkin, Dmytro 
+<li> Yee, Ae Ja 
 <ul>
-<li> (with Joe Buhler, Chris Freiling, Ron Graham, Jonathan Kariv, James R. Roche, Mark Tiefenbruck, and Clint Van Alten) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
+<li> (with Michael Rowell) The Finite Heine Transformation and Conjugate Durfee Squares, <a href="vol9.html">Vol 9</a>
 

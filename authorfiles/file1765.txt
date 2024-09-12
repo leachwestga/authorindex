@@ -1,6 +1,5 @@
 
-<li> Stocker, Christopher 
+<li> Stipulanti, Manon 
 <ul>
-<li> (with John Engbers) Two Combinatorial Proofs of Identities Involving Sums of Powers of Binomial Coefficients, <a href="vol16.html">Vol 16</a>
-<li> (with John Engbers) Combinatorial Proofs of Identities of Alzer and Prodinger and Some Generalizations, <a href="vol18.html">Vol 18</a>
+<li> (with Julien Leroy and Michel Rigo) Counting Subword Occurrences in Base-<i>b</i> Expansions, <a href="vol18a.html">Vol 18A</a>
 

@@ -1,6 +1,5 @@
 
-<li> Nyandwi, S.
+<li> Nu'Man, Anisah 
 <ul>
-<li> (with A. Smati) Distribution Laws of Pairs of Divisors, <a href="vol13.html">Vol 13</a>
-<li> (with A. Smati) Distribution Laws of Friable Divisors, <a href="vol20.html">Vol 20</a>
+<li class="fragment"> (with Katie Ansaldi, Houssein El Turkey, Jessica Hamm,  Nathan Warnberg,  and Michael Young) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
 

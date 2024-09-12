@@ -1,5 +1,5 @@
 
-<li> Yang, Dan-Mei
+<li> Yan, Lu
 <ul>
-<li> A Combinatorial Proof of Guo's Multi-Generalization of Munarini's Identity, <a href="vol11.html">Vol 11</a>
+<li> (with Zhonghua Li) The Reciprocals of Tails of the Alternating Riemann Zeta Function, <a href="vol23.html">Vol 23</a>
 

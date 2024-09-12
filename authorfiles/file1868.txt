@@ -1,5 +1,6 @@
-
-<li> Tringali, Salvatore
+ 
+<li> Trifonov, Ognian
 <ul>
-<li> On the Divisibility of <i>a<sup>n</sup> &plusmn; b<sup>n</sup></i> by Powers of <i>n</i>, <a href="vol13.html">Vol 13</a>
+<li> (with Sharon E. Behum)
+On a Problem of Ore, <a href="vol7-2.html">Vol 7(2)</a>
 

@@ -1,6 +1,5 @@
 
-<li> McGaughlin, James 
+<li> McDonald, Daniel C. 
 <ul>
-<li> (with Andrew V. Sills)  Combinatorics of Ramanujan-Slater Type Identities,
-<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with ) A Combinatorial Proof on Partition Function Parity, <a href="vol14.html">Vol 14</a>
 

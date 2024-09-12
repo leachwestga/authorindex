@@ -1,5 +1,7 @@
 
-<li> Huntemann, Svenja
+<li> Hungerbuhler, Norbert
 <ul>
-<li> (with Lexi Nash) The Polynomial Profile of Distance Games on Paths and Cycles, <a href="vol22.html">Vol 22</a>
+<li> (with Lorenz Halbeisen) An Application of van der Waerden's Theorem in Additive Number Theory, <a href="vol0.html">Vol 0</a>
+<li> (with Ernst Specker) A Generalization of the Smarandache Function
+to Several Variables, <a href="vol6.html">Vol 6</a>
 

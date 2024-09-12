@@ -1,6 +1,5 @@
 
-<li> M&uuml;nkel, Florian 
+<li> Munday, Sara
 <ul>
-<li> (with Zafer Selcuk Aygin, Greg Doyle,  Lerna Pehlivan, and Kenneth S. Williams) Representation Numbers of Spinor Regular Ternary Quadratic Forms, <a href="vol21.html">Vol 21</a>
-<li class=fragment> (with Lerna Pehlivan and Kenneth S. Williams) Arithmetic Properties of the Ternary Quadratic Form \(3x^2+6y^2+14z^2+4yz+2zx+2xy\), <a href="vol22.html">Vol 22</a>
+<li> A Note on Diophantine Fractals for &alpha;--L&uuml;roth systems, <a href="vol11b.html">Vol 11b</a>
 

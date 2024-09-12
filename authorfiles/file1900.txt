@@ -1,5 +1,5 @@
 
-<li> Veeranayaka, T. N.
+<li> Veeranna, Y. 
 <ul>
-<li> (with M. S. Mahadeva Naika and Harishkumar T) On  <i>(4, 5)</i>-regular Partitions With Odd Parts Overlined, <a href="vol20.html">Vol 20</a>
+<li> (with  M. S. Mahadeva Naika and Harishkumar T) Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs, <a href="vol20.html">Vol 20</a>
 

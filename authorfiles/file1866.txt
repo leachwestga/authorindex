@@ -1,6 +1,8 @@
 
-<li> Triantafillou, Nicholas George 
+<li> Trevi&ntilde;o, Enrique 
 <ul>
-<li> (with Anant Godbole, Chang Mou Lim, and Vince Lyzinski) Sharp Threshold Asymptotics for the Emergence of Additive Bases, <a href="vol13.html">Vol 13</a>
-<li> (with Olivia Beckwith, Victor Luo, Steven J. Miller, and Karen Shen) Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles, <a href="vol15.html">Vol 15</a>
+<li> (with Kamil Adamczewski) The Smoothed P&oacute;lya-Vinogradov Inequality, <a href="vol15.html">Vol 15</a>
+<li> (with Paul Pollack) Finding the Four Squares in Lagrange's Theorem, <a href="vol18a.html">Vol 18A</a>
+<li> (with Dipika Subramaniam and Paul Pollack) On Sums of Consecutive Triangular Numbers, <a href="vol20a.html">Vol 20a</a>
+<li> On Sets Whose Subsets Have Integer Mean, <a href="vol21.html">Vol 21</a>
 

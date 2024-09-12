@@ -1,6 +1,9 @@
 
-<li> Kaneko, Hajime
+<li> Kane, Daniel M.
 <ul>
-<li> On Normal Numbers and Powers of Algebraic Numbers, <a href="vol10.html">Vol 10</a>
-<li> (with Thomas Stoll) On Subwords in the Base-<i>q</i> Expansion of Polynomial and Exponential Functions, <a href="vol18a.html">Vol 18A</a>
+<li> New Bounds on the Number of Representations of t as a Binomial Coefficient, <a href="vol4.html">Vol 4</a>
+<li> On the Number of Ways of Writing t as a Product of Factorials, <a href="vol5.html">Vol 5(1)</a>
+<li> Improved Bounds on the Number of Ways of Expressing t as a
+Binomial Coefficient, <a href="vol7.html">Vol 7</a>
+<li> On Solving Games Constructed Using Both Short and Long Conjunctive Sums, <a href="vol10.html">Vol 10</a>
 

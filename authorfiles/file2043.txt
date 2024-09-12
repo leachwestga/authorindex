@@ -1,5 +1,5 @@
 
-<li> Yu, Jing-Jun
+<li> Yu, Gang
 <ul>
-<li> Some Congruences for Regular Partitions with Distinct Odd Parts, <a href="vol23.html">Vol 23</a>
+<li> A Note on <i>B<sub>2</sub>[G]</i> Sets, <a href="vol8.html">Vol 8(1)</a>
 

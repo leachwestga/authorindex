@@ -1,6 +1,6 @@
 
-<li> Stoiciu, Mihai 
+<li> Stocker, Christopher 
 <ul>
-<li> (with John B. Friedlander and Florian Luca) On the Irrationality
-of a Divisor Function Series, <a href="vol7.html">Vol 7</a>
+<li> (with John Engbers) Two Combinatorial Proofs of Identities Involving Sums of Powers of Binomial Coefficients, <a href="vol16.html">Vol 16</a>
+<li> (with John Engbers) Combinatorial Proofs of Identities of Alzer and Prodinger and Some Generalizations, <a href="vol18.html">Vol 18</a>
 

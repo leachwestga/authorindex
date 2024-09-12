@@ -1,5 +1,5 @@
 
-<li> Nath, Rishi
+<li> Nataraj, Karthik
 <ul>
-<li> Symmetry in Maximal (<i>s-1,s+1</i>) Cores, <a href="vol16.html">Vol 16</a>
+<li> Further Multivariate Generalizations of Euler's Pentagonal Number Theorem and the Rogers-Ramanujan Identities, <a href="vol16.html">Vol 16</a>
 

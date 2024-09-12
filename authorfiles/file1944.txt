@@ -1,5 +1,5 @@
 
-<li> Wang, Dan
+<li> Wang, Chunlin  
 <ul>
-<li> On the Sum of Two Squares and at Most <i>k</i> Powers of 2, <a href="vol21.html">Vol 21</a>
+<li> (with David J. Grynkiewicz and Kevin Zhao) The Structure of a Sequence With Prescribed Zero-sum Subsequences, <a href="vol20.html">Vol 20</a>
 

@@ -1,5 +1,5 @@
 
-<li> Richman, David Ross
+<li> Richman, David Harry
 <ul>
-<li> A Sum Involving the Greatest-Integer Function, <a href="vol19.html">Vol 19</a>
+<li> Lower Rational Approximations and Farey Staircases, <a href="vol24.html">Vol 24</a>
 

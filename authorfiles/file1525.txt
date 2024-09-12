@@ -1,5 +1,6 @@
 
-<li> Richardson, Thomas M.
+<li> Rice, Brian
 <ul>
-<li> Generalized Cauchy Determinants, <a href="vol8.html">Vol 8(1)</a>
+<li> Primitive Prime Divisors in Polynomial Arithmetic Dynamics,
+<a href="vol7.html">Vol 7</a>
 

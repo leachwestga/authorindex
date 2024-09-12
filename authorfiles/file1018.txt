@@ -1,6 +1,6 @@
 
-<li> Lebowitz-Lockard, Noah
+<li> Leach, David
 <ul>
-<li> On the Number of Ordered Factorizations of an Integer, <a href="vol20.html">Vol 20</a>
-<li> (with Victor Souza) A Note on the Number of Egyptian Fractions, <a href="vol23.html">Vol 23</a>
+<li> (with Matt Walsh) A Characterization of Lattice-ordered Graphs,
+<a href="vol7-2.html">Vol 7(2)</a>
 

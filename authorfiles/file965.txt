@@ -1,5 +1,6 @@
 
-<li> Krawchuk, Colin
+<li class="fragment"> Kravitz, Noah
 <ul>
-<li> (with Narad Rampersad) Cyclic Complexity of Some Infinite Words and Generalizations, <a href="vol18a.html">Vol 18A</a>
+<li> (with Stefan Steinerberger) Ulam Sequences and Ulam Sets, <a href="vol18.html">Vol 18</a>
+<li> The Largest  \( (k, \ell) \)-sum-free Sets in Compact Abelian Groups, <a href="vol20.html">Vol 20</a>
 

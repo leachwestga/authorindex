@@ -1,5 +1,5 @@
 
-<li> Johnson, Katie 
+<li> Johnson, John H. 
 <ul>
-<li> (with Erik Insko and Shaun Sullivan) An Ordered Partition Expansion of the Determinant, <a href="vol17.html">Vol 17</a>
+<li> (with Neil Hindman) Images of <i>C</i>-Sets and Related Large Sets under Nonhomogeneous Spectra, <a href="vol12b.html">Vol 12B</a>
 

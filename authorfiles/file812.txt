@@ -1,5 +1,5 @@
 
-<li> Isaacson, Brad
+<li> Irie, Yuki
 <ul>
-<li> Three Imprimitive Character Sums, <a href="vol21.html">Vol 21</a>
+<li> A Base-<i>p</i> Sprague-Grundy Type Theorem for <i>p</i>-calm Subtraction Games: Welter's Game and Representations of Generalized Symmetric Groups, <a href="vol21b.html">Vol 21b</a>
 

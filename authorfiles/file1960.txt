@@ -1,5 +1,5 @@
 
-<li> Wang, Zhaonan
+<li> Wang, Yichen 
 <ul>
-<li> (with Yingpu Deng) Finding Sums of Four Squares via Complex Continued Fractions, <a href="vol24.html">Vol 24</a>
+<li> (with Greg Dresden) Sums and Convolutions of <i>k</i>-bonacci and <i>k</i>-Lucas Numbers, <a href="vol21.html">Vol 21</a>
 

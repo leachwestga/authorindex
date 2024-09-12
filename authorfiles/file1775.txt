@@ -1,5 +1,5 @@
 
-<li> Stromquist, Walter
+<li> Strimling, Pontus
 <ul>
-<li> Winning Paths in N-by-Infinity Hex, <a href="vol7.html">Vol 7</a>
+<li> (with Hillevi Gavel) Nim with a Modular Muller Twist, <a href="vol4.html">Vol 4</a>
 

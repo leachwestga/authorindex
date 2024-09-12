@@ -1,5 +1,5 @@
 
-<li> Seraj, Samer
+<li> Sepanski, Benjamin 
 <ul>
-<li> Resolution of Mathar's Conjectures on Counting Power Residues, <a href="vol23.html">Vol 23</a>
+<li> (with Jeske Glenn, Christopher O'Neill, and Vadim Ponomarenko) Augmented Hilbert Series of Numerical Semigroups, <a href="vol19.html">Vol 19</a>
 

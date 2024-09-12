@@ -1,5 +1,5 @@
 
-<li> Lopes, Pedro
+<li> Lopes, Jos&eacute; Othon 
 <ul>
-<li> (with Ant&oacute;nio Lages) A Proof of Euler's Theorem via Quandles, <a href="vol22.html">Vol 22</a>
+<li> (with G&eacute;rsica Freitas and Diego Marques) On Congruences Involving Some Fibonomial Coefficients, <a href="vol19.html">Vol 19</a>
 

@@ -1,6 +1,5 @@
 
-<li> Pudwell, Lara
+<li> Puchta, J. -C.
 <ul>
-<li> Enumeration Schemes for Words Avoiding Patterns With Repeated Letters,
-<a href="vol8.html">Vol 8(1)</a>
+<li> Partitions Which are p- and q-Core, <a href="vol1.html">Vol 1</a>
 

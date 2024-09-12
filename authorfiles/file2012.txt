@@ -1,5 +1,6 @@
-
-<li> Xue, Hui 
+ 
+<li> Xu, Ping 
 <ul>
-<li> (with Jason Hedetniemi and Kevin James) Champion Primes For Elliptic Curves, <a href="vol14.html">Vol 14</a>
+<li> (with Hao Pan) Note on a Congruence Involving
+Products of Binomial Coefficients, <a href="vol7.html">Vol 7</a>
 

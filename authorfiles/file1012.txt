@@ -1,5 +1,5 @@
 
-<li> Larson, C. E. 
+<li> Larsen, Bayley
 <ul>
-<li> (with R. Jacobs) A Graph Theoretic Formula for the Number of Primes &pi;(<i>n</i>), <a href="vol20.html">Vol 20</a>
+<li> (with Hunter Lehmann, Andrew Park, and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
 

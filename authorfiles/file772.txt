@@ -1,5 +1,5 @@
 
-<li> Holdum, Sebastian Tim
+<li> Hoit, Abigail
 <ul>
-<li> (with Frederik Ravn Klausen and Peter Michael Reichstein Rasmussen) Powers in Prime Bases and a Problem on Central Binomial Coefficients, <a href="vol15.html">Vol 15</a>
+<li> Arithmetic on Blocks, <a href="vol4.html">Vol 4</a>
 

@@ -1,5 +1,6 @@
 
-<li> Warnick, Merrill
+<li> Warnberg, Nathan 
 <ul>
-<li> (with Victoria Iba and Paul Jenkins) Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels, <a href="vol19.html">Vol 19</a>
+<li class="fragment"> (with Katie Ansaldi, Houssein El Turkey, Jessica Hamm, Anisah Nu'Man,   and Michael Young) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
+<li class=fragment> (with Kean Fallon, Ethan Manhart, Joe Miller, Hunter Rehm, and Laura Zinnel) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
 

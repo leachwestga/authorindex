@@ -1,5 +1,5 @@
 
-<li> Kim, Seoyoung
+<li> Kim, John Y.
 <ul>
-<li> (with Alexandra Walsh) Elliptic Fermat Numbers and Elliptic Divisibility Sequences, <a href="vol20.html">Vol 20</a>
+<li> Integer Addition and Hamming Weight, <a href="vol16.html">Vol 16</a>
 

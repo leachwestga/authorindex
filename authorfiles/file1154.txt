@@ -1,7 +1,6 @@
 
-<li> Martin, Greg
+<li> Marques, Diego 
 <ul>
-<li> (with William D. Banks) Optimal Primitive Sets with Restricted Primes, <a href="vol13.html">Vol 13</a>
-<li> (with Alexis Peilloux and Erick B. Wong) Lower Bounds for Sumsets of Multisets in F<sub><i>p</sub><sup>2</sup></i>, <a href="vol13.html">Vol 13</a>
-<li> (with Michael A. Bennett and Kevin O'Bryant) Multidimensional Pad&eacute; Approximation of Binomial Functions: Equalities, <a href="vol21A.html">Vol 21A</a>
+<li> (with Tam&aacute;s Lengyel) The 2-adic Order of Some Generalized Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with G&eacute;rsica Freitas and Jos&eacute; Othon Lopes) On Congruences Involving Some Fibonomial Coefficients, <a href="vol19.html">Vol 19</a>
 

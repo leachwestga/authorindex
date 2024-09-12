@@ -1,5 +1,5 @@
 
-<li> Imbert, Laurent 
+<li> Imatomi, Kohtaro
 <ul>
-<li> (with Filippo Disanto and Fabrice Philippe) On the Maximal Weight of <i>(P,Q)</i>-ary Chain Partitions With Bounded Parts, <a href="vol14.html">Vol 14</a>
+<li> Multi-Poly-Bernoulli-Star Numbers and Finite Multiple Zeta-Star Values, <a href="vol14.html">Vol 14</a>
 

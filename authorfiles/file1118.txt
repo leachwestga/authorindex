@@ -1,6 +1,5 @@
 
-<li> Lyzinski, Vince 
+<li> Lyall, Neil
 <ul>
-<li> (with Anant Godbole, Chang Mou Lim, and Nicholas George Triantafillou) Sharp Threshold Asymptotics for the Emergence of Additive Bases, <a href="vol13.html">Vol 13</a>
-<li> (with Anant Godbole, Samuel Gutekunst, and Yan Zhuang) Logarithmic Representability of Integers as <i>k</i>-Sums, <a href="vol15a.html">Vol 15A</a>
+<li> (with Alex Rice) A Quantitative Result on Diophantine Approximation for Intersective Polynomials, <a href="vol15a.html">Vol 15A</a>
 

@@ -1,5 +1,5 @@
 
-<li> Kesicio&#287;lu, Yavuz
+<li> Kervaire, Michel
 <ul>
-<li> (with &#350;aban Alaca) Representations by Certain Octonary Quadratic Forms With Coefficients 1, 2, 3, and 6, <a href="vol15.html">Vol 15</a>
+<li> (with Shalom Eliahou) Restricted Sumsets in Finite Vector Spaces:  The Case p=3, <a href="vol1.html">Vol 1</a>
 

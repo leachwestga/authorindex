@@ -1,5 +1,5 @@
 
-<li> Kawasaki, Naho
+<li> Kaur, Mandeep 
 <ul>
-<li> (with Yasuo Ohno) The Triangle Algorithm for Bernoulli Polynomials, <a href="vol23.html">Vol 23</a>
+<li> (with Nayandeep Deka Baruah) A Note on Some Recent Results of Da Silva and Sellers on Congruences for <i>k</i>-regular Partitions With Designated Summands, <a href="vol20.html">Vol 20</a>
 

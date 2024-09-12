@@ -1,5 +1,5 @@
 
-<li> Richman, David Harry
+<li> Richardson, Thomas M.
 <ul>
-<li> Lower Rational Approximations and Farey Staircases, <a href="vol24.html">Vol 24</a>
+<li> Generalized Cauchy Determinants, <a href="vol8.html">Vol 8(1)</a>
 

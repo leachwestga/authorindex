@@ -1,5 +1,5 @@
 
-<li> Mohammed, Mohamud
+<li> Mohammadi, Ali
 <ul>
-<li> (with Shalosh B. Ekhad) A WZ Proof of a "Curious" Identity, <a href="vol3.html">Vol 3</a>
+<li> Szemer&eacute;di-Trotter Type Results in Arbitrary Finite Fields, <a href="vol20.html">Vol 20</a>
 

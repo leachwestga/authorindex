@@ -1,7 +1,6 @@
 
-<li> K&#305;l&#305;&ccedil;, Emrah
+<li> Kihel, Omar 
 <ul>
-<li> (with Elif Tan) Binomial Sums for the General Second Order Linear Recurrence, <a href="vol10.html">Vol 10</a>
-<li> Some Weighted Sums of Products of Lucas Sequences, <a href="vol13.html">Vol 13</a>
-<li> (with Talha Ar&#305;kan) Ruehr's Identities with Two Additional Parameters, <a href="vol16.html">Vol 16</a>
+<li> (with Mohamed Ayad) The Number of Relatively Prime Subsets of <i>{1, 2, ..., n}</i>, <a href="vol9.html">Vol 9</a>
+<li> (with Mohamed Ayad) On Relatively Prime Sets, <a href="vol9.html">Vol 9</a>
 

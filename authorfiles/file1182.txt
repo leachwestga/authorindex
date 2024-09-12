@@ -1,7 +1,5 @@
 
-<li> McAllister, Tyrrell B.
+<li> Mbirika, aBa 
 <ul>
-<li> (with Sergey Kitaev and T. Kyle Petersen)
-Enumerating Segmented Patterns in Compositions and Encoding by Restricted Permut
-ations, <a href="vol6.html">Vol 6</a>
+<li> (with Emily Gullerud) An Euler Phi Function for the Eisenstein Integers and Some Applications, <a href="vol20.html">Vol 20</a>
 

@@ -1,5 +1,5 @@
 
-<li> Manabe, Hikaru
+<li> Maleki, Amir
 <ul>
-<li> (with Ryohei Miyadera) Restricted Nim with a Pass, <a href="vol23.html">Vol 23</a>
+<li> (with Neil Hindman and Dona Strauss) Linear Equations in the Stone-Cech Compactification of N, <a href="vol0.html">Vol 0</a>
 

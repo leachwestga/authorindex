@@ -1,5 +1,5 @@
 
-<li> Shen, Chun-Yen
+<li> Shekatkar, Snehal M.
 <ul>
-<li> (with Doowon Koh) Additive Energy and the Falconer Distance Problem in Finite Fields, <a href="vol13.html">Vol 13</a>
+<li> (with Tian An Wong) Shifts of the Prime Divisor Function of Alladi and Erd&#337;s, <a href="vol20.html">Vol 20</a>
 

@@ -1,5 +1,7 @@
 
-<li> Labelle, Antoine 
+<li> &#321;aba, Izabella
 <ul>
-<li> (with Tej Bade, Kelly Cui,  and Deyaun Li) Ulam Sets in New Settings, <a href="vol20.html">Vol 20</a>
+<li> (with A. Iosevich) K-distance Sets, Falconer Conjecture, and Discrete Analogs, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Mariah Hamel) Arithmetic Structures in Random Sets,
+<a href="vol8.html">Vol 8(1)</a>
 

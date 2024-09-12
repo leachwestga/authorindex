@@ -1,10 +1,5 @@
 
-<li> Tauraso, Roberto
+<li> Tarnu, Daniel
 <ul>
-<li> The Dinner Table Problem:  The Rectangular Case,
-<a href="vol6.html">Vol 6</a>
-<li> Supercongruences for a Truncated Hypergeometric Series, <a href="vol12.html">Vol 12</a>
-<li> (with Khodabakhsh Hessami Pilehrood and Tatiana Hessami Pilehrood) Multiple Harmonic Sums and Multiple Harmonic Star Sums are (Nearly) Never  Integers, <a href="vol17.html">Vol 17</a>
-<li> (with Tewodros Amdeberhan, David Callan, and Hideyuki Ohtsuka) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
-<li> A Supercongruence Involving Cubes of Catalan Numbers, <a href="vol20.html">Vol 20</a>
+<li class=fragment> (with Stephen Choi) The  Order of the Fundamental Solution  of \(x^2-Dy^2 =1\) in \(\mathbb{Z}[\sqrt{D}]/\langle D \rangle\), <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,5 @@
 
-<li> Lin, Ying-Jie
+<li> Lin, Hsueh-Yung
 <ul>
-<li> A Note on the <i>q</i>-Binomial Rational Root Theorem, <a href="vol9.html">Vol 9</a>
+<li> Odd Catalan Numbers Modulo <i>2<sup>k</sup></i>, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,5 @@
 
-<li> Verger-Gaugry, Jean-Louis
+<li> Verbitsky, Oleg
 <ul>
-<li> Beta-Conjugates of Real Algebraic Numbers as Puiseux Expansions, <a href="vol11b.html">Vol 11b</a>
+<li> Symmetric Subsets of Lattice Paths, <a href="vol0.html">Vol 0</a>
 

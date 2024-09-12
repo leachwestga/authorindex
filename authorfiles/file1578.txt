@@ -1,5 +1,5 @@
 
-<li> Salerno, Adriana 
+<li> Sakai, Yuho
 <ul>
-<li> (with J&uuml;rgen Kritschgau) Origami Constructions of Rings of Integers of Imaginary Quadratic Fields, <a href="vol17.html">Vol 17</a>
+<li> (with Miho Aoki) On  Divisibility of Generalized Fibonacci Numbers, <a href="vol15.html">Vol 15</a>
 

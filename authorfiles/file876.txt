@@ -1,5 +1,5 @@
 
-<li> Karabulut, Cihan 
+<li> Karaatli, Olcay
 <ul>
-<li> (with Jorge Fl&oacute;rez and Elkin Quintero Vanegas) The Distribution of the Generalized Greatest Common Divisor and Visibility of Lattice Points, <a href="vol20.html">Vol 20</a>
+<li> On Generalized Fibonacci and Lucas Numbers of the Form <i>wkx<sup>2</sup> &plusmn; 1</i>, <a href="vol16.html">Vol 16</a>
 

@@ -1,5 +1,5 @@
 
-<li> Horn, Paul
+<li> Horan, Victoria
 <ul>
-<li> (with Collier Gaiser) Maker-Breaker Rado Games for Equations with Radicals, <a href="vol24.html">Vol 24</a>
+<li> Overlap Cycles for Permutations:  Necessary and Sufficient Conditions, <a href="vol14.html">Vol 14</a>
 

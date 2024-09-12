@@ -1,5 +1,6 @@
 
-<li> Wood, David R. 
+<li> Wong, Tony W. H. 
 <ul>
-<li> (with David Wakeham) On Multiplicative Sidon Sets, <a href="vol13.html">Vol 13</a>
+<li> (with Ashley Armbruster, Grace Barger, Sofya Bykova, Tyler Dvoracheck, Emily Eckard, Joshua Harrington,and Yewen Sun) On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Carrie Finch-Smith and Joshua Harrington) Sums of Distinct Polynomial Residues, <a href="vol23.html">Vol 23</a>
 

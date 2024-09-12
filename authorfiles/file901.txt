@@ -1,6 +1,5 @@
 
-<li> Khan, Bilal
+<li> Kesicio&#287;lu, Yavuz
 <ul>
-<li> (with Kiran R. Bhutani and Delaram Kahrobaei) A Graphic
-Generalization of Arithmetic, <a href="vol7.html">Vol 7</a>
+<li> (with &#350;aban Alaca) Representations by Certain Octonary Quadratic Forms With Coefficients 1, 2, 3, and 6, <a href="vol15.html">Vol 15</a>
 

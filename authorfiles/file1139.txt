@@ -1,5 +1,5 @@
 
-<li> Mangueira, Milena Carolina dos Santos
+<li> Mangerel, Alexander P.
 <ul>
-<li> (with Renata Passos Machado Vieira, Francisco Regis Vieira Alves, Paula Maria Machado Cruz Catarino, and Renata Te&oacute;filo de Sousa) Two-Dimensional, Three-Dimensional and <i>n</i>-Dimensional Recurrence Relations of Jacobsthal, <a href="vol22.html">Vol 22</a>
+<li> Generalizations on a Problem of Saffari, <a href="vol15.html">Vol 15</a>
 

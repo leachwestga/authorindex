@@ -1,2 +1,6 @@
 
+<li> Luntzlara, Noah 
+<ul>
+<li> (with H&#249;ng Vi&#7879;t Chu, Steven J. Miller, and Lily Shao) Infinite Families of Partitions Into MSTD Subsets, <a href="vol19.html">Vol 19</a>
+<li> (with H&#249;ng Vi&#7879;t, Steven J. Miller, and Lily Shao) Generalizations of a Curious Family of MSTD Sets Hidden by Interior Blocks, <a href="vol20a.html">Vol 20a</a>
 

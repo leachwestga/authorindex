@@ -1,5 +1,5 @@
 
-<li> Kinlaw, Paul
+<li class="fragment"> King, Samuel 
 <ul>
-<li> Lower Bounds for Numbers With Three Prime Factors, <a href="vol19.html">Vol 19</a>
+<li> (with Erin Bevilacqua, J&uuml;rgen Kritschgau, Michael Tait, Suzannah Tebon, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
 

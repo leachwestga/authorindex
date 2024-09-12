@@ -1,5 +1,5 @@
 
-<li> Li, Zhonghua
+<li> Li, Zhao-Jun
 <ul>
-<li> (with Lu Yan) The Reciprocals of Tails of the Alternating Riemann Zeta Function, <a href="vol23.html">Vol 23</a>
+<li> (with Min Tang) A Remark on a Paper of Luca and Walsh, <a href="vol11.html">Vol 11</a>
 

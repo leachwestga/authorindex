@@ -1,5 +1,5 @@
 
-<li> Li, Zhangyuan 
+<li> Li, Yuanlin 
 <ul>
-<li> (with Nikolai A. Krylov) A Congruence Property of Irreducible Laguerre Polynomials in Two Variables, <a href="vol16.html">Vol 16</a>
+<li> (with Weidong Gao, Yongke Qu, and Qinghong Wang) Additive Bases of Finite Abelian Groups of Rank 2, <a href="vol22.html">Vol 22</a>
 

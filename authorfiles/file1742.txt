@@ -1,5 +1,5 @@
 
-<li> Srilakshmi, K. 
+<li> Sridharan, Manu
 <ul>
-<li> (with T. Kathiravan) Some Congruences for <i>(s,t)</i>-regular Bipartitions Modulo <i>t</i>, <a href="vol21.html">Vol 21</a>
+<li> (with Ajeet Shankar) New Temperatures in Domineering, <a href="vol5.html">Vol 5(1)</a>
 

@@ -1,5 +1,5 @@
 
-<li> Zhang, Wentao 
+<li> Zhang, Shaohua
 <ul>
-<li> (with Minghao Pan) Quotients of Hurwitz Primes, <a href="vol21.html">Vol 21</a>
+<li>An Improved Inequality of Rosser and Schoenfled and Its Application, <a href="vol20.html">Vol 20</a>
 

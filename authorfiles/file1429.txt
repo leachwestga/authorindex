@@ -1,5 +1,8 @@
 
-<li> Pilehrood, Khodabakhsh Hessami
+
+<li> Pikhurko, Oleg
 <ul>
-<li> (with Tatiana Hessami Pilehrood and Roberto Tauraso) Multiple Harmonic Sums and Multiple Harmonic Star Sums are (Nearly) Never  Integers, <a href="vol17.html">Vol 17</a>
+<li> Breaking Symmetry on Complete Bipartite Graphs of Odd Size, <a href="vol3.html">Vol 3</a>
+<li> (with Tomasz Schoen) Integer Sets Having the Maximum Number of
+Distinct Differences, <a href="vol7.html">Vol 7</a>
 

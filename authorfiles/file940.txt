@@ -1,5 +1,5 @@
 
-<li> Koch, Zoe 
+<li> Knopfmacher, A.
 <ul>
-<li> (with Anant Godbole and Zach Higgins) Finite Representability of Integers as 2-Sums, <a href="vol18b.html">Vol 18B</a>
+<li> (with M. E. Mays) Graph Compositions I:  Basic Enumeration, <a href="vol1.html">Vol 1</a>
 

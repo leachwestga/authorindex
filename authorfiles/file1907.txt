@@ -1,5 +1,5 @@
 
-<li> Verreault, William 
+<li> Vergne, Mich&egrave;le 
 <ul>
-<li> (with Jean-Marie de Konink and Nicolas Doyon) Repetitions of Multinomial Coefficients and a Generalization of Singmaster's Conjecture, <a href="vol21.html">Vol 21</a>
+<li> (with Velleda Baldoni, Nicole Berline, Jes&uacute;s A. De Loera, Brandon E. Dutra, and Matthias K&ouml;ppe) Coefficients of Sylvester's Denumerant, <a href="vol15.html">Vol 15</a>
 

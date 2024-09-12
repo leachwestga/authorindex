@@ -1,5 +1,5 @@
 
-<li> Seller, Summer
+<li> Selinger, Peter
 <ul>
-<li class=fragment> (with Alexander J. Barrios, Elise Alvarez-Salazar, and Calvin Henaku) On \(abc\) Triples of the Form \((1,c-1,c)\), <a href="vol23.html">Vol 23</a>
+<li> On the Combinatorial Value of Hex Positions, <a href="vol22.html">Vol 22</a>
 

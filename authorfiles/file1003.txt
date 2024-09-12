@@ -1,5 +1,7 @@
 
-<li> Landsberg, Adam Scott 
+<li> Landman, Bruce
 <ul>
-<li> (with Scott M. Garrabrant and Eric J. Friedman) Cofinite Induced Subgraphs of Impartial Combinatorial Games: An Analysis of CIS-Nim, <a href="vol13.html">Vol 13</a>
+<li> (with Clay Culver and Aaron Robertson) Some New Exact van der Waerden Numbers, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Abdollah Khodkar) Recent Progress in Ramsey Theory on the Integers,
+<a href="vol7-2.html">Vol 7(2)</a>
 

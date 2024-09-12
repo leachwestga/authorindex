@@ -1,6 +1,7 @@
 
-<li> Sanna, Carlo
+<li> S&aacute;ndor, J&oacute;zsef
 <ul>
-<li> On the Exponential Sum With the Sum of Digits of Hereditary Base <i>b</i> Notation, <a href="vol14.html">Vol 14</a>
-<li> Pairwise Modular Multiplicative Inverses and Fibonacci Numbers, <a href="vol23.html">Vol 23</a>
+<li> (with L&aacute;szl&oacute; T&oacute;th) 
+Extremal Orders of Compositions of Certain Arithmetical Functions,
+<a href="vol8.html">Vol 8(1)</a>
 

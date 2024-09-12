@@ -1,15 +1,7 @@
 
-<li> Komatsu, Takao
+<li> Kolitsch, Louis W.
 <ul>
-<li> A Proof of the Continued Fraction Expansion of
-<i>e<sup>2/s</sup></i>, <a href="vol7.html">Vol 7</a>
-<li> Some Combinatorial Properties of the Leaping Convergents,
-<a href="vol7-2.html">Vol 7(2)</a>
-<li> (with Chris K. Caldwell) Powers of Sierpi&nacute;ski Numbers Base <i>B</i>, <a href="vol10.html">Vol 10</a>
-<li> (with Sarah H. Holliday) On the Sum of Reciprocal Generalized Fibonacci Numbers, <a href="vol11a.html">Vol 11
-A</a>
-<li> (with Florian Luca and Yohei Tachiya) On the Multiplicative Order of <i>F<sub>n+1</sub>/F<sub>n</sub></i> Modulo <i>F<sub>m</sub></i>, <a href="vol12b.html">Vol 12B</a>
-<li> (with L&aacute;szl&oacute; Szalay) <i>q</i>-multiparameter-Bernoulli Polynomials and <i>q</i>-multiparameter-Cauchy Polynomials by Jackson's Integrals, <a href="vol16.html">Vol 16</a>
-<li> (with Vichian Laohakosol and Jittinart Rattanamoong) Complex Cantor Series, Cantor Products and Their Independence, <a href="vol19.html">Vol 19</a>
-<li> (with Rusen Li) Infinite Series Containing Generalized <i>q</i>-harmonic Numbers, <a href="vol21.html">Vol 21</a>
+<li> A Connection Between Ordinary Partitions and
+Tilings with Dominoes and Squares, <a href="vol7.html">Vol 7</a>
+<li> (with Yuriy Choliy and Andrew V. Sills) Partition Recurrences, <a href="vol18b.html">Vol 18B</a>
 

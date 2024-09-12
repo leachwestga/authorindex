@@ -1,5 +1,5 @@
 
-<li> Uncini, Francesca
+<li> Ulas, Maciej 
 <ul>
-<li> (with Donatella Merlini and M. Cecilia Verri) A Unified Approach to the Study of General and Palindromic Compositions, <a href="vol4.html">Vol 4</a>
+<li> (with Karl Dilcher) Divisibility and Arithmetic Properties of a Class of Sparse Polynomials, <a href="vol22.html">Vol 22</a>
 

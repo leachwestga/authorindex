@@ -1,5 +1,5 @@
 
-<li> Mohammadi, Ali
+<li> Moghaddamfar, A. R.
 <ul>
-<li> Szemer&eacute;di-Trotter Type Results in Arbitrary Finite Fields, <a href="vol20.html">Vol 20</a>
+<li> (with H. Tajbakhsh) Lucas Numbers and Determinants, <a href="vol11.html">Vol 11</a>
 

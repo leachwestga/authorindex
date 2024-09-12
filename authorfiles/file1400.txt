@@ -1,5 +1,6 @@
 
-<li> Pegado, Sean 
+<li> Paule, Peter
 <ul>
-<li> (with Steven J. Miller and  Luc Robinson) Explicit Constructions of Large Families of Generalized More Sums Than Differences Sets, <a href="vol12.html">Vol 12</a>
+<li> (with Carsten Schneider) Truncating Binomial Series with Symbolic
+Summation, <a href="vol7.html">Vol 7</a>
 

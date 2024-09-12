@@ -1,6 +1,5 @@
 
-<li> Martin, Ryan R. 
+<li> Martin, James B.
 <ul>
-<li> (with Andr&aacute;s Csernenszky and Andr&aacute;s Pluh&aacute;r) On the Complexity of Chooser-Picker Positional Games, <a href="vol11.html">Vol 11</a>
-<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;,  David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+<li> Extended Sprague-Grundy Theory for Locally Finite Games, and Applications to Random Game-trees, <a href="vol21b.html">Vol 21b</a>
 

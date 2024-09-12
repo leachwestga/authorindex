@@ -1,5 +1,5 @@
 
-<li> Jordan, Jill E. 
+<li> Jonsson, Markus 
 <ul>
-<li> (with Rene Ardila, Christine Caples, Helen G. Grundman, Laura L. Hall-Seelig,  Karen T. Kohl, and Thomas P. Wakefield) Values of Weighted Davenport Constants, <a href="vol21.html">Vol 21</a>
+<li> (with Kimmo Eriksson and Jonas Sj&ouml;strand) An Exponential Limit Shape of Random <i>q</i>-proportion Bulgarian Solitaire, <a href="vol18.html">Vol 18</a>
 

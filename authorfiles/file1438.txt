@@ -1,5 +1,5 @@
 
-<li> Planat, Michel 
+<li> Plambeck, Thane E.
 <ul>
-<li> (with Patrick Sol&eacute;) The Robin Inequality for <i>7</i>-Free Integers, <a href="vol11.html">Vol 11</a>
+<li> Taming the Wild in Impartial Combinatorial Games, <a href="vol5.html">Vol 5(1)</a>
 

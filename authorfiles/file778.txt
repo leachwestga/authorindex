@@ -1,5 +1,5 @@
 
-<li> Horan, Victoria
+<li> Hopkins, Kimberly
 <ul>
-<li> Overlap Cycles for Permutations:  Necessary and Sufficient Conditions, <a href="vol14.html">Vol 14</a>
+<li> (with Jeffrey Stopple) Lower Bounds for the Principal Genus of Definite Binary Quadratic Forms, <a href="vol10.html">Vol 10</a>
 

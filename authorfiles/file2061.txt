@@ -1,5 +1,5 @@
 
-<li> Zeng, Xiangneng
+<li> Zeng, Tony 
 <ul>
-<li> On Zero-sum Partitions of Abelian Groups, <a href="vol15.html">Vol 15</a>
+<li> (with Pat Devlin) Maximum Distances in the Four-digit Kaprekar Process, <a href="vol21.html">Vol 21</a>
 

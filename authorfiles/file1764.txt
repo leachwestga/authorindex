@@ -1,5 +1,6 @@
 
-<li> Stipulanti, Manon 
+<li> Stewart, Fraser
 <ul>
-<li> (with Julien Leroy and Michel Rigo) Counting Subword Occurrences in Base-<i>b</i> Expansions, <a href="vol18a.html">Vol 18A</a>
+<li> The Sequential Join of Combinatorial Games, <a href="vol7.html">Vol 7</a>
+<li> Pirates and Treasure, <a href="vol13.html">Vol 13</a>
 

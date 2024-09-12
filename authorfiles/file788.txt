@@ -1,8 +1,5 @@
 
-<li> Hua, Guodong
+<li> Hu, Yongzhong
 <ul>
-<li> (with Bin Chen and Rong Miao) The Distributions of High Moments of Cusp Form Coefficients over Arithmetic Progressions, <a href="vol23.html">Vol 23</a>
-<li> (with Bin Chen and Rong Miao) The Average Behavior of a Hybrid Arithmetic Function Involving Hecke Eigenvalues, <a href="vol23.html">Vol 23</a>
-<li> The General Divisor Problem of Cusp Form Coefficients over Arithmetic Progressions, <a href="vol24.html">Vol 24</a>
-<li> On Higher Moments of Dirichlet Coefficients Attached to Symmetric Power <i>L</i>-Functions  Over Certain Sequences of Positive Integers, <a href="vol24.html">Vol 24</a>
+<li> (with Li Feng and Pingzhi Yuan) On the Diophantine Equation <i>x<sup>2</sup>-kxy+y<sup>2</sup>+lx=0</i>, <a href="vol13.html">Vol 13</a>
 

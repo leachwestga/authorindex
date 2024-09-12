@@ -1,6 +1,6 @@
- 
-<li> Trifonov, Ognian
+
+<li> Triantafillou, Nicholas George 
 <ul>
-<li> (with Sharon E. Behum)
-On a Problem of Ore, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Anant Godbole, Chang Mou Lim, and Vince Lyzinski) Sharp Threshold Asymptotics for the Emergence of Additive Bases, <a href="vol13.html">Vol 13</a>
+<li> (with Olivia Beckwith, Victor Luo, Steven J. Miller, and Karen Shen) Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles, <a href="vol15.html">Vol 15</a>
 

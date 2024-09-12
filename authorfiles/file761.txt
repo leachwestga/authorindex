@@ -1,5 +1,7 @@
 
-<li> Hines, Taylor 
+<li> Hine, Natalie 
 <ul>
-<li> (with Dawn Curtis, Glenn Hurlbert, and Tatiana Moyer) On Pebbling Graphs By Their Blocks, <a href="vol9.html">Vol 9</a>
+<li> (with Jeff Amos, S. T. Chapman, and
+Jo&#227;o Paix&#227;o) Sets of Lengths Do Not Characterize Numerical
+Monoids, <a href="vol7.html">Vol 7</a>
 

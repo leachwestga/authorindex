@@ -1,5 +1,5 @@
 
-<li> McIntosh, Richard J.
+<li> Mcharo, Solomon 
 <ul>
-<li> Carmichael Numbers with <i>(p+1) | (n-1)</i>, <a href="vol14.html">Vol 14</a>
+<li> (with Vajresh Balaji, Olivia Edwards, Anne Marie Loftin, Alex Rice,  and Bineyam Tsegaye) Lattice Configurations Determining Few Distances, <a href="vol20.html">Vol 20</a>
 

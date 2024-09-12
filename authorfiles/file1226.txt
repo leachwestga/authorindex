@@ -1,8 +1,19 @@
 
-<li> Milley, Rebecca
+<li> Miller, Steven J.
 <ul>
-<li> (with Richard J. Nowakowski and Paul Ottaway) The Mis&egrave;re Monoid of One-Handed Alternating Games, <a href="vol12b.html">Vol 12B</a>
-<li> Partizan Kayles and Mis&egrave;re Invertibility, <a href="vol15.html">Vol 15</a>
-<li> (with Aaron Dwyer and Michael Willette) Mis&egrave;re Domineering on <i>2</i> x <i>n</i> Boards, <a href="vol21b.html">Vol 21b</a>
-<li> (with Urban Larsson, Richard Nowakowski, Gabriel Renault, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+<li> An Identity for Sums of Polylogarithm Functions, <a href="vol8.html">
+Vol 8(1)</a>
+<li> (with Luc Robinson and Sean Pegado) Explicit Constructions of Large Families of Generalized More Sums Than Differences Sets, <a href="vol12.html">Vol 12</a>
+<li> (with Amanda Bower, Ron Evans, and Victor Luo) Coordinate Sum and Difference Sets of <i>d</i>-Dimensional Modular Hyperbolas, <a href="vol13.html">Vol 13</a>
+<li> (with Julio C. Andrade, Kyle Pratt, and Minh-Tam Trinh) Special Sets of Primes in Function Fields, <a href="vol14.html">Vol 14</a>
+<li> (with Oliva Beckwith, Victor Luo,  Karen Shen, and Nicholas Triantafillou) Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles, <a href="vol15.html">Vol 15</a>
+<li> (with Andrew Best, Patrick Dynes, Xixi Edelsbrunner, Brian McDonald, Kimsy Tor, Caroline Turnage-Butterbaugh, and Madeleine Weinstein) Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals, <a href="vol16.html">Vol 16</a>
+<li> (with David Burt, Eli Goldstein, Sarah Manski, Eyvindur Ari Palsson,  and Hong Suh) Crescent Configurations, <a href="vol16.html">Vol 16</a>
+<li> (with  Anand Hemmady and Adam Lott) When Almost All Sets Are Difference Dominated in <i>Z/nZ</i>, <a href="vol17.html">Vol 17</a>
+<li> (with Alyssa Epstein, Adam Lott, and Eyvindur A. Palsson) Optimal Point Sets Determining Few Distinct Triangles, <a href="vol18.html">Vol 18</a>
+<li> (with Carsten Peterson, Carsten Sprunger, and Roger Van Peski) The Bidirectional Ballot Polytope, <a href="vol18.html">Vol 18</a>
+<li> (with Katherine Cordwell, Alyssa Epstein, Anand Hemmandy, Eyvindur Palsson, Aaditya Sharma, Stefan Steinerberger, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+<li> (with H&#249;ng Vi&#7879;t Chu, Noah Luntzlara, and Lily Shao) Infinite Families of Partitions Into MSTD Subsets, <a href="vol19.html">Vol 19</a>
+<li> (with H&#249;ng Vi&#7879;t Chu, Noah Luntzlara, and Lily Shao) Generalizations of a Curious Family of MSTD Sets Hidden by Interior Blocks, <a href="vol20a.html">Vol 20a</a>
+<li> (with Sara Fish, Dylan King,  Eyvindur A. Palsson, and Catherine Wahlenmayer) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
 

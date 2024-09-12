@@ -1,5 +1,5 @@
 
-<li> Monopoli, Francesco
+<li> Mono, Andreas
 <ul>
-<li> (with Imre Z. Ruzsa) Carries and the Arithmetic Progression Structure of Sets, <a href="vol17.html">Vol 17</a>
+<li> Multidimensional Small Divisor Functions, <a href="vol21.html">Vol 21</a>
 

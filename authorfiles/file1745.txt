@@ -1,5 +1,5 @@
 
-<li> Srivastava, Anshika
+<li> Sriram, S.
 <ul>
-<li> (with Ram Krishna Pandey and Om Prakash) On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with A. David Christopher) Congruences Relating Regular Partition Functions, a Generalized Tau Function and Partition Function Weighted Composition Sums, <a href="vol24.html">Vol 24</a>
 

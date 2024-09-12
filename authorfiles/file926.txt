@@ -1,5 +1,6 @@
 
-<li> Kirschenhofer, Peter
+<li> Kirillov, Juri
 <ul>
-<li> (with Mario Weitzer) A Number Theoretic Problem on the Distribution of Polynomials With Bounded Roots, <a href="vol15.html">Vol 15</a>
+<li> Power of a 3 x 3 Matrix, Subgroups and Tiling, <a href="vol22.html">Vol 22</a>
+<li> Coloring and Boundary Invariants for Polyominoes, <a href="vol23.html">Vol 23</a>
 

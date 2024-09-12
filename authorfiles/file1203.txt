@@ -1,5 +1,5 @@
 
-<li> Meemark, Yotsanan
+<li> Meek, Tommy 
 <ul>
-<li> (with Sirawich Chinwarakorn) Lerch's Theorems Over Function Fields, <a href="vol10.html">Vol 10</a>
+<li> (with Mark Budden, Josh Hiller,  and Andrew Penland) Algebraic Properties of a Hypergraph Lifting Map, <a href="vol21.html">Vol 21</a>
 

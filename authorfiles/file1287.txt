@@ -1,5 +1,6 @@
 
-<li> Namboothiri, K Vishnu 
+<li>Nakaya, Yushi 
 <ul>
-<li> (with Neha Elizabeth Thomas) On an Exponential Power Sum, <a href="vol23.html">Vol 23</a>
+<li> (with Ryohei Miyadera and Shunsuke Nakamura) Grundy Numbers of Impartial Chocolate Bar Games, <a href="vol20.html">Vol 20</a>
+<li> (with Ryohei Miyadera) Grundy Numbers of Impartial Three-Dimensional Chocolate-Bar Games, <a href="vol21b.html">Vol 21b</a>
 

@@ -1,8 +1,6 @@
 
-<li> Vinagre, Sandra
+<li> Villacorta, Jorge Luis Cimadevilla
 <ul>
-<li> (with Alda Carvalho, Carlos P. Santos, C&aacute;tia Lente Dias,
- Francisco Coelho, and Jo&atilde;o
- Pedro Neto) A Recursive Process Related to a Partizan Vari
-ation of Wythoff, <a href="vol12.html">Vol 12</a>
+<li> An Explicit Evaluation of the Gosper Sum, <a href="vol10.html">Vol 10</a>
+<li> An Approach to <i>q</i>-Series, <a href="vol14.html">Vol 14</a>
 

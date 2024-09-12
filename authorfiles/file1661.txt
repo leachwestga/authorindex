@@ -1,5 +1,5 @@
 
-<li> Shoukry, K. 
+<li> Shonhiwa, Temba
 <ul>
-<li> (with C. Augspurger, M. Minter,  P. Sissokho, and K. Voss) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
+<li> On Relatively Prime Sets Counting Functions, <a href="vol10.html">Vol 10</a>
 

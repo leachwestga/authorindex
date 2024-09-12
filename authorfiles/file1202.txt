@@ -1,5 +1,5 @@
 
-<li> Meek, Tommy 
+<li> Meehan, Sean
 <ul>
-<li> (with Mark Budden, Josh Hiller,  and Andrew Penland) Algebraic Properties of a Hypergraph Lifting Map, <a href="vol21.html">Vol 21</a>
+<li> (with Akalu Tefera, Michael Weselcouch, and Aklilu Zeleke) Proofs of Ruehr's Identities, <a href="vol14.html">Vol 14</a>
 

@@ -1,12 +1,8 @@
 
-<li> Hopkins, Brian
+<li> Holt, Benjamin V.
 <ul>
-<li> (with James A. Sellers) Exact Enumeration of Garden of Eden Partitions,
-<a href="vol7-2.html">Vol 7(2)</a>
-<li> (with Jenny Buontempo) Tableau Cycling and Catalan Numbers,
-<a href="vol7.html">Vol 7</a>
-<li> Column-To-Row Operations on Partitions: The Envelopes,
-<a href="vol9supp.html">Volume 9 Supplement</a>
-<li> Spotted Tilings and <i>n</i>-Color Compositions, <a href="vol12b.html">Vol 12B</a>
-<li> Introducing Shift-constrained Rado Numbers, <a href="vol21A.html">Vol 21A</a>
+<li> (with Tyler J. Evans) Deriving Divisibility Theorems with Burnside's Theorem, <a href="vol5.html">Vol 5(1)</a>
+<li> Some General Results and Open Questions on Palintiple Numbers, <a href="vol14.html">Vol 14</a>
+<li> Derived Palintiple Families and Their Palinomials, <a href="vol16.html">Vol 16</a>
+<li> On Permutiples Having a Fixed Set of Digits, <a href="vol17.html">Vol 17</a>
 

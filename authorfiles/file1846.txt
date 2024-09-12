@@ -1,7 +1,5 @@
 
-<li> Tiefenbruck, Mark 
+<li> Tichenor, Todd
 <ul>
-<li> (with Sergey Kitaev and Jeffrey Remmel) Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations II, <a href="vol15.html">Vol 15</a>
-<li> (with Sergey Kitaev and Mark Tiefenbruck) Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations III, <a href="vol15.html">Vol 15</a>
-<li> (with Joe Buhler,  Chris Freiling, Ron Graham, Jonathan Kariv, James R. Roche,  Clint Van Alten, and Dmytro Yeroshkin) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
+<li> (with Michael Mays) Graph Compositions: Deleting Edges from Complete Graphs, <a href="vol15.html">Vol 15</a>
 

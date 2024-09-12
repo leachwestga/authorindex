@@ -1,7 +1,5 @@
 
-<li> Ne&#353;et&#345;il, Jaroslav
+<li> N&eacute;meth, L&aacute;szl&oacute;
 <ul>
-<li> (with Veselin Jungi&#263; and Rado&#353; Radoi&#269;i&#263;) Rainbow Ramsey Theory, <a href="vol5-2.html">Vol 5(2)</a>
-<li> (with O. Serra) Semigroups with the Erd&#337;s-Tur&aacute;n Property,
-<a href="vol7-2.html">Vol 7(2)</a> 
+<li> Tetrahedron Trinomial Coefficient Transform, <a href="vol19.html">Vol 19</a>
 

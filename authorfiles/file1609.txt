@@ -1,6 +1,8 @@
 
-<li> Schmitt, John R. 
+<li> Schmidt, Maxie Dion
 <ul>
-<li> (with Yair Caro and Benjamin Girard) Higher Degree Davenport Constants over Finite Commutative Rings, <a href="vol21.html">Vol 21</a>
-<li> (with Yair Caro) Higher Degree Erd&#337;s-Ginzburg-Ziv Constants, <a href="vol22.html">Vol 22</a>
+<li> Jacobi-Type Continued Fractions and Congruences for Binomial Coefficients, <a href="vol18.html">Vol 18</a>
+<li> New Congruences and Finite Difference Equations for Generalized Factorial Functions, <a href="vol18.html">Vol 18</a>
+<li> Combinatorial Sums and Identities Involving Generalized Sum-of-Divisors Functions with Bounded Divisors, <a href="vol20.html">Vol 20</a>
+<li> Exact Formulas for the Generalized Sum-of-Divisors Functions, <a href="vol21.html">Vol 21</a>
 

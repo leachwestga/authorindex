@@ -1,6 +1,5 @@
 
-<li> Kirillov, Juri
-<ul>
-<li> Power of a 3 x 3 Matrix, Subgroups and Tiling, <a href="vol22.html">Vol 22</a>
-<li> Coloring and Boundary Invariants for Polyominoes, <a href="vol23.html">Vol 23</a>
-
+<li> Kirgizov, Sergey 
+	<ul>
+		<li> (with Jean-Luc Baril and Armen Petrossian) Motzkin Paths With a Restricted First Return Decomposition, <a href="vol19.html">Vol 19</a>
+	

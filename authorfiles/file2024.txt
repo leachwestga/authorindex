@@ -1,5 +1,5 @@
 
-<li> Yang, Qiduan 
+<li> Yang, Qianqian
 <ul>
-<li> (with Lindsey Reinholz and Blair K. Spearman) On Congruent Numbers With Three Prime Factors, <a href="vol11.html">Vol 11</a>
+<li> (with Kiyoto Yoshino) Embedding Theory of Lattices and Its Application to 2-Integrable Lattices, <a href="vol22.html">Vol 22</a>
 

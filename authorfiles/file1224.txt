@@ -1,5 +1,10 @@
 
-<li> Miller, Joe
+<li> Mihoubi, Miloud
 <ul>
-<li class=fragment> (with Kean Fallon, Ethan Manhart, Hunter Rehm, Nathan Warnberg, and Laura Zinnel) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
+<li> (with Hac&egrave;ne Belbachir) The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part I, <a href="vol11.html">Vol 11</a>
+<li> (with Hac&egrave;ne Belbachir) The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part II, <a href="vol11.html">Vol 11</a>
+<li> (with Mohammed Said Maamra) The (<i>r<sub>1</sub>,...,r<sub>p</sub></i>)-Stirling Numbers of the Second Kind, <a href="vol12.html">Vol 12</a>
+<li> (with Hac&egrave;ne Belbachir) Generalization of Universal Partition and Bipartition Theorems, <a href="vol13.html">Vol 13</a>
+<li> (with Mohammed Said Maamra) The <i>(r<sub>1</sub>,...,r<sub>p</sub>)</i>-Bell Polynomials, <a href="vol14.html">Vol 14</a>
+<li> (with Meriem Tiachachat) A New Class of the <i>r</i>-Stirling Numbers and the Generalized Bernoulli Polynomials, <a href="vol20.html">Vol 20</a>
 

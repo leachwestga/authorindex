@@ -1,5 +1,5 @@
 
-<li> Klazar, Martin
+<li> Klausen, Frederik Ravn 
 <ul>
-<li> Generalized Davenport-Schinzel Sequences:  Results, Problems, and Applications, <a href="vol2.html">Vol 2</a>
+<li> (with Sebastian Tim Holdum and Peter Michael Reichstein Rasmussen) Powers in Prime Bases and a Problem on Central Binomial Coefficients, <a href="vol15.html">Vol 15</a>
 

@@ -1,5 +1,6 @@
 
-<li> Saunders, J. C. 
+<li> Sato, Hirotaka
 <ul>
-<li> (with Rigoberto Fl&oacute;rez) Irreducibility of Generalized Fibonacci Polynomials, <a href="vol22.html">Vol 22</a>
+<li> On a Relation Between the Riemann Zeta Function and
+the Stirling Numbers, <a href="vol8.html">Vol 8(1)</a>
 

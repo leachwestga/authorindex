@@ -1,5 +1,5 @@
 
-<li> Wakhare, Tanay
+<li> Wakeham, David
 <ul>
-<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
+<li> (with David R. Wood) On Multiplicative Sidon Sets, <a href="vol13.html">Vol 13</a>
 

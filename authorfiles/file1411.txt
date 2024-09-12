@@ -1,5 +1,5 @@
 
-<li> Perlmutter, Norman Lewis
+<li> Pensyl, Thomas W.
 <ul>
-<li> (with C. D. A. Evans and Joel David Hamkins) A Position in Infinite Chess With Game Value &omega;<sup>4</sup>, <a href="vol17.html">Vol 17</a>
+<li> (with Carla D. Savage) Lecture Hall Partitions and the Wreath Products <i>C<sub>k</sub> &#8768; S<sub>n</sub></i>, <a href="vol12b.html">Vol 12B</a>
 

@@ -1,5 +1,5 @@
 
-<li> Markstr&ouml;m, Klas
+<li> Markovich, Maria 
 <ul>
-<li> The Straight Line Complexity of Small Factorials and Primorials, <a href="vol15.html">Vol 15</a>
+<li> (with Kellie Bresz, Lenny Jones, and Alicia Lamarche) A Problem Related to a Conjecture of Polignac, <a href="vol16.html">Vol 16</a>
 

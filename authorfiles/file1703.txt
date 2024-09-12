@@ -1,5 +1,7 @@
 
-<li> Skyers, Marina
+<li> Skula, Ladislav
 <ul>
-<li> (with Matthew Hyatt) On the Increases of the Sequence <sub>&#8970;</sub> <i>k&#8730;n</i> <sub>&#8971;</sub>, <a href="vol15.html">Vol 15</a>
+<li> (with Karl Dilcher) The Cube of the Fermat Quotient,
+<a href="vol6.html">Vol 6</a>
+<li> Prime Power Divisors of Mersenne Numbers and Wieferich Primes of Higher Order, <a href="vol19.html">Vol 19</a>
 

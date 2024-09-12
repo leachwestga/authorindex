@@ -1,5 +1,5 @@
 
-<li> Klausen, Frederik Ravn 
+<li> Kitrossky, Levi
 <ul>
-<li> (with Sebastian Tim Holdum and Peter Michael Reichstein Rasmussen) Powers in Prime Bases and a Problem on Central Binomial Coefficients, <a href="vol15.html">Vol 15</a>
+<li> (with Endre Boros, Vladimir Gurvich, and Kazuhisa Makino) On the Sprague-Grundy Function of Compound Games, <a href="vol23.html">Vol 23</a>
 

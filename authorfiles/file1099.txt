@@ -1,5 +1,6 @@
 
-<li> Loreti, Paola 
+<li> Loomis, Paul
 <ul>
-<li> (with Vilmos Komornik) Universal Expansions in Negative and Complex Bases, <a href="vol10.html">Vol 10</a>
+<li> (with Florian Luca) On Totient Abundant Numbers,
+<a hrev="vol8.html">Vol 8(1)</a>
 

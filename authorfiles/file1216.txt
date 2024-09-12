@@ -1,6 +1,5 @@
 
-<li> Mesdal, G. A.
+<li> Mertens, Michael H. 
 <ul>
-<li> (with Paul Ottaway) Simplification of Partizan Games in
-Mis&egrave;re Play, <a href="vol7.html">Vol 7</a>
+<li> (with Markus Kirschmer) On an Analogue to the Lucas-Lehmer-Riesel Test Using Elliptic Curves, <a href="vol13.html">Vol 13</a>
 

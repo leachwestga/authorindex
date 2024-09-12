@@ -1,5 +1,5 @@
 
-<li> Tedford, Steven J.
+<li class="fragment"> Tebon, Suzannah 
 <ul>
-<li> Combinatorial Interpretations of Convolutions of the Catalan Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Erin Bevilacqua, Samuel King, J&uuml;rgen Kritschgau, Michael Tait, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
 

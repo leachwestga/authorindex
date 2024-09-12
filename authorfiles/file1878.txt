@@ -1,5 +1,5 @@
 
-<li class="fragment"> Tsumura, Yu
+<li> Tseng, Dennis
 <ul>
-<li> On the Finiteness of Carmichael Numbers with Fermat Factors and \(L=2^{\alpha}P^2\), <a href="vol20.html">Vol 20</a>
+<li> Generalized Nonaveraging Integer Sequences, <a href="vol11.html">Vol 11</a>
 

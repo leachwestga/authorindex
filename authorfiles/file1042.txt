@@ -1,5 +1,5 @@
 
-<li> Levy, Karl
+<li> Levy, Dan
 <ul>
-<li> Lower and Upper Bounds On Irregularities of Distribution, <a href="vol20.html">Vol 20</a>
+<li> (with Gil Kaplan) GCD of Truncated Rows in Pascal's Triangle, <a href="vol4.html">Vol 4</a>
 

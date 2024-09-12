@@ -1,5 +1,5 @@
 
-<li> Schumacher, Paul R. F.
+<li> Schulman, Michael 
 <ul>
-<li> Left Weighted Catalan Extension, <a href="vol10.html">Vol 10</a>
+<li> (with Ethan Berkove and Andrew Eickemeyer) The 4-Color Cubes Puzzle, <a href="vol18.html">Vol 18</a>
 

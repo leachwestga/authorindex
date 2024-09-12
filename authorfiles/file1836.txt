@@ -1,5 +1,6 @@
 
-<li> Thomas, Neha Elizabeth
+<li> Thiel, Johann
 <ul>
-<li> (with K Vishnu Namboothiri) On an Exponential Power Sum, <a href="vol23.html">Vol 23</a>
+<li> On RATS Sequences in General Bases, <a href="vol14.html">Vol 14</a>
+<li> (with Sandie Han, Ariane M. Masuda, and Satyanand Singh) Maximal Entries of Elements in Certain Matrix Monoids, <a href="vol20.html">Vol 20</a>
 

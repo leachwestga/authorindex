@@ -1,5 +1,5 @@
 
-<li> More, Yogesh
+<li> Morales, Marina C. 
 <ul>
-<li> (with Craig V. Spencer) A Generalization of Schauz and Brink's Restricted-Variable Version of Chevalley's Theorem, <a href="vol17.html">Vol 17</a>
+<li> (with Brian D. Sittinger) The Unit Structure in a Quotient Ring of a Quadratic Number Field, <a href="vol19.html">Vol 19</a>
 

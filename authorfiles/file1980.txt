@@ -1,5 +1,6 @@
 
-<li> Wells, Matthew
+<li> Weitzer, Mario 
 <ul>
-<li> (with David Penman) On Sets with More Restricted Sums than Differences, <a href="vol13.html">Vol 13</a>
+<li> (with Peter Kirschenhofer) A Number Theoretic Problem on the Distribution of Polynomials With Bounded Roots, <a href="vol15.html">Vol 15</a>
+<li> (with Attila Peth&#337; and J&ouml;rg Thuswaldner) The Finiteness Property for Shift Radix Systems With General Parameters, <a href="vol19.html">Vol 19</a>
 

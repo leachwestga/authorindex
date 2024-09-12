@@ -1,5 +1,5 @@
 
-<li> Stahl, Aryn
+<li> Srivastava, Anshika
 <ul>
-<li> (with Cathal O’Sullivan and Jonathan P. Sorenson) Algorithms and Bounds on the Sums of Powers of Consecutive Primes, <a href="vol24.html">Vol 24</a>
+<li> (with Ram Krishna Pandey and Om Prakash) On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
 

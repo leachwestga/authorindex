@@ -1,8 +1,7 @@
 
-<li> Sondow, Jonathan 
+<li> Somu, Sai Teja
 <ul>
-<li> (with Geoffrey Caveney and Jean-Louis Nicolas) Robin's Theorem, Primes, and a New Elementary Reformulation of the Riemann Hypothesis, <a href="vol11.html">Vol 11</a>
-<li> (with Kieren MacMillan) Reducing the Erd&#337;s-Moser Equation <i>1<sup>n</sup> + 2<sup>n</sup> + ... + k<sup>n</sup> = (k+1)<sup>n</sup></i> Modulo <i>k</i> and <i>k<sup>2</sup></i>, <a href="vol11.html">Vol 11</a>
-<li> (with Bernd C. Kellner) The Denominators of Power Sums of Arithmetic Progressions, <a href="vol18.html">Vol 18</a>
-<li> (with Bernd C. Kellner) On Carmichael and Polygonal Numbers, Bernoulli Polynomials, and Sums of Base-<i>p</i> Digits, <a href="vol21.html">Vol 21</a>
+<li> (with Ram Krishna Pandey) On Unavoidable Obstructions in Gaussian Walks, <a href="vol16.html">Vol 16</a>
+<li> (with Andrzej Kukla) On Some Generalizations to Floor Function Identities of Ramanujan, <a href="vol22.html">Vol 22</a>
+<li> (with Ting Hon Stanford Li and Andrzej Kukla) On Some Results on Practical Numbers, <a href="vol23.html">Vol 23</a>
 

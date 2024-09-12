@@ -1,5 +1,5 @@
 
-<li> Ray, Chiranjit
+<li> R&auml;ty, Eero
 <ul>
-<li> (with Rupam Barman) New Congruences for Overpartitions Into Odd Parts, <a href="vol18.html">Vol 18</a>
+<li> An Achievement Game on a Cycle, <a href="vol20.html">Vol 20</a>
 

@@ -1,7 +1,6 @@
 
-<li> Spivey, Michael Z.
+<li> Spindler, Mark
 <ul>
-<li> (with Natalio H. Guersenzvaig) Counting Functions and
-Finite Differences, <a href="vol7.html">Vol 7</a>
-<li> Cycles in War, <a href="vol10.html">Vol 10</a>
+<li> Equality Classes of Nim Positions under Mis&egrave;re Play, <a href="vol16.html">Vol 16</a>
+<li> An Extension of the Normal Play Convention to <i>N</i>-player combinatorial games, <a href="vol20a.html">Vol 20a</a>
 

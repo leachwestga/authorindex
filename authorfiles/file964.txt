@@ -1,6 +1,5 @@
 
-<li class="fragment"> Kravitz, Noah
+<li> Krause, Adam
 <ul>
-<li> (with Stefan Steinerberger) Ulam Sequences and Ulam Sets, <a href="vol18.html">Vol 18</a>
-<li> The Largest  \( (k, \ell) \)-sum-free Sets in Compact Abelian Groups, <a href="vol20.html">Vol 20</a>
+<li> (with Howard Skogman) On Ozanam's Rule, <a href="vol18.html">Vol 18</a>
 

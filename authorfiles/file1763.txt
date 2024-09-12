@@ -1,6 +1,5 @@
 
-<li> Stewart, Fraser
+<li> Stevens, Brett 
 <ul>
-<li> The Sequential Join of Combinatorial Games, <a href="vol7.html">Vol 7</a>
-<li> Pirates and Treasure, <a href="vol13.html">Vol 13</a>
+<li> (with Melissa Huggan) Polynomial Time Graph Families for Arc Kayles, <a href="vol16.html">Vol 16</a>
 

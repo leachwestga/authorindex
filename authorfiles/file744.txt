@@ -1,5 +1,5 @@
 
-<li> Hermida, A. 
+<li> Herden, Daniel
 <ul>
-<li> (with A. Suki Dasher and Tian An Wong) The Three Gap Theorem and Periodic Functions, <a href="vol22.html">Vol 22</a>
+<li class=fragment> (with Mark R. Sepanski, Jonathan Stanfill, Cordell C. Hammon, Joel Henningsen, Henry Ickes, and Indalecio Ruiz) Partitions with Designated Summands Not Divisible by \(2^\ell\), 2 and \(3^\ell\) modulo 2, 4, and 3, <a href="vol23.html">Vol 23</a>
 

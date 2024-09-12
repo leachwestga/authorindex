@@ -1,5 +1,5 @@
 
-<li> Schurman, Iman 
+<li> Schumacher, Paul R. F.
 <ul>
-<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
+<li> Left Weighted Catalan Extension, <a href="vol10.html">Vol 10</a>
 

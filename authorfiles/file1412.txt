@@ -1,8 +1,5 @@
 
-<li> Petersen, T. Kyle
+<li> Perlmutter, Norman Lewis
 <ul>
-<li> (with Sergey Kitaev and Tyrrell B. McAllister )
-Enumerating Segmented Patterns in Compositions and Encoding by Restricted Permut
-ations, <a href="vol6.html">Vol 6</a>
-<li> (with Bridget Eileen Tenner) How to Write a Permutation as a Product of Involutions (and Why You Might Care), <a href="vol13.html">Vol 13</a>
+<li> (with C. D. A. Evans and Joel David Hamkins) A Position in Infinite Chess With Game Value &omega;<sup>4</sup>, <a href="vol17.html">Vol 17</a>
 

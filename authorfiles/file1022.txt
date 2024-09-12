@@ -1,5 +1,6 @@
 
-<li> Lee, Jun Ho
+<li> Lee, Jaewoo
 <ul>
-<li class=fragment> Classification for Existence of the Continued Fraction Expansions of \(\sqrt{D}\) and \((1+\sqrt{D})/2\), <a href="vol24.html">Vol 24</a>
+<li> Infinitely Often Dense Bases for the Integers with a Prescribed Representation Function, <a href="vol10.html">Vol 10</a>
+<li> Algebraic Proof for the Geometric Structure of Sumsets, <a href="vol11a.html">Vol 11A</a>
 

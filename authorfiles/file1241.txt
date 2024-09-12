@@ -1,6 +1,6 @@
 
-<li> Moll, Victor H. 
+<li> Mohsenipour, Shahram
 <ul>
-<li> (with Xinyu Sun) A Binary Tree Representation for the <i>2</i>-Adic Valuation of a Sequence Arising From a Rational Integral, <a href="vol10.html">Vol 10</a>
-<li> (with T. Amdeberhan and  D. Callan) Valuations and Combinatorics of Truncated Exponential Sums, <a href="vol13.html">Vol 13</a>
+<li> Finite Sums of Arithmetic Progressions, <a href="vol21.html">Vol 21</a>
+<li> (with Tom C. Brown) Two Extensions of Hilbert's Cube Lemma, <a href="vol21A.html">Vol 21A</a>
 

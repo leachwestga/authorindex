@@ -1,5 +1,5 @@
 
-<li> Menard, Jed 
+<li> Melles, Caroline 
 <ul>
-<li> (with Zachary Chaney, Connor Mattes, and Timothy Trujillo) Triangular Ramsey Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Charles Celerier, David Joyner, David Phillips, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
 

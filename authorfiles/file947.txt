@@ -1,7 +1,6 @@
 
-<li> Komornik, Vilmos
+<li> Kominers, Scott Duke
 <ul>
-<li> (with Paola Loreti) Universal Expansions in Negative and Complex Bases, <a href="vol10.html">Vol 10</a>
-<li> Komornik, Vilmos
-<li> Expansions in Noninteger Bases, <a href="vol11b.html">Vol 11b</a>
+<li> On Universal Binary Hermitian Forms, <a href="vol9.html">Vol 9</a>
+<li> (with Sherry) On Congruence Conditions for Primality, <a href="vol10.html">Vol 10</a>
 

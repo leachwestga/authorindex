@@ -1,7 +1,5 @@
 
-<li> Kowalenko, Victor
+<li> Kouril, Michal
 <ul>
-<li> Generalized Cosecant Numbers and the Hurwitz Zeta Function, <a href="vol19.html">Vol 19</a>
-<li> Alternative Formulations of the Generalized Cosecand and Secant Numbers, <a href="vol21.html">Vol 21</a>
-<li> Stirling Numbers and the Partition Method for a Power Series Expansion, <a href="vol23.html">Vol 23</a>
+<li> Computing the Van der Waerden Number <i>W(3,4)=293</i>, <a href="vol12.html">Vol 12</a>
 

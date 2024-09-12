@@ -1,5 +1,5 @@
 
-<li> N&eacute;meth, L&aacute;szl&oacute;
+<li> Nedev, Zhivko
 <ul>
-<li> Tetrahedron Trinomial Coefficient Transform, <a href="vol19.html">Vol 19</a>
+<li> Universal Sets and the Vector Game, <a href="vol8.html">Vol 8(1)</a>
 

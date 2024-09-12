@@ -1,5 +1,5 @@
 
-<li> Vyncke, Pieter 
+<li> Vyalyi, Michael 
 <ul>
-<li> (with Sean Bibby and Joshua Zelinsky) On the Third Largest Prime Divisor of an Odd Perfect Number, <a href="vol21.html">Vol 21</a>
+<li> (with Nikolay Chikin, Vladimir Gurvich, Konstantin Knop, and Mike Paterson)  More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
 

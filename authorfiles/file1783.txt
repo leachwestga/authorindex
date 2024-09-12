@@ -1,6 +1,5 @@
 
-<li> Sullivan, Blair D.
+<li> Sukruan, Lalitphat
 <ul>
-<li> (with Melvyn B. Nathanson) Heights in Finite Projective Space, and
-a Problem on Directed Graphs, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Kantaphon Kuhapatanakul) The Generalized Tribonacci Numbers with Negative Subscripts, <a href="vol14.html">Vol 14</a>
 

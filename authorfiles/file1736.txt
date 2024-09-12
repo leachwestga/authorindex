@@ -1,5 +1,7 @@
 
-<li> Spier, Thom&aacute;s Jung
+<li> Spiegelhofer, Lukas
 <ul>
-<li> On Means of Near Continued Fractions, <a href="vol23.html">Vol 23</a>
+<li> (with Johannes F. Morgenbesser) A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function, <a href="vol12.html">Vol 12</a>
+<li> A Digit Reversal Property for Stern Polynomials, <a href="vol17.html">Vol 17</a>
+<li> Approaching Cusick's Conjecture on the Sum-of-digits Function, <a href="vol19.html">Vol 19</a>
 

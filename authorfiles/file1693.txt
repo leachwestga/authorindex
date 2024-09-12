@@ -1,6 +1,5 @@
 
-<li> Sirvent, V&iacute;ctor F.
+<li> S&icirc;nt&#x00103;m&#x00103;rian, Alina
 <ul>
-<li> Symmetries in  <i>k</i>-Bonacci Adic Systems, <a href="vol11b.html">Vol 11b</a>
-<li> Pisot Numbers and Chromatic Zeros, <a href="vol13.html">Vol 13</a>
+<li> New Sequences That Converge to a Generalization of Euler's Constant, <a href="vol11.html">Vol 11</a>
 

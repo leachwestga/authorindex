@@ -1,8 +1,5 @@
 
-<li> Yamada, Tomohiro
+<li> Yalman, Demet 
 <ul>
-<li>Linear Equations Involving Iterates of
-&sigma;(N), <a href="vol9supp.html">Volume 9 Supplement</a>
-<li> Quasiperfect Numbers With the Same Exponent, <a href="vol19.html">Vol 19</a>
-<li> On the Divisibility of Odd Perfect Numbers, Quasiperfect Numbers and Amicable Numbers by a High Power of a Prime, <a href="vol20.html">Vol 20</a>
+<li> (with Mustafa Ozen and Hua Wang) Note on Leech-type Questions of Trees, <a href="vol16.html">Vol 16</a>
 

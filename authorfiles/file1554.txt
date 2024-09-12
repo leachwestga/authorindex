@@ -1,5 +1,5 @@
 
-<li> Rozier, Olivier
+<li> Roy, Bidisha 
 <ul>
-<li> Parity Sequences of the <i>3x+1</i> Map on the 2-adic Integers and Euclidean Embedding, <a href="vol19.html">Vol 19</a>
+<li> (with Aaron Robertson and Subha Sarkar) The Determination of 2-color Zero-sum Generalized Schur Numbers, <a href="vol18.html">Vol 18</a>
 

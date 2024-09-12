@@ -1,5 +1,5 @@
 
-<li> Lan, Bin
+<li> Lampret, Vito
 <ul>
-<li> (with James A. Sellers) Properties of a Restricted Binary Partition Function a la Andrews and Lewis, <a href="vol15.html">Vol 15</a>
+<li> Accurate Asymptotic Estimates of Catalan's Sequence, <a href="vol17.html">Vol 17</a>
 

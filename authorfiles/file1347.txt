@@ -1,5 +1,5 @@
 
-<li> O'Shea, Edwin 
+<li> Osburn, Robert
 <ul>
-<li> (with Jorge Bruno) Relaxed Complete Partitions:  An Error-correcting Bachet's Problem, <a href="vol18.html">Vol 18</a>
+<li> (with Jeremy Lovejoy) Quadratic Forms and Four Partition Functions Modulo <i>3</i>, <a href="vol11.html">Vol 11</a>
 

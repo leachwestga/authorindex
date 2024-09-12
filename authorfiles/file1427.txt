@@ -1,5 +1,5 @@
 
-<li> Pihko, J. 
+<li> Pigott, Brian
 <ul>
-<li> (with G. Grekos, L. Haddad, and C. Helou) Supremum of Representation Functions, <a href="vol11.html">Vol 11</a>
+<li> (with Nemanja Kosovali&cacute;) Uniqueness for Sums of Nonvanishing Squares, <a href="vol20.html">Vol 20</a>
 

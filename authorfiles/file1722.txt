@@ -1,7 +1,7 @@
 
-<li> Somu, Sai Teja
+<li> Somer, Lawrence 
 <ul>
-<li> (with Ram Krishna Pandey) On Unavoidable Obstructions in Gaussian Walks, <a href="vol16.html">Vol 16</a>
-<li> (with Andrzej Kukla) On Some Generalizations to Floor Function Identities of Ramanujan, <a href="vol22.html">Vol 22</a>
-<li> (with Ting Hon Stanford Li and Andrzej Kukla) On Some Results on Practical Numbers, <a href="vol23.html">Vol 23</a>
+<li> (with Lenny Jones) Primes in Shifted Sums of Lucas Sequences, <a href="vol17.html">Vol 17</a>
+<li> (with Michal K&#345;&iacute;&#382;ek) Nondefective Integers With Respect to Certain Lucas Sequences of the Second Kind, <a href="vol18.html">Vol 18</a>
+<li> (with Michal K&rcaron;&iacute;&zcaron;ek) Period Lengths Modulo <i>n</i> and Average of Terms of Second Order Linear Recurrences, <a href="vol24.html">Vol 24</a>
 

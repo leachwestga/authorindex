@@ -1,7 +1,6 @@
 
-<li> Noll, Jenna
+<li> Noble, Matt
 <ul>
-<li> (with Benjamin Braun, Robert Davis, Jessica Doering, Ashley Harrison, and Clifford
-Taylor) Compositions Constrained by Graph Laplacian Minors, <a href="vol13.h
-tml">Vol 13</a>
+<li> Isosceles Triangles in Q<sup>3</sup>, <a href="vol18.html">Vol 18</a>
+<li class="fragment"> Isomorphism Classes of Distance Graphs in \(\mathbb{Q}^3\), <a href="vol21.html">Vol 21</a>
 

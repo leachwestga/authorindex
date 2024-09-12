@@ -1,5 +1,5 @@
 
-<li> Zhao, Liangyi 
+<li> Zhao, Kevin 
 <ul>
-<li> (with Peng Gao) Primes <i>p &equiv; 1</i> mod <i>d</i> and <i>a<sup>(p-1)/d</sup> &equiv; 1</i> mod <i>p</i>, <a href="vol19.html">Vol 19</a>
+<li> (with David J. Grynkiewicz and Chunlin Wang) The Structure of a Sequence With Prescribed Zero-sum Subsequences, <a href="vol20.html">Vol 20</a>
 

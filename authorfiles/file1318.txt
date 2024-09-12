@@ -1,6 +1,5 @@
 
-<li> Noble, Matt
+<li> Niu, Chuan-Ze
 <ul>
-<li> Isosceles Triangles in Q<sup>3</sup>, <a href="vol18.html">Vol 18</a>
-<li class="fragment"> Isomorphism Classes of Distance Graphs in \(\mathbb{Q}^3\), <a href="vol21.html">Vol 21</a>
+<li class=fragment> (with Chang-Kun Jia) \(p\)-Adic Valuation of \(\prod_{k=m+1}^{n} (k^2-m^2)\), <a href="vol23.html">Vol 23</a>
 

@@ -1,6 +1,6 @@
 
-<li> Ono, Ken
+<li> Ong, Darren C.
 <ul>
-<li> A Mock Theta Function for the Delta-Function,
-<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Vadim Ponomarenko) The Frobenius Number of Geometric
+Sequences, <a href="vol8.html">Vol 8(1)</a>
 

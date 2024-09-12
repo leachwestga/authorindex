@@ -1,7 +1,5 @@
 
-<li> &#321;aba, Izabella
+<li> Kyll&ouml;nen, Urpo M.
 <ul>
-<li> (with A. Iosevich) K-distance Sets, Falconer Conjecture, and Discrete Analogs, <a href="vol5-2.html">Vol 5(2)</a>
-<li> (with Mariah Hamel) Arithmetic Structures in Random Sets,
-<a href="vol8.html">Vol 8(1)</a>
+<li> On Representations of the Riemann Zeta Function, Its Square and of the Positive Integers, <a href="vol21.html">Vol 21</a>
 

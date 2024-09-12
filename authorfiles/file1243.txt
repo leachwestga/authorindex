@@ -1,5 +1,5 @@
 
-<li> Molnar-Saska, Ildiko
+<li> Molla, Md Ibrahim 
 <ul>
-<li> (with Andries E. Brouwer, Gabor Horvath, and Csaba Szabo) On Three-rowed Chomp, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Sukumar Das Adhikari, Shruti Hedge, and Subha Sarkar) Inverse Problems Related to Some Weighted Zero-sum Constants for Cyclic Groups, <a href="vol22.html">Vol 22</a>
 

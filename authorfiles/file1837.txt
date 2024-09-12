@@ -1,7 +1,5 @@
 
-<li> Thompson, Katherine
+<li> Thomas, Neha Elizabeth
 <ul>
-<li> (with Pete L. Clark, Jacob Hicks, and Nathan Walters) GoNII: Universal Quaternary Quadratic Forms, <a href="vol12.html">Vol 12</a>
-<li> (with Pete L. Clark,  Jacob Hicks, and  Hans Parshall) GoNI: Primes Represented by Binary Quadratic Forms, <a href="vol13.html">Vol 13</a>
-<li> (with Jacob Hicks) GoNIII: More Universal Quaternary Quadratic Forms, <a href="vol16.html">Vol 16</a>
+<li> (with K Vishnu Namboothiri) On an Exponential Power Sum, <a href="vol23.html">Vol 23</a>
 

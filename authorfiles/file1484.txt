@@ -1,5 +1,5 @@
 
-<li> Ramar&eacute;, O. 
+<li> Ramakrishana, B.
 <ul>
-<li> (with Akhilesh P.) Tail Of A Moebius Sum With Coprimality Conditions, <a href="vol18.html">Vol 18</a>
+<li> (with Shaun Cooper, Sanoli Gun, and Michael Hirschhorn) Relations Among Fourier Coefficients of Certain Eta Products, <a href="vol5.html">Vol 5(1)</a>
 

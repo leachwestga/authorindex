@@ -1,5 +1,5 @@
 
-<li> Kiss, S&aacute;ndor Z.
+<li> Kirschmer, Markus
 <ul>
-<li> (with Csaba S&aacute;ndor) On the Structure of Sets Which Have Coinciding Representation Functions, <a href="vol19.html">Vol 19</a>
+<li> (with Michael H. Mertens) On an Analogue to the Lucas-Lehmer-Riesel Test Using Elliptic Curves, <a href="vol13.html">Vol 13</a>
 

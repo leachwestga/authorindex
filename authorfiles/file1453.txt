@@ -1,9 +1,5 @@
 
-<li> Ponomarenko, Vadim
+<li> Pongsriiam, Prapanpong
 <ul>
-<li> Minimal Zero Sequences of Finite Cyclic Groups, <a href="vol4.html">Vol 4</a>
-<li> (with Darren C. Ong) The Frobenius Number of Geometric
-Sequences, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Jeske Glenn, Christopher O'Neill, and Benjamin Sepanski) Augmented Hilbert Series of Numerical Semigroups, <a href="vol19.html">Vol 19</a>
-<li> (with Matthew Guhl, Jazmine Juarez,  Rebecca Rechkin, and Deepesh Singhal) Complementary Numerical Sets, <a href="vol22.html">Vol 22</a>
+<li> A Remark on Relatively Prime Sets, <a href="vol13.html">Vol 13</a>
 

@@ -1,9 +1,5 @@
 
-<li> Lockard, Shannon 
+<li> L&oacute;pez, Josefina
 <ul>
-<li> (with Morgan V. Brown, Neil J. Calkin, Kevin James, Adam J. King, 
-and Robert
-C Rhoades) Trivial Selmer Groups and Even Partitions of a Graph,
-<a href="vol6.html">Vol 6</a>
-<li> (with Timothy B. Flowers) Identifying an <i>m</i>-ary Partition Identity Through an <i>m</i>-ary Tree, <a href="vol16.html">Vol 16</a>
+<li> (with Peter Stoll) The Repetends of Reduced Fractions <i>a/b<sup>k</sup></i> Approach Full Complexity with an Increasing <i>k</i>, <a href="vol22.html">Vol 22</a>
 

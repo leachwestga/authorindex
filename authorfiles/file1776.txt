@@ -1,7 +1,5 @@
 
-<li> Strzebonski, Adam 
+<li> Stromquist, Walter
 <ul>
-<li> (with David Einstein, Daniel Lichtblau, and Stan Wagon)
-Frobenius Numbers by Lattice Point Enumeration,
-<a href="vol7.html">Vol 7</a>
+<li> Winning Paths in N-by-Infinity Hex, <a href="vol7.html">Vol 7</a>
 

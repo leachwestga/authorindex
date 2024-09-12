@@ -1,5 +1,6 @@
 
-<li> K&oacute;rus, P&eacute;ter
+<li> Koparal, Sibel
 <ul>
-<li> (with Horst Alzer) Harmonic Numbers: Combinatorial Identities and Series Representations, <a href="vol23.html">Vol 23</a>
+<li> (with Laid Elkhiri and Ne&#x15F;e &Ouml;m&uuml;r) A <i>q</i>-Analogue of Granville's Congruence, <a href="vol22.html">Vol 22</a>
+<li> (with &Ouml;mer Duran and Ne&scedil;e &Ouml;m&uuml;r) Generalized Degenerate Harmonic Numbers and Their Applications with Riordan Arrays, <a href="vol24.html">Vol 24</a>
 

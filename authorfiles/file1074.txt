@@ -1,5 +1,5 @@
 
-<li> Lin, Hsueh-Yung
+<li> Lim, Dongkyu 
 <ul>
-<li> Odd Catalan Numbers Modulo <i>2<sup>k</sup></i>, <a href="vol11.html">Vol 11</a>
+<li> (with Bai-Ni Guo) Integral Representations of Catalan Numbers and Sums Involving Central Binomial Coefficients, <a href="vol23.html">Vol 23</a>
 

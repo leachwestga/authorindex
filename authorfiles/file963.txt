@@ -1,5 +1,5 @@
 
-<li> Krause, Adam
+<li> Krattenthaler, Christian 
 <ul>
-<li> (with Howard Skogman) On Ozanam's Rule, <a href="vol18.html">Vol 18</a>
+<li> (with Eric Rowland and Reem Yassawi) Lucas Congruences  for the Ap&eacute;ry Numbers Modulo <i>p<sup>2</sup></i>, <a href="vol21.html">Vol 21</a>
 

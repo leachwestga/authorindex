@@ -1,6 +1,5 @@
 
-<li> Kamano, Ken
+<li> Kalmynin, A. B.
 <ul>
-<li> On <i>3</i>-Adic Valuations of Generalized Harmonic Numbers, <a href="vol11.html">Vol 11</a>
-<li> (with Yasuo Ohno and Shuji Yamamoto) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
+<li> On the Symmetry Graph of Prime Numbers, <a href="vol21.html">Vol 21</a>
 

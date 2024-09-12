@@ -1,5 +1,9 @@
 
-<li> Mertens, Michael H. 
+<li> Merlini, Donatella
 <ul>
-<li> (with Markus Kirschmer) On an Analogue to the Lucas-Lehmer-Riesel Test Using Elliptic Curves, <a href="vol13.html">Vol 13</a>
+<li> (with Renzo Sprugnoli) A Riordan Array Proof of a Curious Identity, <a href="vol2.html">Vol 2</a>
+<li> (with Francesca Uncini and M. Cecilia Verri) A Unified Approach to the Study of General and Palindromic Compositions, <a href="vol4.html">Vol 4</a>
+<li> (with Renzo Sprugnoli and M. Cecilia Verri) The Akiyama-Tanigawa Transformation, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Graeme Kemkes and Bruce Richmond) Maximum Stirling
+Numbers of the Second Kind, <a href="vol8.html">Vol 8(1)</a>
 

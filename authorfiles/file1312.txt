@@ -1,5 +1,5 @@
 
-<li> Nicolas, Jean-Louis 
+<li> Nicolae, Florin 
 <ul>
-<li> (with Geoffrey Caveney and Jonathan Sondow) Robin's Theorem, Primes, and a New Elementary Reformulation of the Riemann Hypothesis, <a href="vol11.html">Vol 11</a>
+<li> (with Florian Luca) <i>&phi;(F<sub>n</sub>)=F<sub>m</sub></i>, <a href="vol9.html">Vol 9</a>
 

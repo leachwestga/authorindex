@@ -1,5 +1,5 @@
 
-<li> Kahkeshani, Reza
+<li> Kahane, J.-P.
 <ul>
-<li> (with Meysam Arab) A Generalized Binet Formula That Counts the Tilings of a <i>(2</i> x <i> n)</i>-board, <a href="vol18.html">Vol 18</a>
+<li> A Brownian Quasi-helix in R<sup>4</sup>, Built From an Automatic Sequence, <a href="vol18a.html">Vol 18A</a>
 

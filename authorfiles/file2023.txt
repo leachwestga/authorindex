@@ -1,5 +1,5 @@
 
-<li> Yang, Qianqian
+<li> Yang, Mingjia
 <ul>
-<li> (with Kiyoto Yoshino) Embedding Theory of Lattices and Its Application to 2-Integrable Lattices, <a href="vol22.html">Vol 22</a>
+<li> (with Doron Zeilberger) Systematic Counting of Restricted Partitions, <a href="vol20.html">Vol 20</a>
 

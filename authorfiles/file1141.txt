@@ -1,5 +1,5 @@
 
-<li> Mani, Arun P.
+<li> Manhart, Ethan
 <ul>
-<li> (with Rebecca J. Stones) Congruences for Weighted Number of Labeled Forests, <a href="vol16.html">Vol 16</a>
+<li class=fragment> (with Kean Fallon, Joe Miller, Hunter Rehm, Nathan Warnberg, and Laura Zinnel) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
 

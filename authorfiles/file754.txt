@@ -1,5 +1,5 @@
 
-<li> Higgins, Zach 
+<li> Higashitani, Akihiro
 <ul>
-<li> (with Anant Godbole and Zoe Koch) Finite Representability of Integers as 2-Sums, <a href="vol18b.html">Vol 18B</a>
+<li> Ehrhart Polynomials of Integral Simplices With Prime Volumes, <a href="vol14.html">Vol 14</a>
 

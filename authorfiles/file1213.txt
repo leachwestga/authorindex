@@ -1,5 +1,8 @@
 
-<li> Merikoski, Jorma K.
+<li> Mercer, Idris
 <ul>
-<li> (with Pentti Haukkanen and Timo Tossavainen) Complete Additivity, Complete Multiplicativity, and Leibniz-additivity on Rationals, <a href="vol21.html">Vol 21</a>
+<li> Newman Polynomials, Reducibility, and Roots on the Unit Circle, <a href="vol12.html">Vol 12</a>
+<li> Newman Polynomials Not Vanishing on the Unit Circle, <a href="vol12.html">Vol 12</a>
+<li> Dirichlet's Theorem and Jacobsthal's Function, <a href="vol18.html">Vol 18</a>
+<li> Finite Searches, Chowla's Cosine Problem, and Large Newman Polynomials, <a href="vol19.html">Vol 19</a>
 

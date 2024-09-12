@@ -1,5 +1,5 @@
 
-<li> Trinh, Minh-Tam 
+<li> Tringali, Salvatore
 <ul>
-<li> (with Julio C. Andrade, Steven J. Miller, and Kyle Pratt) Special Sets of Primes in Function Fields, <a href="vol14.html">Vol 14</a>
+<li> On the Divisibility of <i>a<sup>n</sup> &plusmn; b<sup>n</sup></i> by Powers of <i>n</i>, <a href="vol13.html">Vol 13</a>
 

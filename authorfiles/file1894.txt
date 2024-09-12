@@ -1,5 +1,8 @@
 
-<li> Vanegas, Elkin Quintero 
+<li> Vandehey, Joseph
 <ul>
-<li> (with Jorge Fl&oacute;rez and Cihan Karabulut) The Distribution of the Generalized Greatest Common Divisor and Visibility of Lattice Points, <a href="vol20.html">Vol 20</a>
+<li> On Multiplicative Functions with Bounded Partial Sums, <a href="vol12.html">Vol 12</a>
+<li> On an Incomplete Argument of Erd&#337;s on the Irrationality of Lambert Series, <a href="vol13.html">Vol 13</a>
+<li> On the Binary Digits of &radic;2, <a href="vol18.html">Vol 18</a>
+<li> A Proof of the Infinitude of Primes Via Continued Fractions, <a href="vol20.html">Vol 20</a>
 

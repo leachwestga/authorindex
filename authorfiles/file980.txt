@@ -1,5 +1,5 @@
 
-<li> Kumar, Hitesh
+<li> Kumar, Balesh
 <ul>
-<li> (with Kamal Lochan Patra and Binod Kumar Sahoo) Proper Divisor Graph of a Positive Integer, <a href="vol21.html">Vol 21</a>
+<li> (with Pallab Kanti Dey) An Analogue of Artin's Primitive Root Conjecture, <a href="vol16.html">Vol 16</a>
 

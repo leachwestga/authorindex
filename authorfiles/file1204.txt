@@ -1,5 +1,5 @@
 
-<li> Mehdizadeh, Marzieh
+<li> Meemark, Yotsanan
 <ul>
-<li> Erd&#337;s-Kac Theorem for Smooth and Ultra-smooth Integers, <a href="vol20.html">Vol 20</a>
+<li> (with Sirawich Chinwarakorn) Lerch's Theorems Over Function Fields, <a href="vol10.html">Vol 10</a>
 

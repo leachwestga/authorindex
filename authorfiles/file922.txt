@@ -1,5 +1,5 @@
 
-<li class="fragment"> King, Samuel 
+<li> King, Dylan 
 <ul>
-<li> (with Erin Bevilacqua, J&uuml;rgen Kritschgau, Michael Tait, Suzannah Tebon, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+<li> (with Sara Fish, Steven J. Miller, Eyvindur A. Palsson, and Catherine Wahlenmayer) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
 

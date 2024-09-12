@@ -1,5 +1,5 @@
 
-<li> Phillips, David 
+<li> Philippe, Fabrice
 <ul>
-<li> (with Charles Celerier, David Joyner, Caroline Melles, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
+<li> (with Filippo Disanto and Laurent Imbert) On the Maximal Weight of <i>(P,Q)</i>-ary Chain Partitions With Bounded Parts, <a href="vol14.html">Vol 14</a>
 

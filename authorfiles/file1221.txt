@@ -1,5 +1,6 @@
 
-<li> Micek, Piotr 
+<li> Miao, Rong
 <ul>
-<li> (with Steven Chaplick, Torsten Ueckerdt, and Veit Wiechert) A Note on Concurrent Graph Sharing Games, <a href="vol16.html">Vol 16</a>
+<li> (with Guodong Hua and Bin Chen) The Distributions of High Moments of Cusp Form Coefficients over Arithmetic Progressions, <a href="vol23.html">Vol 23</a>
+<li> (with Guodong Hua and Bin Chen) The Average Behavior of a Hybrid Arithmetic Function Involving Hecke Eigenvalues, <a href="vol23.html">Vol 23</a>
 

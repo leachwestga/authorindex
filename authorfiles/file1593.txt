@@ -1,5 +1,5 @@
 
-<li> Sarma, Ritumoni
+<li> Sankaranarayanan, Ayyadurai 
 <ul>
-<li> (with Seema Kushwaha) On Finite Semi-regular Continued Fractions, <a href="vol16.html">Vol 16</a>
+<li> (with Anubhav Sharma) Average Behavior of the Fourier Coefficients of the Symmetric Square <i>L</i>-Function over Some Sequence of Integers, <a href="vol22.html">Vol 22</a>
 

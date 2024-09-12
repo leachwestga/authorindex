@@ -1,6 +1,5 @@
 
-<li> Zemyan, Stephen M.
+<li> Zemor, Gilles
 <ul>
-<li> Cyclemaster Matrices and Collatz Cycles, <a href="vol20.html">Vol 20</a>
-<li> (with Marcin Mazur) Cyclemaster Matrices and Primality Testing, <a href="vol23.html">Vol 23</a>
+<li> (with Oriol Serra) On a Generalization of a Theorem by Vosper, <a href="vol0.html">Vol 0</a>
 

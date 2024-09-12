@@ -1,6 +1,6 @@
 
-<li> Pakovich, F.
+<li> Pakianathan, Jonathan 
 <ul>
-<li> A Remark on the Chebotarev Theorem About Roots of Unity,
-<a href="vol7.html">Vol 7</a>
+<li> (with Alex Iosevich and Hannah Morgan) On Directions Determined by S
+ubsets of Vector Spaces Over Finite Fields, <a href="vol11.html">Vol 11</a>
 

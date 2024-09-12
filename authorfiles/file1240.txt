@@ -1,6 +1,5 @@
 
-<li> Mohsenipour, Shahram
+<li> Mohammed, Mohamud
 <ul>
-<li> Finite Sums of Arithmetic Progressions, <a href="vol21.html">Vol 21</a>
-<li> (with Tom C. Brown) Two Extensions of Hilbert's Cube Lemma, <a href="vol21A.html">Vol 21A</a>
+<li> (with Shalosh B. Ekhad) A WZ Proof of a "Curious" Identity, <a href="vol3.html">Vol 3</a>
 

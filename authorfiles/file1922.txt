@@ -1,5 +1,6 @@
 
-<li> Voss, K. 
+<li> von Heymann, Frederik
 <ul>
-<li> (with C. Augspurger,  M. Minter, K. Shoukry, and P. Sissokho) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
+<li> (with Felix Breuer) Staircases in <i>Z<sup>2</sup></i>, <a href="vo
+l10.html">Vol 10</a>
 

@@ -1,5 +1,5 @@
 
-<li> Lyall, Neil
+<li> Lupini, Martino 
 <ul>
-<li> (with Alex Rice) A Quantitative Result on Diophantine Approximation for Intersective Polynomials, <a href="vol15a.html">Vol 15A</a>
+<li> (with Mauro Di Nasso, Isaac Goldbring, Renling Jin, Steven Leth, and Karl Mahlburg) Approximate Polynomial Structure in Additively Large Sets, <a href="vol16.html">Vol 16</a>
 

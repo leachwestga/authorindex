@@ -1,5 +1,5 @@
 
-<li> Ojah, Kanan Kumari
+<li> Ohyama, Hiroshi
 <ul>
-<li> (with Nayandeep Deka Baruah) Partitions With Designated Summands in Which All Parts Are Odd, <a href="vol15.html">Vol 15</a>
+<li> An Identity Involving Binomial Coefficients Equivalent to an Identity of Lagrange, <a href="vol20.html">Vol 20</a>
 

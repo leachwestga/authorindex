@@ -1,5 +1,5 @@
 
-<li> Preece, D.A.
+<li> Pratt, Kyle 
 <ul>
-<li> (with Ian Anderson) Obtaining All or Half of <i><b>U<sub>n</sub></b></i> as <i>&lang; x &rang; x &lang; x+1 &rang;</i>, <a href="vol12.html">Vol 12</a>
+<li> (with Julio C. Andrade, Steven J. Miller,  and Minh-Tam Trinh) Special Sets of Primes in Function Fields, <a href="vol14.html">Vol 14</a>
 

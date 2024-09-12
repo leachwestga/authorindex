@@ -1,7 +1,5 @@
 
-<li> Kar, Nirupam 
+<li> Kaplan, Nathan
 <ul>
-<li> (with Pantelimon St&#259;nic&#259;, Santanu Sarkar, Sourav Sen Gupta, and
- Subhamoy Maitra) 
-Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
+<li> Flat Cyclotomic Polynomials of Order Four and Higher, <a href="vol10.html">Vol 10</a>
 

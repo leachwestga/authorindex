@@ -1,5 +1,7 @@
 
-<li> Li, Yuan 
+<li> Li, Yangcheng
 <ul>
-<li> (with Thomas W. Cusick and Pantelimon St&#259;nic&#259;) On a Combinatorial Conjecture, <a href="vol11.html">Vol 11</a>
+<li> Linear Combinations of Two Polygonal Numbers That Take Infinitely Often a Square Value, <a href="vol20.html">Vol 20</a>
+<li class=fragment> (with Heli Duan) On the Integer Solutions of the Diophantine Equation \((x+y+z)^2=xyw\), <a href="vol23.html">Vol 23</a>
+<li> (with Yong Zhang) Primitive Pythagorean Triangles with Sides of Certain Forms, <a href="vol24.html">Vol 24</a>
 

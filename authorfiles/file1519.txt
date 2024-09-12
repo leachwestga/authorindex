@@ -1,5 +1,5 @@
 
-<li> Ribenboim, Paulo
+<li> Riasat, Samin
 <ul>
-<li> Explicit Solutions of Certain Systems of Pell Equations, <a href="vol12a.html">Vol 12A</a>
+<li> (with James Haoyu Bai, Joseph Meleshko, and Jeffrey Shallit) Quotients of Palindromic and Antipalindromic Numbers, <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,5 @@
 
-<li> Kumar, Shiv Datt
+<li> Kumar, Nikhil 
 <ul>
-<li> (with Abhishek Juyal and Dustin Moody) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Sanjit Singh Batra and Amitabha Tripathi) On a Linear Diophantine Problem Involving the Fibonacci and Lucas Sequences, <a href="vol15.html">Vol 15</a>
 

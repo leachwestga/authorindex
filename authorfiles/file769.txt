@@ -1,5 +1,5 @@
 
-<li> Hoffman, Michael E.
+<li> Ho, Randy W. 
 <ul>
-<li> (with Courtney Moen) Sums of Generalized Harmonic Series, <a href="vol14.html">Vol 14</a>
+<li> (with Bill Correll, Jr.) A Note on 3-free Permutations, <a href="vol17.html">Vol 17</a>
 

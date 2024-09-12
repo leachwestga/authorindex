@@ -1,6 +1,5 @@
 
-<li> Moyer, Tatiana 
+<li> Mosley, William Colin 
 <ul>
-<li> (with Dawn Curtis, Taylor Hines, and Glenn Hurlbert) On Pebbling Graphs B
-y Their Blocks, <a href="vol9.html">Vol 9</a>
+<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
 

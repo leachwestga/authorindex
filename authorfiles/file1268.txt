@@ -1,5 +1,7 @@
 
-<li> Mukherjee, Sajal Kumar
+<li> Mukherjee, Antara 
 <ul>
-<li> (with A. K. Bhuniya) A Combinatorial Proof of an Ordered-partition Expansion of Determinants Given by Insko, Johnson and Sullivan, <a href="vol19.html">Vol 19</a>
+<li> (with Rigoberto Fl&oacute;rez and Robinson A. Higuita) Characterization of the Strong Divisibility Property for Generalized Fibonacci Polynomials, <a href="vol18.html">Vol 18</a>
+<li> (with Rigoberto Fl&oacute;rez and  Nathan McAnally) Identities for the Generalized Fibonacci Polynomial, <a href="vol18b.html">Vol 18B</a>
+<li> (with Matthew Blair and  Rigoberto Fl&oacute;rez) Geometric Patterns in The Determinant Hosoya Triangle, <a href="vol21.html">Vol 21</a>
 

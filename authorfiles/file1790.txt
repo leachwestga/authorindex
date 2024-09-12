@@ -1,8 +1,5 @@
 
-<li> Sun, Zhi-Wei
+<li> Yewen, Sun 
 <ul>
-<li> A Curious Identity Involving Binomial Coefficients, <a href="vol2.html">Vol 2</a>
-<li> On Covering Numbers, <a href="vol7-2.html">Vol 7(2)</a>
-<li> (with Song Guo and Zhi-Wei Sun) Mixed Sums of Squares
-and Triangular Numbers (II), <a href="vol7.html">Vol 7</a>
+<li> (with Ashley Armbruster, Grace Barger, Sofya Bykova, Tyler Dvoracheck, Emily Eckard, Joshua Harrington,  and Tony W. H. Wong) On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers, <a href="vol21.html">Vol 21</a>
 

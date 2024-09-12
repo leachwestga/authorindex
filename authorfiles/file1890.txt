@@ -1,5 +1,5 @@
 
-<li> Van Alstine, James 
+<li> Valli&egrave;res, Daniel
 <ul>
-<li> (with Tom Edgar and Hailey Olafson) Approximating the Fibonacci Sequence, <a href="vol16.html">Vol 16</a>
+<li> Elliptic Curves over Finite Fields and Ramanujan Graphs on Two Vertices, <a href="vol24.html">Vol 24</a>
 

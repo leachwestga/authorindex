@@ -1,5 +1,5 @@
 
-<li> Inoue, Maakito 
+<li> Inaba, Youichi
 <ul>
-<li> (with Ryohei Miyadera and Masanori Fukui) Impartial Chocolate Bar Games with a Pass, <a href="vol16.html">Vol 16</a>
+<li> (with Atsushi Yamagami) On a Formula and Some Properties of Carmichael Indices, <a href="vol24.html">Vol 24</a>
 

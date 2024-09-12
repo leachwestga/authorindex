@@ -1,5 +1,5 @@
 
-<li> Zheng, Qi-Yang
+<li> Zheng, Jinze 
 <ul>
-<li> Distribution of 3-Regular and 5-Regular Partitions, <a href="vol23.html">Vol 23</a>
+<li> (with Tian-Xiao He) Duals of the Bernoulli Numbers and Polynomials and the Euler Numbers and Polynomials, <a href="vol17.html">Vol 17</a>
 

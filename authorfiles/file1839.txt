@@ -1,5 +1,5 @@
 
-<li> Thompson, Lola
+<li> Thompson, Kimberly 
 <ul>
-<li> Heights of Divisors of <i>x<sup>n</sup>-1</i>, <a href="vol11a.html">Vol 11A</a>
+<li> (with Mark Budden, Nicole Calkins, William Nathan Hack, and Joshua Lambert) Enumeration of Triangles in Quartic Residue Graphs, <a href="vol11.html">Vol 11</a>
 

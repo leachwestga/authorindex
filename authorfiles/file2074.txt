@@ -1,5 +1,7 @@
 
-<li> Zhao, Kanglun
+<li> Zhao, Jianqiang
 <ul>
-<li> (with Chan-Liang Chung and Jialing Zhao) Extensions of Sury's Relation Involving Fibonacci <i>k</i>-step and Lucas <i>k</i>-step Polynomials, <a href="vol23.html">Vol 23</a>
+<li> A Note on Colored Tornheim's Double Series, <a href="vol10.html">Vol 10</a>
+<li> Witten Volume Formulas for Semi-Simple Lie Algebras, <a href="vol11a.html">Vol 11A</a>
+<li> On  <i>q</i>-Analog of Wolstenholme Type Congruences for Multiple Harmonic Sums, <a href="vol13.html">Vol 13</a>
 

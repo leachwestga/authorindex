@@ -1,6 +1,5 @@
 
-<li> Maamra, Mohammed Said
+<li> Ma, Yingbin 
 <ul>
-<li> (with Miloud Mihoubi) The (<i>r<sub>1</sub>,...,r<sub>p</sub></i>)-Stirling Numbers of the Second Kind, <a href="vol12.html">Vol 12</a>
-<li> (with Miloud Mihoubi) The <i>(r<sub>1</sub>,...,r<sub>p</sub>)</i>-Bell Polynomials, <a href="vol14.html">Vol 14</a>
+<li> (with Wen An Liu, Haifeng Li, and Bei Li) On Supplements of <i> 2 x m</i>  Board in Toppling Towers, <a href="vol12.html">Vol 12</a>
 

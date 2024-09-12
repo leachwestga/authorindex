@@ -1,5 +1,7 @@
 
-<li> Minter, M. 
+<li> Mills, Donald
 <ul>
-<li> (with C. Augspurger, K. Shoukry, P. Sissokho, and K. Voss) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
+<li> (with Patrick Mitchell) Unavoidable Sets of a Certain Size in a Finite Set, <a href="vol5-2.html">Vol 5(2)</a>
+<li> Some Observations on Subset Sum Representations,
+<a href="vol6.html">Vol 6</a> 
 

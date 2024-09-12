@@ -1,5 +1,5 @@
 
-<li> Wright, Thomas
+<li> Woodson, Leon C. 
 <ul>
-<li> The Impossibility of Certain Types of Carmichael Numbers, <a href="vol12.html">Vol 12</a>
+<li> (with Dennis E. Davenport and Louis W. Shapiro) A Bijection Between the Triangulations of Convex Polygons and Ordered Trees, <a href="vol20.html">Vol 20</a>
 

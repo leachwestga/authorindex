@@ -1,5 +1,5 @@
 
-<li> Wang, Xiaoxia
+<li> Wang, Yan
 <ul>
-<li> (with Xueying Yuan) Infinite Summation Formulas Involving the Riemann--Zeta Function, <a href="vol20.html">Vol 20</a>
+<li> (with John P. Georges and David W. Mauro) Relating Fibonacci Numbers to the Infinitudes of Certain Primes, <a href="vol23.html">Vol 23</a>
 

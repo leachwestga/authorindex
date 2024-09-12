@@ -1,7 +1,5 @@
 
-<li> Yiu, Paul
+<li> Yip, Chi Hoi
 <ul>
-<li> (with K.R.S. Sastry and Shanzhen Gao)
-Heron Sequences and Their Modifications,
-<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> On the Directions Determined by Cartesian Products and the Clique Number of Generalized Paley Graphs, <a href="vol21.html">Vol 21</a>
 

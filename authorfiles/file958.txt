@@ -1,5 +1,5 @@
 
-<li> Kouril, Michal
+<li> Kosovali&cacute;, Nemanja 
 <ul>
-<li> Computing the Van der Waerden Number <i>W(3,4)=293</i>, <a href="vol12.html">Vol 12</a>
+<li> (with Brian Pigott) Uniqueness for Sums of Nonvanishing Squares, <a href="vol20.html">Vol 20</a>
 

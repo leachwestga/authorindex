@@ -1,5 +1,5 @@
 
-<li> Moen, Courtney 
+<li> Mizuhara, Matthew S.
 <ul>
-<li> (with Michael E. Hoffman) Sums of Generalized Harmonic Series, <a href="vol14.html">Vol 14</a>
+<li> (with James A. Sellers and Holly Swisher) A Periodic Approach to Plane Partition Congruences, <a href="vol16.html">Vol 16</a>
 

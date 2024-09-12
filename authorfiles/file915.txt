@@ -1,5 +1,5 @@
 
-<li> Kim, John Y.
+<li> Kim, Insuk 
 <ul>
-<li> Integer Addition and Hamming Weight, <a href="vol16.html">Vol 16</a>
+<li> (with Arjun K. Rathie and Richard B. Paris) A Note on a Generalization of Two Well-Known Combinatorial Identities via a Hypergeometric Series Approach, <a href="vol22.html">Vol 22</a>
 

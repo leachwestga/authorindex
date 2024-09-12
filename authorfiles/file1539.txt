@@ -1,5 +1,5 @@
 
-<li> Robinson, Luc 
+<li> Robinson, Jr., E. Arthur
 <ul>
-<li> (with Steven J. Miller and Sean Pegado) Explicit Constructions of Large Families of Generalized More Sums Than Differences Sets, <a href="vol12.html">Vol 12</a>
+<li> Sturmian Expansions and Entropy, <a href="vol11b.html">Vol 11b</a>
 

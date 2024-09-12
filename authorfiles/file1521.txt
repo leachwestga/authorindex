@@ -1,6 +1,5 @@
 
-<li> Rib&oacute;, Ares
+<li> Ribas, S&aacute;vio 
 <ul>
-<li> (with Gill Barequet, Micha Moffie, and G&uuml;nter Rote) Counting
-Polyominoes on Twisted Cylinders, <a href="vol6.html">Vol 6</a>
+<li class=fragment> (with Fabio Enrique Brochero Mart&iacute;nez) The \(\{1,s\}\)-Weighted Davenport Constant in \(C_{n}^{k}\), <a href="vol22.html">Vol 22</a>
 

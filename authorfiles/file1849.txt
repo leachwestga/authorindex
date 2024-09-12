@@ -1,11 +1,6 @@
 
-<li> Togb&eacute;, Alain 
+<li> Timmons, Craig
 <ul>
-<li> (with Jiagui Luo and Pingzhi Yuan) On Some Equations Related to Ma's Conjecture, <a href="vol11.html">Vol 11</a>
-<li> (with Kevin A. Broughan, Marcos J. Gonz&aacute;lez, Ryan H. Lewis, Florian Luca, and
-V. Janitzio Mej&iacute;a Huguet) There Are No Multiply-Perfect Fibonacci Numbers,
-<a href="vol11a.html">Vol11A</a>
-<li> (with Benedict Vasco Normenyo and Bir Kafle) Repdigits as Sums of Two Fibonacci Numbers and Two Lucas Numbers, <a href="vol19.html">Vol 19</a>
-<li class="fragment"> (with Souleymane Nansoko and Euloge Tchammou) The Diophantine Equation \(\sum_{j=1}^{k}jF_j^p=L_n^q\), <a href="vol22.html">Vol 22</a>
-<li> (with Shichun Yang) Odd Deficient-Perfect Numbers with Four Distinct Prime Factors, <a href="vol23.html">Vol 23</a>
+<li> Upper and Lower Bounds on <i>B<sub>k</sub><sup>+</sup></i>-Sets, <a href="vol14.html">Vol 14</a>
+<li> Upper Bounds for <i>B<sub>h</sub>[g]</i>-sets With Small <i>h</i>, <a href="vol16.html">Vol 16</a>
 

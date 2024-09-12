@@ -1,5 +1,7 @@
 
-<li> Stones, Rebecca J. 
+<li> Stoll, Thomas
 <ul>
-<li> (with Arun P. Mani) Congruences for Weighted Number of Labeled Forests, <a href="vol16.html">Vol 16</a>
+<li> On a Multi-parameter Family of Newman Phenomenon Triples, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Hajime Kaneko) On Subwords in the Base-<i>q</i> Expansion of Polynomial and Exponential Functions, <a href="vol18a.html">Vol 18A</a>
+<li> (with Ir&egrave;ne Marcovici and Pierre-Adrien Tahay) Discrete Correlations of Order 2 of Generalized Golay-Shapiro Sequences:  A Combinatorial Approach, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,6 @@
 
-<li> Parrish, Joseph 
+<li> Parreau, Aline 
 <ul>
-<li> (with Kellen Myers) Some Nonlinear Rado Numbers, <a href="vol18b.html">Vol 18B</a>
+<li> (with Antoine Dailly and Julien Moncel) Connected Subtraction Games on Subdivided Stars, <a href="vol19.html">Vol 19</a>
+<li> (with Eric Duch&ecirc;ne, Marc Heinrich, and Richard Nowakowski) Partizan Subtraction Games, <a href="vol21b.html">Vol 21b</a>
 

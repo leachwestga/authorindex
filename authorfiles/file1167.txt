@@ -1,5 +1,6 @@
 
-<li> Matsuki, Norichika
+<li> Matsuda, Kazuhide 
 <ul>
-<li> On the Number of Solutions of a Diophantine Equation Over a Finite Field, <a href="vol16.html">Vol 16</a>
+<li> Mixed Sums of Triangular Numbers and Certain Binary Quadratic Forms, <a href="vol15.html">Vol 15</a>
+<li> On Certain Quaternary Quadratic Forms, <a href="vol18.html">Vol 18</a>
 

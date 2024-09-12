@@ -1,8 +1,5 @@
 
-
-<li> Pikhurko, Oleg
+<li> Pihko, J. 
 <ul>
-<li> Breaking Symmetry on Complete Bipartite Graphs of Odd Size, <a href="vol3.html">Vol 3</a>
-<li> (with Tomasz Schoen) Integer Sets Having the Maximum Number of
-Distinct Differences, <a href="vol7.html">Vol 7</a>
+<li> (with G. Grekos, L. Haddad, and C. Helou) Supremum of Representation Functions, <a href="vol11.html">Vol 11</a>
 

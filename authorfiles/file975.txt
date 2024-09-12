@@ -1,5 +1,7 @@
 
-<li> Kubelka, Richard P.
+<li> Kuba, Markus
 <ul>
-<li> Decomposition of Pascal's Kernels Mod ps, <a href="vol2.html">Vol 2</a>
+<li> (with Helmut Prodinger and Carsten Schneider) Generalized
+Reciprocity Laws for Sums of Harmonic Numbers, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Helmut Prodinger) A Note on Stirling Series, <a href="vol10.html">Vol 10</a>
 

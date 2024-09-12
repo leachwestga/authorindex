@@ -1,5 +1,5 @@
 
-li> Ernst, Dana C.
+<li> Ernst, Dana C.
 <ul>
 <li> (with Bret J. Benesh and N&aacute;ndor Sieben) The Spectrum of Nim-Values for Achievement Games for Generating Finite Groups, <a href="vol23.html">Vol 23</a>
 

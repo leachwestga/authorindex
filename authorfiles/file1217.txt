@@ -1,5 +1,6 @@
 
-<li> Meyerowitz, Aaron
+<li> Mesdal, G. A.
 <ul>
-<li> (with John Selfridge) The 392 Problem, <a href="vol12a.html">Vol 12A</a>
+<li> (with Paul Ottaway) Simplification of Partizan Games in
+Mis&egrave;re Play, <a href="vol7.html">Vol 7</a>
 

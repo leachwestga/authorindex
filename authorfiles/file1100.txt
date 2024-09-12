@@ -1,6 +1,5 @@
 
-<li> Lott, Adam 
+<li> Loreti, Paola 
 <ul>
-<li> (with Anand Hemmady and Steven J. Miller) When Almost All Sets Are Difference Dominated in <i>Z/nZ</i>, <a href="vol17.html">Vol 17</a>
-<li> (with Alyssa Epstein, Steven J. Miller, and Eyvindur A. Palsson) Optimal Point Sets Determining Few Distinct Triangles, <a href="vol18.html">Vol 18</a>
+<li> (with Vilmos Komornik) Universal Expansions in Negative and Complex Bases, <a href="vol10.html">Vol 10</a>
 

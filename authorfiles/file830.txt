@@ -1,5 +1,9 @@
 
-<li> Jia, Chang-Kun
+<li> Jha, Sumit Kumar
 <ul>
-<li class=fragment> (with Chuan-Ze Niu) \(p\)-Adic Valuation of \(\prod_{k=m+1}^{n} (k^2-m^2)\), <a href="vol23.html">Vol 23</a>
+<li> Two New Explicit Formulas for the Bernoulli Numbers, <a href="vol20.html">Vol 20</a>
+<li class="fragment"> A Combinatorial Identity for the Sum of Divisors Function Involving \(p_{r}(n)\), <a href="vol20.html">Vol 20</a>
+<li> Some Nested Sums in Terms of the Riemann Zeta Function and the Dirichlet Beta Function, <a href="vol21.html">Vol 21</a>
+<li> A Formula for the Number of Overpartitions of <i>n</i> in Terms of the Number of Representations of <i>n</i> as a Sum of <i>r</i> Squares, <a href="vol21.html">Vol 21</a>
+<li> Two Complementary Relations for the Rogers-Ramanujan Continued Fraction, <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,5 @@
 
-<li> Lehmann, Hunter 
+<li> Lefmann, Hanno 
 <ul>
-<li> (with Bayley Larsen, Andrew Park, and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
+<li> (with David S. Gunderson and Neil Hindman) Some Partition Theorems for Infinite and Finite Matrices, <a href="vol14.html">Vol 14</a>
 

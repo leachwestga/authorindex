@@ -1,6 +1,5 @@
 
-<li> Tefera, Akalu
+<li> Tedford, Steven J.
 <ul>
-<li> (with Sean Meehan, Michael Weselcouch, and Aklilu Zeleke) Proofs of Ruehr's Identities, <a href="vol14.html">Vol 14</a>
-<li> (with Aklilu Zeleke) On Proofs of Generalized Knuth's Old Sum, <a href="vol23.html">Vol 23</a>
+<li> Combinatorial Interpretations of Convolutions of the Catalan Numbers, <a href="vol11.html">Vol 11</a>
 

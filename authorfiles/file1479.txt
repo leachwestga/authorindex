@@ -1,5 +1,5 @@
 
-<li> Rafilipojaona, Fanasina
+<li> Radziejewska, Miros&#322;awa
 <ul>
-<li> Lower Bounds on the Weak Schur Numbers Up to 9 Colors, <a href="vol17.html">Vol 17</a>
+<li> A Note on the Minimal Number of Representations in  <i>A+A</i>, <a href="vol12.html">Vol 12</a>
 

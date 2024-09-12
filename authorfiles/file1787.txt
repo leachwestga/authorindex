@@ -1,5 +1,5 @@
 
-<li> Sun, Xinjie
+<li> Sun, Liang
 <ul>
-<li> New Congruences Involving Triangular Numbers, <a href="vol20.html">Vol 20</a>
+<li> Positive-definite Quadratic Forms Representing Finite Sets of Integers, <a href="vol19.html">Vol 19</a>
 

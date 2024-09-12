@@ -1,6 +1,5 @@
 
-<li> Trenton, M. A.
+<li> Travis, Jennifer 
 <ul>
-<li> (with D. G. Horrocks) Subtraction with a Muller Twist,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Bret Benesh, Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good, Michael Smith, and Mark Daniel Ward) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
 

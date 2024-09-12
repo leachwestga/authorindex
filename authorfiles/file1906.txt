@@ -1,5 +1,5 @@
 
-<li> Vergne, Mich&egrave;le 
+<li> Verger-Gaugry, Jean-Louis
 <ul>
-<li> (with Velleda Baldoni, Nicole Berline, Jes&uacute;s A. De Loera, Brandon E. Dutra, and Matthias K&ouml;ppe) Coefficients of Sylvester's Denumerant, <a href="vol15.html">Vol 15</a>
+<li> Beta-Conjugates of Real Algebraic Numbers as Puiseux Expansions, <a href="vol11b.html">Vol 11b</a>
 

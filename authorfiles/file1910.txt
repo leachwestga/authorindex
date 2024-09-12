@@ -1,7 +1,5 @@
 
-<li> Vijay, Sujith
+<li> Vieira, Renata Passos Machado
 <ul>
-<li> On the Largest <em>k</em>-primitive Subset of <em>[1,n]</em>, <a href="vol6.html">Vol 6</a>
-<li> On a Variant of Van Der Waerden's Theorem, <a href="vol10.html">Vol 10</a>
-<li> (with Mano Vikash Janardhanan) Ramsey Functions for Generalized Progressions, <a href="vol15.html">Vol 15</a>
+<li> (with Milena Carolina dos Santos Mangueira, Francisco Regis Vieira Alves, Paula Maria Machado Cruz Catarino, and Renata Te&oacute;filo de Sousa) Two-Dimensional, Three-Dimensional and <i>n</i>-Dimensional Recurrence Relations of Jacobsthal, <a href="vol22.html">Vol 22</a>
 

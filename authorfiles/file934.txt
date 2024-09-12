@@ -1,5 +1,5 @@
 
-<li> Klop, Jan Willem 
+<li> Klazar, Martin
 <ul>
-<li> (with J&ouml;rg Endrullis and Dimitri Hendriks) Degrees of Streams, <a href="vol11b.html">Vol 11b</a>
+<li> Generalized Davenport-Schinzel Sequences:  Results, Problems, and Applications, <a href="vol2.html">Vol 2</a>
 

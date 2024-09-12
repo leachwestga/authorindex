@@ -1,5 +1,6 @@
 
-<li> Moghaddamfar, A. R.
+<li> Moffie, Micha
 <ul>
-<li> (with H. Tajbakhsh) Lucas Numbers and Determinants, <a href="vol11.html">Vol 11</a>
+<li> (with Gill Barequet, Ares Rib&oacute;, and G&uuml;nter Rote) Counting
+Polyominoes on Twisted Cylinders, <a href="vol6.html">Vol 6</a>
 

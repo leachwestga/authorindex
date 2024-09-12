@@ -1,9 +1,5 @@
 
-<li> Ruzsa, Imre
+<li> Rushall, Jeff
 <ul>
-<li> (with Bela Bajnok) The Independence Number of a Subset of an Abelian Group, <a href="vol3.html">Vol 3</a>
-<li> (with Ernie Croot and Tomasz Schoen)
-Arithmetic Progressions in Sparse Sumsets, <a href="vol7-2.html">Vol 7(2)</a>
-<li> (with C. Bachoc and  M. Matolcsi) Squares and Difference Sets in Finite Fields, <a href="vol13.html">Vol 13</a>
-<li> (with Francesco Monopoli) Carries and the Arithmetic Progression Structure of Sets, <a href="vol17.html">Vol 17</a>
+<li> (with Marcela Guttierez and Viola McCarty) On the Complete Tree of Primitive Pythagorean Quadruples, <a href="vol20.html">Vol 20</a>
 

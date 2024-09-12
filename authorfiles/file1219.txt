@@ -1,5 +1,5 @@
 
-<li> Mhanna, Antoine
+<li> Mez&#337;, Istv&aacute;n
 <ul>
-<li> Particular Pell-Fermat Equations Revisited, <a href="vol21.html">Vol 21</a>
+<li> (with Jos&eacute; L. Ram&iacute;rez and Chen-Ying Wang) On Generalized Derangements and Some Orthogonal Polynomials, <a href="vol19.html">Vol 19</a>
 

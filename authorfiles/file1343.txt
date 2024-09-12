@@ -1,6 +1,6 @@
 
-<li> Ong, Darren C.
+<li> O'Neill, Christopher 
 <ul>
-<li> (with Vadim Ponomarenko) The Frobenius Number of Geometric
-Sequences, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Jacob Hartzer) On the Periodicity of Irreducible Elements  in Arithmetical Congruence Monoids, <a href="vol17.html">Vol 17</a>
+<li> (with Jeske Glenn, Vadim Ponomarenko, and Benjamin Sepanski) Augmented Hilbert Series of Numerical Semigroups, <a href="vol19.html">Vol 19</a>
 

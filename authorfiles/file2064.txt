@@ -1,5 +1,5 @@
 
-<li> Zhang, Philip B. 
+<li> Zhang, Min
 <ul>
-<li> (with Alice L.L. Gao and Sergey Kitaev) On Pattern Avoiding Indecomposable Permutations, <a href="vol18.html">Vol 18</a>
+<li> (with Jinjiang Li) On a Diophantine Equation With Three Prime Variables, <a href="vol19.html">Vol 19</a>
 

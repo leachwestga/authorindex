@@ -1,5 +1,5 @@
 
-<li> Kritzer, Peter
+<li> Kreh, Martin
 <ul>
-<li> A New Upper Bound on the Star Discrepancy of (0,1)-sequences, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Meeri-Liisa Beste and Jan-Hendrik de Wiljes) Sum and Mod Sum Graphs of Arithmetic Sets, <a href="vol22.html">Vol 22</a>
 

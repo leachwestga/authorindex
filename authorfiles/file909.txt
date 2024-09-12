@@ -1,6 +1,5 @@
 
-<li> Kihel, Omar 
+<li> Kifer, Curtis
 <ul>
-<li> (with Mohamed Ayad) The Number of Relatively Prime Subsets of <i>{1, 2, ..., n}</i>, <a href="vol9.html">Vol 9</a>
-<li> (with Mohamed Ayad) On Relatively Prime Sets, <a href="vol9.html">Vol 9</a>
+<li> (with Matthias Beck) An Extreme Family of Generalized Frobenius Numbers, <a href="vol11.html">Vol 11</a>
 

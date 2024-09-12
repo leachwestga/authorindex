@@ -1,5 +1,5 @@
 
-<li> Chan,  Heng Huat 
+<li> Chan, Heng Huat 
 <ul>
 <li> (with Si Ying Lee) Congruences Associated with the Modular <i>j</i>-Invariant, <a href="vol17.html">Vol 17</a>
 

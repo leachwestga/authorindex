@@ -1,5 +1,5 @@
 
-<li> Zhou, Zhi-Jun 
+<li> Zhou, Weiyi
 <ul>
-<li> (with Min Tang) On a Conjecture of De Koninick, <a href="vol18.html">Vol 18</a>
+<li> (with Long Zhu) On <i>K</i>-Imperfect Numbers, <a href="vol9.html">Vol 9</a>
 

@@ -1,5 +1,5 @@
 
-<li> Ross, John 
+<li> Rosema, S. W. 
 <ul>
-<li> (with Sandy Ganzell and Alex Meadows) Twist Untangle and Related Knot Games, <a href="vol14.html">Vol 14</a>
+<li> (with R. Tijdeman) The Tribonacci Substitution, <a href="vol5-3.html">Vol 5(3)</a>
 

@@ -1,6 +1,5 @@
 
-<li> Tsai, Daniel
+<li> Trukszyn, Zdzislaw 
 <ul>
-<li> A Recurring Pattern in Natural Numbers of a Certain Property, <a href="vol21.html">Vol 21</a>
-<li> On the Computation of Fundamental Periods of <i>v</i>-Palindromic Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with Ryszard Palka) Finite Sums of the Floor Functions Series, <a href="vol20.html">Vol 20</a>
 

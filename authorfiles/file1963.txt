@@ -1,6 +1,7 @@
 
-<li> Warnberg, Nathan 
+<li> Ward, Mark Daniel
 <ul>
-<li class="fragment"> (with Katie Ansaldi, Houssein El Turkey, Jessica Hamm, Anisah Nu'Man,   and Michael Young) Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\), <a href="vol20.html">Vol 20</a>
-<li class=fragment> (with Kean Fallon, Ethan Manhart, Joe Miller, Hunter Rehm, and Laura Zinnel) Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\), <a href="vol23.html">Vol 23</a>
+<li> (with Xin Lu Tan ) On Kotzig's Nim, <a href="vol14.html">Vol 14</a>
+<li> (with Guy Louchard) Asymptotic Analysis of Sums of Powers of Multinomial Coefficients: A Saddle Point Approach, <a href="vol17.html">Vol 17</a>
+<li> (with Bret Benesh,  Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good, Michael Smith, and Jennifer Travis) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
 

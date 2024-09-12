@@ -1,5 +1,5 @@
 
-<li> Lages, Ant&oacute;nio
+<li> Lagarias, Jeffrey C. 
 <ul>
-<li> (with Pedro Lopes) A Proof of Euler's Theorem via Quandles, <a href="vol22.html">Vol 22</a>
+<li> (with P&auml;r Kurlberg and Carl Pomerance) On Sets of Integers Which Are Both Sum-Free and Product-Free, <a href="vol12b.html">Vol 12B</a>
 

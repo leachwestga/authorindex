@@ -1,5 +1,5 @@
 
-<li> Kazda, Alexandr
+<li> Kaye, Ian
 <ul>
-<li> Convergence in M&ouml;bius Number Systems, <a href="vol9.html">Vol 9</a>
+<li> (with Narad Rampersad) The Abelian Complexity of Infinite Words and the Frobenius Problem, <a href="vol21.html">Vol 21</a>
 

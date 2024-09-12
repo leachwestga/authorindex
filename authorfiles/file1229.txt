@@ -1,5 +1,5 @@
 
-<li> Mintos, Alexia S. 
+<li> Minter, M. 
 <ul>
-<li> (with Douglas E. Iannucci) On Consecutive Integer Pairs with the Same Sum of Distinct Prime Divisors, <a href="vol5.html">Vol 5(1)</a>
+<li> (with C. Augspurger, K. Shoukry, P. Sissokho, and K. Voss) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
 

@@ -1,5 +1,5 @@
 
-<li> Zargar, Arman Shamsi 
+<li> Zamboni, Luca Q. 
 <ul>
-<li> (with Ajai Choudhry) A Sextic Diophantine Chain and a Related Mordell Curve, <a href="vol21.html">Vol 21</a>
+<li> (with Robert Tijdeman) Characterizations of Words With Many Periods, <a href="vol9.html">Vol 9</a>
 

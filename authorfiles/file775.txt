@@ -1,8 +1,5 @@
 
-<li> Holt, Benjamin V.
+<li> Holshouser, Arthur
 <ul>
-<li> (with Tyler J. Evans) Deriving Divisibility Theorems with Burnside's Theorem, <a href="vol5.html">Vol 5(1)</a>
-<li> Some General Results and Open Questions on Palintiple Numbers, <a href="vol14.html">Vol 14</a>
-<li> Derived Palintiple Families and Their Palinomials, <a href="vol16.html">Vol 16</a>
-<li> On Permutiples Having a Fixed Set of Digits, <a href="vol17.html">Vol 17</a>
+<li> (with Harold Reiter and James Rudzinski) Pilesize Dynamic One-pile Nim and Beatty's Theorem, <a href="vol4.html">Vol 4</a>
 

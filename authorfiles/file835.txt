@@ -1,5 +1,5 @@
 
-<li> Jobson, Adam
+<li> Jiu, Lin
 <ul>
-<li> (with Levi Sledd, Susan Calcote White, and D. Jacob Wildstrom) Variations on Narrow Dots-and-Boxes and Dots-and-Triangles, <a href="vol17.html">Vol 17</a>
+<li> (with Italo Simonelli and Heng Yue) Loop Decompositions of Random Walks and Nontrivial Identities of Bernoulli and Euler Polynomials, <a href="vol22.html">Vol 22</a>
 

@@ -1,5 +1,6 @@
 
-<li> Lefmann, Hanno 
+<li> Lee, Sunyoung
 <ul>
-<li> (with David S. Gunderson and Neil Hindman) Some Partition Theorems for Infinite and Finite Matrices, <a href="vol14.html">Vol 14</a>
+<li> (with Sylvie Corteel and Carla D. Savage)
+Five Guidelines for Partition Analysis with Applications to Lecture Hall-type Theorems, <a href="vol7-2.html">Vol 7(2)</a>
 

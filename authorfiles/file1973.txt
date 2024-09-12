@@ -1,6 +1,6 @@
 
-<li> Wei, Linli
+<li> Wei, Chuanan
 <ul>
-<li> (with Huixue Lao) The Mean Value of a Hybrid Arithmetic Function Associated to Fourier Coefficieints of Cusp Forms, <a href="vol19.html">Vol 19</a>
-<li> (with Aiyue Zou and Huixue Lao) Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions, <a href="vol22.html">Vol 22</a>
+<li> (with Dianxuan Gong) Euler's Pentagonal Number Theorem Implies the Jacobi Triple Product Identity, <a href="vol11.html">Vol 11</a>
+<li> (with Yi Wei and Chun Li) Some Summation and Transformation Formulas from Inversion Techniques, <a href="vol22.html">Vol 22</a>
 

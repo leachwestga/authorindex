@@ -1,5 +1,5 @@
 
-<li> Zhuang, Yan 
+<li> Zhu, Yuyang 
 <ul>
-<li> (with Anant Godbole, Samuel Gutekunst, and Vince Lyzinski) Logarithmic Representability of Integers as <i>k</i>-Sums, <a href="vol15a.html">Vol 15A</a>
+<li> (with Patrick Sol&eacute;) An Asymptotic Robin Inequality, <a href="vol16.html">Vol 16</a>
 

@@ -1,7 +1,5 @@
 
-<li> Thorne, Frank
+<li> Thompson, Lola
 <ul>
-<li> Maier Matrices Beyond <b><i>Z</i></b>,
-<a href="vol9supp.html">Volume 9 Supplement</a>
-<li> Four Perspectives on Secondary Terms in the Davenport-Heilbronn Theorems, <a href="vol12b.html">Vol 12B</a>
+<li> Heights of Divisors of <i>x<sup>n</sup>-1</i>, <a href="vol11a.html">Vol 11A</a>
 

@@ -1,5 +1,8 @@
 
-<li> King, Dylan 
+<li> King, Adam J. 
 <ul>
-<li> (with Sara Fish, Steven J. Miller, Eyvindur A. Palsson, and Catherine Wahlenmayer) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
+<li> (with Morgan V. Brown, Neil J. Calkin, Kevin James,
+Shannon Lockard, and Robert
+C Rhoades) Trivial Selmer Groups and Even Partitions of a Graph,
+<a href="vol6.html">Vol 6</a>
 

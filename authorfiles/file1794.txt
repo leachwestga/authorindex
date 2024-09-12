@@ -1,7 +1,11 @@
 
-<li> Swisher, Holly 
+<li> Sury, B.
 <ul>
-<li> (with Oleg Lazarev) A Combinatorial Proof of a Recursive Formula for Multipartitions, <a href="vol11.html">Vol 11</a>
-<li> (with Matthew S. Mizuhara and James A. Sellers) A Periodic Approach to Plane Partition Congruences, <a href="vol16.html">Vol 16</a>
-<li> (with Savana Ammons, Young Jin Kim, and Laura Seaberg) An Analogue of <i>k</i>-marked Durfee Symbols for Strongly Unimodal Sequences, <a href="vol21.html">Vol 21</a>
+<li> A Finite Ring Polynomial, <a href="vol4.html">Vol 4</a>
+<li> (with J. McLaughlin) Powers of a Matrix and Combinatorial Identities, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Ankit Gupta) Decimal Expansion of 1/p and Subgroup Sums, <a href="vol5.html">Vol 5(1)</a>
+<li> (with J. McLaughlin) Some Observations on Khovanskii's Matrix Methods
+for Extracting  Roots
+of Polynomials, <a href="vol7.html">Vol 7</a>
+<li> An Expression for the Legendre Symbol from a Product-Sum Formula, <a href="vol22.html">Vol 22</a>
 

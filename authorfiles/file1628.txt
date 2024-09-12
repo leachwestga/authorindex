@@ -1,5 +1,5 @@
 
-<li> Selfridge, John 
+<li> Seki, Shin-ichiro
 <ul>
-<li> (with Aaron Meyerowitz) The 392 Problem, <a href="vol12a.html">Vol 12A</a>
+<li> Regular Primes, Non-Wieferich Primes, and Finite Multiple Zeta Values of Level <i>N</i>, <a href="vol24.html">Vol 24</a>
 

@@ -1,5 +1,5 @@
 
-<li> Natalini, Pierpaolo
+<li> Naslund, Eric
 <ul>
-<li> (with Paolo Emilio Ricci) Hypergeometric Bernoulli Polynomials and <i>r</i>-Associated Stirling Numbers of the Second Kind, <a href="vol22.html">Vol 22</a>
+<li> The Average Largest Prime Factor, <a href="vol13.html">Vol 13</a>
 

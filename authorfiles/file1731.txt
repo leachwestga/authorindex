@@ -1,5 +1,5 @@
 
-<li> Spencer, Craig V. 
+<li> Spencer, Craig
 <ul>
-<li> (with Yogesh More) A Generalization of Schauz and Brink's Restricted-Variable Version of Chevalley's Theorem, <a href="vol17.html">Vol 17</a>
+<li class=fragment> (with Albert Cochrane and Todd Cochrane) Doubling Constant for  Subgroups of \(\mathbb Z_p^*\), <a href="vol23.html">Vol 23</a>
 

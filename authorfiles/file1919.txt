@@ -1,5 +1,5 @@
 
-<li> Volkert, Klaus 
+<li> Vo, Anh 
 <ul>
-<li> (with J&ouml;rn Steuding) A Diophantine Problem Related to a Nim-like Game, <a href="vol19.html">Vol 19</a>
+<li> (with Matthieu Dufour and Silvia Heubach) Circular Nim Games CN(7,4), <a href="vol21b.html">Vol 21b</a>
 

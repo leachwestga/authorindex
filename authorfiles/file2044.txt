@@ -1,5 +1,5 @@
 
-<li> Yu, Wen
+<li> Yu, Jing-Jun
 <ul>
-<li> (with Min Tang) A Note on Partitions of Natural Numbers and Their Representation Functions, <a href="vol12.html">Vol 12</a>
+<li> Some Congruences for Regular Partitions with Distinct Odd Parts, <a href="vol23.html">Vol 23</a>
 

@@ -1,6 +1,7 @@
 
-<li> Urroz, Jorge Jim&eacute;nez
+<li> Urick, Jim
 <ul>
-<li> (with Sukumar Das Adhikari and Chantal David) Generalizations
-of Some Zero-sum Theorems, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Darren A. Narayan)
+Representations of Split Graphs, Their Complements, Stars, and
+Hypercubes, <a href="vol7.html">Vol 7</a>
 

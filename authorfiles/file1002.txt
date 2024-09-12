@@ -1,7 +1,5 @@
 
-<li> Landman, Bruce
+<li> Lan, Bin
 <ul>
-<li> (with Clay Culver and Aaron Robertson) Some New Exact van der Waerden Numbers, <a href="vol5-2.html">Vol 5(2)</a>
-<li> (with Abdollah Khodkar) Recent Progress in Ramsey Theory on the Integers,
-<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with James A. Sellers) Properties of a Restricted Binary Partition Function a la Andrews and Lewis, <a href="vol15.html">Vol 15</a>
 

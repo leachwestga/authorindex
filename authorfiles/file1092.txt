@@ -1,5 +1,5 @@
 
-<li> Lohr, Andrew
+<li> Loftin, Anne Marie 
 <ul>
-<li> (with Doron Zeilberger) On The Limiting Distributions of the Total Height On Families of Trees, <a href="vol18.html">Vol 18</a>
+<li> (with Vajresh Balaji, Olivia Edwards, Solomon Mcharo, Alex Rice,  and Bineyam Tsegaye) Lattice Configurations Determining Few Distances, <a href="vol20.html">Vol 20</a>
 

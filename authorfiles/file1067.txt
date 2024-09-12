@@ -1,5 +1,5 @@
 
-<li> Liardet, Pierre 
+<li> Li, Zhonghua
 <ul>
-<li> (with Vladim&iacute;r Bal&aacute;&#382; and Oto Strauch) Distribution Functions of the Sequence <i>&phi;(M)/M, M &isin; (K,K+N]</i> As <i>K, N</i> Go to Infinity, <a href="vol10.html">Vol 10</a>
+<li> (with Lu Yan) The Reciprocals of Tails of the Alternating Riemann Zeta Function, <a href="vol23.html">Vol 23</a>
 

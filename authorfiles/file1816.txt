@@ -1,6 +1,5 @@
 
-<li> Tang, Hengcai 
+<li> Tang, Dazhao
 <ul>
-<li> (with Taiyu Li) On a Theorem of Prachar Involving Prime Powers, <a href="vol11.html">Vol 11</a>
-<li> (with Wen Yu) A Note on Partitions of Natural Numbers and Their Representation Functions, <a href="vol12.html">Vol 12</a>
+<li> Congruences for Overpartition Pairs and <i>5</i> Dots Bracelet Partitions Modulo <i>25</i>, <a href="vol20.html">Vol 20</a>
 

@@ -1,8 +1,7 @@
 
-<li> Sprugnoli, Renzo
+<li> Spivey, Michael Z.
 <ul>
-<li> (with Donatella Merlini) A Riordan Array Proof of a Curious Identity, <a href="vol5.html">Vol 5(1)</a>
-<li> (with Donatella Merlini and M. Cecilia Verri) The Akiyama-Tanigawa Transformation, <a href="vol5.html">Vol 5(1)</a>
-<li> Sums of Reciprocals of the Central Binomial Coefficients,
-<a href="vol6.html">Vol 6</a>
+<li> (with Natalio H. Guersenzvaig) Counting Functions and
+Finite Differences, <a href="vol7.html">Vol 7</a>
+<li> Cycles in War, <a href="vol10.html">Vol 10</a>
 

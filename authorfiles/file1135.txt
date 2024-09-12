@@ -1,5 +1,6 @@
 
-<li> Makino, Kazuhisa
+<li> Maitra, Subhamoy 
 <ul>
-<li> (with Endre Boros, Vladimir Gurvich, and Levi Kitrossky) On the Sprague-Grundy Function of Compound Games, <a href="vol23.html">Vol 23</a>
+<li> (with Pantelimon St&#259;nic&#259;, Santanu Sarkar, Sourav Sen Gupta, and Nirupam
+ Kar) Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
 

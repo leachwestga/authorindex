@@ -1,6 +1,5 @@
 
-<li class="fragment"> Kritschgau, J&uuml;rgen
+<li> Krawchuk, Colin
 <ul>
-<li> (with Adriana Salerno) Origami Constructions of Rings of Integers of Imaginary Quadratic Fields, <a href="vol17.html">Vol 17</a>
-<li> (with Erin Bevilacqua, Samuel King,  Michael Tait, Suzannah Tebon, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+<li> (with Narad Rampersad) Cyclic Complexity of Some Infinite Words and Generalizations, <a href="vol18a.html">Vol 18A</a>
 

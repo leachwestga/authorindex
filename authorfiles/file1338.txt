@@ -1,6 +1,5 @@
 
-<li> Oller-Marc&eacute;n, Antonio M.
+<li>Oliveira e Silva, Tom&aacute;s 
 <ul>
-<li> The Dying Rabbit Problem Revisited, <a href="vol9.html">Vol 9</a>
-<li> (with Jos&eacute; Mar&iacute;a Grau) On <i>k</i>-Lehmer Numbers, <a href="vol12.html">Vol 12</a>
+<li> (with Jonathan Bayless and Dominic Klyve) New Bounds and Computations on Prime-Indexed Primes, <a href="vol13.html">Vol 13</a>
 

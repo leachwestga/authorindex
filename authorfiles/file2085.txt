@@ -1,5 +1,5 @@
 
-<li> Zhu, Yuyang 
+<li> Zhu, Long 
 <ul>
-<li> (with Patrick Sol&eacute;) An Asymptotic Robin Inequality, <a href="vol16.html">Vol 16</a>
+<li> (with Weiyi Zhou) On <i>K</i>-Imperfect Numbers, <a href="vol9.html">Vol 9</a>
 

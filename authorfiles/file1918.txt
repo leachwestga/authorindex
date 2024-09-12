@@ -1,5 +1,5 @@
 
-<li> Vo, Anh 
+<li> Viswanadham, G. K.
 <ul>
-<li> (with Matthieu Dufour and Silvia Heubach) Circular Nim Games CN(7,4), <a href="vol21b.html">Vol 21b</a>
+<li> (with R. Thangadurai) On  the Prime <I>k</I>-tuple Conjecture, <a href="vol14.html">Vol 14</a>
 

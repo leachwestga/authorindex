@@ -1,5 +1,5 @@
 
-<li> Serbenyuk, Symon
+<li> Seraj, Samer
 <ul>
-<li> Representation of Real Numbers by the Alternating Cantor Series, <a href="vol17.html">Vol 17</a>
+<li> Resolution of Mathar's Conjectures on Counting Power Residues, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,5 @@
 
-<li> Reddy, A. Satyanarayana
+<li> Rechkin, Rebecca 
 <ul>
-<li> (with Ayush Bohra) Permanents of 3 x 3 Invertible Matrices Modulo <i>n</i>, <a href="vol22.html">Vol 22</a>
+<li> (with Matthew Guhl, Jazmine Juarez, Vadim Ponomarenko,  and Deepesh Singhal) Complementary Numerical Sets, <a href="vol22.html">Vol 22</a>
 

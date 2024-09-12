@@ -1,5 +1,5 @@
 
-<li> Wei, Yi 
+<li> Wei, Wandi 
 <ul>
-<li> (with Chuanan Wei and Chun Li) Some Summation and Transformation Formulas from Inversion Techniques, <a href="vol22.html">Vol 22</a>
+<li> (with John M. Freeman and Tomas Schonbek) On the Tennis Ball Problem, <a href="vol11.html">Vol 11</a>
 

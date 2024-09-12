@@ -1,5 +1,6 @@
 
-li> Santiago-Calder&oacute;n, Carlos F.
+<li> Sanna, Carlo
 <ul>
-<li> (with Axel O. G&oacute;mez-Flores, Luis A. Medina, and Luisiany Pomales) Recurrences in Terms of Special Polynomials for Exponential Sums of Elementary Symmetric Polynomials over Finite Fields, <a href="vol23.html">Vol 23</a>
+<li> On the Exponential Sum With the Sum of Digits of Hereditary Base <i>b</i> Notation, <a href="vol14.html">Vol 14</a>
+<li> Pairwise Modular Multiplicative Inverses and Fibonacci Numbers, <a href="vol23.html">Vol 23</a>
 

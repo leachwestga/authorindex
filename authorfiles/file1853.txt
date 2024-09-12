@@ -1,5 +1,5 @@
 
-<li> Tomasko, Jessica A. 
+<li> Tollisen, Gregory
 <ul>
-<li> (with Juan B. Gil) Fibonacci Colored Compositions and Applications, <a href="vol21.html">Vol 21</a>
+<li> (with Tamas Lengyel) A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients, <a href="vol4.html">Vol 4</a>
 

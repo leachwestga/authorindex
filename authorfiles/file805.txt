@@ -1,5 +1,5 @@
 
-<li> Inaba, Youichi
+<li> Imbert, Laurent 
 <ul>
-<li> (with Atsushi Yamagami) On a Formula and Some Properties of Carmichael Indices, <a href="vol24.html">Vol 24</a>
+<li> (with Filippo Disanto and Fabrice Philippe) On the Maximal Weight of <i>(P,Q)</i>-ary Chain Partitions With Bounded Parts, <a href="vol14.html">Vol 14</a>
 

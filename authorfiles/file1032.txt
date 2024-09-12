@@ -1,5 +1,5 @@
 
-<li> Leonessi, Davide
+<li> Lentfer, John
 <ul>
-<li> (with Joel David Hamkins) Infinite Hex Is a Draw, <a href="vol23.html">Vol 23</a>
+<li> (with Arthur T. Benjamin) A Tiling Interpretation of a Generalized Zeckendorf's Theorem, <a href="vol22.html">Vol 22</a>
 

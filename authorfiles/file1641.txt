@@ -1,6 +1,5 @@
 
-<li> Setyadi, Alison
+<li> Sertba&#351;, Do&#287;a Can 
 <ul>
-<li> Distance in the Affince Buildings of <i>SL<sub>n</sub></i> and
-<i>Sp<sub>n</sub></i>, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Emre Alkan and Haydar G&ouml;ral) Hyperharmonic Numbers Can Rarely Be Integers, <a href="vol18.html">Vol 18</a>
 

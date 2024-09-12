@@ -1,5 +1,5 @@
 
-<li> Kook, Woong
+<li> Konyagin, Sergei V.
 <ul>
-<li> On the Product of Log-Concave Polynomials, <a href="vol6.html">Vol 6</a>
+<li> (with Vsevelod F. Lev) On the Distribution of Exponential Sums, <a href="vol0.html">Vol 0</a>
 

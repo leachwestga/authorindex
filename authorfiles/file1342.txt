@@ -1,6 +1,6 @@
 
-<li> O'Neill, Christopher 
+<li> &Ouml;m&uuml;r, Ne&#x15F;e
 <ul>
-<li> (with Jacob Hartzer) On the Periodicity of Irreducible Elements  in Arithmetical Congruence Monoids, <a href="vol17.html">Vol 17</a>
-<li> (with Jeske Glenn, Vadim Ponomarenko, and Benjamin Sepanski) Augmented Hilbert Series of Numerical Semigroups, <a href="vol19.html">Vol 19</a>
+<li> (with Laid Elkhiri and Sibel Koparal) A <i>q</i>-Analogue of Granville's Congruence, <a href="vol22.html">Vol 22</a>
+<li> (with &Ouml;mer Duran and Sibel Koparal) Generalized Degenerate Harmonic Numbers and Their Applications with Riordan Arrays, <a href="vol24.html">Vol 24</a>
 

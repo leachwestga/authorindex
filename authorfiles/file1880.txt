@@ -1,5 +1,5 @@
 
-<li> Tung, Katherine 
+<li> Tucker, Amanda 
 <ul>
-<li> (with Jesse Geneson and Peter Tian) Formations and Generalized Davenport-Schinzel Sequences, <a href="vol22.html">Vol 22</a>
+<li> (with Marcus Elia) Consecutive Integers and the Collatz Conjecture, <a href="vol15.html">Vol 15</a>
 

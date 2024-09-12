@@ -1,5 +1,5 @@
 
-<li> Souza, Victor
+<li> Sorli, Ronald 
 <ul>
-<li> (with Noah Lebowitz-Lockard) A Note on the Number of Egyptian Fractions, <a href="vol23.html">Vol 23</a>
+<li> (with Graeme L. Cohen) On Odd Perfect Numbers and Even 3-Perfect Numbers, <a href="vol12a.html">Vol 12A</a>
 

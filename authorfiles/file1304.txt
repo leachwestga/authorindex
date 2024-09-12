@@ -1,5 +1,8 @@
 
-<li> Neuhauser, Markus 
+<li> Neto, Jo&atilde;o Pedro
 <ul>
-<li> (with Bernhard Heim) Polynomials Related to Powers of the Dedekind Eta Function, <a href="vol18.html">Vol 18</a>
+<li> (with Alda Carvalho, Carlos P. Santos, C&aacute;tia Lente Dias,
+ Francisco Coelho,
+ and Sandra Vinagre) A Recursive Process Related to a Partizan Vari
+ation of Wythoff, <a href="vol12.html">Vol 12</a>
 

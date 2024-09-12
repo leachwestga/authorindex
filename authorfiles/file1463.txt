@@ -1,6 +1,5 @@
 
-<li> Pritikin, Dan 
+<li> Prikhod'ko, Alexander 
 <ul>
-<li> (with Reza Akhtar and Anthony B. Evans) Representation Numbers of Stars, <a hre
-f="vol10.html">Vol 10</a>
+<li> (with Jordan Emme) On the Asymptotic Behavior of Density of Sets Defined by Sum-of-digits Function in Base 2, <a href="vol17.html">Vol 17</a>
 

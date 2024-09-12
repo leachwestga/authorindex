@@ -1,5 +1,6 @@
 
-<li> Nakano, Fumihiko
+<li> Nakamura, Shunsuke
 <ul>
-<li> (with Taizo Sadahiro) A &beta;-Expansion Associated to Sturmian Sequences, <a href="vol12.html">Vol 12</a>
+<li> (with Ryohei Miyadera) Impartial Chocolate Bar Games, <a href="vol15.html">Vol 15</a>
+<li> (with Ryohei Miyadera and Yushi Nakaya) Grundy Numbers of Impartial Chocolate Bar Games, <a href="vol20.html">Vol 20</a>
 

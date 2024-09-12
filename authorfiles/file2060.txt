@@ -1,5 +1,7 @@
 
-<li> Zeng, Tony 
+<li> Zeng, Jiang
 <ul>
-<li> (with Pat Devlin) Maximum Distances in the Four-digit Kaprekar Process, <a href="vol21.html">Vol 21</a>
+<li>The Akiyama-Tanigawa Algorithm for
+Carlitz's <em>q</em>-Bernoulli Numbers,
+<a href="vol6.html">Vol 6</a>
 

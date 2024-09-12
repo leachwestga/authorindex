@@ -1,5 +1,5 @@
 
-<li> Plick, Thomas A.
+<li> Pleasant, Kendra 
 <ul>
-<li> A New Constraint on Perfect Cuboids, <a href="vol17.html">Vol 17</a>
+<li> (with Neil Hindman) Preserving Integer Images of Matrices, <a href="vol18b.html">Vol 18B</a>
 

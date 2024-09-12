@@ -1,6 +1,11 @@
 
-<li> Thiel, Johann
+<li> Thangadurai, R.
 <ul>
-<li> On RATS Sequences in General Bases, <a href="vol14.html">Vol 14</a>
-<li> (with Sandie Han, Ariane M. Masuda, and Satyanand Singh) Maximal Entries of Elements in Certain Matrix Monoids, <a href="vol20.html">Vol 20</a>
+<li> Non-canonical Extensions of Erdos-Ginzburg-Ziv Theorem, <a href="vol2.html">Vol 2</a>
+<li> (with W. D. Gao, Q. H. Hou, and W. A. Schmid)
+On Short Zero-Sum Subsequences II, <a href="vol7.html"> Vol 7</a>
+<li> (with G. K. Viswanadham) On  the Prime <I>k</I>-tuple Conjecture, <a href="vol14.html">Vol 14</a>
+<li> (with M. N. Chintamani and Prabal Paul) On Short Zero-sum Sequences Over Abelian p-groups, <a href="vol17.html">Vol 17</a>
+<li> (with J-M. Deshouillers) A Sufficient Condition for (&theta;<sup>n</sup>)<sub>n</sub> to Have a Distribution Modulo One, When &theta; is in F<sub>2</sub>(<i>X</i>), <a href="vol18a.html">Vol 18A</a>
+<li> (with S. S. Rout) On &#x2113;-th Order Gap Balancing Numbers, <a href="vol18.html">Vol 18</a>
 

@@ -1,6 +1,5 @@
 
-<li> Wang, Linlin 
+<li> Wang, Jun
 <ul>
-<li> (with Weidong Gao) The Maximal Cross Number of Unique Factorization Zero-sum Sequences Over A Finite Abelian Group, <a href="vol12.html">Vol 12</a>
-<li> (with Yushuang Fan, Weidong Gao, Jiangtao Peng, and Qinghai Zhong) Remarks on Tiny Zero-Sum Sequences, <a href="vol13.html">Vol 13</a>
+<li> (with Zhizheng Zhang) A Common Generalization of Some Identities, <a href="vol5.html">Vol 5(1)</a>
 

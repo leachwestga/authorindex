@@ -1,5 +1,6 @@
 
-<li> Saikia, P.K. 
+<li> Saikia, Nipen
 <ul>
-<li> (with S. Khongsit) A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>, <a href="vol16.html">Vol 16</a>
+<li> (with Shraddha Rajkhowa) Theta-Function Identities, Explicit Values for Ramanujan's Continued Fractions of Order Sixteen and Applications to Partition Theory, <a href="vol23.html">Vol 23</a>
+<li> (with Rinchin Drema) Arithmetic Properties For Overpartition Triples with Odd Parts, <a href="vol23.html">Vol 23</a>
 

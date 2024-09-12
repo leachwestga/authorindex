@@ -1,5 +1,5 @@
 
-<li> McCarthy, Dermot
+<li> McAnally, Nathan 
 <ul>
-<li> Binomial Coefficient-Harmonic Sum Identities Associated to Supercongruences, <a href="vol11.html">Vol 11</a>
+<li> (with Rigoberto Fl&oacute;rez and Antara Mukherjee) Identities for the Generalized Fibonacci Polynomial, <a href="vol18b.html">Vol 18B</a>
 

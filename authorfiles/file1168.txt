@@ -1,6 +1,5 @@
 
-<li> Mattarei, Sandro
+<li> Matsuki, Norichika
 <ul>
-<li> On a Special Congruence of Carlitz,
-<a href="vol6.html">Vol 6</a>
+<li> On the Number of Solutions of a Diophantine Equation Over a Finite Field, <a href="vol16.html">Vol 16</a>
 

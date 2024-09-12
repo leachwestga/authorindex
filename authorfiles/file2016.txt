@@ -1,5 +1,5 @@
 
-<li> Yamaguchi, Naoya
+<li> Yamagami, Atsushi
 <ul>
-<li class=fragment> (with Yuka Yamaguchi) Integer Group Determinants for \(\mathrm{C}_{4}^{2}\), <a href="vol24.html">Vol 24</a>
+<li> (with Youichi Inaba) On a Formula and Some Properties of Carmichael Indices, <a href="vol24.html">Vol 24</a>
 

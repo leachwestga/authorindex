@@ -1,6 +1,6 @@
 
-<li> Ushiroya, Noboru
+<li> Urroz, Jorge Jim&eacute;nez
 <ul>
-<li> Mean-Value Theorems for Multiplicative Arithmetic Functions of Several Variables, <a href="vol12.html">Vol 12</a>
-<li> Shifted Convolution Sums of Arithmetic Functions of Two Variables and Ramanujan Expansions, <a href="vol21.html">Vol 21</a>
+<li> (with Sukumar Das Adhikari and Chantal David) Generalizations
+of Some Zero-sum Theorems, <a href="vol8.html">Vol 8(1)</a>
 

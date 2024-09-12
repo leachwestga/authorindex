@@ -1,5 +1,5 @@
 
-<li> Sorli, Ronald 
+<li> Sorenson, Jonathan P.
 <ul>
-<li> (with Graeme L. Cohen) On Odd Perfect Numbers and Even 3-Perfect Numbers, <a href="vol12a.html">Vol 12A</a>
+<li> (with Cathal O’Sullivan and Aryn Stahl) Algorithms and Bounds on the Sums of Powers of Consecutive Primes, <a href="vol24.html">Vol 24</a>
 

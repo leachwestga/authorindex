@@ -1,7 +1,5 @@
 
-<li> Stein, Alan H.
+<li> Stack, Jason 
 <ul>
-<li> (with Dennis Eichhorn, Mizan R. Khan, and Christian L. Yankov
-Sums and Differences of the Coordinates of Points on Modular Hyperbolas,
-<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Jeffrey Hatley) Two Infinite Families of Elliptic Curves with Rank Greater than One, <a href="vol22.html">Vol 22</a>
 

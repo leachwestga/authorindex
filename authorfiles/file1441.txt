@@ -1,5 +1,5 @@
 
-<li> Pleasant, Kendra 
+<li> Platt, David John 
 <ul>
-<li> (with Neil Hindman) Preserving Integer Images of Matrices, <a href="vol18b.html">Vol 18B</a>
+<li> (with Thomas Morrill) Robin's Inequality for 20-free Integers, <a href="vol21.html">Vol 21</a>
 

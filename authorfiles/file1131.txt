@@ -1,5 +1,5 @@
 
-<li> Maharaj, Hiren 
+<li> Magness, Elsa
 <ul>
-<li> (with Jeong-Hyun Kang) Distance Graphs From <i>p</i>-Adic Norms, <a href="vol10.html">Vol 10</a>
+<li> (with Brian Nugent and Leanne Robertson) Walking to Infinity Along Gaussian Lines, <a href="vol21.html">Vol 21</a>
 

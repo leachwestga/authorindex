@@ -1,6 +1,6 @@
 
-<li> Loomis, Paul
+<li> L&oacute;pez, Josefina
 <ul>
-<li> (with Florian Luca) On Totient Abundant Numbers,
-<a hrev="vol8.html">Vol 8(1)</a>
+<li> (with Peter Stoll) The <i>3x+1</i> Conjugacy Map Over a Sturmian Word, <a href="vol9.html">Vol 9</a>
+<li> (with Peter Stoll) The 2-Adic, Binary and Decimal Periods of <i>1/3<sup>k</sup></i> Approach Full Complexity for Increasing <i>k</i>, <a href="vol12.html">Vol 12</a>
 

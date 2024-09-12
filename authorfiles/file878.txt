@@ -1,5 +1,5 @@
 
-<li> Kariv, Jonathan 
+<li> Karaivanov, Borislav
 <ul>
-<li> (with Joe Buhler, Chris Freiling, Ron Graham,  James R. Roche, Mark Tiefenbruck, Clint Van Alten, and Dmytro Yeroshkin) On Levine's Notorious Hat Puzzle, <a href="vol21A.html">Vol 21A</a>
+<li> (with Tzvetalin S. Vassilev) On Certain Sums Involving the Legendre Symbol, <a href="vol16.html">Vol 16</a>
 

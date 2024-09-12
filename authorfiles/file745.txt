@@ -1,7 +1,5 @@
 
-<li> Hern&aacute;ndez, Santos Hern&aacute;ndez
+<li> Hermida, A. 
 <ul>
- <li> (with Florian Luca) A Note on Deaconescu's Result
-Converning Lehmer's Problem, <a href="vol8.html">Vol 8(1)</a>
-<li> (with Ana Cecilia Garc&iacute;a Lomel&iacute;) Powers of Two as Sums of Two Padovan Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with A. Suki Dasher and Tian An Wong) The Three Gap Theorem and Periodic Functions, <a href="vol22.html">Vol 22</a>
 

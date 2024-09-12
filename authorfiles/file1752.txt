@@ -1,5 +1,5 @@
 
-<li> Stanton, Caitlin
+<li> Stankewicz, James
 <ul>
-<li> Packing Polynomials on Sectors of R<sup>2</sup>, <a href="vol14.html">Vol 14</a>
+<li> (with Jeffrey Shallit) Unbounded Discrepancy in Frobenius Numbers, <a href="vol11.html">Vol 11</a>
 

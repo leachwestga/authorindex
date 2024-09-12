@@ -1,5 +1,9 @@
 
-<li> Hsu, Leetsch C.
+<li> Hou, Qing-Hu
 <ul>
-<li> (with Xin-Rong Ma) Some Combinatorial Series and Reciprocal Relations Involving Multifold Convolutions, <a href="vol14.html">Vol 14</a>
+<li> (with W. D. Gao, W. A. Schmid, and R. Thangadurai)
+On Short Zero-Sum Subsequences II, <a href="vol7.html"> Vol 7</a>
+<li> (with Toufik Mansour and Simone Severini)
+Partial Transposes of Permutation Matrices,
+<a href="vol8.html">Vol 8(1)</a>
 

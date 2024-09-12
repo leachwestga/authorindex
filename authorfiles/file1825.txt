@@ -1,5 +1,5 @@
 
-<li class="fragment"> Tebon, Suzannah 
+<li class="fragment"> Tchammou, Euloge 
 <ul>
-<li> (with Erin Bevilacqua, Samuel King, J&uuml;rgen Kritschgau, Michael Tait, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+<li> (with Souleymane Nansoko and A. Togb&eacute;) The Diophantine Equation \(\sum_{j=1}^{k}jF_j^p=L_n^q\), <a href="vol22.html">Vol 22</a>
 

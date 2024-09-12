@@ -1,5 +1,5 @@
 
-<li> Linz, William
+<li> Lin, Ying-Jie
 <ul>
-<li> (with Edna Jones) <i>r</i>-Completeness of Sequences of Positive Integers, <a href="vol16.html">Vol 16</a>
+<li> A Note on the <i>q</i>-Binomial Rational Root Theorem, <a href="vol9.html">Vol 9</a>
 

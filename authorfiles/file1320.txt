@@ -1,5 +1,7 @@
 
-<li> Normenyo, Benedict Vasco
+<li> Noll, Jenna
 <ul>
-<li> (with Bir Kafle and Alain Togb&eacute;) Repdigits as Sums of Two Fibonacci Numbers and Two Lucas Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Benjamin Braun, Robert Davis, Jessica Doering, Ashley Harrison, and Clifford
+Taylor) Compositions Constrained by Graph Laplacian Minors, <a href="vol13.h
+tml">Vol 13</a>
 

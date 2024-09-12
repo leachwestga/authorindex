@@ -1,5 +1,5 @@
 
-<li> Larsen, Bayley
+<li> Lapointe, M&eacute;lodie
 <ul>
-<li> (with Hunter Lehmann, Andrew Park, and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
+<li> (with Christophe Reutenauer) On the Frobenius Conjecture, <a href="vol21.html">Vol 21</a>
 

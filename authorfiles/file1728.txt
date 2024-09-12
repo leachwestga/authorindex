@@ -1,5 +1,5 @@
 
-<li> Spearman, Blair K. 
+<li> Souza, Victor
 <ul>
-<li> (with Lindsey Reinholz and Qiduan Yang) On Congruent Numbers With Three Prime Factors, <a href="vol11.html">Vol 11</a>
+<li> (with Noah Lebowitz-Lockard) A Note on the Number of Egyptian Fractions, <a href="vol23.html">Vol 23</a>
 

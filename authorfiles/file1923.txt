@@ -1,5 +1,5 @@
- 
-<li> Vu, V. H.
+
+<li> Voss, K. 
 <ul>
-<li> High Order Complementary Bases of Primes, <a href="vol2.html">Vol 2</a>
+<li> (with C. Augspurger,  M. Minter, K. Shoukry, and P. Sissokho) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
 

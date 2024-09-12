@@ -1,5 +1,5 @@
 
-<li> Yan, Lu
+<li> Catherine Yan 
 <ul>
-<li> (with Zhonghua Li) The Reciprocals of Tails of the Alternating Riemann Zeta Function, <a href="vol23.html">Vol 23</a>
+<li> (with Ayomikun Adeniran and Lauren Snider) Multivariate Difference Gon&ccaron;arov Polynomials, <a href="vol21A.html">Vol 21A</a>
 

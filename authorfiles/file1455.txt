@@ -1,5 +1,5 @@
 
-<li> Prakash, Gyan 
+<li> Ponton, Lionel
 <ul>
-<li> (with Jean-Marc Deshouillers) Large Zero-Free Subsets of <i>Z/pZ</i>, <a href="vol11a.html">Vol 11A</a>
+<li> Two Trees Enumerating the Positive Rationals, <a href="vol18a.html">Vol 18A</a>
 

@@ -1,5 +1,10 @@
 
-<li> Horrocks, Jonathan H. 
+<li> Horrocks, David G. C.
 <ul>
-<li> (with David G. C. Horrocks) Sprague-Grundy Values of Modular Nim, <a href="vol19.html">Vol 19</a>
+<li> (with R. J. Nowakowski) Regularity in the G-Sequences of Octal Games with a Pass, <a href="vol3.html">Vol 3</a>
+<li> (with M. S. Hogan) Geography Played on an N-cycle Times a 4-cycle, <a href="vol3.html">Vol 3</a>
+<li> (with M. A. Trenton) Subtraction with a Muller Twist,
+<a href="vol8.html">Vol 8(1)</a>
+<li> Playing End-Nim with a Muller Twist, <a href="vol17.html">Vol 17</a>
+<li> (with Jonathan H. Horrocks) Sprague-Grundy Values of Modular Nim, <a href="vol19.html">Vol 19</a>
 

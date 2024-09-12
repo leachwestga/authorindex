@@ -1,5 +1,5 @@
 
-<li> McKay, Ghislain 
+<li> McIntosh, Richard J.
 <ul>
-<li> (with Kevin G. Har) Some Properties of Even Moments of Uniform Random Walks, <a href="vol16.html">Vol 16</a>
+<li> Carmichael Numbers with <i>(p+1) | (n-1)</i>, <a href="vol14.html">Vol 14</a>
 

@@ -1,5 +1,6 @@
 
-<li> R&oslash;dseth, &Oslash;ystein J.
+<li> Roche-Newton, Oliver
 <ul>
-<li> (with Michael D.Hirschhorn and James A. Sellers) Infinite Families of Divisibility Properties Modulo 4 For Non-Squashing Partitions Into Distinct Parts, <a href="vol9.html">Vol 9</a>
+<li> (with Ilya D. Shkredov and Arne Winterhof) Packing Sets over Finite Abelian Groups, <a href="vol18.html">Vol 18</a>
+<li> (with Bhowmick and Miriam Patry) Local Differences Determined by Convex Sets, <a href="vol23.html">Vol 23</a>
 

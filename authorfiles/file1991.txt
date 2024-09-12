@@ -1,5 +1,5 @@
 
-<li> Winkler, Peter 
+<li> Wilson, Bryan
 <ul>
-<li> (with Agelos Georgakopoulos) Two-Color Babylon, <a href="vol12.html">Vol 12</a>
+<li> (with Arie Bialostocki) On Monochromatic Sets of Integers Whose Diameters Form a Monotone Sequence, <a href="vol9.html">Vol 9</a>
 

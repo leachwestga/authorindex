@@ -1,7 +1,5 @@
 
-<li> Rath, Purusottam 
+<li> Rasmussen, Peter Michael Reichstein 
 <ul>
-<li> (with Sukumar Das Adhikari)  Davenport Constant
-with Weights and Some Related Questions,
-<a href="vol6.html">Vol 6</a>
+<li> (withSebastian Tim Holdum and  Frederik Ravn Klausen ) Powers in Prime Bases and a Problem on Central Binomial Coefficients, <a href="vol15.html">Vol 15</a>
 

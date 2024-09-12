@@ -1,5 +1,5 @@
 
-<li> Tagami, Makoto
+<li> Tada, Masato
 <ul>
-<li> (with Arseniy Akopyan) On the Number of Points in a Lattice Polytope, <a href="vol11.html">Vol 11</a>
+<li> (with Tomoaki Abuku) A Multiple Hook Removing Game Whose Starting Position is a Rectangular Young Diagram with Unimodal Numbering, <a href="vol23.html">Vol 23</a>
 

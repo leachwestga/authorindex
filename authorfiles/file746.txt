@@ -1,5 +1,7 @@
 
-<li> Hertlein, Alexander
+<li> Hern&aacute;ndez, Santos Hern&aacute;ndez
 <ul>
-<li> Robin's Inequality for New Families of Integers, <a href="vol18.html">Vol 18</a>
+ <li> (with Florian Luca) A Note on Deaconescu's Result
+Converning Lehmer's Problem, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Ana Cecilia Garc&iacute;a Lomel&iacute;) Powers of Two as Sums of Two Padovan Numbers, <a href="vol18.html">Vol 18</a>
 

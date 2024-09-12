@@ -1,5 +1,7 @@
 
-<li> Thompson, Kimberly 
+<li> Thompson, Katherine
 <ul>
-<li> (with Mark Budden, Nicole Calkins, William Nathan Hack, and Joshua Lambert) Enumeration of Triangles in Quartic Residue Graphs, <a href="vol11.html">Vol 11</a>
+<li> (with Pete L. Clark, Jacob Hicks, and Nathan Walters) GoNII: Universal Quaternary Quadratic Forms, <a href="vol12.html">Vol 12</a>
+<li> (with Pete L. Clark,  Jacob Hicks, and  Hans Parshall) GoNI: Primes Represented by Binary Quadratic Forms, <a href="vol13.html">Vol 13</a>
+<li> (with Jacob Hicks) GoNIII: More Universal Quaternary Quadratic Forms, <a href="vol16.html">Vol 16</a>
 

@@ -1,6 +1,5 @@
 
-<li> Plankis, Tomas
+<li> Planat, Michel 
 <ul>
-<li> (with Art&#363;ras Dubickas) Periodicity of Some Recurrence
-Sequences Modulo <i>m</i>, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Patrick Sol&eacute;) The Robin Inequality for <i>7</i>-Free Integers, <a href="vol11.html">Vol 11</a>
 

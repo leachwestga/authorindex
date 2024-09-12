@@ -1,5 +1,5 @@
 
-<li> Sander, T.
+<li> Sander, J.W.
 <ul>
-<li> (with J.W. Sander) On the Kernel of the Coprime Graph of Integers, <a href="vol9.html">Vol 9</a>
+<li> (with T. Sander) On the Kernel of the Coprime Graph of Integers, <a href="vol9.html">Vol 9</a>
 

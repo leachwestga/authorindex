@@ -1,5 +1,9 @@
 
-<li> Richomme, Gwen&auml;el 
+<li> Richmond, Bruce
 <ul>
-<li> (with Julien Leroy) A Combinatorial Proof of <i><b>S</b></i>-adicity for Sequences with Linear Complexity, <a href="vol13.html">Vol 13</a>
+<li> (with Graeme Kemkes and Donatella Merlini) Maximum Stirling
+Numbers of the Second Kind, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Zhicheng Gao,  Conrado Martinez, and Daniel Panario)
+The <i>r<sup>th</sup></i> Smallest Part Size of a Random Integer Partition,
+<a href="vol14a.html">Vol 14A</a>
 

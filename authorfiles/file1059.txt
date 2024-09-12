@@ -1,8 +1,5 @@
 
-<li> Li, Xian-Jin
+<li> Li, Ting Hon Stanford 
 <ul>
-<li> An Explicit Formula for Hecke <i>L</i>-functions,
-<a href="vol8-2.html">Vol 8(2)</a>
-<li> On the Euler Product of Some Zeta Functions,
-<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Sai Teja Somu and Andrzej Kukla) On Some Results on Practical Numbers, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,5 @@
 
-<li> Nicholson, John W. 
+<li> Nguyen, Hoi H.
 <ul>
-<li> (with Anitha Srinivasan) An Improved Upper Bound for Ramanujan Primes, <a href="vol15.html">Vol 15</a>
+<li> On Two-point Configurations in a Random Set, <a href="vol9.html">Vol 9</a>
 

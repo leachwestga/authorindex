@@ -1,5 +1,7 @@
 
-<li> Sander, J.W.
+<li> Samidoost, Payam
 <ul>
-<li> (with T. Sander) On the Kernel of the Coprime Graph of Integers, <a href="vol9.html">Vol 9</a>
+<li> (with Louis Helm, Phil Moore, and George Woltman)
+Resolution of the Mixed Sierpi&#324;ski Problem,
+<a href="vol8.html">Vol 8(1)</a>
 

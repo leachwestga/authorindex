@@ -1,5 +1,6 @@
 
-<li> Rudzinski, James
+<li> Rudnev, M.
 <ul>
-<li> (with Arthur Holshouser and Harold Reiter) Pilesize Dynamic One-pile Nim and Beatty's Theorem, <a href="vol4.html">Vol 4</a>
+<li> (with A. Iosevich) Powder Diffraction from a Combinatorial
+and Analytic Viewpoint, <a href="vol8-2.html">Vol 8(2)</a>
 

@@ -1,5 +1,6 @@
 
-<li> Sahay, Anurag 
+<li> Sahasrabudhe, Julian
 <ul>
-<li> (with Alex McDonald, Brian McDonald, and Jonathan Passant) Distinct Distances From Points on a Circle to a Generic Set, <a href="vol21.html">Vol 21</a>
+<li> (with Hayri Ardal, Tom Brown, and Veselin Jungi&#263;) On Abelian and Additive Complexity in Infinite Words, <a href="vol12.html">Vol 12</a>
+<li> Sturmian Words and Constant Additive Complexity, <a href="vol15.html">Vol 15</a>
 

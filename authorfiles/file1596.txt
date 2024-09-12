@@ -1,6 +1,7 @@
 
-<li> Sato, Hirotaka
+<li> Sastry, K.R.S.  
 <ul>
-<li> On a Relation Between the Riemann Zeta Function and
-the Stirling Numbers, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Paul Yiu and Shanzhen Gao)
+Heron Sequences and Their Modifications,
+<a href="vol9supp.html">Volume 9 Supplement</a>
 

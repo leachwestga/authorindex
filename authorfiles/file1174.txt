@@ -1,5 +1,5 @@
 
-<li> Mayers, Nicholas W.
+<li> Mauro, David W.
 <ul>
-<li> Periodicity and the Index of Integer Partitions, <a href="vol23.html">Vol 23</a>
+<li> (with John P. Georges and Yan Wang) Relating Fibonacci Numbers to the Infinitudes of Certain Primes, <a href="vol23.html">Vol 23</a>
 

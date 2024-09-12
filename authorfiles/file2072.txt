@@ -1,7 +1,6 @@
 
-<li> Zhao, Feng-Zhen
+<li> Zhao, Alina F. Y.
 <ul>
-<li> (with Tianming Wang) Some Results for Sums of the Inverses of Binomial Coefficients, <a href="vol5.html">Vol 5(1)</a>
-<li> (with Cong-Jiao Feng) Some Results for Generalized Harmonic Numbers, <a href="vol9.html">Vol 9</a>
-<li> The Monotonicity of Some Sequences Related to Hyperharmonic Numbers, <a href="vol17.html">Vol 17</a>
+<li> A Combinatorial Proof of Two Equivalent Identities by Free 2-Motzkin Paths, <a href="vol13.html">Vol 13</a>
+<li> (with Teresa X.S. Li) Weighted Free Lattice Paths and Legendre Polynomials, <a href="vol22.html">Vol 22</a>
 

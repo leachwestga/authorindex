@@ -1,8 +1,10 @@
 
-<li> Matveev, Andrey O.
+<li> Matthews, Gretchen L.
 <ul>
-<li> A Note on Boolean Lattices and Farey Sequences,
-<a href="vol7.html">Vol 7</a>
-<li> A Note on Boolean Lattices and Farey Sequences II,
-<a href="vol8.html">Vol 8(1)</a>
+<li> On the Integers Nonrepresentable by a Generalized Arithmetic Progression, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Rhett S. Robinson) 
+A Variant of the Frobenius Problem and Generalized Suzuki Semigroups,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> Frobenius Numbers of Generalized Fibonacci Semigroups,
+<a href="vol9supp.html">Volume 9 Supplement</a>
 

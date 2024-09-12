@@ -1,6 +1,5 @@
 
-<li> Zhao, Alina F. Y.
+<li> Zhang, Zhongfeng
 <ul>
-<li> A Combinatorial Proof of Two Equivalent Identities by Free 2-Motzkin Paths, <a href="vol13.html">Vol 13</a>
-<li> (with Teresa X.S. Li) Weighted Free Lattice Paths and Legendre Polynomials, <a href="vol22.html">Vol 22</a>
+<li> (with Pingzhi Yuan) A Note on a Conjecture of Erd&#337;s, Graham, and Spencer, <a href="vol13.html">Vol 13</a>
 

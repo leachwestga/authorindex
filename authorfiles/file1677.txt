@@ -1,5 +1,8 @@
 
-<li> Siktar, Joshua M. 
+<li> Siegel, Anne
 <ul>
-<li> (with Vedant Bonde) On the Combinatorics of Placing Balls into Ordered Bins, <a href="vol21.html">Vol 21</a>
+<li> (with Val&eacute;rie Berth&eacute;) Tilings Associated with Beta-numeration and Substitutions, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with R. J. Nowakowski)
+Partizan Geography on <i>K<sub>n</sub></i> x <i>K<sub>2</sub></i>,
+<a href="vol7-2.html">Vol 7(2)</a>
 

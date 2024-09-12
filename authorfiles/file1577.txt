@@ -1,5 +1,5 @@
 
-<li> Sakai, Yuho
+<li> Saikia, P.K. 
 <ul>
-<li> (with Miho Aoki) On  Divisibility of Generalized Fibonacci Numbers, <a href="vol15.html">Vol 15</a>
+<li> (with S. Khongsit) A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>, <a href="vol16.html">Vol 16</a>
 

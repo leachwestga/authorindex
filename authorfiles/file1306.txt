@@ -1,5 +1,8 @@
 
-<li> Newman, David 
+<li> Nevans, C. Wesley
 <ul>
-<li> (with George E. Andrews) Binary Representations and Theta Function, <a href="vol18.html">Vol 18</a>
+<li> (with William D. Banks and Ahmet M. G&#252;lo&#287;lu)
+On the Congruence <i>N &#x2261; A (mod
+&#981;(N))</i>,
+<a href="vol8.html">Vol 8(1)</a>
 

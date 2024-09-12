@@ -1,5 +1,5 @@
 
-<li> Kahane, J.-P.
+<li> Kafle, Bir 
 <ul>
-<li> A Brownian Quasi-helix in R<sup>4</sup>, Built From an Automatic Sequence, <a href="vol18a.html">Vol 18A</a>
+<li> (with Benedict Vasco Normenyo and Alain Togb&eacute;) Repdigits as Sums of Two Fibonacci Numbers and Two Lucas Numbers, <a href="vol19.html">Vol 19</a>
 

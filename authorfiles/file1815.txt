@@ -1,5 +1,5 @@
 
-<li> Tang, Dazhao
+<li> Tang, Chi-Wu
 <ul>
-<li> Congruences for Overpartition Pairs and <i>5</i> Dots Bracelet Partitions Modulo <i>25</i>, <a href="vol20.html">Vol 20</a>
+<li> (with Min Tang) Note on a Result of Haddad and Helou, <a href="vol10.html">Vol 10</a>
 

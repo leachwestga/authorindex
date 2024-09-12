@@ -1,5 +1,8 @@
 
-<li> Ye, Lynnelle
+<li> Ye, Dongxi
 <ul>
-<li> (with Keenan Monks) Congruences of Concave Composition Functions, <a href="vol13.html">Vol 13</a>
+<li> (with Shaun Cooper and  Heung Yeung Lam)
+Representations of Squares by Certain Septenary Quadratic Forms,
+<a href="vol13.html">Vol 13</a>
+<li> Representations of Squares by Certain Ternary Quadratic Forms, <a href="vol14.html">Vol 14</a>
 

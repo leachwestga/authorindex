@@ -1,5 +1,5 @@
 
-<li> Ovsienko, Valentin 
+<li> Ouellet, Vincent 
 <ul>
-<li> (with Sophie Morier-Genoud) Extremal Set Theory, Cubic Forms on F<sub>2</sub><sup>n</sup> and Hurwitz Square Identities, <a href="vol16.html">Vol 16</a>
+<li> (with Jean-Marie De Koninck and Nicolas Doyon) The Limit Distribution of the Middle Prime Factors of an Integer, <a href="vol19.html">Vol 19</a>
 

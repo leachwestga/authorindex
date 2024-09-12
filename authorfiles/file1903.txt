@@ -1,6 +1,5 @@
 
-<li> Vella, David C.
+<li> Velk&aacute;, Tereza
 <ul>
-<li> Explicit Formulas for Bernoulli and Euler Numbers, <a href="vol8.html">
-Vol 8(1)</a>
+<li> (with L'ubom&iacute;ra Dvo&rcaron;&aacute;kov&aacute;) Fixed Points of Morphisms Among Binary Generalized Pseudostandard Words, <a href="vol18.html">Vol 18</a>
 

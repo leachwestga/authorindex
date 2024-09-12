@@ -1,5 +1,5 @@
 
-<li> Kirgizov, Sergey 
-	<ul>
-		<li> (with Jean-Luc Baril and Armen Petrossian) Motzkin Paths With a Restricted First Return Decomposition, <a href="vol19.html">Vol 19</a>
-	
+<li> Kinlaw, Paul
+<ul>
+<li> Lower Bounds for Numbers With Three Prime Factors, <a href="vol19.html">Vol 19</a>
+

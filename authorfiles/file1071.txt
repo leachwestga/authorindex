@@ -1,5 +1,5 @@
 
-<li> Lim, Chang Mou 
+<li> Lidick&yacute;, Bernard 
 <ul>
-<li> (with Anant Godbole, Vince Lyzinski, and Nicholas George Triantafillou) Sharp Threshold Asymptotics for the Emergence of Additive Bases, <a href="vol13.html">Vol 13</a>
+<li> (with Maria Axenovich, John Goldwasser, Ryan R. Martin, David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
 

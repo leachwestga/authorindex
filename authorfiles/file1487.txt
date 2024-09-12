@@ -1,7 +1,7 @@
 
-<li> Ram&iacute;rez, Jos&eacute; L. 
+<li> Ram&iacute;rex Alfons&iacute;n, J.L. 
 <ul>
-<li> (with Istv&aacute;n Mez&#337; and Chen-Ying Wang) On Generalized Derangements and Some Orthogonal Polynomials, <a href="vol19.html">Vol 19</a>
-<li> (with Jean-Luc Baril and Lina Maria Simbaqueba) Equivalence Classes of Skew Dyck Paths Modulo Some Patterns, <a href="vol22.html">Vol 22</a>
-<li> (with Daniel F. Checa) Arndt Compositions: A Generating Functions Approach, <a href="vol24.html">Vol 24</a>
+<li> (with J.M. Mar&iacute;n and M.P. Revuelta)
+On the Frobenius Number of Fibonacci Numerical Semigroups,
+<a href="vol7.html">Vol 7</a>
 

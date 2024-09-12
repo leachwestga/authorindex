@@ -1,8 +1,6 @@
 
-<li> Schneider, Carsten
+<li> Schnabel, Ofir
 <ul>
-<li> (with Peter Paule) Truncating Binomial Series with Symbolic
-Summation, <a href="vol7.html">Vol 7</a>
-<li> (with Markus Kuba and Helmut Prodinger) Generalized
-Reciprocity Laws for Sums of Harmonic Numbers, <a href="vol8.html">Vol 8(1)</a>
+<li> On the Reducibility of Exact Covering Systems, <a href="vol15.html">Vol 15</a>
+<li> (with Jamie Simpson) A New Approach to the Fraenkel Conjecture for Low <i>n</i> Values, <a href="vol19.html">Vol 19</a>
 

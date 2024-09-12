@@ -1,6 +1,5 @@
 
-<li> Vinh, Le Anh
+<li> Vincent, Andrew 
 <ul>
-<li> On Some Problems of Gyarmati and S&aacute;rk&ouml;zy, <a href="vol12.html">Vol 12</a>
-<li> (with Tanbir Ahmed, Arie Bialostocki, and Thang Pham) Power Sum Polynomials as Relaxed EGZ Polynomials, <a href="vol19.html">Vol 19</a>
+<li> (with Breille Duncan and Joshua Harrington) Exceptional Totient Numbers, <a href="vol21.html">Vol 21</a>
 

@@ -1,5 +1,6 @@
 
-<li> Temple, Kathryn E. 
+<li> Tefera, Akalu
 <ul>
-<li> (with Dominic Klyve and Melissa Piddle) Estimating the Density of the Abundant Numbers, <a href="vol19.html">Vol 19</a>
+<li> (with Sean Meehan, Michael Weselcouch, and Aklilu Zeleke) Proofs of Ruehr's Identities, <a href="vol14.html">Vol 14</a>
+<li> (with Aklilu Zeleke) On Proofs of Generalized Knuth's Old Sum, <a href="vol23.html">Vol 23</a>
 

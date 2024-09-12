@@ -1,5 +1,5 @@
 
-<li> Santini, Stefano 
+<li> Santiago-Calder&oacute;n, Carlos F.
 <ul>
-<li> (with 10 other authors) Hyper <i>b</i>-ary Expansions and Stern Polynomials, <a href="vol20.html">Vol 20</a>
+<li> (with Axel O. G&oacute;mez-Flores, Luis A. Medina, and Luisiany Pomales) Recurrences in Terms of Special Polynomials for Exponential Sums of Elementary Symmetric Polynomials over Finite Fields, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,5 @@
 
-<li> Ito, Shunji
+<li> Isnaini, Uha
 <ul>
-<li> (with Taizo Sadahiro) Beta-Expansions With Negative Bases, <a href="vol9.html">Vol 9</a>
+<li> (with Pee Choon Toh) On Some Congruences for Andrews' Singular Overpartitions, <a href="vol18.html">Vol 18</a>
 

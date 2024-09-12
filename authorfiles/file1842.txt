@@ -1,5 +1,5 @@
 
-<li> Thuswaldner, J&ouml;rg 
+<li> Thornton, DJ 
 <ul>
-<li> (with Attila Peth&#337; and Mario Weitzer) The Finiteness Property for Shift Radix Systems With General Parameters, <a href="vol19.html">Vol 19</a>
+<li> (with Paul Jenkins) Weakly Holomorphic Modular Forms in Prime Power Levels of Genus Zero, <a href="vol18.html">Vol 18</a>
 

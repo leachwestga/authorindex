@@ -1,5 +1,7 @@
 
-<li> R&auml;ty, Eero
+<li> Rattanamoong, Jittinart
 <ul>
-<li> An Achievement Game on a Cycle, <a href="vol20.html">Vol 20</a>
+<li> (with Vichian Laohakosol and Tuangrat Chaichana) Generalized Folding Lemmas in the Field of Formal Series and Their Applications, <a href="vol15.html">Vol 15</a>
+<li> (with Takao Komatsu and Vichian Laohakosol) Complex Cantor Series, Cantor Products and Their Independence, <a href="vol19.html">Vol 19</a>
+<li> (with Tuangrat Chaichana) Continued Fractions of Certain Series, <a href="vol19.html">Vol 19</a>
 

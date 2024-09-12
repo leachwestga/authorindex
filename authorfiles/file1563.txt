@@ -1,6 +1,5 @@
 
-<li> Rybnikov, Konstantin 
-<ul> 
-<li>(with Mathieu Dutour and Robert Erdahl) Perfect Delaunay
-Polytopes in Low Dimensions, <a href="vol7.html">Vol 7</a>
+<li> Ryan, Richard F.
+<ul>
+<li class=fragment> Under What Conditions on the Exponents Does \(x^{m} + y^{n}  = z^{r}\) Have Solutions?, <a href="vol24.html">Vol 24</a>
 

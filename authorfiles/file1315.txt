@@ -1,5 +1,6 @@
 
-<li> Nienborg, Hauke 
+<li> Nielsen, Pace P.
 <ul>
-<li> (with Heiko Harborth) Rook Domination on Hexagonal Hexagon Boards, <a href="vol21A.html">Vol 21A</a>
+<li> An Upper Bound for Odd Perfect Numbers, <a href="vol3.html">Vol 3</a>
+<li class=fragment> (with Cody S. Hansen) Prime Factors of \(Phi_3(x)\) of the Same Form, <a href="vol22.html">Vol 22</a>
 

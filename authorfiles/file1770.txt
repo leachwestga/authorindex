@@ -1,5 +1,5 @@
 
-<li> Stopple, Jeffrey
+<li> Stones, Rebecca J. 
 <ul>
-<li> (with Kimberly Hopkins) Lower Bounds for the Principal Genus of Definite Binary Quadratic Forms, <a href="vol10.html">Vol 10</a>
+<li> (with Arun P. Mani) Congruences for Weighted Number of Labeled Forests, <a href="vol16.html">Vol 16</a>
 

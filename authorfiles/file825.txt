@@ -1,5 +1,5 @@
 
-<li> Jaroma, John H.
+<li> J&auml;rleberg, Erik
 <ul>
-<li> (with Steven Gimbel) Sylvester:  Ushering in the Modern Era of Research on Odd Perfect Numbers, <a href="vol3.html">Vol 3</a>
+<li> (with Jonas Sj&ouml;strand) Pomax Games -- A Family of Integer-valued Partizan Games Played on Posets, <a href="vol16.html">Vol 16</a>
 

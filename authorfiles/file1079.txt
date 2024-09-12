@@ -1,6 +1,5 @@
 
-<li> Litsyn, Simon
+<li> Liskovets, Valery A.
 <ul>
-<li> (with Vladimir Shevelev) On Factorization of Integers with Restrictions on
-the Exponents, <a href="vol7.html">Vol 7</a>
+<li> A Multivariate Arithmetic Function of Combinatorial and Topological Significance, <a href="vol10.html">Vol 10</a>
 

@@ -1,8 +1,5 @@
 
-<li> Ziegler, Volker 
+<li> Zhuang, Yan 
 <ul>
-<li> (with Jurgen Hartinger and Reinhold Kainhofer) On the corner Avoidance Properties of Various Low-discrepancy Sequences, <a href="vol5-3.html">Vol 5(3)</a>
-<li> (with L&aacute;szl&oacute; Szalay) <i>S</i>-Diophantine Quadruples with Two Primes Congruent to <i>3</i> Modulo <i>4</i>, <a href="vol13.html">Vol 13</a>
-<li> (with Kwok Chi Chim) On Diophantine Equations Involving Sums of Fibonacci Numbers and Powers of 2, <a href="vol18.html">Vol 18</a>
-<li> (with Tobias Hilgart and Ingrid Vukusic) On a Family of Cubic Thue Equations Involving Fibonacci and Lucas Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with Anant Godbole, Samuel Gutekunst, and Vince Lyzinski) Logarithmic Representability of Integers as <i>k</i>-Sums, <a href="vol15a.html">Vol 15A</a>
 

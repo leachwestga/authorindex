@@ -1,6 +1,5 @@
 
-<li>Nakaya, Yushi 
+<li> Nakano, Fumihiko
 <ul>
-<li> (with Ryohei Miyadera and Shunsuke Nakamura) Grundy Numbers of Impartial Chocolate Bar Games, <a href="vol20.html">Vol 20</a>
-<li> (with Ryohei Miyadera) Grundy Numbers of Impartial Three-Dimensional Chocolate-Bar Games, <a href="vol21b.html">Vol 21b</a>
+<li> (with Taizo Sadahiro) A &beta;-Expansion Associated to Sturmian Sequences, <a href="vol12.html">Vol 12</a>
 

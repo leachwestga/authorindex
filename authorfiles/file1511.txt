@@ -1,6 +1,7 @@
 
-<li> Renault, Gabriel
+<li> Remmel, Jeffrey 
 <ul>
-<li> Binary Dicots, a Core of Dicot Games, <a href="vol15.html">Vol 15</a>
-<li> (with Urban Larsson, Rebecca Milley, Richard Nowakowski, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+<li> (with Sergey Kitaev) Place-Difference-Value Patterns: A Generalization of Generalized Permutation and Word Patterns, <a href="vol10.html">Vol 10</a>
+<li> (with Sergey Kitaev and Mark Tiefenbruck) Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations II, <a href="vol15.html">Vol 15</a>
+<li> (with Sergey Kitaev and Mark Tiefenbruck) Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations III, <a href="vol15.html">Vol 15</a>
 

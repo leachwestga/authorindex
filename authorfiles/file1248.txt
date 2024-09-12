@@ -1,5 +1,5 @@
 
-<li> Mono, Andreas
+<li> Monks, Keenan
 <ul>
-<li> Multidimensional Small Divisor Functions, <a href="vol21.html">Vol 21</a>
+<li> (with Lynnelle Ye) Congruences of Concave Composition Functions, <a href="vol13.html">Vol 13</a>
 

@@ -1,6 +1,6 @@
 
-<li> Weinstein, Madeleine 
+<li> Weingartner, Andreas
 <ul>
-<li> (with Andrew Best, Patrick Dynes, Xixi Edelsbrunner, Brian McDonald, Steven J. Miller, Kimsy Tor, and Caroline Turnage-Butterbaugh) Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals, <a href="vol16.html">Vol 16</a>
-<li> Invariance of the Sprague-Grundy Function for Variants of Wythoff's Game, <a href="vol16.html">Vol 16</a>
+<li> On the Diophantine Equation &Pi; <i>x<sub>i</sub></i> = &Sigma; <i>x<sub>i</sub></i>, <a href="vol12.html">Vol 12</a>
+<li> (with Victor Z. Guo) The Practicality of Shifted Primes, <a href="vol18.html">Vol 18</a>
 

@@ -1,5 +1,5 @@
 
-<li> Liu, Wen An
+<li> Liu, Ji-Cai 
 <ul>
-<li> (with Haifeng Li, Yingbin Ma, and Bei Li) On Supplements of <i> 2 x m</i>  Board in Toppling Towers, <a href="vol12.html">Vol 12</a>
+<li> (with Moa Apagodu) Congruence Properties for the Trinomial Coefficients, <a href="vol20.html">Vol 20</a>
 

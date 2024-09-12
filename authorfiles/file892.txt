@@ -1,12 +1,5 @@
 
-<li> Keith, William J.
+<li> Keister, Derrick M.
 <ul>
-<li> Sequences of Density &zeta;(<i>k</i>) - 1, <a href="vol10.html">Vol 10</a>
-<li> Recursively Self-Conjugate Partitions, <a href="vol11a.html">Vol 11A</a>
-<li> (with Robert P. Boyer) Stabilization of Coefficients for Partition Polynomials, <a href="vol13.html">Vol 13</a>
-<li> Congruences for <i>m</i>-regular Partitions Modulo 4, <a href="vol15a.html">Vol 15A</a>
-<li> Major Index Over Descent for Pattern-avoiding Permutations, <a href="vol18.html">Vol 18</a>
-<li> (with Emily E. Anible) Colored Partitions and the Hooklength Formula: Partition Statistic Identities, <a href="vol20a.html">Vol 20a</a>
-<li> A Note on Partitions With Short Profile Steps, <a href="vol20.html">Vol 20</a>
-<li> A Bijection for Partitions Simultaneously <i>s</i>-Regular and <i>t</i>-Distinct, <a href="vol23.html">Vol 23</a>
+<li> (with James A. Sellers and Robert G. Vary) Some Arithmetic Properties of Overpartition <i>k</i>-Tuples, <a href="vol9.html">Vol 9</a>
 

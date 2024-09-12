@@ -1,6 +1,5 @@
 
-<li> Ohno, Yasuo 
+<li> Offner, David 
 <ul>
-<li> (with Ken Kamano and Shuji Yamamoto) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
-<li> (with Naho Kawasaki) The Triangle Algorithm for Bernoulli Polynomials, <a href="vol23.html">Vol 23</a>
+<li> (with Maria Axenovich, John Goldwasser, Bernard Lidick&yacute;, Ryan R. Martin,  John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
 

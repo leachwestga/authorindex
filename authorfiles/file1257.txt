@@ -1,5 +1,5 @@
 
-<li> Morgenbesser, Johannes F.
+<li> Morgan, Hannah 
 <ul>
-<li> (with Lukas Spiegelhofer) A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function, <a href="vol12.html">Vol 12</a>
+<li> (with Alex Iosevich and Jonathan Pakianathan) On Directions Determined by Subsets of Vector Spaces Over Finite Fields, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,7 @@
 
-<li> Woodson, Leon C. 
+<li> Woodford, Roger
 <ul>
-<li> (with Dennis E. Davenport and Louis W. Shapiro) A Bijection Between the Triangulations of Convex Polygons and Ordered Trees, <a href="vol20.html">Vol 20</a>
+<li> A Variation on Perfect Numbers, <a href="vol4.html">Vol 4</a>
+<li> On the Average Orders of a Class of Divisor Functions,
+<a href="vol7.html">Vol 7</a>
 

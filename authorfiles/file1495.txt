@@ -1,5 +1,7 @@
 
-<li> Rathie, Arjun K.
+<li> Rath, Purusottam 
 <ul>
-<li> (with Insuk Kim and Richard B. Paris) A Note on a Generalization of Two Well-Known Combinatorial Identities via a Hypergeometric Series Approach, <a href="vol22.html">Vol 22</a>
+<li> (with Sukumar Das Adhikari)  Davenport Constant
+with Weights and Some Related Questions,
+<a href="vol6.html">Vol 6</a>
 

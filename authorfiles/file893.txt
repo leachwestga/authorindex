@@ -1,11 +1,12 @@
 
-<li> Kellner, Bernd C.
+<li> Keith, William J.
 <ul>
-<li> On Asymptotic Constants Related to Products of Bernoulli Numbers and Factorials, <a href="vol9.html">Vol 9</a>
-<li> Identities Between Polynomials Related to Stirling and Harmonic Numbers, <a href="vol14.html">Vol 14</a>
-<li> (with Jonathan Sondow) The Denominators of Power Sums of Arithmetic Progressions, <a href="vol18.html">Vol 18</a>
-<li> (with Jonathan Sondow) On Carmichael and Polygonal Numbers, Bernoulli Polynomials, and Sums of Base-<i>p</i> Digits, <a href="vol21.html">Vol 21</a>
-<li> On (Self-) Reciprocal Appell Polynomials: Symmetry and Faulhaber-type Polynomials, <a href="vol21.html">Vol 21</a>
-<li> On Primary Carmichael Numbers, <a href="vol22.html">Vol 22</a>
-<li> On the Nonintegrality of Certain Generalized Binomial Sums, <a href="vol23.html">Vol 23</a>
+<li> Sequences of Density &zeta;(<i>k</i>) - 1, <a href="vol10.html">Vol 10</a>
+<li> Recursively Self-Conjugate Partitions, <a href="vol11a.html">Vol 11A</a>
+<li> (with Robert P. Boyer) Stabilization of Coefficients for Partition Polynomials, <a href="vol13.html">Vol 13</a>
+<li> Congruences for <i>m</i>-regular Partitions Modulo 4, <a href="vol15a.html">Vol 15A</a>
+<li> Major Index Over Descent for Pattern-avoiding Permutations, <a href="vol18.html">Vol 18</a>
+<li> (with Emily E. Anible) Colored Partitions and the Hooklength Formula: Partition Statistic Identities, <a href="vol20a.html">Vol 20a</a>
+<li> A Note on Partitions With Short Profile Steps, <a href="vol20.html">Vol 20</a>
+<li> A Bijection for Partitions Simultaneously <i>s</i>-Regular and <i>t</i>-Distinct, <a href="vol23.html">Vol 23</a>
 

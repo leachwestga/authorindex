@@ -1,6 +1,5 @@
 
-<li> Lekuona, Alberto 
+<li> Lehmann, Hunter 
 <ul>
-<li> (with Jos&eacute; A. Adell) Closed Form Expressions for the Stirling Numbers of the First Kind, <a href="vol17.html">Vol 17</a>
-<li> (with Jos&eacute; A. Adell) Explicit Expressions for a Certain Subset of Appell Polynomials: A Probabilistic Perspective, <a href="vol21.html">Vol 21</a>
+<li> (with Bayley Larsen, Andrew Park, and Leanne Robertson) Coprime Mappings on <i>n</i>-sets, <a href="vol17.html">Vol 17</a>
 

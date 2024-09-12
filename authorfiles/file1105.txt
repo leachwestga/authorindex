@@ -1,11 +1,8 @@
 
-<li> Low, Richard M.
+<li> Loveless, Andrew D.
 <ul>
-<li> (with Mark Stamp) King and Rook Vs. King on a Quarter-Infinite Board, <a href="vol6.html">Vol 6</a>
-<li> (with Siddhartha Kanungo) Further Analysis on the "King and Rook
-vs. King on a Quarter-infinite Board" Problem, <a href="vol7.html">Vol 7</a>
-<li> (with W. H. Chan) An Atlas of <i>N</i>- and <i>P</i>-positions in `Nim With a Pass', <a href="vol15.html">Vol 15</a>
-<li> (with Ardak Kapbasov, Arman Kapbasov, Stephen C. Locke, and W. H. Chan) A Codex of <i>N</i>- and <i>P</i>-positions in Harary's `Caterpillar Game', <a href="vol21.html">Vol 21</a>
-<li> (with Stephen J. Curran,  Daniel Gray, and Stephen C. Locke) Pyramid Nim, <a href="vol22.html">Vol 22</a>
-<li> (with Stephen J. Curran and Stephen C. Locke) A Variant of Nim Played on Boolean Matrices, <a href="vol23.html">Vol 23</a>
+<li>The General gcd-Product Function, <a href="vol6.html">Vol 6</a>
+<li> <i>Corrigendum</i> to Article A19, Volumer 6 (The General gcd-Product Function), <a href="vol6.html">Vol 6</a>
+<li> A Congruence for Products of Binomial  Coefficients Modulo a Composite,
+<a href="vol7.html">Vol 7</a>
 

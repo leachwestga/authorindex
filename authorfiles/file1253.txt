@@ -1,5 +1,7 @@
 
-<li> Morales, Marina C. 
+<li> Moore, Phil
 <ul>
-<li> (with Brian D. Sittinger) The Unit Structure in a Quotient Ring of a Quadratic Number Field, <a href="vol19.html">Vol 19</a>
+<li> (with Louis Helm, Payam Samidoost, and George Woltman)
+Resolution of the Mixed Sierpi&#324;ski Problem,
+<a href="vol8.html">Vol 8(1)</a>
 

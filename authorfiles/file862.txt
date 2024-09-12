@@ -1,5 +1,6 @@
 
-<li> Kanasri, N. R. 
+<li> Kamano, Ken
 <ul>
-<li> (with P. Singthongla and V. Laohakosol) Reducibility of Polynomials Over Algebraic Number Fields, <a href="vol17.html">Vol 17</a>
+<li> On <i>3</i>-Adic Valuations of Generalized Harmonic Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Yasuo Ohno and Shuji Yamamoto) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
 

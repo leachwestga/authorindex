@@ -1,5 +1,5 @@
 
-<li> Waxweiler, Laurent
+<li> Watson, Lori D. 
 <ul>
-<li> (with &Eacute;milie Charlier, Narad Rampersad, and Michel Rigo) The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System, <a href="vol11b.html">Vol 11b</a>
+<li> (with Pete L. Clark) Varga's Theorem in Number Fields, <a href="vol18.html">Vol 18</a>
 

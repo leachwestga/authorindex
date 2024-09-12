@@ -1,5 +1,6 @@
 
-<li> Ska&lstrok;ba, Mariusz
+<li> Sj&ouml;strand, Jonas 
 <ul>
-<li> A Note on Sums of Two Squares and Sum-of-divisors Functions, <a href="vol20.html">Vol 20</a>
+<li> (with Erik J&auml;rleberg) Pomax Games -- A Family of Integer-valued Partizan Games Played on Posets, <a href="vol16.html">Vol 16</a>
+<li> (with Kimmo Eriksson and Markus Jonsson) An Exponential Limit Shape of Random <i>q</i>-proportion Bulgarian Solitaire, <a href="vol18.html">Vol 18</a>
 

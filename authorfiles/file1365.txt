@@ -1,9 +1,9 @@
 
-<li> Pan, Hao
+<li> Palsson, Eyvindur Ari 
 <ul>
-<li> (with Ping Xu) Note on a Congruence Involving
-Products of Binomial Coefficients, <a href="vol7.html">Vol 7</a>
-<li> (with Song Guo and Zhi-Wei Sun)
-Mixed Sums of Squares
-and Triangular Numbers (II), <a href="vol7.html">Vol 7</a>
+<li> (with David Burt,  Eli Goldstein, Sarah Manski, Steven J. Miller,  and Hong Suh) Crescent Configurations, <a href="vol16.html">Vol 16</a>
+<li> (with Alyssa Epstein, Adam Lott, and Steven J. Miller) Optimal Point Sets Determining Few Distinct Triangles, <a href="vol18.html">Vol 18</a>
+<li> (with Katherine Cordwell, Alyssa Epstein, Anand Hemmandy, Steven J. Miller,  Aaditya Sharma, Stefan Steinerberger, and Yen Nhi Truong Vu) On Algorithms to Calculate Integer Complexity, <a href="vol19.html">Vol 19</a>
+<li> (with Sara Fish, Dylan King, Steven J. Miller,  and Catherine Wahlenmayer) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
+<li> (with Hazel N. Brenner, James S. Depret-Guillaume, and Steven Senger) Uniqueness of Optimal Point Sets Determining Two Distinct Triangles, <a href="vol21.html">Vol 21</a>
 

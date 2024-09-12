@@ -1,5 +1,5 @@
 
-<li> Sahin, Murat
+<li> &#x15E;ahin, Adem
 <ul>
-<li> (with Daniel Panario and Qiang Wang) A Family of Fibonacci-Like Conditional Sequences, <a href="vol13.html">Vol 13</a>
+<li> Relations between Derangement and Factorial Numbers, <a href="vol22.html">Vol 22</a>
 

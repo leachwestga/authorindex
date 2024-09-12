@@ -1,6 +1,7 @@
 
-<li> Stumpf, Pascal
+<li> Strzebonski, Adam 
 <ul>
-<li> A Short Note on Reduced Residues, <a href="vol17.html">Vol 17</a>
-<li> On the Monotonicity of Additive Representation Functions, <a href="vol20.html">Vol 20</a>
+<li> (with David Einstein, Daniel Lichtblau, and Stan Wagon)
+Frobenius Numbers by Lattice Point Enumeration,
+<a href="vol7.html">Vol 7</a>
 

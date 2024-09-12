@@ -1,6 +1,7 @@
 
-<li> Sadahiro, Taizo
+<li> Sabo, Dusty 
 <ul>
-<li> (with Shunji Ito) Beta-Expansions With Negative Bases, <a href="vol9.html">Vol 9</a>
-<li> (with Fumihiko Nakano) A &beta;-Expansion Associated to Sturmian Sequences, <a href="vol12.html">Vol 12</a>
+<li> (with Daniel Schaal and Jacent Tokaz) Disjunctive Rado Numbers for
+<i>x<sub>1</sub> + x<sub>2</sub> + c = x<sub>3</sub></i>,
+<a href="vol7.html">Vol 7</a>
 

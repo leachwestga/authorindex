@@ -1,7 +1,6 @@
 
-<li> Moore, Phil
+<li> Moody, Dustin 
 <ul>
-<li> (with Louis Helm, Payam Samidoost, and George Woltman)
-Resolution of the Mixed Sierpi&#324;ski Problem,
-<a href="vol8.html">Vol 8(1)</a>
-
+<li> (with Foad Khoshnam) High rank Elliptic Curves with Torsion Z/4Z Induced by  Kihara's Elliptic Curves, <a href="vol16.html">Vol 16</a>
+<li> (with Abhishek Juyal) On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>, <a href="vol21.html">Vol 21</a>
+<li> (with Abhishek Juyal and Shiv Datt Kumar) Elliptic Curves Arising From the Triangular Numbers, <a href="vol19.html">Vol 19</a>

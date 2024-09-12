@@ -1,5 +1,5 @@
 
-<li> Yang, Shichun
+<li> Yang, Quan-Hui
 <ul>
-<li> (with Alain Togb&eacute;) Odd Deficient-Perfect Numbers with Four Distinct Prime Factors, <a href="vol23.html">Vol 23</a>
+<li> (with Feng-Juan Chen) On Bases With a <i>T</i>-Order, <a href="vol11.html">Vol 11</a>
 

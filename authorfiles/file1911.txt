@@ -1,6 +1,7 @@
 
-<li> Villacorta, Jorge Luis Cimadevilla
+<li> Vijay, Sujith
 <ul>
-<li> An Explicit Evaluation of the Gosper Sum, <a href="vol10.html">Vol 10</a>
-<li> An Approach to <i>q</i>-Series, <a href="vol14.html">Vol 14</a>
+<li> On the Largest <em>k</em>-primitive Subset of <em>[1,n]</em>, <a href="vol6.html">Vol 6</a>
+<li> On a Variant of Van Der Waerden's Theorem, <a href="vol10.html">Vol 10</a>
+<li> (with Mano Vikash Janardhanan) Ramsey Functions for Generalized Progressions, <a href="vol15.html">Vol 15</a>
 

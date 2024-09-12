@@ -1,5 +1,5 @@
 
-<li> Rivera, Luis Manuel
+<li> Rinaldi, Simone
 <ul>
-<li> Integer Sequences and <i>k</i>-commuting Permutations, <a href="vol15.html">Vol 15</a>
+<li> (with Luca Ferrari) Enumeration of Generalized Hook Partitions, <a href="vol5.html">Vol 5(1)</a>
 

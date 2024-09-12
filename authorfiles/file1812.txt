@@ -1,5 +1,5 @@
 
-<li class="fragment"> Tait, Michael 
+<li> Tan, Xin Lu
 <ul>
-<li> (with Erin Bevilacqua, Samuel King, J&uuml;rgen Kritschgau,  Suzannah Tebon, and Michael Young) Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\), <a href="vol20.html">Vol 20</a>
+<li> (with Mark Daniel Ward) On Kotzig's Nim, <a href="vol14.html">Vol 14</a>
 

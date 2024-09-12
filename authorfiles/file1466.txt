@@ -1,5 +1,6 @@
 
-<li> Puchta, J. -C.
+<li> Propp, James
 <ul>
-<li> Partitions Which are p- and q-Core, <a href="vol1.html">Vol 1</a>
+<li> The Combinatorics of Frieze Patterns and Markoff Numbers, <a href="vol20.html">Vol 20</a>
+<li> Some 2-Adic Conjectures Concerning Polyomino Tilings of Aztec Diamonds, <a href="vol23.html">Vol 23</a>
 

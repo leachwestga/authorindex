@@ -1,7 +1,5 @@
 
-<li> Samidoost, Payam
+<li> Salvi, Norma Zagaglia
 <ul>
-<li> (with Louis Helm, Phil Moore, and George Woltman)
-Resolution of the Mixed Sierpi&#324;ski Problem,
-<a href="vol8.html">Vol 8(1)</a>
+<li> (with Emanuele Munarini) Circular Binary Strings without ZigZags, <a href="vol3.html">Vol 3</a>
 

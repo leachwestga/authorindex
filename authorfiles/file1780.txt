@@ -1,5 +1,5 @@
 
-<li> Suda, Sho 
+<li> Subramaniam, Dipika
 <ul>
-<li> (with Koji Momihara) Conference Matrices With Maximum Excess and  Two-intersection Sets, <a href="vol17.html">Vol 17</a>
+<li> (with Enrique Trevi&ntilde;o and Paul Pollack) On Sums of Consecutive Triangular Numbers, <a href="vol20a.html">Vol 20a</a>
 

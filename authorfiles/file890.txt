@@ -1,5 +1,5 @@
 
-li> Keilthy, Adam
+<li> Keaton, Rodney 
 <ul>
-<li> A Generalization of Quasi-Shuffle Algebras and an Application to Multiple Zeta Values, <a href="vol22.html">Vol 22</a>
+<li> (with Jim Brown, Robert Cass, Kevin James,  Salvatore Parenti,  and Daniel Shankman) Counting Tamely Ramified Extensions of Local Fields up to Isomorphism, <a href="vol16.html">Vol 16</a>
 

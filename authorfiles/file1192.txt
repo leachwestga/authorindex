@@ -1,5 +1,6 @@
 
-<li> Mcharo, Solomon 
+<li> McGown, Kevin J. 
 <ul>
-<li> (with Vajresh Balaji, Olivia Edwards, Anne Marie Loftin, Alex Rice,  and Bineyam Tsegaye) Lattice Configurations Determining Few Distances, <a href="vol20.html">Vol 20</a>
+<li> (with Shilin Ma, Devon Rhodes, and Mathias Wanner) On the Number of Primes for Which a Polynomial is Eisenstein, <a href="vol18.html">Vol 18</a>
+<li> (with Jongwoo Choi) Counting Eisenstein Polynomials Satisfying a Condition From Genus Theory, <a href="vol20.html">Vol 20</a>
 

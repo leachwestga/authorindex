@@ -1,5 +1,5 @@
 
-<li> Qi, Feng
+<li> Pyle, E. E.
 <ul>
-<li> (with Xiao-Ting Shi and Bai-Ni Guo) Two Explicit Formulas of the Schr&ouml;der Numbers, <a href="vol16.html">Vol 16</a>
+<li> (with R. W. R. Darling) Maximum <i>GCD</i> Among Pairs of Random Integers, <a href="vol11.html">Vol 11</a>
 

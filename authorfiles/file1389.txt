@@ -1,6 +1,5 @@
 
-<li> Patra, Sourav Kanti
+<li> Patra, Kamal Lochan 
 <ul>
-<li> (with Swapan Kumar Ghosh) Concerning Partition Regular Matrices, <a href="vol17.html">Vol 17</a>
-<li> (with Md. Moid Shaikh) Monochromatic Sums Equal to Products Near Zero, <a href="vol20.html">Vol 20</a>
+<li> (with Hitesh Kumar and Binod Kumar Sahoo) Proper Divisor Graph of a Positive Integer, <a href="vol21.html">Vol 21</a>
 

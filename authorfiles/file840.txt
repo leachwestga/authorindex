@@ -1,16 +1,5 @@
 
-<li> Jones, Lenny
+<li> Jones, Edna 
 <ul>
-<li> (with Carrie Finch) On the Irreducibility of {-1,0,1}-Quadrinomials,
-<a href="vol6.html">Vol 6</a>
-<li> (with Joshua Harrington ) On the Iteration of a Function Related to Euler's &phi;-Function, <a href="vol10.html">Vol 10</a>
-<li> Fibonacci Variations of a Conjecture of Polignac, <a href="vol12.html">Vol 12</a>
-<li> (with Daniel White) Sierpi&#324;ski Numbers in Imaginary Quadratic Fields, <a href="vol12a.html">Vol 12A</a>
-<li> (with Joshua Harrington) Extending a Theorem of Pillai to Quadratic Sequences, <a href="vol15a.html">Vol 15A</a>
-<li> (with Alicia Lamarche) Generating <i>d</i>-Composite Sandwich Numbers, <a href="vol15a.html">Vol 15A</a>
-<li> (with Kellie Bresz, Alicia Lamarche, and Maria Markovich) A Problem Related to a Conjecture of Polignac, <a href="vol16.html">Vol 16</a>
-<li> (with James Hammer and Joshua Harrington) On the Congruence <i>x<sup>x</sup> &equiv; x</i> (mod <i>n</i>), <a href="vol16.html">Vol 16</a>
-<li> (with Tristan Phillips) Arithmetic Progressions of Polygonal Numbers With Common Difference a Polygonal Number, <a href="vol17.html">Vol 17</a>
-<li> (with Lawrence Somer) Primes in Shifted Sums of Lucas Sequences, <a href="vol17.html">Vol 17</a>
-<li> (with Joshua Harrington) An Equation Involving Arithmetic Functions and Riesel Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with William Linz) <i>r</i>-Completeness of Sequences of Positive Integers, <a href="vol16.html">Vol 16</a>
 

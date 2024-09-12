@@ -1,7 +1,5 @@
 
-<li> Lee, Philip
+<li> Lee, Jun Ho
 <ul>
-<li> (with Neil Calkin, Nate Drake, Kevin James, Shirley Law, David Penniston, and Jeanne Radder)
-Divisibility Properties of the 5-regular and 13-regular Partition Functions,
-<a href="vol8.html">Vol 8(1)</a>
+<li class=fragment> Classification for Existence of the Continued Fraction Expansions of \(\sqrt{D}\) and \((1+\sqrt{D})/2\), <a href="vol24.html">Vol 24</a>
 

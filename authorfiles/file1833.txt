@@ -1,5 +1,5 @@
 
-<li> Te&#351;eleanu, George
+<li> te Riele, Herman
 <ul>
-<li> New Proofs for the <i>p,q</i>-Analogue of Chu-Vandermonde's Identity, <a href="vol13.html">Vol 13</a>
+<li> (with Florian Luca) Aliquot Cycles of Repdigits, <a href="vol11.html">Vol 11</a>
 

@@ -1,5 +1,5 @@
 
-<li> Zamboni, Luca Q. 
+<li> Zaleski, Anthony
 <ul>
-<li> (with Robert Tijdeman) Characterizations of Words With Many Periods, <a href="vol9.html">Vol 9</a>
+<li> Explicit Expressions for the Moments of the Size of an <i>(n,dn-1)</i>-core Partition With Distinct Parts, <a href="vol19.html">Vol 19</a>
 

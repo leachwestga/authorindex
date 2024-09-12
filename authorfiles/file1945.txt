@@ -1,6 +1,5 @@
 
-<li> Wang, Guoqing
+<li> Wang, Dan
 <ul>
-<li> On Restricted Sumsets in Abelian Groups of Odd Order,
-<a href="vol8.html">Vol 8(1)</a>
+<li> On the Sum of Two Squares and at Most <i>k</i> Powers of 2, <a href="vol21.html">Vol 21</a>
 

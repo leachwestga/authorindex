@@ -1,5 +1,5 @@
 
-<li> Krattenthaler, Christian 
+<li> Kraaikamp, Cor
 <ul>
-<li> (with Eric Rowland and Reem Yassawi) Lucas Congruences  for the Ap&eacute;ry Numbers Modulo <i>p<sup>2</sup></i>, <a href="vol21.html">Vol 21</a>
+<li> (with Jaap de Jonge) Gaps in Intervals of <i>N</i>-Expansions, <a href="vol23.html">Vol 23</a>
 

@@ -1,5 +1,5 @@
 
-<li> Heinrich, Marc 
+<li> Hegyv&aacute;ri, Norbert 
 <ul>
-<li> (with Eric Duch&ecirc;ne, Richard Nowakowski, and Aline Parreau) Partizan Subtraction Games, <a href="vol21b.html">Vol 21b</a>
+<li> (with Fran&ccedil;ois Hennecart) Note on a Result of Chung on Weil Type Sums, <a href="vol15.html">Vol 15</a>
 

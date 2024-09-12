@@ -1,5 +1,6 @@
 
-<li class="fragment"> Luo, Wenyu
+<li> Luo, Victor
 <ul>
-<li> (with Pingzhi Yuan) On the Diophantine Equation \(\frac{ax^{n+2l}+c}{abt^2x^n+d}=by^2\), <a href="vol20.html">Vol 20</a>
+<li> (with Amanda Bower, Ron Evans, and Steven J Miller) Coordinate Sum and Difference Sets of <i>d</i>-Dimensional Modular Hyperbolas, <a href="vol13.html">Vol 13</a>
+<li> (with Oliva Beckwith, Steven J. Miller, Karen Shen, and Nicholas Triantafillou) Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles, <a href="vol15.html">Vol 15</a>
 

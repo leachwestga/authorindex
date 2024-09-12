@@ -1,5 +1,5 @@
 
-<li> Wan, James 
+<li> Walters, Nathan 
 <ul>
-<li> (with David Borwein, Jonathan M. Borwein, and Armin Straub) Log-Sine Evaluations of Mahler Measures, II, <a href="vol12a.html">Vol 12A</a>
+<li> (with Pete L. Clark, Jacob Hicks, and Katherine Thompson) GoNII: Universal Quaternary Quadratic Forms, <a href="vol12.html">Vol 12</a>
 

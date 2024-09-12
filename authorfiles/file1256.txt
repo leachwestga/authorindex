@@ -1,5 +1,8 @@
 
-<li> Morgan, Hannah 
+<li> Moree, Pieter
 <ul>
-<li> (with Alex Iosevich and Jonathan Pakianathan) On Directions Determined by Subsets of Vector Spaces Over Finite Fields, <a href="vol11.html">Vol 11</a>
+<li> (with Gennady Bachman) On a Class of  Ternary  Inclusion-Exclusion Polynomials, <a href="vol11.html">Vol 11</a>
+<li> Artin's Primitive Root Conjecture -- A Survey --, <a href="vol12a.html">Vol 12A</a>
+<li> Integers Without Large Prime Factors: from Ramanujan to de Bruijn, <a href="vol14a.html">Vol 14A</a>
+<li> (with L&aacute;szl&oacute; T&oacute;th) Unitary Cyclotomic Polynomials, <a href="vol20.html">Vol 20</a>
 

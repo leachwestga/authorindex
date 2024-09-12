@@ -1,5 +1,10 @@
 
-<li> Scharaschkin, Victor 
+<li> Schaal, Daniel
 <ul>
-<li> (with Max Lewis) <i>k</i>-Lehmer and <i>k</i>-Carmichael Numbers, <a href="vol16.html">Vol 16</a>
+<li> (with Dusty Sabo and Jacent Tokaz) Disjunctive Rado Numbers for
+<i>x<sub>1</sub> + x<sub>2</sub> + c = x<sub>3</sub></i>,
+<a href="vol7.html">Vol 7</a>
+<li> (with Hunter Snevily) A Multiplicity Problem
+Related to Schur Numbers, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Liz Lane-Harvard) Disjunctive Rado Numbers for <i>ax<sub>1</sub>+x<sub>2</sub>=x<sub>3</sub></i> and <i>bx<sub>1</sub>+x<sub>2</sub>=x<sub>3</sub></i>, <a href="vol13.html">Vol 13</a>
 

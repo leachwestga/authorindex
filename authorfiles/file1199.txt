@@ -1,5 +1,5 @@
 
-<li> Meadows, Alex 
+<li> McNew, Nathan 
 <ul>
-<li> (with Sandy Ganzell and John Ross) Twist Untangle and Related Knot Games, <a href="vol14.html">Vol 14</a>
+<li> (with Xue-Qin Cao and Jin-Hui Fang) Note on Sets without Geometric Progressions, <a href="vol22.html">Vol 22</a>
 

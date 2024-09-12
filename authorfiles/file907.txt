@@ -1,5 +1,5 @@
 
-<li> Khoshnam, Foad
+<li> Khongsit, S.
 <ul>
-<li> (with Dustin Moody) High rank Elliptic Curves with Torsion Z/4Z Induced by  Kihara's Elliptic Curves, <a href="vol16.html">Vol 16</a>
+<li> (with P.K. Saikia) A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>, <a href="vol16.html">Vol 16</a>
 
