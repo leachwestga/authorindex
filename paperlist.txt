@@ -58,7 +58,7 @@ Representations by Quaternary Quadratic Forms with Coefficients 1, 2, 7 or 14;;1
 Nim Restrictions;;4;;28
 An Introduction to Clobber;;5(2);;28
 On the Intersections of Fibonacci, Pell, and Lucas Numbers;;11A;;29
-,  On Minimimal Colorings without Monochromatic Solutions to a Linear Equation;;7(2);;30
+On Minimimal Colorings without Monochromatic Solutions to a Linear Equation;;7(2);;30
 De Bruijn Sequences with Varying Combs;;14A;;31
 Some Results on Balancing, Cobalancing, <i>(a,b)</i>-Type Balancing, and <i>(a,b)</i>-Type Cobalancing Numbers;;13;;32
 Hyperharmonic Numbers Can Rarely Be Integers;;18;;33
@@ -168,7 +168,7 @@ Expansions in Non-Integer Bases: Lower Order Revisited;;14;;97
 Prime Number Conjectures From the Shapiro Class Structure;;20;;98
 Lattice Configurations Determining Few Distances;;20;;99
 Schur's Theorem in Integer Lattices;;22;;100
-, Upper Bounds for the Davenport Constant;;7(2);;101
+Upper Bounds for the Davenport Constant;;7(2);;101
 On the Number of Factorizations of an Integer;;11;;101
 Complete Characterization of Substitution Invariant Sturmian Sequences;;5(1);;102
 Characterization of Substitution Invariant Words CodingExchange of Three Intervals;;8(1);;102
@@ -230,7 +230,7 @@ Rational Ehrhart Theory;;23;;135
 Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles;;15;;136
 Peg Solitaire on Caterpillars;;17;;137
 Generalized Hyper-Fibonacci Numbers and Applications;;22;;138
-, On a Problem of Ore;;7(2);;139
+On a Problem of Ore;;7(2);;139
 The Sprague-Grundy Function for Some Selective Compound Games;;20;;140
 Linear Recurrent Sequences and Powersof a Square Matrix;;6;;141
 The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part I;;11;;141
@@ -344,8 +344,7 @@ Algorithms for the Multiplication Table Problem;;21;;216
 A Problem Related to a Conjecture of Polignac;;16;;217
 Staircases in <i>Z<sup>2</sup></i>;;10;;218
 Ducci Sequences in Higher Dimensions;;7;;219
-A Combinatorial Interpretation of the Poly-Bernoulli Numbers and
-Two Fermat Analogues;;8(1);;220
+A Combinatorial Interpretation of the Poly-Bernoulli Numbers and Two Fermat Analogues;;8(1);;220
 Partition Inequalities and Applications to Sum-Product Conjectures of Kanade-Russell;;20;;221
 Algorithms for Finding and Proving Balanced <i>Q<sup>2</sup></i> Identities;;7(2);;222
 Proving Balanced <i>T<sup>2</sup></i> and <i>Q<sup>2</sup></i> Identities Using Modular Forms;;11A;;222
@@ -485,8 +484,7 @@ An Infinite Family of Dual Sequence Identities;;5(1);;297
 Lagrange Inversion and Stirling Number Convolutions;;8(1);;297
 A Characterization of Minimal Zero-Sequences of Index One in Finite Cyclic Groups;;5(1);;298
 Sets of Lengths Do Not Characterize NumericalMonoids;;7;;298
-On a Problem of Molluzzo Concerning Steinhaus Triangles
-in Finite Cyclic Groups;;8(1);;299
+On a Problem of Molluzzo Concerning Steinhaus Triangles in Finite Cyclic Groups;;8(1);;299
 On the Problem of Molluzzo for the Modulus <i>4</i>;;12;;299
 Abstract Numeration Systems on Bounded Languagesand Multiplication by a Constant;;8(1);;300
 The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System;;11b;;300
@@ -616,8 +614,7 @@ Diffusion and Polyominoes;;22;;374
 The Periodicity of Nim-Sequences in Two-Element Subtraction Games;;20;;375
 The Googol-th Bit of the Erd&#337;s--Borwein Constant;;12;;376
 On the Counting Function of Semiprimes;;21;;377
-Sums of the Form 1/x<sub>1</sub><sup>k</sup> + ... +
-1/x<sub>n</sub><sup>k</sup> Modulo a Prime;;4;;378
+Sums of the Form 1/x<sub>1</sub><sup>k</sup> + ... + 1/x<sub>n</sub><sup>k</sup> Modulo a Prime;;4;;378
 Arithmetic Progressions in Sparse Sumsets;;7(2);;378
 Sum-Product Inequalities With Perturbation;;11A;;378
 Order-Preserving Freiman Isomorphisms;;18;;378
@@ -652,8 +649,7 @@ The Three Gap Theorem and Periodic Functions;;22;;398
 <i>p</i>-Adic Order of Positive Integers via Binomial Coefficients;;22;;399
 New Congruences for <i>3</i>-regular Partitions With Designated Summands;;20a;;400
 Sequences in Partitions;;22;;401
-Integrality of Quotients of Wronskians of
-the Andrews-Gordon Series;;6;;402
+Integrality of Quotients of Wronskians of the Andrews-Gordon Series;;6;;402
 A Bijection Between the Triangulations of Convex Polygons and Ordered Trees;;20;;403
 Generalizationsof Some Zero-sum Theorems;;8(1);;404
 Divisibility by 2 and 3 of Certain Stirling Numbers;;8(1);;405
@@ -664,8 +660,7 @@ On the <i>X</i>--coordinates of Pell Equations that are Products of Two Padovan 
 Combined Algebraic Properties of Central* Sets;;7;;409
 Additive and Multiplicative Structures of <i>C<sup>&#9733;</sup></i>-Sets;;14;;409
 Image Partition Regularity over the Gaussian Integers;;17;;409
-On the Equation m-1 = a
-<IMG SRC="varphi.gif"  HEIGHT="10" WIDTH="10">(m);;6;;410
+On the Equation m-1 = a <IMG SRC="varphi.gif"  HEIGHT="10" WIDTH="10">(m);;6;;410
 An Identity Involving Multiplicative Orders;;8(1);;410
 Proof of the Prime Ladder Conjecture;;17;;411
 Almost Gap Balancing Numbers;;18;;412
@@ -821,10 +816,8 @@ Hereditary Tiling Sets of the Integers;;8(1);;506
 Frobenius Numbers by Lattice Point Enumeration;;7;;507
 Polygonal-Sierpi&nacute;ski-Riesel Sequences with Terms Having at Least Two Distinct Prime Divisors;;16;;508
 A WZ Proof of a "Curious" Identity;;3;;509
-The Number of Relatively Prime Subsets and Phi Functions
-for <i>{m, m+1, ..., n}</i>;;7;;510
-On the Number of Subsets of <i>[1,m]</i> Relatively Prime to
-<i>n</i> and Asymptotic Estimates;;8(1);;510
+The Number of Relatively Prime Subsets and Phi Functions for \{m, m+1, ..., n\};;7;;510
+On the Number of Subsets of <i>[1,m]</i> Relatively Prime to <i>n</i> and Asymptotic Estimates;;8(1);;510
 On Relatively Prime Subsets and Supersets;;10;;510
 Convolution Sums Involving Legendre-Jacobi Symbol and Divisor Functions;;13;;510
 Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\);;20;;511
@@ -875,20 +868,15 @@ Transfinite Game Values in Infinite Chess;;14;;541
 A Position in Infinite Chess With Game Value &omega;<sup>4</sup>;;17;;541
 Coordinate Sum and Difference Sets of <i>d</i>-Dimensional Modular Hyperbolas;;13;;542
 Deriving Divisibility Theorems with Burnside's Theorem;;5(1);;543
-Number of Binomial Coefficeints Divisible by a Fixed
-Power of a Prime;;8(1);;544
+Number of Binomial Coefficeints Divisible by a Fixed Power of a Prime;;8(1);;544
 Subprime Factorization and the Numbers of Binomial Coefficients Exactly Divided by Powers of a Prime;;11;;544
 Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\);;23;;2066
 An Inequality for the Distribution of Numbers Free of Small Prime Factors;;22;;545
 Remarks on Tiny Zero-Sum Sequences;;13;;546
 Triangular Numbers in Geometric Progression;;7;;547
-Nonexistence of a Geometric Progression that Contains
-Four Triangular Numbers;;7;;547
+Nonexistence of a Geometric Progression that Contains Four Triangular Numbers;;7;;547
 On N | &phi;(N)D(N)+2 and N | &phi;(N)&sigma;(N)+1;;8(1);;547
-Neither &#x220F;<i> <sup>n</sup><sub>k=1</sub>
-(4k<sup>2</sup>+1)</i> Nor &#x220F;<i>
-<sup>n</sup><sub>k=1</sub> (2k(k-1)+1)</i> is a Perfect Square,
-;;9;;547
+Neither &#x220F;<i> <sup>n</sup><sub>k=1</sub> (4k<sup>2</sup>+1)</i> Nor &#x220F;<i><sup>n</sup><sub>k=1</sub> (2k(k-1)+1)</i> is a Perfect Square;;9;;547
 Note on Sets without Geometric Progressions;;22;;547
 Subsets of Z With Simultaneous Orderings;;10;;548
 The Characteristic Sequence and <i>p</i>-Orderings of the Set of <i>d</i>-th Powers of Integers;;12;;548
@@ -938,7 +926,7 @@ Identities for the Generalized Fibonacci Polynomial;;18B;;580
 Geometric Patterns in The Determinant Hosoya Triangle;;21;;580
 Irreducibility of Generalized Fibonacci Polynomials;;22;;580
 On the Number of Carries Occurring in an Addition Mod <i>2<sup>k</sup>-1</i>;;12;;581
-) A New Estimate on Complexity of Binary Generalized Pseudostandard Words;;17;;582
+A New Estimate on Complexity of Binary Generalized Pseudostandard Words;;17;;582
 Difference Density and Aperiodic Sum-Free Sets;;5(2);;583
 Identifying an <i>m</i>-ary Partition Identity Through an <i>m</i>-ary Tree;;16;;583
 On the Sum of Integers From Some Multiplicative Sets and Some Powers of Integers;;18;;584
@@ -1019,8 +1007,7 @@ Continuous Tur&aacute;n Numbers;;24;;632
 Two-Color Babylon;;12;;633
 Relating Fibonacci Numbers to the Infinitudes of Certain Primes;;23;;634
 Counting Finite Languages by Total Word Length;;11;;635
-Factorization of Constants Involved in Conjectural
-Moments of Zeta-functions;;8(1);;636
+Factorization of Constants Involved in Conjectural Moments of Zeta-functions;;8(1);;636
 On the Equation <i>a<sup>x</sup> &#8801;x</i> mod <i>b</i>;;9;;636
 On Zero-Sum Sequences in Z/nZ + Z/nZ;;3;;637
 On the Almkvist--Meurman Theorem for Bernoulli Polynomials;;23;;638
@@ -1083,7 +1070,7 @@ Some Remarks on Harmonic Type Matrices;;22;;678
 Chebyshev-Fibonacci Polynomial Relations Using Generating Functions;;21;;679
 Fibonacci-Catalan Series;;22;;679
 On the Growth of a van der Waerden-like Function;;6;;680
-, On Minimimal Colorings without Monochromatic Solutions to a Linear Equation;;7(2);;680
+On Minimimal Colorings without Monochromatic Solutions to a Linear Equation;;7(2);;680
 Universal Juggling Cycles;;7(2);;680
 A Note on Irregularities of Distribution;;13;;680
 De Bruijn Sequences with Varying Combs;;14A;;680
@@ -1102,7 +1089,7 @@ On Binomial Coefficients Modulo Squares of Primes;;19;;686
 A Parametrized Set of Explicit Elements of &#1064;\((E/\mathbb{Q})[3]\);;22;;687
 Cyclotomic Points and Algebraic Properties of Polygon Diagonals;;21;;688
 On Bounds for Two Davenport-type Constants;;13;;689
-Values of Weighted Davenport Constants;;21;;689
+yValues of Weighted Davenport Constants;;21;;689
 Long Arithmetic Progressions in Small Sumsets;;10;;690
 The Structure of a Sequence With Prescribed Zero-sum Subsequences;;20;;690
 On Weak Twins and Up-and-down Sub-permutations;;21A;;691
@@ -1181,7 +1168,7 @@ Counting Rises, Levels, and Drops in Compositions;;5(1);;742
 Enumeration of 3-letter Patterns in Compositions;;7(2);;742
 Slow <i>k</i>-Nim;;20;;742
 Circular Nim Games CN(7,4);;21b;;742
-counting Optimal Joint Digit Expansions;;5(3);;743
+Counting Optimal Joint Digit Expansions;;5(3);;743
 Evaluationally Coprime Linear Polynomials;;16;;744
 Cardinality of a Floor Function Set;;19;;744
 Primes in Floor Function Sets;;22;;744
@@ -1386,8 +1373,7 @@ Weighted Lonesum Matrices and Their Generating Function;;13;;852
 Reducibility of Polynomials Over Algebraic Number Fields;;17;;853
 New Bounds on the Number of Representations of t as a Binomial Coefficient;;4;;854
 On the Number of Ways of Writing t as a Product of Factorials;;5(1);;854
-Improved Bounds on the Number of Ways of Expressing t as a
-Binomial Coefficient;;7;;854
+Improved Bounds on the Number of Ways of Expressing t as a Binomial Coefficient;;7;;854
 On Solving Games Constructed Using Both Short and Long Conjunctive Sums;;10;;854
 On Normal Numbers and Powers of Algebraic Numbers;;10;;855
 On Subwords in the Base-<i>q</i> Expansion of Polynomial and Exponential Functions;;18A;;855
@@ -1506,11 +1492,9 @@ Finite Representability of Integers as 2-Sums;;18B;;930
 Additive Energy and the Falconer Distance Problem in Finite Fields;;13;;931
 Values of Weighted Davenport Constants;;21;;932
 Representation of Numbers by Sums of Squares and the Forms of Type <i>x<sub>1</sub><sup>2</sup>+ x<sub>1</sub>x<sub>2</sub>+x<sub>2</sub><sup>2</sup></i>;;17;;933
-A Connection Between Ordinary Partitions and
-Tilings with Dominoes and Squares;;7;;934
+A Connection Between Ordinary Partitions and Tilings with Dominoes and Squares;;7;;934
 Partition Recurrences;;18B;;934
-A Proof of the Continued Fraction Expansion of
-<i>e<sup>2/s</sup></i>;;7;;935
+A Proof of the Continued Fraction Expansion of <i>e<sup>2/s</sup></i>;;7;;935
 Some Combinatorial Properties of the Leaping Convergents;;7(2);;935
 Powers of Sierpi&nacute;ski Numbers Base <i>B</i>;;10;;935
 On the Sum of Reciprocal Generalized Fibonacci Numbers;;11A;;935
@@ -1587,8 +1571,7 @@ Ulam Sets in New Settings;;20;;981
 On Sets of Integers Which Are Both Sum-Free and Product-Free;;12B;;982
 A Proof of Euler's Theorem via Quandles;;22;;983
 Sums of &omega;(<i>N</i>) and &Omega;(<i>N</i>) over the <i>K</i>-Free Parts and <i>K</i>-Full Parts of Some Particular Sequences;;22;;984
-The Number of Representations by Sums of Squares and
-Triangular Numbers;;7;;985
+The Number of Representations by Sums of Squares and Triangular Numbers;;7;;985
 Representations of Squares by Certain Septenary Quadratic Forms;;13;;985
 On Finite Semi-regular Continued Fractions;;16;;977
 Pell Equation: A Revisit through Periodic \(\mathcal{F}_{2^{{\ell}}}\)-Continued Fractions;;20a;;977
@@ -1712,9 +1695,7 @@ Odd Catalan Numbers Modulo <i>2<sup>k</sup></i>;;11;;1062
 A Note on the <i>q</i>-Binomial Rational Root Theorem;;9;;1063
 <i>r</i>-Completeness of Sequences of Positive Integers;;16;;1064
 On the Property <em>P<sub>-1</sub></em>;;7;;1065
-On the Diophantine Equation
- <i>x<sup>2</sup> + 3<sup>m</sup> = y<sup>n</sup></i>,
-;;8(1);;1065
+On the Diophantine Equation <i>x<sup>2</sup> + 3<sup>m</sup> = y<sup>n</sup></i>;;8(1);;1065
 On the Conditioned Binomial Coefficients;;11;;1065
 A Multivariate Arithmetic Function of Combinatorial and Topological Significance;;10;;1066
 On Factorization of Integers with Restrictions onthe Exponents;;7;;1067
@@ -2056,8 +2037,7 @@ Representation Numbers of Spinor Regular Ternary Quadratic Forms;;21;;1259
 Arithmetic Properties of the Ternary Quadratic Form \(3x^2+6y^2+14z^2+4yz+2zx+2xy\);;22;;1259
 Polynomial Sequences on Quadratic Curves;;15;;1260
 Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms;;19;;1261
-The Size of the Largest Part of Random Plane
-Partitions of Large Integers;;6;;1262
+The Size of the Largest Part of Random Plane Partitions of Large Integers;;6;;1262
 The Sprague-Grundy Function for Some Selective Compound Games;;20;;1263
 Some Nonlinear Rado Numbers;;18B;;1264
 Long Fully Commutative Elements in Affine Coxeter Groups;;15;;2076
@@ -2082,15 +2062,12 @@ The Average Largest Prime Factor;;13;;1277
 Hypergeometric Bernoulli Polynomials and <i>r</i>-Associated Stirling Numbers of the Second Kind;;22;;1278
 Further Multivariate Generalizations of Euler's Pentagonal Number Theorem and the Rogers-Ramanujan Identities;;16;;1279
 Symmetry in Maximal (<i>s-1,s+1</i>) Cores;;16;;1280
-Affine Invariants,
-Relatively Prime Sets, and a phi Function for Subsets of
-<em>{1, 2, ..., n}</em>;;7;;1281
+Affine Invariants, Relatively Prime Sets, and a phi Function for Subsets of <em>{1, 2, ..., n}</em>;;7;;1281
 Linear Quantum Addition Rules;;7(2);;1281
 Asymptotic Estimates for Phi Functionsfor Subsets of <em>{m+1,m+2,...,n}</em>;;7;;1281
 Heights in Finite Projective Space,and a Problem on Directed Graphs;;8(1);;1281
 Tennenbaum at Penn and Rochester;;8(2);;1281
-Phase Transitions in Infinitely Generated Groups, and Related Problems in 
-Additive Number Theory;;11A;;1281
+Phase Transitions in Infinitely Generated Groups, and Related Problems in Additive Number Theory;;11A;;1281
 On a Partition Problem of Canfield and Wilf;;12A;;1281
 On Sequences without Geometric Progressions;;13;;1281
 Irrational Numbers Associated to Sequences Without Geometric Progressions;;14;;1281
@@ -2558,8 +2535,7 @@ Resolution of the Mixed Sierpi&#324;ski Problem;;8(1);;1559
 On the Kernel of the Coprime Graph of Integers;;9;;1560
 On the Kernel of the Coprime Graph of Integers;;9;;1561
 Partitions of Natural Numbers and Their Representative Functions;;4;;1562
-Random <em>B<sub>h</sub></em> Sets and Additive Bases
-in <b>Z</b><sub>n</sub>;;7;;1562
+Random <em>B<sub>h</sub></em> Sets and Additive Bases in <b>Z</b><sub>n</sub>;;7;;1562
 On the Structure of Sets Which Have Coinciding Representation Functions;;19;;1562
 Extremal Orders of Compositions of Certain Arithmetical Functions;;8(1);;1563
 On the Exponential Sum With the Sum of Digits of Hereditary Base <i>b</i> Notation;;14;;1564
@@ -2577,8 +2553,7 @@ Average Behavior of the Fourier Coefficients of the Symmetric Square <i>L</i>-Fu
 On Finite Semi-regular Continued Fractions;;16;;1572
 The Number of Representations of a Number as Sums of Various Polygonal Numbers;;12;;1573
 Heron Sequences and Their Modifications;;ume 9 Supplement;;1574
-On a Relation Between the Riemann Zeta Function and
-the Stirling Numbers;;8(1);;1575
+On a Relation Between the Riemann Zeta Function and the Stirling Numbers;;8(1);;1575
 Irreducibility of Generalized Fibonacci Polynomials;;22;;1576
 Plane Partition Diamonds and Generalizations;;3;;1577
 A Note on Partitions and Compositions Defined by Inequalities;;5(1);;1577
@@ -2674,8 +2649,7 @@ On a Generalization of a Theorem by Vosper;;0;;1618
 Semigroups with the Erd&#337;s-Tur&aacute;n Property;;7(2);;1618
 Memorial to Javier Cilleruelo: A Problem List;;18;;1618
 Hyperharmonic Numbers Can Rarely Be Integers;;18;;1619
-Distance in the Affince Buildings of <i>SL<sub>n</sub></i> and
-<i>Sp<sub>n</sub></i>;;8(1);;1620
+Distance in the Affince Buildings of <i>SL<sub>n</sub></i> and <i>Sp<sub>n</sub></i>;;8(1);;1620
 Partial Transposes of Permutation Matrices;;8(1);;1621
 Monochromatic Sums Equal to Products Near Zero;;20;;1622
 Unbounded Discrepancy in Frobenius Numbers;;11;;1623
@@ -2719,8 +2693,7 @@ Sum-Products Estimates with Several Sets and Applications;;12;;1641
 Connected Components of the Graph Generated by Power Maps in Prime Finite Fields;;18A;;1641
 Parity Theorems for Statistics on Permutations and Catalan Words;;5(1);;1642
 Combinatorial Proof of Some Moriarty-Type Binomial Coefficient Identities;;6;;1642
-Combinatorial Proofs of Some Simon-Type Binomial Coefficient
-Identities;;7;;1642
+Combinatorial Proofs of Some Simon-Type Binomial Coefficient Identities;;7;;1642
 Recounting Determinants for a Classof Hessenberg Matrices;;7;;1642
 Tiling Proofs of Some Fibonacci-Lucas Relations;;8(1);;1642
 Tiling Proofs of Some Formulas for the Pell Numbers of Odd Index;;9;;1642
@@ -2854,8 +2827,7 @@ Congruences Relating Regular Partition Functions, a Generalized Tau Function and
 On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers;;17;;1724
 Algorithms and Bounds on the Sums of Powers of Consecutive Primes;;24;;1725
 King and Rook Vs. King on aQuarter-Infinite Board;;6;;1726
-On the Structure of Sets with Small Doubling
-Property on the Plane (II);;8(2);;1727
+On the Structure of Sets with Small Doubling Property on the Plane (II);;8(2);;1727
 A Modular Identity for the Ramanuajan Identity Modulo 35;;2;;1728
 Comply/Constrain Games or Games with a Muller Twist;;2;;1729
 Cholesky Factorizations of Matrices Associated with r-order Recurrent Sequences;;5(2);;1729
@@ -2970,8 +2942,7 @@ Note on a Result of Haddad and Helou;;10;;1795
 A Remark on a Paper of Luca and Walsh;;11;;1795
 On a Conjecture of De Koninick;;18;;1795
 A Planar Integral Self-Affine Tile with Cantor Set Intersections With Its Neighbors;;9;;1796
-A Study of Eulerian Numbers for Permutations
-in the Alternating Group;;6;;1797
+A Study of Eulerian Numbers for Permutations in the Alternating Group;;6;;1797
 A Class of Wythoff-Like Games;;12B;;1798
 The  Order of the Fundamental Solution  of \(x^2-Dy^2 =1\) in \(\mathbb{Z}[\sqrt{D}]/\langle D \rangle\);;22;;1799
 The Dinner Table Problem:  The Rectangular Case;;6;;1800
@@ -3245,21 +3216,18 @@ The Three Gap Theorem and Periodic Functions;;22;;1976
 On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers;;21;;1977
 Sums of Distinct Polynomial Residues;;23;;1977
 On Multiplicative Sidon Sets;;13;;1978
-A Bijective Proof of f<sub>n+4</sub>+f<sub>1</sub> + 2f<sub>2</sub> + ... +
-n f<sub>n</sub> = (n+1)f<sub>n+2</sub>+3;;6;;1979
+A Bijective Proof of f<sub>n+4</sub>+f<sub>1</sub> + 2f<sub>2</sub> + ... + n f<sub>n</sub> = (n+1)f<sub>n+2</sub>+3;;6;;1979
 A Variation on Perfect Numbers;;4;;1980
 On the Average Orders of a Class of Divisor Functions;;7;;1980
 A Bijection Between the Triangulations of Convex Polygons and Ordered Trees;;20;;1981
 The Impossibility of Certain Types of Carmichael Numbers;;12;;1982
 Sums of Products of Binomial Coefficients Mod 2 and Run Length Transforms of Sequences;;22;;1983
 Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers;;17;;2086
-Two Generalized Constants related to Zero-Sum Problems for
-Two Special Sets;;7;;1984
+Two Generalized Constants related to Zero-Sum Problems for Two Special Sets;;7;;1984
 Note on a Congruence InvolvingProducts of Binomial Coefficients;;7;;1985
 Champion Primes For Elliptic Curves;;14;;1986
 Note on Leech-type Questions of Trees;;16;;2087
-Linear Equations Involving Iterates of
-&sigma;(N);;ume 9 Supplement;;1987
+Linear Equations Involving Iterates of &sigma;(N);;ume 9 Supplement;;1987
 Quasiperfect Numbers With the Same Exponent;;19;;1987
 On the Divisibility of Odd Perfect Numbers, Quasiperfect Numbers and Amicable Numbers by a High Power of a Prime;;20;;1987
 On a Formula and Some Properties of Carmichael Indices;;24;;1988
@@ -3335,8 +3303,7 @@ On the Small Prime Factors of a Non-deficient Number;;23;;2028
 On a Generalization of a Theorem by Vosper;;0;;2029
 Cyclemaster Matrices and Collatz Cycles;;20;;2030
 Cyclemaster Matrices and Primality Testing;;23;;2030
-The Akiyama-Tanigawa Algorithm for
-Carlitz's <em>q</em>-Bernoulli Numbers;;6;;2031
+The Akiyama-Tanigawa Algorithm for Carlitz's <em>q</em>-Bernoulli Numbers;;6;;2031
 Maximum Distances in the Four-digit Kaprekar Process;;21;;2032
 On Zero-sum Partitions of Abelian Groups;;15;;2033
 On Rainbow Solutions to an Equation with a Quadratic Term;;9;;2034
