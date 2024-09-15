@@ -1625,7 +1625,7 @@ Closed Form Expressions for the Stirling Numbers of the First Kind;;17;;1016
 Explicit Expressions for a Certain Subset of Appell Polynomials: A Probabilistic Perspective;;21;;1016
 A Jacobi Symbol Criterion Involving <i>k</i>-Fibonacci and <i>k</i>-Lucas numbers and Integer Points on Elliptic Curves;;23;;1017
 On the Order of Lacunary Sums of Binomial Coefficients;;3;;1018
-A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients, ;;4;;1018
+A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients;;4;;1018
 An Invariant Sum Related to Record Statistics;;7;;1018
 On Divisibility of Some Power Sums;;7;;1018
 Alternative Proofs on the <i>2</i>-Adic Order of Stirling Numbers of the Second Kind;;10;;1018
@@ -3357,4 +3357,3 @@ Witten Volume Formulas for Semi-Simple Lie Algebras;;11A;;2045
 Additive Volume of Sets Contained in Few Arithmetic Progressions;;19;;1618
 Additive Volume of Sets Contained in Few Arithmetic Progressions;;19;;1712
 Additive Volume of Sets Contained in Few Arithmetic Progressions;;19;;600
-
