@@ -9,12 +9,6 @@ class Authorship:
         self.authorID = authorID
         self.paperID = paperID        
 
-class Paper:
-    def __init__(self, ID, title, volume):
-        self.ID=ID
-        self.title=title
-        self.volume = volume
-
 associations = []
 
 f = open("assocList.txt","r")

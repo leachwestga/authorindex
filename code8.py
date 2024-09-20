@@ -38,6 +38,10 @@ for line in f3:
 f3.close()
 
 
+def firstnamefirst(input):
+    n = input.split(',')
+    return n[1].strip() + " " + n[0].strip()
+
 
 ##for i in range(10):
 ##    print(str(associations[i].authorID) + " " + str(associations[i].paperID))
@@ -57,9 +61,44 @@ def getAuthorsOfPaper(paper):
             alist.append(i.authorID)
     return alist
 
+def getCoauthors(thisPaperID, thisAuthorID):
+    coauthors=[]
+    for i in associations:
+        if (i.paperID == thisPaperID):
+            if (i.authorID != thisAuthorID):
+                coauthors.append(i.authorID)
+    return coauthors  
+                
+
 def authorpapers(aID):
     p = getPapersByAuthor(aID)
     print(authors[aID])
     for i in p:
         print("     " + papers[i].title + ", Vol " + papers[i].volume)
+
+
+
+
+
+def generateAuthorEntry(author):
+    entry = ""
+    entry += authors[author]
+    entry += "\n"
+    p = getPapersByAuthor(author)
+    for pap in p:
+        entry += "   " + papers[pap].title
+        entry += ", Vol " + papers[pap].volume
+        coau = getCoauthors(pap,author)
+        if len(coau) > 0:
+            entry += " (with "
+            for i in coau:
+                entry += firstnamefirst(authors[i]) + ", "
+            entry = entry[:-2]
+            entry +=")"
+            
+        entry +="\n"
+    return entry
+
+for i in range(1430,1440):
+    print(generateAuthorEntry(i))
 
