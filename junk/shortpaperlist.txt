@@ -1,0 +1,24 @@
+Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach;;13;;2070
+Short Effective Intervals Containing Primes;;14;;2071
+K-distance Sets, Falconer Conjecture, and Discrete Analogs;;5(2);;2072
+Arithmetic Structures in Random Sets;;8(1);;2072
+Computational Rediscovery of Ramanujan's Tau Numbers;;18A;;2074
+Congruences for Hyper <i>M</i>-ary Overpartitioin Functions;;10;;2073
+Resolution of the Mixed Sierpi&#324;ski Problem;;8(1);;2075
+Long Fully Commutative Elements in Affine Coxeter Groups;;15;;2076
+Cubes  in <i>{0,1,...,n}<sup>3</sup></i>;;12A;;2077
+Tail Of A Moebius Sum With Coprimality Conditions;;18;;2078
+Two Explicit Formulas of the Schr&ouml;der Numbers;;16;;2079
+A Combinatorial Viewpoint on Preserving Notions of Largeness and an Abstract Rado Theorem;;21;;674
+A Combinatorial Viewpoint on Preserving Notions of Largeness and an Abstract Rado Theorem;;21;;813
+A Common Generalization of Some Identities;;5(1);;1923
+A Common Generalization of Some Identities;;5(1);;2041
+A Congruence Identity on Ordered Partition Using Permutation Polynomials;;24;;1666
+A Congruence Identity on Ordered Partition Using Permutation Polynomials;;24;;1892
+A Congruence Property of Irreducible Laguerre Polynomials in Two Variables;;16;;1052
+A Congruence Property of Irreducible Laguerre Polynomials in Two Variables;;16;;963
+A Congruence for Products of Binomial  Coefficients Modulo a Composite;;7;;1092
+A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>;;16;;1555
+A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>;;16;;896
+A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients, ;;4;;1018
+A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients;;4;;1830
