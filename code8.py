@@ -1,3 +1,8 @@
+from unidecode import unidecode
+import html
+from html.parser import HTMLParser
+
+
 class Authorship:
     def __init__(self, authorID, paperID):
         self.authorID = authorID
@@ -39,6 +44,7 @@ f3.close()
 
 
 def firstnamefirst(input):
+    print(input)
     n = input.split(',')
     return n[1].strip() + " " + n[0].strip()
 
@@ -52,6 +58,7 @@ def getPapersByAuthor(author):
     for i in associations:
         if (i.authorID == author):
             plist.append(i.paperID)
+    
     return plist
 
 def getAuthorsOfPaper(paper):
@@ -99,6 +106,87 @@ def generateAuthorEntry(author):
         entry +="\n"
     return entry
 
-for i in range(1430,1440):
-    print(generateAuthorEntry(i))
+def generateWebAuthorEntry(author):
+    entry = "<li>"
+    entry += authors[author]
+    entry += "\n <ul>"
+    p = getPapersByAuthor(author)
+    for pap in p:
+        entry += "<li>" + papers[pap].title
+        entry += ", Vol " + papers[pap].volume
+        coau = getCoauthors(pap,author)
+        if len(coau) > 0:
+            entry += " (with "
+            for i in coau:
+                entry += firstnamefirst(authors[i]) + ", "
+            entry = entry[:-2]
+            entry +=")"
+        entry +="</li>"
+    entry +="</ul></li>\n<br>\n"
+    return entry
+
+webpage = """
+<html>
+<head>
+<title>
+Author Index
+</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body bgcolor="white" link="#0000B3" vlink="#0000B3" alink="white">
+<style type="text/css">
+a {text-decoration:none;}
+</style>
+<center>
+<img src="smallbanner.gif">
+<p>
+<b><font size=+1>Author Index</font></b>
+</center>
+<ul>
+"""
+
+# create alphabetized list of authors
+alphaAuthors=[]
+h = html.parser
+for i in authors:
+#    alphaAuthors.append([authors[i].lower(),i])
+    name=authors[i]
+    name=h.unescape(name)
+    name=unidecode(name)
+    name=name.lower()
+    alphaAuthors.append([name,i])
+
+
+alphaAuthors.sort()
+
+
+
+for i in alphaAuthors:
+##    print(generateAuthorEntry(i))
+    webpage+=generateWebAuthorEntry(i[1])
+
+
+
+
+
+
+
+webpage += """</ul>
+</font>
+<p>
+<hr>
+<p>
+<center>
+<object height=300 width=800 data="footer.html"></object>
+</center>
+</body>
+</html>"""
+
+f = open("out.html","w")
+for i in webpage:
+    f.write(i)
+f.close()
 

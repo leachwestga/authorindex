@@ -1769,7 +1769,7 @@
 1768;;Yewen, Sun
 1769;;Sun, Zhi-Wei
 1770;;Sundberg, Eric
-1771;;Surahmat
+1771;;Surahmat, Surahmat
 1772;;Sury, B.
 1773;;Swisher, Holly
 1774;;Szab&oacute, Csaba
@@ -1990,7 +1990,7 @@
 1989;;Yamaguchi, Naoya
 1990;;Yamaguchi, Yuka
 1991;;Yamamoto, Shuji
-1992;;Catherine Yan
+1992;;Yan, Catherine
 1993;;Yan, Lu
 1994;;Yang, Dan-Mei
 1995;;Yang, Mingjia

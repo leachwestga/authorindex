@@ -103,7 +103,7 @@
 104;;A Method for Generating Permutation Polynomials Modulo <i>p<sup>n</sup></i>;;21
 105;;A Method for Obtaining Fibonacci Identities;;18
 106;;A Mixing of Prouhet-Thue-Morse Sequences and Rademacher Functions;;15
-107;;A Mock Theta Function for the Delta-Function;;ume 9 Supplement
+107;;A Mock Theta Function for the Delta-Function;;9  Supplement
 108;;A Modular Identity for the Ramanuajan Identity Modulo 35;;2
 109;;A Multiple Hook Removing Game Whose Starting Position is a Rectangular Young Diagram with Unimodal Numbering;;23
 110;;A Multiplicity ProblemRelated to Schur Numbers;;8(1)
@@ -405,7 +405,7 @@
 406;;Coincidences of Catalan and <i>q</i>-Catalan Numbers;;11A
 407;;Colored Partitions and the Hooklength Formula: Partition Statistic Identities;;20a
 408;;Coloring and Boundary Invariants for Polyominoes;;23
-409;;Column-To-Row Operations on Partitions: The Envelopes;;ume 9 Supplement
+409;;Column-To-Row Operations on Partitions: The Envelopes;;9  Supplement
 410;;Combinatorial Formulas for Arithmetic Density;;22
 411;;Combinatorial Identities Deriving from the nth Power of a 2 x 2 Matrix;;4
 412;;Combinatorial Identities Involving Harmonic Numbers;;20
@@ -420,7 +420,7 @@
 421;;Combinatorial Properties of the Antichains of a Garland;;9
 422;;Combinatorial Sums and Identities Involving Generalized Sum-of-Divisors Functions with Bounded Divisors;;20
 423;;Combinatorics of Integer Partitions in Arithmetic Progression;;10
-424;;Combinatorics of Ramanujan-Slater Type Identities;;ume 9 Supplement
+424;;Combinatorics of Ramanujan-Slater Type Identities;;9  Supplement
 425;;Combined Algebraic Properties of Central* Sets;;7
 426;;Communal Partitions of Integers;;11
 427;;Commutative Algebra and the Linear Diophantine Problem of Frobenius;;18B
@@ -659,7 +659,7 @@
 660;;Fibonacci-Catalan Series;;22
 661;;Filters and Subgroups Associated with Hartman Measurable Functions;;5(3)
 662;;Finding Almost Squares II;;5(1)
-663;;Finding Almost Squares III;;ume 9 Supplement
+663;;Finding Almost Squares III;;9  Supplement
 664;;Finding Almost Squares V;;10
 665;;Finding Almost Squares VII;;22
 666;;Finding Sums of Four Squares via Complex Continued Fractions;;24
@@ -688,7 +688,7 @@
 689;;Fraenkel's Partition and Brown's Decomposition;;3
 690;;Frobenius Numbers and Automatic Sequences;;21
 691;;Frobenius Numbers by Lattice Point Enumeration;;7
-692;;Frobenius Numbers of Generalized Fibonacci Semigroups;;ume 9 Supplement
+692;;Frobenius Numbers of Generalized Fibonacci Semigroups;;9  Supplement
 693;;From a Hungary-Israel Contest Problem;;21
 694;;Full <i>K</i>-Complete Partitions;;22
 695;;Further Analogues of the Rogers-Ramanujan Functions with Applications to Partitions;;7(2)
@@ -754,7 +754,7 @@
 755;;Heights in Finite Projective Space,and a Problem on Directed Graphs;;8(1)
 756;;Heights of Divisors of <i>x<sup>n</sup>-1</i>;;11A
 757;;Hereditary Tiling Sets of the Integers;;8(1)
-758;;Heron Sequences and Their Modifications;;ume 9 Supplement
+758;;Heron Sequences and Their Modifications;;9  Supplement
 759;;High Degree <i>b</i>-Niven Numbers;;21
 760;;High Order Complementary Bases of Primes;;2
 761;;High rank Elliptic Curves with Torsion Z/4Z Induced by  Kihara's Elliptic Curves;;16
@@ -847,7 +847,7 @@
 848;;Limiting Behavior in Growth of Bulgarian Solitaire Orbits;;23
 849;;Line Sidon Sets;;23
 850;;Linear Combinations of Two Polygonal Numbers That Take Infinitely Often a Square Value;;20
-851;;Linear Equations Involving Iterates of &sigma;(N);;ume 9 Supplement
+851;;Linear Equations Involving Iterates of &sigma;(N);;9  Supplement
 852;;Linear Equations in the Stone-Cech Compactification of N;;0
 853;;Linear Quantum Addition Rules;;7(2)
 854;;Linear Recurrence Sequences With Indices in Arithmetic Progression and Their Sums;;16
@@ -878,7 +878,7 @@
 879;;M&ouml;bius Maps and Continued Fractions;;24
 880;;Maharaja Nim: Wythoff's Queen meets the Knight;;14
 881;;Mahler Takes a Regular View of Zaremba;;18A
-882;;Maier Matrices Beyond <b><i>Z</i></b>;;ume 9 Supplement
+882;;Maier Matrices Beyond <b><i>Z</i></b>;;9  Supplement
 883;;Major Index Over Descent for Pattern-avoiding Permutations;;18
 884;;Maker-Breaker Rado Games for Equations with Radicals;;24
 885;;Mathematics of Ghaly's Machine;;6
@@ -1085,7 +1085,7 @@
 1086;;On Product Difference Fibonacci Identities;;11
 1087;;On Products and Shifted Products of Residues Modulo <i>p</i>;;8(2)
 1088;;On Proofs of Generalized Knuth's Old Sum;;23
-1089;;On Pseudosquares and Pseudopowers;;ume 9 Supplement
+1089;;On Pseudosquares and Pseudopowers;;9  Supplement
 1090;;On RATS Sequences in General Bases;;14
 1091;;On Rainbow Solutions to an Equation with a Quadratic Term;;9
 1092;;On Rapid Generation of <i>SL<sub>2</sub>(<b>F</b><sub>q</sub>)</i>;;9
@@ -1211,7 +1211,7 @@
 1212;;On the Counting Function of Semiprimes;;21
 1213;;On the Degree of Regularity of Generalized van der Waerden Triples;;5(1)
 1214;;On the Density of Happy Numbers;;13
-1215;;On the Density of Integral Sets with Missing Differences;;ume 9 Supplement
+1215;;On the Density of Integral Sets with Missing Differences;;9  Supplement
 1216;;On the Differences Between Consecutive Prime Numbers, I;;12B
 1217;;On the Diophantine Equation &Pi; <i>x<sub>i</sub></i> = &Sigma; <i>x<sub>i</sub></i>;;12
 1218;;On the Diophantine Equation <i>x<sup>2</sup> + 3<sup>m</sup> = y<sup>n</sup></i>;;8(1)
@@ -1230,7 +1230,7 @@
 1231;;On the Equation <i>a<sup>x</sup> &#8801;x</i> mod <i>b</i>;;9
 1232;;On the Equation \(\sigma^*(n)=1+Mn\);;23
 1233;;On the Equation m-1 = a <IMG SRC="varphi.gif"  HEIGHT="10" WIDTH="10">(m);;6
-1234;;On the Euler Product of Some Zeta Functions;;ume 9 Supplement
+1234;;On the Euler Product of Some Zeta Functions;;9  Supplement
 1235;;On the Exponential Sum With the Sum of Digits of Hereditary Base <i>b</i> Notation;;14
 1236;;On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>;;21
 1237;;On the Finiteness of Carmichael Numbers with Fermat Factors and \(L=2^{\alpha}P^2\);;20
@@ -1286,7 +1286,7 @@
 1287;;On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind;;2
 1288;;On the Product of Log-Concave Polynomials;;6
 1289;;On the Property <em>P<sub>-1</sub></em>;;7
-1290;;On the Range of the Iterated Euler Function;;ume 9 Supplement
+1290;;On the Range of the Iterated Euler Function;;9  Supplement
 1291;;On the Reducibility of Exact Covering Systems;;15
 1292;;On the Relationship Between the Number of Solutions of Congruence Systems and the Resultant of Two Polynomials;;16
 1293;;On the Residue Classes of <i>&pi;(n)</i> Modulo <i>t</i>;;13
@@ -1521,8 +1521,8 @@
 1522;;Ruth-Aaron Pairs Containing Riesel or Sierpi&nacute;ski Numbers;;18
 1523;;Schur's Theorem in Integer Lattices;;22
 1524;;Searching for Strange Hypergeometric Identities by Sheer Brute Force;;8(1)
-1525;;Self Generating Sets and Numeration Systems;;ume 9  Supplement
-1526;;Self Generating Sets and Numeration Systems;;ume 9 Supplement
+1525;;Self Generating Sets and Numeration Systems;;9   Supplement
+1526;;Self Generating Sets and Numeration Systems;;9  Supplement
 1527;;Selmer's Multiplicative Algorithm;;11
 1528;;Semigroups with the Erd&#337;s-Tur&aacute;n Property;;7(2)
 1529;;Sequences in Partitions;;22
@@ -1547,7 +1547,7 @@
 1548;;Simpson's Paradox in the FareySequence;;6
 1549;;Simultaneous Approximations to &zeta;(2) and &zeta;(4);;18
 1550;;Slow <i>k</i>-Nim;;20
-1551;;Small Sets Satisfying the Central Sets Theorem;;ume 9 Supplement
+1551;;Small Sets Satisfying the Central Sets Theorem;;9  Supplement
 1552;;Small Solutions of \(ax_1\cdots x_k + bx_{k+1}\cdots x_{2k} \equiv c \pmod {m}\) under the Lindel&ouml;f Hypothesis;;21
 1553;;Smith Numbers With Extra Digital Features;;14
 1554;;Snaky is a 41-dimensional Winner;;4
@@ -1634,8 +1634,8 @@
 1635;;Sum-product Estimates Applied toWaring's Problem Mod <i>p</i>;;8(1)
 1636;;Sumbers -- Sums of Ups and Downs;;5(1)
 1637;;Sums and Convolutions of <i>k</i>-bonacci and <i>k</i>-Lucas Numbers;;21
-1638;;Sums and Differences of the Coordinates of Points on Modular Hyperbola;;ume 9 Supplement
-1639;;Sums and Differences of the Coordinates of Points on Modular Hyperbolas;;ume 9 Supplement
+1638;;Sums and Differences of the Coordinates of Points on Modular Hyperbola;;9  Supplement
+1639;;Sums and Differences of the Coordinates of Points on Modular Hyperbolas;;9  Supplement
 1640;;Sums and Products of Distinct Sets and Distinct Elements in <i>C</i>;;10
 1641;;Sums of &omega;(<i>N</i>) and &Omega;(<i>N</i>) over the <i>K</i>-Free Parts and <i>K</i>-Full Parts of Some Particular Sequences;;22
 1642;;Sums of Consecutive Prime Squares;;22
@@ -1716,7 +1716,7 @@
 1717;;The Euler Series Transformation and the Binomial Identities of Ljunggren, Munarini, and Simons;;10
 1718;;The Factorial Moments of the Generalized Bernoulli-Fibonacci Distribution;;21
 1719;;The Figure of Merit of 2-dimensional Rank 2 Lattice Rules;;5(3)
-1720;;The Finite Heine Transform;;ume 9 Supplement
+1720;;The Finite Heine Transform;;9  Supplement
 1721;;The Finite Heine Transformation and Conjugate Durfee Squares;;9
 1722;;The Finiteness Property for Shift Radix Systems With General Parameters;;19
 1723;;The Fourier Transform of Functions of the Greatest Common Divisor;;8(1)
