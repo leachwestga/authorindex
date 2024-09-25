@@ -44,7 +44,7 @@ f3.close()
 
 
 def firstnamefirst(input):
-    print(input)
+##    print(input)
     n = input.split(',')
     return n[1].strip() + " " + n[0].strip()
 
@@ -107,18 +107,28 @@ def generateAuthorEntry(author):
     return entry
 
 def generateWebAuthorEntry(author):
-    entry = "<li>"
+    entry = "<a name='"
+    entry += str(author)
+    entry += "'>"
+    entry += "<li>"
     entry += authors[author]
     entry += "\n <ul>"
     p = getPapersByAuthor(author)
     for pap in p:
         entry += "<li>" + papers[pap].title
+        entry += '<a href="vol'
+        entry += papers[pap].volume
+        entry += '">'
         entry += ", Vol " + papers[pap].volume
+        entry += "</a>"
         coau = getCoauthors(pap,author)
         if len(coau) > 0:
             entry += " (with "
             for i in coau:
-                entry += firstnamefirst(authors[i]) + ", "
+                entry +='<a href=#'
+                entry += str(i)
+                entry += '>'
+                entry += firstnamefirst(authors[i]) + "</a>, "
             entry = entry[:-2]
             entry +=")"
         entry +="</li>"
@@ -179,9 +189,6 @@ webpage += """</ul>
 <p>
 <hr>
 <p>
-<center>
-<object height=300 width=800 data="footer.html"></object>
-</center>
 </body>
 </html>"""
 
