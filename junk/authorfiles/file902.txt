@@ -1,0 +1,6 @@
+
+<li> Khan, Bilal
+<ul>
+<li> (with Kiran R. Bhutani and Delaram Kahrobaei) A Graphic
+Generalization of Arithmetic, <a href="vol7.html">Vol 7</a>
+

@@ -1,0 +1,6 @@
+
+<li> Tanimoto, Shinji
+<ul>
+<li> A Study of Eulerian Numbers for Permutations
+in the Alternating Group, <a href="vol6.html">Vol 6</a>
+

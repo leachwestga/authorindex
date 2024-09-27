@@ -1,0 +1,6 @@
+
+<li> Dubickas, Art&#363;ras
+<ul>
+<li> (with Tomas Plankis) Periodicity of Some Recurrence Sequences
+Modulo <i>m</i>, <a href="vol8.html">Vol 8(1)</a>
+

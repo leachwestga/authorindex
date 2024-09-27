@@ -1,0 +1,12 @@
+
+<li> dos Santos, Carlos Pereira
+<ul>
+<li> (with Jorge Nuno Silva) Konane has Infinite Nim-dimension,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Alda Carvalho, C&aacute;tia Lente Dias, Francisco Coelho, Jo&atilde;o Pedro Neto,  and Sandra Vinagre) A Recursive Process Related to a Partizan Variation of Wythoff, <a href="vol12.html">Vol 12</a>
+<li> (with Michael Fisher, Neil McKary, Richard J. Nowakowski, and Paul Ottaway) Atomic Weight Calculus of Spindly Games, <a href="vol20.html">Vol 20</a>
+<li> (with Alda Carvalho, Melissa A. Huggan, and Richard J. Nowakowski) A Note on Numbers, <a href="vol21b.html">Vol 21b</a>
+<li> (with Alda Carvalho, Melissa A. Huggan, and Richard J. Nowakowski) Ordinal Sums, Clockwise Hackenbush, and Domino Shave, <a href="vol21b.html">Vol 21b</a>
+<li> (with Urban Larsson, Rebecca Milley, Richard Nowakowski, Gabriel Renault, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+<li> (with Urban Larsson and Richard J. Nowakowski) Impartial Games with Entailing Moves, <a href="vol21b.html">Vol 21b</a>
+

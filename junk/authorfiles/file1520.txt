@@ -1,0 +1,5 @@
+
+<li> Ribenboim, Paulo
+<ul>
+<li> Explicit Solutions of Certain Systems of Pell Equations, <a href="vol12a.html">Vol 12A</a>
+

@@ -1,0 +1,6 @@
+
+<li> Ushiroya, Noboru
+<ul>
+<li> Mean-Value Theorems for Multiplicative Arithmetic Functions of Several Variables, <a href="vol12.html">Vol 12</a>
+<li> Shifted Convolution Sums of Arithmetic Functions of Two Variables and Ramanujan Expansions, <a href="vol21.html">Vol 21</a>
+

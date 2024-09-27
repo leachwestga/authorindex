@@ -1,0 +1,5 @@
+
+<li> Ciere, Michael
+<ul>
+<li> (with Kevin Buzzard) Playing Simple Loony Dots-and-Boxes Endgames Optimally, <a href="vol14.html">Vol 14</a>
+

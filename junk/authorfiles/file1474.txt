@@ -1,0 +1,5 @@
+
+<li> Qian, Jianguo 
+<ul>
+<li> (with Wei Wang, Xiaoping Li, Xiang-Gen Xia, and Wenjie Wang) Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers, <a href="vol17.html">Vol 17</a>
+

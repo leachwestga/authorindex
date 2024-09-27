@@ -1,0 +1,6 @@
+
+<li> Rice, Brian
+<ul>
+<li> Primitive Prime Divisors in Polynomial Arithmetic Dynamics,
+<a href="vol7.html">Vol 7</a>
+

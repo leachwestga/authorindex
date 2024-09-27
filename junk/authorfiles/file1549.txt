@@ -1,0 +1,5 @@
+
+<li> Rouse, Jeremy 
+<ul>
+<li> (with Bart Goddard) Sum of Two Repdigits a Square, <a href="vol17.html">Vol 17</a>
+

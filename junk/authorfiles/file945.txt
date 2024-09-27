@@ -1,0 +1,7 @@
+
+<li> Kolitsch, Louis W.
+<ul>
+<li> A Connection Between Ordinary Partitions and
+Tilings with Dominoes and Squares, <a href="vol7.html">Vol 7</a>
+<li> (with Yuriy Choliy and Andrew V. Sills) Partition Recurrences, <a href="vol18b.html">Vol 18B</a>
+

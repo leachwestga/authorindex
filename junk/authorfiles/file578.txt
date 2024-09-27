@@ -1,0 +1,5 @@
+
+<li> Firicel, Alina
+<ul>
+<li> Subword Complexity and Laurent Series, <a href="vol11b.html">Vol 11b</a>
+

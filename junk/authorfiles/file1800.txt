@@ -1,0 +1,7 @@
+
+<li> Ta, Ha
+<ul>
+<li> (with David Garth and Joseph Palmer)
+Self Generating Sets and Numeration Systems,
+<a href="vol9supp.html">Volume 9  Supplement</a>
+

@@ -1,0 +1,7 @@
+
+<li> Burke, Kyle
+<ul>
+<li> <i>2<sup>3</sup></i> Quantified Boolean Formula Games and Their Complexities, <a href="vol15a.html">Vol 15A</a>
+<li> (with Matthew Ferland, Michael Fisher, Valentin Gledel, and Craig Tennenhouse) The Game of Blocking Pebbles, <a href="vol21b.html">Vol 21b</a>
+<li> (with Matthew Ferland and Shang-Hua Teng) Transverse Wave: An Impartial Color-propagation Game Inspried by Social Influence and Quantum Nim, <a href="vol21b.html">Vol 21b</a>
+

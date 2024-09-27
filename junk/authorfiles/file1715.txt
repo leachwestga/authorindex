@@ -1,0 +1,5 @@
+
+<li> Smyth, Chris 
+<ul>
+<li> (with K&aacute;lm&aacute;n Gy&#337;ry) The Divisibility of <i>a<sup>n</sup>-b<sup>n</sup></i> by Powers of <i>n</i>, <a href="vol10.html">Vol 10</a>
+

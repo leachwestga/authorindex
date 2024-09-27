@@ -1,0 +1,6 @@
+
+<li> Clark, Lane
+<ul>
+<li> Central and Local Limit Theorems for Excedances by Conjugacy Class and by Derangement, <a href="vol2.html">Vol 2</a>
+<li> Multiplicities of Integer Arrays, <a href="vol10.html">Vol 10</a>
+

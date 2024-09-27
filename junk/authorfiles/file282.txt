@@ -1,0 +1,5 @@
+
+<li> C&eacute;gielski, Patrick
+<ul>
+<li> (with Serge Grigorieff and Ir&egrave;ne Guessarian) Characterizing Congruence Preserving Functions <i> Z/nZ &rarr; Z/mZ</i> Via Rational Polynomials, <a href="vol16.html">Vol 16</a>
+

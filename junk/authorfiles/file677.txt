@@ -1,0 +1,5 @@
+
+<li> Gonz&aacute;lez, Oscar E.
+<ul>
+<li> An Observation of Rankin on Hankel Determinants, <a href="vol19.html">Vol 19</a>
+

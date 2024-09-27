@@ -1,0 +1,5 @@
+
+<li> Kwong, Harris 
+<ul>
+<li> (with Jocelyn Quaintance) A Combinatorial Interpretation of the Catalan and Bell Number Difference Tables, <a href="vol13.html">Vol 13</a>
+

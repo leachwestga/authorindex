@@ -1,0 +1,6 @@
+
+<li> Penland, Andrew 
+<ul>
+<li> (with Mark Budden and Josh Hiller) Constructive Methods in Gallai-Ramsey Theory for Hypergraphs, <a href="vol20a.html">Vol 20a</a>
+<li> (with Mark Budden, Josh Hiller, and Tommy Meek) Algebraic Properties of a Hypergraph Lifting Map, <a href="vol21.html">Vol 21</a>
+

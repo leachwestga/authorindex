@@ -1,0 +1,5 @@
+
+<li> Chase, Zachary
+<ul>
+<li> On the Iterates of Digit Maps, <a href="vol18.html">Vol 18</a>
+

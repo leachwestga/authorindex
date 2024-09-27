@@ -1,0 +1,7 @@
+
+<li> Panholzer, Alois
+<ul>
+<li> (with Helmut Prodinger) Kirkman's Hypothesis Revisited, <a href="vol1.html">Vol 1</a>
+<li> (with Helmut Prodinger) A Generating Functions Proof of a Curious Identity, <a href="vol2.html">Vol 2</a>
+<li> (with Helmut Prodinger) A Short Proof of a Series Evaluation in Terms of Harmonic Numbers, <a href="vol9.html">Vol 9</a>
+

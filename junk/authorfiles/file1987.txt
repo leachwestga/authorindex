@@ -1,0 +1,5 @@
+
+<li> Wilf, Herbert S.
+<ul>
+<li> (with Sylvie Corteel and Carla D. Savage) A Note on Partitions and Compositions Defined by Inequalities, <a href="vol5.html">Vol 5(1)</a>
+

@@ -1,0 +1,5 @@
+
+<li> Cairns, Brant
+<ul>
+<li> (with Christian Aebi) Lattice Equable Quadrilaterals III: Tangential and Extangential Cases, <a href="vol23.html">Vol 23</a>
+

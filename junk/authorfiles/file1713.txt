@@ -1,0 +1,5 @@
+
+<li> Smith, Michael 
+<ul>
+<li> (with Bret Benesh, Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good,  Jennifer Travis, and Mark Daniel Ward) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
+

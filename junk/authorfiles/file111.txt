@@ -1,0 +1,6 @@
+
+<li> Bandyopadhyay, Subhajit
+<ul>
+<li> (with Nayandeep Deka Baruah) The <i>n</i>-color Partition Function and Some Counting Theorems, <a href="vol21.html">Vol 21</a>
+<li> (with Nayandeep Deka Baruah) A Note on the Number of Representations of a Positive Integer as a Sum of Generalized Polygonal Numbers, <a href="vol23.html">Vol 23</a>
+

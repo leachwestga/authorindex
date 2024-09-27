@@ -1,0 +1,5 @@
+
+<li> Di Claudio, Leontina Veliana
+<ul>
+<li> (with Wenchang Chu) Jensen Proof of a Curious Binomial Identity, <a href="vol3.html">Vol 3</a>
+

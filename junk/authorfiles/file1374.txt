@@ -1,0 +1,10 @@
+
+<li> Pandey, Ram Krishna
+<ul>
+<li> (with Amitabha Tripathi) On the Density of Integral Sets with Missing Differences, <a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Raj Kumar Mistri) Derivative of an Ideal in a Number Ring, <a href="vol14.html">Vol 14</a>
+<li> (with Raj Kumar Mistri) The Direct and Inverse Theorems on Integer Subsequence Sums Revisited, <a href="vol16.html">Vol 16</a>
+<li> (with Sai Teja Somu) On Unavoidable Obstructions in Gaussian Walks, <a href="vol16.html">Vol 16</a>
+<li> (with Anshika Srivastava and Om Prakash) On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with Manish Kumar and Mohan Pandey) A Conjecture of Chu et al. and a New Family of MSTD Sets, <a href="vol24.html">Vol 24</a>
+

@@ -1,0 +1,5 @@
+
+<li> Paudel, Bishnu
+<ul>
+<li> (with Chris Pinner) Integer Circulant Determinants of Order 15, <a href="vol22.html">Vol 22</a>
+

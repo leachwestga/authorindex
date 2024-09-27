@@ -1,0 +1,6 @@
+
+<li> Schmitt, John R. 
+<ul>
+<li> (with Yair Caro and Benjamin Girard) Higher Degree Davenport Constants over Finite Commutative Rings, <a href="vol21.html">Vol 21</a>
+<li> (with Yair Caro) Higher Degree Erd&#337;s-Ginzburg-Ziv Constants, <a href="vol22.html">Vol 22</a>
+

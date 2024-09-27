@@ -1,0 +1,9 @@
+
+<li> Axler, Christian
+<ul>
+<li> New Bounds for the Prime Counting Function, <a href="vol16.html">Vol 16</a>
+<li> New Estimates for Some Functions Defined Over Primes, <a href="vol18.html">Vol 18</a>
+<li> Estimates for &pi;(<i>x</i>) for Large Values of <i>x</i> and Ramanujan's Prime Counting Inequality, <a href="vol18.html">Vol 18</a>
+<li> (with Mehdi Hassani) Carleman's Inequality Over Prime Numbers, <a href="vol21.html">Vol 21</a>
+<li> Effective Estimates for Some Functions Defined over Primes, <a href="vol24.html">Vol 24</a>
+

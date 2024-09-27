@@ -1,0 +1,7 @@
+
+<li> Dvo&rcaron;&aacute;kov&aacute; (born Balkov&aacute;), L'ubom&iacute;ra 
+<ul>
+<li> (with Josef Florian) 
+ A New Estimate on Complexity of Binary Generalized Pseudostandard Words, <a href="vol17.html">Vol 17</a>
+<li> (with Tereza Velk&aacute;) Fixed Points of Morphisms Among Binary Generalized Pseudostandard Words, <a href="vol18.html">Vol 18</a>
+

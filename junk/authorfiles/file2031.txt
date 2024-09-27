@@ -1,0 +1,6 @@
+
+<li> Yayenie, Omer
+<ul>
+<li> (with Marcia Edson) A New Generalization of Fibonacci Sequence and Extended Binet's Formula, <a href="vol9.html">Vol 9</a>
+<li> (with Marcia Edson and Scott Lewis) The <i>k</i>-Periodic Fibonacci Sequence and an Extended Binet's Formula, <a href="vol11.html">Vol 11</a>
+

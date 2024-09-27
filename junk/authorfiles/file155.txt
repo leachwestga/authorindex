@@ -1,0 +1,9 @@
+
+<li> Berth&eacute;, Val&eacute;rie 
+<ul>
+<li> (with Anne Siegel) Tilings Associated with Beta-numeration and Substitutions, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Pierre Arnoux, Zuzana Mas&aacute;kov&aacute;, and
+Edita Pelantov&aacute;) Sturm Numbers and Substitution Invariance of
+3iet Words, <a href="vol8.html">Vol 8(1)</a>
+<li> Multidimensional Euclidean Algorithms, Numeration  and Substitutions, <a href="vol11b.html">Vol 11b</a>
+

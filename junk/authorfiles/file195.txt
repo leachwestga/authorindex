@@ -1,0 +1,5 @@
+
+<li> Borah, Padma Bhushan
+<ul>
+<li class="fragment"> (with Mridul Dutta) On the Diophantine Equation \(7^{x}+32^{y}=z^{2}\) and its Generalization, <a href="vol22.html">Vol 22</a>
+

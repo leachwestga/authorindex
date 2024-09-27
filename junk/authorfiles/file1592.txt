@@ -1,0 +1,9 @@
+
+<li> S&aacute;rk&ouml;zy, Andra&aacute;s
+<ul>
+<li>On Products and Shifted Products of Residues Modulo <i>p</i>,
+<a href="vol8-2.html">Vol 8(2)</a>
+<li> (with Vsevolod F. Lev) An Erd&#337;s-Fuchs Type Theorem for Finite Groups,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Katalin Gyarmati) On Reducible and Primitive Subsets of F<sub><i>p</i></sub>, I, <a href="vol15a.html">Vol 15A</a>
+

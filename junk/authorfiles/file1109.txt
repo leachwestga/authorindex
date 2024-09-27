@@ -1,0 +1,5 @@
+
+<li> Luckner, Thomas
+<ul>
+<li> (with Michael Filaseta and Jacob Juillerat) Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers, <a href="vol23.html">Vol 23</a>
+

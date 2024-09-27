@@ -1,0 +1,5 @@
+
+<li> Fernando, Neranga
+<ul>
+<li> A Note on the Permutation Behaviour of the Polynomial <i>g<sub>n,q</sub></i>, <a href="vol19.html">Vol 19</a>
+

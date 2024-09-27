@@ -1,0 +1,6 @@
+
+<li> Chikin, Nikolay 
+<ul>
+<li> (with Vladimir Gurvich, Silvia Heubach, and Hhan Bao Ho) Slow <i>k</i>-Nim, <a href="vol20.html">Vol 20</a>
+<li> (with Vladimir Gurvich, Konstantin Knop, Mike Paterson, and Michael Vyalyi) More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,9 @@
+
+<li> Miyadera, Ryohei
+<ul>
+<li> (with Shunsuke Nakamura) Impartial Chocolate Bar Games, <a href="vol15.html">Vol 15</a>
+<li> (with Maakito Inoue and Masanori Fukui) Impartial Chocolate Bar Games with a Pass, <a href="vol16.html">Vol 16</a>
+<li> (with Shunsuke Nakamura and Yushi Nakaya) Grundy Numbers of Impartial Chocolate Bar Games, <a href="vol20.html">Vol 20</a>
+<li> (with Yushi Nakaya) Grundy Numbers of Impartial Three-Dimensional Chocolate-Bar Games, <a href="vol21b.html">Vol 21b</a>
+<li> (with Hikaru Manabe) Restricted Nim with a Pass, <a href="vol23.html">Vol 23</a>
+

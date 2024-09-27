@@ -1,0 +1,5 @@
+
+<li> Polasub, Mickey
+<ul>
+<li> A Short Proof of a Result of Gica and Luca, <a href="vol13.html">Vol 13</a>
+

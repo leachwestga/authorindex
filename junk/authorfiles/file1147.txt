@@ -1,0 +1,5 @@
+
+<li> Marcovici, Ir&egrave;ne
+<ul>
+<li> (with Thomas Stoll and Pierre-Adrien Tahay) Discrete Correlations of Order 2 of Generalized Golay-Shapiro Sequences:  A Combinatorial Approach, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,9 @@
+
+<li> Dekking, Michel 
+<ul>
+<li> (with Wieb Bosma and Wolfgang Steiner) A Remarkable Integer Sequence Related to &pi; and &radic;2, <a href="vol18a.html">Vol 18A</a>
+<li> The Structure of Zeckendorf Expansions, <a href="vol21.html">Vol 21</a>
+<li> Substitution Invariant Sturmian Words and Binary Trees, <a href="vol18a.html">Vol 18A</a>
+<li> The Sum of Digits Function of the Base Phi Expansion of the Natural Numbers, <a href="vol20.html">Vol 20</a>
+<li> The Structure of Base Phi Expansions, <a href="vol24.html">Vol 24</a>
+

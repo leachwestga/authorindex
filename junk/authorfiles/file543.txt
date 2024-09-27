@@ -1,0 +1,5 @@
+
+<li> Eustis, Alex
+<ul>
+<li> (with Mark Shattuck) Combinatorial Proofs of Some Identities for the Fibonacci and Lucas Numbers, <a href="vol11.html">Vol 11</a>
+

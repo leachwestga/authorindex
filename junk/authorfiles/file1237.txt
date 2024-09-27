@@ -1,0 +1,6 @@
+
+<li> Moffie, Micha
+<ul>
+<li> (with Gill Barequet, Ares Rib&oacute;, and G&uuml;nter Rote) Counting
+Polyominoes on Twisted Cylinders, <a href="vol6.html">Vol 6</a>
+

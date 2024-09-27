@@ -1,0 +1,6 @@
+
+<li> Guy, R. K. 
+<ul>
+<li> (with H. C. Williams) Some Monoapparitic Fourth Order Linear Divisibility Sequences, <a href="vol12a.html">Vol 12A</a>
+<li> (with H. C. Williams) Odd and Even Linear Divisibility Sequences of Order 4, <a href="vol15.html">Vol 15</a>
+

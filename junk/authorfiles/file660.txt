@@ -1,0 +1,5 @@
+
+<li> Glebsky, Lev
+<ul>
+<li> Cycles in Repeated Exponentiation Modulo <i>p<sup>n</sup></i>, <a href="vol13.html">Vol 13</a>
+

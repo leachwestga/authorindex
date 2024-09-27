@@ -1,0 +1,6 @@
+
+<li> Leach, David
+<ul>
+<li> (with Matt Walsh) A Characterization of Lattice-ordered Graphs,
+<a href="vol7-2.html">Vol 7(2)</a>
+

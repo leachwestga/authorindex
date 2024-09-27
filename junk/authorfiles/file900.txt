@@ -1,0 +1,5 @@
+
+<li> Kervaire, Michel
+<ul>
+<li> (with Shalom Eliahou) Restricted Sumsets in Finite Vector Spaces:  The Case p=3, <a href="vol1.html">Vol 1</a>
+

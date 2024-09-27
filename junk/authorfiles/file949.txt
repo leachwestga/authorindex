@@ -1,0 +1,5 @@
+
+<li> Konstantogiannis, Spiros
+<ul>
+<li> The Euclidean Algorithm as a Sequence of Modular Inverse Switching Formulas, <a href="vol24.html">Vol 24</a>
+

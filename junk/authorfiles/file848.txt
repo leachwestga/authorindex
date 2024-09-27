@@ -1,0 +1,6 @@
+
+<li> Junes, Leandro 
+<ul>
+<li> (with Rigoberto Fl&oacute;rez) A Relation Between Triangular Numbers and Prime Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Rigoberto Fl&oacute;rez and Robinson A. Higuita) <i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers, <a href="vol14.html">Vol 14</a>
+

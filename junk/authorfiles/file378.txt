@@ -1,0 +1,5 @@
+
+<li> Crandall, Richard
+<ul>
+<li> The Googol-th Bit of the Erd&#337;s--Borwein Constant, <a href="vol12.html">Vol 12</a>
+

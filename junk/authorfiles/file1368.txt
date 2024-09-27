@@ -1,0 +1,5 @@
+
+<li> Pan, Yanbin 
+<ul>
+<li> (with Yingpu Deng) The Sum of Binomial Coefficients and Integer Factorization, <a href="vol16.html">Vol 16</a>
+

@@ -1,0 +1,5 @@
+
+<li> Bridges, Walter
+<ul>
+<li> Partition Inequalities and Applications to Sum-Product Conjectures of Kanade-Russell, <a href="vol20.html">Vol 20</a>
+

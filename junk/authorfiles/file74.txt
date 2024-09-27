@@ -1,0 +1,5 @@
+
+<li> Arroyo, Aubin
+<ul>
+<li> (with Gerardo Gonz&aacute;lez Robert) Hausdorff Dimension of Sets of Numbers With Large L&uuml;roth Elements, <a href="vol21.html">Vol 21</a>
+

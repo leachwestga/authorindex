@@ -1,0 +1,6 @@
+
+<li> Tijdeman, Robert
+<ul>
+<li> (with S. W. Rosema) The Tribonacci Substitution, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Luca Q. Zamboni) Characterizations of Words With Many Periods, <a href="vol9.html">Vol 9</a>
+

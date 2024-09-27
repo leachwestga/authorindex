@@ -1,0 +1,5 @@
+
+<li> Ryan, Richard F.
+<ul>
+<li class=fragment> Under What Conditions on the Exponents Does \(x^{m} + y^{n}  = z^{r}\) Have Solutions?, <a href="vol24.html">Vol 24</a>
+

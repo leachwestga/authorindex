@@ -1,0 +1,5 @@
+
+<li> Owens, C. S. 
+<ul>
+<li> (with H. G. Grundman) On Bounds for Two Davenport-type Constants, <a href="vol13.html">Vol 13</a>
+

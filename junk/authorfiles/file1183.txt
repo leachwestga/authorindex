@@ -1,0 +1,7 @@
+
+<li> McAllister, Tyrrell B.
+<ul>
+<li> (with Sergey Kitaev and T. Kyle Petersen)
+Enumerating Segmented Patterns in Compositions and Encoding by Restricted Permut
+ations, <a href="vol6.html">Vol 6</a>
+

@@ -1,0 +1,7 @@
+
+<li> Roettger, E. L.
+<ul>
+<li> (with H. C. Williams) Lucas-Lehmer Primality Tests for Certain Prime Curios, <a href="vol21.html">Vol 21</a>
+<li> (with H. C. Williams) Some Primality Conditions for <i>N=2 p<sup>n</sup>-1</i>, <a href="vol22.html">Vol 22</a>
+<li> A Note on Public Key Cryptography Based on  Williams-Guy Functions, <a href="vol23.html">Vol 23</a>
+

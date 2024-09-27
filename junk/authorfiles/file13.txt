@@ -1,0 +1,7 @@
+
+<li> Aebi, Christian
+<ul>
+<li> (with Grant Cairns) A Property of Twin Primes, <a href="vol12.html">Vol 12</a>
+<li> (with Grant Cairns) The Quartic Residues Latin Square, <a href="vol17.html">Vol 17</a>
+<li> (with Brant Cairns) Lattice Equable Quadrilaterals III: Tangential and Extangential Cases, <a href="vol23.html">Vol 23</a>
+

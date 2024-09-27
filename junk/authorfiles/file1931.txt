@@ -1,0 +1,8 @@
+
+<li> Wagon, Stan 
+<ul>
+<li> (with David Einstein, Daniel Lichtblau, and Adam Strzebonski)
+Frobenius Numbers by Lattice Point Enumeration,
+<a href="vol7.html">Vol 7</a>
+<li> Round Formulas for Exponential Polynomials and the Incomplete Gamma Function, <a href="vol16.html">Vol 16</a>
+

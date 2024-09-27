@@ -1,0 +1,5 @@
+
+<li> Hu, Yongzhong
+<ul>
+<li> (with Li Feng and Pingzhi Yuan) On the Diophantine Equation <i>x<sup>2</sup>-kxy+y<sup>2</sup>+lx=0</i>, <a href="vol13.html">Vol 13</a>
+

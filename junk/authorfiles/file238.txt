@@ -1,0 +1,6 @@
+
+<li> Bugeaud, Yann
+<ul>
+<li> On the &#X3B2;-Expansion of an Algebraic Number in an Algebraic Base &#X3B2, <a href="vol9.html">Vol 9</a>
+<li> (with Tomislav Pejkovi&cacute;) Explicit Examples of <i>p</i>-adic Numbers With Prescribed Irrationality Exponent, <a href="vol18a.html">Vol 18A</a>
+

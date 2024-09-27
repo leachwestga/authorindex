@@ -1,0 +1,6 @@
+
+<li> O'Sullivan, Cormac
+<ul>
+<li> Asymptotics for the Partial Fractions of the Restricted Partition Generating Function II, <a href="vol16.html">Vol 16</a>
+<li> A Vertex and Edge Deletion Game on Graphs, <a href="vol18.html">Vol 18</a>
+

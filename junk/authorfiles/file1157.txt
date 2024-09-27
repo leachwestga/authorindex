@@ -1,0 +1,5 @@
+
+<li> Martin, James B.
+<ul>
+<li> Extended Sprague-Grundy Theory for Locally Finite Games, and Applications to Random Game-trees, <a href="vol21b.html">Vol 21b</a>
+

@@ -1,0 +1,5 @@
+
+<li> Selinger, Peter
+<ul>
+<li> On the Combinatorial Value of Hex Positions, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,5 @@
+
+<li> Byrnes, Steven
+<ul>
+<li> Poset Game Periodicity, <a href="vol3.html">Vol 3</a>
+

@@ -1,0 +1,5 @@
+
+<li> Cincotti, Alessandro
+<ul>
+<li> On the Complexity of <i>N</i>-Player Hackenbush, <a href="vol9.html">Vol 9</a>
+

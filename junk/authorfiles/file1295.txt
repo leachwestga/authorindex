@@ -1,0 +1,5 @@
+
+<li> Natalini, Pierpaolo
+<ul>
+<li> (with Paolo Emilio Ricci) Hypergeometric Bernoulli Polynomials and <i>r</i>-Associated Stirling Numbers of the Second Kind, <a href="vol22.html">Vol 22</a>
+

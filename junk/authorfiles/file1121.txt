@@ -1,0 +1,5 @@
+
+<li> Ma, Shilin
+<ul>
+<li> (with Kevin J. McGown, Devon Rhodes, and Mathias Wanner) On the Number of Primes for Which a Polynomial is Eisenstein, <a href="vol18.html">Vol 18</a>
+

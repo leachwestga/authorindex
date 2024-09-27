@@ -1,0 +1,6 @@
+
+<li> Sarkar, Subha 
+<ul>
+<li> (with Aaron Robertson and Bidisha Roy) The Determination of 2-color Zero-sum Generalized Schur Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Sukumar Das Adhikari, Shruti Hedge, and Md Ibrahim Molla) Inverse Problems Related to Some Weighted Zero-sum Constants for Cyclic Groups, <a href="vol22.html">Vol 22</a>
+

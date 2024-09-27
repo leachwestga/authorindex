@@ -1,0 +1,5 @@
+
+<li> Ho, Pak Tung
+<ul>
+<li> Squares in <i> (1<sup>2</sup>+m<sup>2</sup>)...(n<sup>2</sup>+m<sup>2</sup>)</i>, <a href="vol9.html">Vol 9</a>
+

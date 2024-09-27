@@ -1,0 +1,5 @@
+
+<li> Wilson, Bryan
+<ul>
+<li> (with Arie Bialostocki) On Monochromatic Sets of Integers Whose Diameters Form a Monotone Sequence, <a href="vol9.html">Vol 9</a>
+

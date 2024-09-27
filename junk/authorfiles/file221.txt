@@ -1,0 +1,6 @@
+
+<li> Brewbaker, Chad
+<ul>
+<li> A Combinatorial Interpretation of the Poly-Bernoulli Numbers and
+Two Fermat Analogues, <a href="vol8.html">Vol 8(1)</a>
+

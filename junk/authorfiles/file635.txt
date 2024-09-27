@@ -1,0 +1,5 @@
+
+<li> Gassert, T. Alden
+<ul>
+<li> (with Michael T. Urbanski) Index Divisibility in the Orbit of <i>0</i> for Integral Polynomials, <a href="vol20.html">Vol 20</a>
+

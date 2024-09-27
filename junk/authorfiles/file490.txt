@@ -1,0 +1,5 @@
+
+<li> Dwivedi, Himanshu Kumar
+<ul>
+<li> (with Raj Kumar Mistri) Direct and Inverse Problems for Subset Sums with Certain Restrictions, <a href="vol22.html">Vol 22</a>
+

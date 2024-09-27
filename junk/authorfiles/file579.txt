@@ -1,0 +1,5 @@
+
+<li> Fish, Sara
+<ul>
+<li> (with Dylan King, Steven J. Miller, Eyvindur A. Palsson, and Catherine Wahlenmayer) Crescent Configurations in Normed Spaces, <a href="vol20.html">Vol 20</a>
+

@@ -1,0 +1,5 @@
+
+<li> Trinh, Minh-Tam 
+<ul>
+<li> (with Julio C. Andrade, Steven J. Miller, and Kyle Pratt) Special Sets of Primes in Function Fields, <a href="vol14.html">Vol 14</a>
+

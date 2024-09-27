@@ -1,0 +1,5 @@
+
+<li> Valli&egrave;res, Daniel
+<ul>
+<li> Elliptic Curves over Finite Fields and Ramanujan Graphs on Two Vertices, <a href="vol24.html">Vol 24</a>
+

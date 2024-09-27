@@ -1,0 +1,5 @@
+
+<li> Alvarez-Salazar, Elise
+<ul>
+<li class=fragment> (with Alexander J. Barrios, Calvin Henaku, and Summer Soller) On \(abc\) Triples of the Form \((1,c-1,c)\), <a href="vol23.html">Vol 23</a>
+

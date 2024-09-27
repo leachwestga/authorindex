@@ -1,0 +1,5 @@
+
+<li> Dil, Ayhan
+<ul>
+<li> (with Veli Kurt) Polynomials Related to Harmonic Numbers and Evaluation of Harmonic Number Series I, <a href="vol12.html">Vol 12</a>
+

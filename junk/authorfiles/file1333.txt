@@ -1,0 +1,5 @@
+
+<li> Ohtsuka, Hideyuki 
+<ul>
+<li> (with Tewodros Amdeberhan, David Callan,  and Roberto Tauraso) Revitalized Automatic Proofs: Demonstrations, <a href="vol17.html">Vol 17</a>
+

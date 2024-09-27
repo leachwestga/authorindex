@@ -1,0 +1,5 @@
+
+<li> Hirshberg, susan
+<ul>
+<li> (with William Fraser and David Wolfe) The Structure of Distributive Lattice of Games Born by Day n, <a href="vol5-2.html">Vol 5(2)</a>
+

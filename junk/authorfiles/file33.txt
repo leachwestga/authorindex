@@ -1,0 +1,5 @@
+
+<li> Ali, Debbache 
+<ul>
+<li> (with Bouroubi Sadek) Some Results on Balancing, Cobalancing, <i>(a,b)</i>-Type Balancing, and <i>(a,b)</i>-Type Cobalancing Numbers, <a href="vol13.html">Vol 13</a>
+

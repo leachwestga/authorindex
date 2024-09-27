@@ -1,0 +1,5 @@
+
+<li> Campbell, John Maxwell
+<ul>
+<li> WZ Proofs for Lemniscate-like Constant Evaluations, <a href="vol21.html">Vol 21</a>
+

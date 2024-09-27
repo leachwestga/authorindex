@@ -1,0 +1,8 @@
+
+<li> Chapman, Scott T.
+<ul>
+<li> (with William W. Smith) A Characterization of Minimal Zero-Sequences of Index One in Finite Cyclic Groups, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Jeff Amos, Natalie Hine, and
+Jo&#227;o Paix&#227;o) Sets of Lengths Do Not Characterize Numerical
+Monoids, <a href="vol7.html">Vol 7</a>
+

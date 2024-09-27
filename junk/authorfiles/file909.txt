@@ -1,0 +1,5 @@
+
+<li> Kifer, Curtis
+<ul>
+<li> (with Matthias Beck) An Extreme Family of Generalized Frobenius Numbers, <a href="vol11.html">Vol 11</a>
+

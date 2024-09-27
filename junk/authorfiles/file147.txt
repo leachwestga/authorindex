@@ -1,0 +1,6 @@
+
+<li> Benesh, Bret
+<ul>
+<li> (with Jamylle Carter, Doug Crabill, Deidra Coleman, Jack Good, Michael Smith, Jennifer Travis, and Mark Daniel Ward) The Periodicity of Nim-Sequences in Two-Element Subtraction Games, <a href="vol20.html">Vol 20</a>
+<li> (with Dana C. Ernst and N&aacute;ndor Sieben) The Spectrum of Nim-Values for Achievement Games for Generating Finite Groups, <a href="vol23.html">Vol 23</a>
+

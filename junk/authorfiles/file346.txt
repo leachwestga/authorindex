@@ -1,0 +1,7 @@
+
+<li> Clark, Pete L.
+<ul>
+<li> (with Jacob Hicks, Katherine Thompson, and Nathan Walters) GoNII: Universal Quaternary Quadratic Forms, <a href="vol12.html">Vol 12</a>
+<li> (with Jacob Hicks, Hans Parshall, and Katherine Thompson) GoNI: Primes Represented by Binary Quadratic Forms, <a href="vol13.html">Vol 13</a>
+<li> (with Lori D. Watson) Varga's Theorem in Number Fields, <a href="vol18.html">Vol 18</a>
+

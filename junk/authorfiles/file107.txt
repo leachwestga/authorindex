@@ -1,0 +1,5 @@
+
+<li> Ballantine, Cristina
+<ul>
+<li class=fragment> Combinatorial Proofs of Merca's Identities Involving the Sum of Different Parts Congruent to \(r\) Modulo \(m\) in All Partitions of \(n\), <a href="vol24.html">Vol 24</a>
+

@@ -1,0 +1,6 @@
+
+<li> Grytczuk, Jaros&lstrok;aw 
+<ul>
+<li> (with Andrzej Dudek and Andrzej Ruci&nacute;ski) On Weak Twins and Up-and-down Sub-permutations, <a href="vol21A.html">Vol 21A</a>
+<li> (with Sohail Farhangi) Distance Graphs and Arithmetic Progressions, <a href="vol21A.html">Vol 21A</a>
+

@@ -1,0 +1,7 @@
+
+<li> Schlage-Puchta, Jan-Christoph
+<ul> 
+<li>(with Immanuel Halupczo) Achieving Snaky, <a href="vol7.html">Vol 7</a>
+<li> (with Gautami Bhowmik and Immanuel Halupczok) Inductive Methods and Zero-sum Free Sequences, <a href="vol9.html">Vol 9</a>
+<li> Completely Multiplicative Automatic Functions, <a href="vol11.html">Vol 11</a>
+

@@ -1,0 +1,9 @@
+ 
+<li> Benjamin, Arthur T.
+<ul>
+<li> (with David Gaebler and Robert Gaebler) A Combinatorial Approach to Hyperharmonic Numbers, <a href="vol3.html">Vol 3</a>
+<li> (with Doron Zeilberger) Pythagorean Primes and Palindromic Continued Fractions, <a href="vol5.html">Vol 5(1)</a>
+<li> (with Mark A. Shattuck) Recounting Determinants for a Class of
+Hessenberg Matrices, <a href="vol7.html">Vol 7</a>
+<li> (with John Lentfer) A Tiling Interpretation of a Generalized Zeckendorf's Theorem, <a href="vol22.html">Vol 22</a>
+

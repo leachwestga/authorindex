@@ -1,0 +1,9 @@
+
+<li> Deaconescu, Marian
+<ul>
+<li>On the Equation m-1 = a
+<IMG SRC="varphi.gif"  HEIGHT="10" WIDTH="10">(m),
+<a href="vol6.html">Vol 6</a>
+<li> An Identity Involving Multiplicative Orders,
+<a href="vol8.html">Vol 8(1)</a>
+

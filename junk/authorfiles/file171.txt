@@ -1,0 +1,6 @@
+
+<li> Bierbrauer, Jurgen
+<ul>
+<li> (with Yves Edel) Families of Nets of Low and Medium Strength, <a href="vol5-3.html">Vol 5(3)</a>
+<li> (with Wolfgang Ch. Schmid) An Asymptotic Gilber-Varshamov Bound for (t,m,s)-nets, <a href="vol5-3.html">Vol 5(3)</a>
+

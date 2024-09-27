@@ -1,0 +1,6 @@
+
+<li> Joyner, David
+<ul>
+<li> Mathematics of Ghaly's Machine, <a href="vol6.html">Vol 6</a>
+<li> (with Charles Celerier, Caroline Melles, David Phillips, and Steven Walsh) Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions, <a href="vol16.html">Vol 16</a>
+

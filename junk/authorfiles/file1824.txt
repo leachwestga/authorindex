@@ -1,0 +1,7 @@
+
+<li> Taylor, Clifford 
+<ul>
+<li> (with Robert Davis, Jessica Doering, Ashley Harrison, and Jenna Noll)
+Compositions Constrained by Graph Laplacian Minors, <a href="vol13.h
+tml">Vol 13</a>
+

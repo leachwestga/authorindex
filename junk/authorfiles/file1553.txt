@@ -1,0 +1,5 @@
+
+<li> Rowley, Fred
+<ul>
+<li> New Lower Bounds for Weak Schur Partitions, <a href="vol21.html">Vol 21</a>
+

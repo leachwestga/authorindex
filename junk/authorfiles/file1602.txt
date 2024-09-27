@@ -1,0 +1,5 @@
+
+<li> Scharaschkin, Victor 
+<ul>
+<li> (with Max Lewis) <i>k</i>-Lehmer and <i>k</i>-Carmichael Numbers, <a href="vol16.html">Vol 16</a>
+

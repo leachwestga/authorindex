@@ -1,0 +1,5 @@
+
+<li> Blair, D. Dakota
+<ul>
+<li> (with Joel David Hamkins and Kevin O'Bryant) Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers, <a href="vol20a.html">Vol 20a</a>
+

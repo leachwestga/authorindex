@@ -1,0 +1,5 @@
+
+<li> Christober, M. Davamani 
+<ul>
+<li> (with A. David Christopher) On Asymptotic Formula of the Partition Function <i>p<sub>A</sub>(n)</i>, <a href="vol15.html">Vol 15</a>
+

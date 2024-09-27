@@ -1,0 +1,5 @@
+
+<li> Zheng, Jinze 
+<ul>
+<li> (with Tian-Xiao He) Duals of the Bernoulli Numbers and Polynomials and the Euler Numbers and Polynomials, <a href="vol17.html">Vol 17</a>
+

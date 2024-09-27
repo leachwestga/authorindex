@@ -1,0 +1,6 @@
+
+<li> Alhakim, Abbas
+<ul>
+<li> (with Steve Butler and Ron Graham) De Bruijn Sequences with Varying Combs,
+<a href="vol14a.html">Vol 14A</a>
+

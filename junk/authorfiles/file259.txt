@@ -1,0 +1,13 @@
+
+<li> Calkin, Neil J.
+<ul>
+<li> (with Steven R. Finch and Timothy B. Flowers) Difference Density and Aperiodic Sum-Free Sets, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Morgan V. Brown, Kevin James,
+Adam J. King, Shannon Lockard, and Robert
+C Rhoades) Trivial Selmer Groups and Even Partitions of a Graph,
+<a href="vol6.html">Vol 6</a>
+<li> (with Nate Drake, Kevin James, Shirley Law, Philip Lee, David Penniston, and Jeanne Radder)
+Divisibility Properties of the 5-regular and 13-regular Partition Functions,
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Julia Davis, Michelle Delcourt, Zebediah Engberg, Jobby Jacob,  and Kevin James) Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach, <a href="vol13.html">Vol 13</a>
+

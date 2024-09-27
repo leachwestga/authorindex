@@ -1,0 +1,5 @@
+
+<li> Collins, David
+<ul>
+<li> Variations on a Theme of Euclid, <a href="vol5.html">Vol 5(1)</a>
+

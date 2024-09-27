@@ -1,0 +1,5 @@
+
+<li> Jonsson, Markus 
+<ul>
+<li> (with Kimmo Eriksson and Jonas Sj&ouml;strand) An Exponential Limit Shape of Random <i>q</i>-proportion Bulgarian Solitaire, <a href="vol18.html">Vol 18</a>
+

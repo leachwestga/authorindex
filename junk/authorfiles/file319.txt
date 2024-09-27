@@ -1,0 +1,7 @@
+
+<li> Chern, Shane
+<ul>
+<li> Congruences for 1-Shell Totally Symmetric Plane Partitions, <a href="vol17.html">Vol 17</a>
+<li> New Congruences for <i>l</i>-Regular Overpartitions, <a href="vol17.html">Vol 17</a>
+<li> An Extension of a Formula of Jovovic, <a href="vol19.html">Vol 19</a>
+

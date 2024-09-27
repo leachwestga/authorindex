@@ -1,0 +1,5 @@
+
+<li> Zhang, Min
+<ul>
+<li> (with Jinjiang Li) On a Diophantine Equation With Three Prime Variables, <a href="vol19.html">Vol 19</a>
+

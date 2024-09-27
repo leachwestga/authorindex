@@ -1,0 +1,7 @@
+
+<li> Severini, Simone
+<ul>
+<li> (with Qing-Hu Hou and Toufik Mansour)
+Partial Transposes of Permutation Matrices,
+<a href="vol8.html">Vol 8(1)</a>
+

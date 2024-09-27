@@ -1,0 +1,8 @@
+
+<li> Moses, Peter J. C. 
+<ul>
+<li> (with Vladimir Shevelev) On a Sequence of Polynomials with Hypothetically Integer Coefficients, <a href="vol13.html">Vol 13</a>
+<li> (with Vladimir Shevelev) Tangent Power Sums and Their Applications, <a href="vol14.html">Vol 14</a>
+<li> (with Vladimir Shevelev) Alice and Bob Go to Dinner: A Variation on <i>m&eacute;nage</i>, <a href="vol16.html">Vol 16</a>
+<li> (with Clark Kimberling) Nested Interval Sequences of Positive Real Numbers, <a href="vol17.html">Vol 17</a>
+

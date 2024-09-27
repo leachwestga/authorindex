@@ -1,0 +1,5 @@
+
+<li> Baruchel, Thomas 
+<ul>
+<li> (with J.-P. Allouche) Variations on an Error-sum Function for the Convergents of Some Powers of <i>e</i>, <a href="vol16.html">Vol 16</a>
+

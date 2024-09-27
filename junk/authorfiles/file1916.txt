@@ -1,0 +1,5 @@
+
+<li> Vipismakul, Wasin 
+<ul>
+<li> (with Chris Pinner and Vincent Pigno) The Lind-Lehmer Constant for <i>Z<sub>m</sub> x Z<sup>n</sup></i>, <a href="vol16.html">Vol 16</a>
+

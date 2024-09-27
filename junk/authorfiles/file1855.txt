@@ -1,0 +1,5 @@
+
+<li> Tomkins, Hayley 
+<ul>
+<li> (with Karl Dilcher) Square Classes and Divisibility Properties of Stern Polynomials, <a href="vol18.html">Vol 18</a>
+

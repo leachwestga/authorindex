@@ -1,0 +1,5 @@
+
+<li> Guo, Victor Z.
+<ul>
+<li> (with Andreas Weingartner) The Practicality of Shifted Primes, <a href="vol18.html">Vol 18</a>
+

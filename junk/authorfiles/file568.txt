@@ -1,0 +1,5 @@
+
+<li> Ferrari, Matteo
+<ul>
+<li> Binary Recurrences with Prime Powers as Fixed Points of Their Discriminator, <a href="vol21.html">Vol 21</a>
+

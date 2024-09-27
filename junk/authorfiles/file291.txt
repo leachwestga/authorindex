@@ -1,0 +1,14 @@
+
+<li> Chan, Tsz Ho
+<ul>
+<li> Distribution of Differences Between Inverses of Consecutive Integers Modulo p, <a href="vol4.html">Vol 4</a>
+<li> Finding Almost Squares II, <a href="vol5.html">Vol 5(1)</a>
+<li> Finding Almost Squares III,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> A Short Note on the Difference Between Inverses of Consecutive Integers Modulo <i>p</i>, <a href="vol9.html">Vol 9</a>
+<li> Finding Almost Squares V, <a href="vol10.html">Vol 10</a>
+<li> Product of a Number and its Multiplicative Inverse, Moments of <i>L</i>-functions and Exponential Sums, <a href="vol16.html">Vol 16</a>
+<li> Shortest Distance in Modular Cubic Polynomials, <a href="vol17.html">Vol 17</a>
+<li> Numbers with Three Close Factorizations and Lattice Points on Hyperbolas, <a href="vol18.html">Vol 18</a>
+<li> Finding Almost Squares VII, <a href="vol22.html">Vol 22</a>
+

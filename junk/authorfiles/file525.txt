@@ -1,0 +1,6 @@
+
+<li> Elliott, Jesse
+<ul>
+<li> Newton Basis Relations and Applications to Integer-Valued Polynomials and <i>q</i>-Binomial Coefficients, <a href="vol14.html">Vol 14</a>
+<li> Harmonic Numbers and the Prime Counting Function, <a href="vol21.html">Vol 21</a>
+

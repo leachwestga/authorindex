@@ -1,0 +1,5 @@
+
+<li> Thompson, Kimberly 
+<ul>
+<li> (with Mark Budden, Nicole Calkins, William Nathan Hack, and Joshua Lambert) Enumeration of Triangles in Quartic Residue Graphs, <a href="vol11.html">Vol 11</a>
+

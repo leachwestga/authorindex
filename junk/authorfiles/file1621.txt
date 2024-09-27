@@ -1,0 +1,6 @@
+
+<li> Schwab, Emil Daniel
+<ul>
+<li> (with Gabriela Schwab) <i>k</i>-Fibonacci Numbers and M&ouml;bius Functions, <a href="vol22.html">Vol 22</a>
+<li> (with Gabriela Schwab) Dirichlet Convolution and the Binet Formula, <a href="vol23.html">Vol 23</a>
+

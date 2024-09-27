@@ -1,0 +1,6 @@
+
+<li> Steinberger, John
+<ul>
+<li> (with Don Coppersmith) On the Entry Sum of Cyclotomic Arrays,
+<a href="vol6.html">Vol 6</a>
+

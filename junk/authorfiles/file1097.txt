@@ -1,0 +1,5 @@
+
+<li> Lopes, Pedro
+<ul>
+<li> (with Ant&oacute;nio Lages) A Proof of Euler's Theorem via Quandles, <a href="vol22.html">Vol 22</a>
+

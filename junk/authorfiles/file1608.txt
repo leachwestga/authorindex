@@ -1,0 +1,5 @@
+
+<li> Schmidt, Matthew
+<ul>
+<li> A Determinant of the Artin-Hasse Exponential Coefficients, <a href="vol22.html">Vol 22</a>
+

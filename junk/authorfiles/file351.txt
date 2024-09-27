@@ -1,0 +1,5 @@
+
+<li> Clow, A.
+<ul>
+<li> (with S. Finbow) Advances in Finding Ideal Play on Poset Games, <a href="vol21b.html">Vol 21b</a>
+

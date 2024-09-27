@@ -1,0 +1,6 @@
+
+<li> Juillerat, Jacob 
+<ul>
+<li> (with Michael Filaseta) Consecutive Primes Which Are Widely Digitally Delicate, <a href="vol21A.html">Vol 21A</a>
+<li> (with Michael Filaseta and Thomas Luckner) Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers, <a href="vol23.html">Vol 23</a>
+

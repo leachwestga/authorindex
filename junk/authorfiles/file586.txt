@@ -1,0 +1,5 @@
+
+<li> Flori, Jean-Pierre
+<ul>
+<li> (with Hugues Randriam) On the Number of Carries Occurring in an Addition Mod <i>2<sup>k</sup>-1</i>, <a href="vol12.html">Vol 12</a>
+

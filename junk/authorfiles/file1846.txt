@@ -1,0 +1,5 @@
+
+<li> Tichenor, Todd
+<ul>
+<li> (with Michael Mays) Graph Compositions: Deleting Edges from Complete Graphs, <a href="vol15.html">Vol 15</a>
+

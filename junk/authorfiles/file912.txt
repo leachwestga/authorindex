@@ -1,0 +1,6 @@
+
+<li> Kim, Byeong Moon
+<ul>
+<li> (with Yoomi Rho) Van der Waerden's Theorem on Homothetic Copies of <i>{1,1+
+s, 1+s+t}</i>, <a href="vol12.html">Vol 12</a>
+

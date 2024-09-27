@@ -1,0 +1,8 @@
+
+<li> Locke, Stephen C. 
+<ul>
+<li> (with Richard M. Low, Ardak Kapbasov, Arman Kapbasov,  and W. H. Chan) A Codex of <i>N</i>- and <i>P</i>-positions in Harary's `Caterpillar Game', <a href="vol21.html">Vol 21</a>
+<li> (with B. Handley) Amalgamation Nim, <a href="vol21.html">Vol 21</a>
+<li> (with  Stephen J. Curran, Daniel Gray,  and Richard M. Low) Pyramid Nim, <a href="vol22.html">Vol 22</a>
+<li> (with Stephen J. Curran and Richard M. Low) A Variant of Nim Played on Boolean Matrices, <a href="vol23.html">Vol 23</a>
+

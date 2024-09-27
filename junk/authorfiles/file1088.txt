@@ -1,0 +1,5 @@
+
+<li> L&oacute;pez, Josefina
+<ul>
+<li> (with Peter Stoll) The Repetends of Reduced Fractions <i>a/b<sup>k</sup></i> Approach Full Complexity with an Increasing <i>k</i>, <a href="vol22.html">Vol 22</a>
+

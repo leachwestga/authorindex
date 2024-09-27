@@ -1,0 +1,7 @@
+
+<li> Szab&oacute, Csaba
+<ul>
+<li> (with Andries E. Brouwer, Gabor Horvath, and Ildiko Molnar-Saska) On Three-rowed Chomp, <a href="vol5.html">Vol 5(1)</a>
+<li> (with P&eacute;ter &Aacute;rend&aacute;s, Ferenc Bencs,  and Zolt&aacute;n L. Bl&aacute;zsik) Compositions of Complements of Graphs, <a href="vol16.html">Vol 16</a>
+<li> (with P&eacute;ter &Aacute;rend&aacute;s, Zolt&aacute;n L. Bl&aacute;zsik, and Bertalan Bodor) On the Complexity and Topology of Scoring Games: of Pirates and Treasure, <a href="vol17.html">Vol 17</a>
+

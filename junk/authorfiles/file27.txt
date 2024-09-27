@@ -1,0 +1,6 @@
+
+<li> Alanazi, Abdulaziz M.
+<ul>
+<li> (with Augustine O. Munagi and James A. Sellers) An Infinite Family of Congruences for &#x2113;-regular Overpartitions, <a href="vol16.html">Vol 16</a>
+<li> (with Augustine O. Munagi) On Partition Configurations of Andrews-Deutsch, <a href="vol17.html">Vol 17</a>
+

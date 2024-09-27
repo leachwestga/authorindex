@@ -1,0 +1,5 @@
+
+<li> Kubelka, Richard P.
+<ul>
+<li> Decomposition of Pascal's Kernels Mod ps, <a href="vol2.html">Vol 2</a>
+

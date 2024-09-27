@@ -1,0 +1,15 @@
+
+<li> Brown, Tom C.
+<ul>
+<li> Monochromatic Forests of Finite Subsets of N, <a href="vol0.html">Vol 0</a>
+<li> A Partition of the Non-Negative Integers, with Applications, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Hayri Ardal, Veselin Jungi&#263;, and Julian Sahasrabudhe) On Abelian and Additive Complexity in Infinite Words, <a href="vol12.html">Vol 12</a>
+<li> Approximations of Additive Squares in Infinite Words, <a href="vol12.html">Vol 12</a>
+<li> (with Veselin Jungi&#263; and Andrew Poelstra) On Double <i>3</i>-Term Arithmetic Progressions, <a href="vol14.html">Vol 14</a>
+<li> Monochromatic Solutions of Exponential Equations, <a href="vol15a.html">Vol 15A</a>
+<li> (with Allen R. Freedman) Sequences on Sets of Four Numbers, <a href="vol16.html">Vol 16</a>
+<li> (with Allen R. Freedman) On the Averages of Factors of an Infinite Word on a Finite Set of Integers, <a href="vol20.html">Vol 20</a>
+<li> (with Shahram Mohsenipour) Two Extensions of Hilbert's Cube Lemma, <a href="vol21A.html">Vol 21A</a>
+<li class=fragment> A Canonical Coloring Theorem for Piecewise Syndetic Subsets of \(\mathbb{N}\), <a href="vol23.html">Vol 23</a>
+<li class=fragment> Piecewise Syndetic Sets in \(\mathbb{N}^t \) and \(\mathbb{N}^X\), <a href="vol24.html">Vol 24</a>
+

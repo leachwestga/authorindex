@@ -1,0 +1,5 @@
+
+<li> Nedev, Zhivko
+<ul>
+<li> Universal Sets and the Vector Game, <a href="vol8.html">Vol 8(1)</a>
+

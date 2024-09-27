@@ -1,0 +1,5 @@
+
+<li> Wang, Qiang 
+<ul>
+<li> (with Murat Sahin and Daniel Panario) A Family of Fibonacci-Like Conditional Sequences, <a href="vol13.html">Vol 13</a>
+

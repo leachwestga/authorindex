@@ -1,0 +1,12 @@
+
+<li> Zeilberger, Doron
+<ul>
+<li> Symbol-Crunching with the Transfer-Matrix Method in Order to Count Skinny Physical Creatures, <a href="vol0.html">Vol 0</a>
+<li> The Umbral Transfer-Matrix Method  V: The Goulden-Jackson Cluster Method for Infinitely Many Mistakes, <a href="vol2.html">Vol 2</a>
+<li> (with Arthur T. Benjamin) Pythagorean Primes and Palindromic Continued Fractions, <a href="vol5.html">Vol 5(1)</a>
+<li>Symbolic Moment Calculus II: Why is Ramsey Theory Sooooo Eeeenormously Hard?, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Moa Apagodu) Searching for Strange Hypergeometric Identities by Sheer Brute Force, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Andrew Lohr) On The Limiting Distributions of the Total Height On Families of Trees, <a href="vol18.html">Vol 18</a>
+<li> (with Mingjia Yang) Systematic Counting of Restricted Partitions, <a href="vol20.html">Vol 20</a>
+<li> (with Robert Dougherty-Bliss) Lots and Lots of Perrin-Type Primality Tests and Their Pseudo-Primes, <a href="vol23.html">Vol 23</a>
+

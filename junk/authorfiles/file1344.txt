@@ -1,0 +1,6 @@
+
+<li> Ong, Darren C.
+<ul>
+<li> (with Vadim Ponomarenko) The Frobenius Number of Geometric
+Sequences, <a href="vol8.html">Vol 8(1)</a>
+

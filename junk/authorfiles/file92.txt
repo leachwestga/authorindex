@@ -1,0 +1,6 @@
+
+<li> Baczkowski, Daniel
+<ul>
+<li> (with Justin Eitner) Polygonal-Sierpi&nacute;ski-Riesel Sequences with Terms Having at Least Two Distinct Prime Divisors, <a href="vol16.html">Vol 16</a>
+<li> (with Aaron Blodgett) Distinct Covering Systems in Number Fields, <a href="vol20.html">Vol 20</a>
+

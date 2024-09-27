@@ -1,0 +1,6 @@
+
+<li> Borwein, Jonathan M. 
+<ul>
+<li> (with David Borwein, Armin Straub, and James Wan) Log-Sine Evaluations of Mahler Measures, II, <a href="vol12a.html">Vol 12A</a>
+<li> (with Christopher Maitland and Matthew Skerritt) Computation of an Improved Lower Bound to Giuga's Primality Conjecture, <a href="vol13.html">Vol 13</a>
+

@@ -1,0 +1,6 @@
+
+<li> de Weger, Benne
+<ul>
+<li> A Generalized Ramanujan-Nagell Equation Related to Certain Strongly Regular Graphs, <a href="vol14.html">Vol 14</a>
+<li> (with Aart Blokhuis and Andries Brouwer) Binomial Collisions and Near Collisions, <a href="vol17.html">Vol 17</a>
+

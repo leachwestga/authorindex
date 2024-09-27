@@ -1,0 +1,5 @@
+
+<li> Chapman, Jeremy
+<ul>
+<li> (with Alex Iosevich) On Rapid Generation of <i>SL<sub>2</sub>(<b>F</b><sub>q</sub>)</i>, <a href="vol9.html">Vol 9</a>
+

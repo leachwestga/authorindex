@@ -1,0 +1,5 @@
+
+<li> Heged&#369;s, G&aacute;bor
+<ul>
+<li> An Improved Exponential Upper Bound for the Erd&#337;s-Ginzburg-Ziv Constant, <a href="vol20.html">Vol 20</a>
+

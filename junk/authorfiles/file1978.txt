@@ -1,0 +1,6 @@
+
+<li> Weingartner, Andreas
+<ul>
+<li> On the Diophantine Equation &Pi; <i>x<sub>i</sub></i> = &Sigma; <i>x<sub>i</sub></i>, <a href="vol12.html">Vol 12</a>
+<li> (with Victor Z. Guo) The Practicality of Shifted Primes, <a href="vol18.html">Vol 18</a>
+

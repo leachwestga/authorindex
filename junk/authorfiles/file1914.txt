@@ -1,0 +1,5 @@
+
+<li> Vincent, Andrew 
+<ul>
+<li> (with Breille Duncan and Joshua Harrington) Exceptional Totient Numbers, <a href="vol21.html">Vol 21</a>
+

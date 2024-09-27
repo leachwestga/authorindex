@@ -1,0 +1,5 @@
+
+<li> Horan, Victoria
+<ul>
+<li> Overlap Cycles for Permutations:  Necessary and Sufficient Conditions, <a href="vol14.html">Vol 14</a>
+

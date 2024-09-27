@@ -1,0 +1,5 @@
+
+<li> Feng, Li
+<ul>
+<li> (with Pingzhi Yuan and Yongzhong Hu) On the Diophantine Equation <i>x<sup>2</sup>-kxy+y<sup>2</sup>+lx=0</i>, <a href="vol13.html">Vol 13</a>
+

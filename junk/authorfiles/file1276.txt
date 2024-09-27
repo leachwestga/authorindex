@@ -1,0 +1,5 @@
+
+<li> Murru, Nadir 
+<ul>
+<li> (with Marco Abrate, Stefano Barbero, and Umberto Cerruti) Polynomial Sequences on Quadratic Curves, <a href="vol15.html">Vol 15</a>
+

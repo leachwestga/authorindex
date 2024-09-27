@@ -1,0 +1,8 @@
+
+<li> Patkowski, Alexander E.
+<ul>
+<li> An Observation on the Extension of Abel's Lemma, <a href="vol10.html">Vol 10</a>
+<li> Partitions Related to Positive Definite Binary Quadratic Forms, <a href="vol19.html">Vol 19</a>
+<li> A Note on Applications from Extending Abel's Lemma, <a href="vol20.html">Vol 20</a>
+<li> A Remark on Fine's Arithmetic Functions, <a href="vol23.html">Vol 23</a>
+

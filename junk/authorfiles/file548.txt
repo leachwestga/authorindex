@@ -1,0 +1,7 @@
+
+<li> Everett, William B.
+<ul>
+<li> Number of Binomial Coefficeints Divisible by a Fixed
+Power of a Prime, <a href="vol8.html">Vol 8(1)</a>
+<li> Subprime Factorization and the Numbers of Binomial Coefficients Exactly Divided by Powers of a Prime, <a href="vol11.html">Vol 11</a>
+

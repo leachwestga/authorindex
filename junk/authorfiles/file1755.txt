@@ -1,0 +1,5 @@
+
+<li> Stack, Jason 
+<ul>
+<li> (with Jeffrey Hatley) Two Infinite Families of Elliptic Curves with Rank Greater than One, <a href="vol22.html">Vol 22</a>
+

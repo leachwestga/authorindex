@@ -1,0 +1,5 @@
+
+<li> Kitrossky, Levi
+<ul>
+<li> (with Endre Boros, Vladimir Gurvich, and Kazuhisa Makino) On the Sprague-Grundy Function of Compound Games, <a href="vol23.html">Vol 23</a>
+

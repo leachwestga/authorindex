@@ -1,0 +1,5 @@
+
+<li> Petricevic, Vinko
+<ul>
+<li> (with Andrej Dujella) Square Roots with Many Good Approximants, <a href="vol5-3.html">Vol 5(3)</a>
+

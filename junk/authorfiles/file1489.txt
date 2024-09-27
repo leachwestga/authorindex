@@ -1,0 +1,8 @@
+
+<li> Rampersad, Narad
+<ul>
+<li> (with &Eacute;milie  Charlier, Michel Rigo, and Laurent Waxweiler) The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System, <a href="vol11b.html">Vol 11b</a>
+<li> (with F. Blanchet-Sadri, James D. Currie,  and Nathan Fox) Abelian Complexity of Fixed Point of Morphism <i>0 &#8614; 012, 1 &#8614; 02, 2 &#8614; 1</i>, <a href="vol14.html">Vol 14</a>
+<li> (with Colin Krawchuk) Cyclic Complexity of Some Infinite Words and Generalizations, <a href="vol18a.html">Vol 18A</a>
+<li> (with Ian Kaye) The Abelian Complexity of Infinite Words and the Frobenius Problem, <a href="vol21.html">Vol 21</a>
+

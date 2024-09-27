@@ -1,0 +1,6 @@
+
+<li> Slavin, Keith R.
+<ul>
+<li> <i>Q</i>-Binomials and the Greatest Common Divisor, <a hrev="vol8.html">
+Vol 8(1)</a>
+

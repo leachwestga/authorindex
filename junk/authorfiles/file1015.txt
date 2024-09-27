@@ -1,0 +1,13 @@
+
+<li> Larsson, Urban
+<ul>
+<li> (with Peter Hegarty) Permutations of the Natural Numbers
+with Prescribed Difference Multisets, <a href="vol6.html">Vol 6</a>
+<li> <i>2</i>-Pile Nim with a Restricted Number of Move-size Imitations, <a href="vol9.html">Vol 9</a>
+<li> A Generalized Diagonal Wythoff Nim, <a href="vol12.html">Vol 12</a>
+<li> (with Johan W&auml;stlund) Maharaja Nim: Wythoff's Queen meets the Knight, <a href="vol14.html">Vol 14</a>
+<li> (with Aviezri S. Fraenkel) Games on Arbitrarily Large Rats and Playability, <a href="vol19.html">Vol 19</a>
+<li> (with Douglas E. Iannucci) Game Values of Arithmetic Functions, <a href="vol21b.html">Vol 21b</a>
+<li> (with Richard J. Nowakowski and Carlos P. Santos) Impartial Games with Entailing Moves, <a href="vol21b.html">Vol 21b</a>
+<li> (with Rebecca Milley, Richard Nowakowski, Gabriel Renault, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+

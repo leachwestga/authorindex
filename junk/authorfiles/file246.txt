@@ -1,0 +1,5 @@
+
+<li> Bush, Albert 
+<ul>
+<li> (with Gagik Amirkhanyan and Ernie Croot) Order-Preserving Freiman Isomorphisms, <a href="vol18.html">Vol 18</a>
+

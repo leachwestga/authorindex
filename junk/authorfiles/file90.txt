@@ -1,0 +1,5 @@
+
+<li> Bachoc, C.
+<ul>
+<li> (with M. Matolcsi and I. Z. Ruzsa) Squares and Difference Sets in Finite Fields, <a href="vol13.html">Vol 13</a>
+

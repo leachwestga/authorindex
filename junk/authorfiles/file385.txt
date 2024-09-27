@@ -1,0 +1,5 @@
+
+<li> Culver, Clay
+<ul>
+<li> (with Bruce Landman and Aaron Robertson) Some New Exact van der Waerden Numbers, <a href="vol5-2.html">Vol 5(2)</a>
+

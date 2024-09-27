@@ -1,0 +1,6 @@
+
+<li> Stumpf, Pascal
+<ul>
+<li> A Short Note on Reduced Residues, <a href="vol17.html">Vol 17</a>
+<li> On the Monotonicity of Additive Representation Functions, <a href="vol20.html">Vol 20</a>
+

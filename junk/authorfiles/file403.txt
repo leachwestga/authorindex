@@ -1,0 +1,5 @@
+
+<li> da Silva, Robson
+<ul>
+<li> (with James A. Sellers) New Congruences for <i>3</i>-regular Partitions With Designated Summands, <a href="vol20a.html">Vol 20a</a>
+

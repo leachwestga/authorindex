@@ -1,0 +1,6 @@
+
+<li> Kukla, Andrzej 
+<ul>
+<li> (with Sai Teja Somu) On Some Generalizations to Floor Function Identities of Ramanujan, <a href="vol22.html">Vol 22</a>
+<li> (with Sai Teja Somu and Ting Hon Stanford Li) On Some Results on Practical Numbers, <a href="vol23.html">Vol 23</a>
+

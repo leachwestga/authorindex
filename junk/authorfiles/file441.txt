@@ -1,0 +1,6 @@
+
+<li> Devlin, Patrick
+<ul>
+<li> Integer Subsets with High Volume and Low Perimeter, <a href="vol12.html">Vol 12</a>
+<li> (with Tony Zeng) Maximum Distances in the Four-digit Kaprekar Process, <a href="vol21.html">Vol 21</a>
+

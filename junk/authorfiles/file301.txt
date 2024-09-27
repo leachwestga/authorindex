@@ -1,0 +1,7 @@
+
+<li> Chappelon, Jonathan
+<ul>
+<li> On a Problem of Molluzzo Concerning Steinhaus Triangles
+in Finite Cyclic Groups, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Shalom Eliahou) On the Problem of Molluzzo for the Modulus <i>4</i>, <a href="vol12.html">Vol 12</a>
+

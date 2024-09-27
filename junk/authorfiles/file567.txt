@@ -1,0 +1,5 @@
+
+<li> Ferrari, Luca
+<ul>
+<li> (with Simone Rinaldi) Enumerations of Generalized Hook Partitions, <a href="vol5.html">Vol 5(1)</a>
+

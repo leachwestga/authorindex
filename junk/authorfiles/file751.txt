@@ -1,0 +1,7 @@
+
+<li> Heyman, Randell
+<ul>
+<li> Evaluationally Coprime Linear Polynomials, <a href="vol16.html">Vol 16</a>
+<li> Cardinality of a Floor Function Set, <a href="vol19.html">Vol 19</a>
+<li> Primes in Floor Function Sets, <a href="vol22.html">Vol 22</a>
+

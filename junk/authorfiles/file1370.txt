@@ -1,0 +1,6 @@
+
+<li> Panda, Gopal Krishna 
+<ul>
+<li> (with Asim Patra) Appearance of Balancing and Related Number Sequences in Steady State Probabilities of Some Markov Chains, <a href="vol20a.html">Vol 20a</a>
+<li> (with Sai Gopal Rayaguru) Balancing and Lucas-balancing Numbers Expressible as Sums of Two Repdigits, <a href="vol21.html">Vol 21</a>
+

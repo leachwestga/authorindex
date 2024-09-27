@@ -1,0 +1,5 @@
+
+<li> G&ouml;ral, Haydar
+<ul>
+<li> Some Remarks on Harmonic Type Matrices, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,5 @@
+
+<li> Spiegel, Christoph 
+<ul>
+<li> (with Gregory A. Freiman and Oriol Serra) Additive Volume of Sets  Contained in Few Arithmetic Progressions, <a href="vol19.html">Vol 19</a>
+

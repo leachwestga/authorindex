@@ -1,0 +1,8 @@
+
+<li> Coons, Michael
+<ul>
+<li> On Some Conjectures Concerning Stern's Sequence and Its Twist, <a href="vol11.html">Vol 11</a>
+<li> A Correlation Identity for Stern's Sequence, <a href="vol12.html">Vol 12</a>
+<li> (with Elliot Catt and Jordan Velich) Strong Normality and Generalized Copeland--Erd&#337;s Numbers, <a href="vol16.html">Vol 16</a>
+<li> Mahler Takes a Regular View of Zaremba, <a href="vol18a.html">Vol 18A</a>
+

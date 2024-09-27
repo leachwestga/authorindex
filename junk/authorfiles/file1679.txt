@@ -1,0 +1,9 @@
+
+<li> Sills, Andrew V.
+<ul>
+<li> (with James McGaughlin)  Combinatorics of Ramanujan-Slater Type Identities,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Yuriy Choliy and Louis W. Kolitsch) Partition Recurrences, <a href="vol18b.html">Vol 18B</a>
+<li> (with Robert Schneider) The Product of Parts or "Norm" of a Partition, <a href="vol20a.html">Vol 20a</a>
+<li> (with Robert Schneider) Combinatorial Formulas for Arithmetic Density, <a href="vol22.html">Vol 22</a>
+

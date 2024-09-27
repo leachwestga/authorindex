@@ -1,0 +1,5 @@
+
+<li> Myers, Kellen
+<ul>
+<li> (with Joseph Parrish) Some Nonlinear Rado Numbers, <a href="vol18b.html">Vol 18B</a>
+

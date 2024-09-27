@@ -1,0 +1,5 @@
+
+<li> Matiyasevich, Yuri
+<ul>
+<li> Computational Rediscovery of Ramanujan's Tau Numbers, <a href="vol18a.html">Vol 18A</a>
+

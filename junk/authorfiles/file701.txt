@@ -1,0 +1,5 @@
+
+<li> Guiben, Salem
+<ul>
+<li class=fragment> (with M. P. Chaudhary, Kamel Mazhouda, and Mohammed Mekkaoui) On the \(a\)-Points of the  \(k^{\mathrm{th}}\) Derivative of an \(L\)-Function in the Selberg Class, <a href="vol24.html">Vol 24</a>
+

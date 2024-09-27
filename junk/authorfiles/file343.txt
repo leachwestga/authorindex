@@ -1,0 +1,6 @@
+
+<li> Cipra, James Arthur
+<ul>
+<li> Waring's Number in a Finite Field, <a href="vol9.html">Vol 9</a>
+<li> (with Todd Cochrane) Sum-Product Estimates Applied to Waring's Problem Over Finite Fields, <a href="vol11.html">Vol 11</a>
+

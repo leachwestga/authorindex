@@ -1,0 +1,6 @@
+
+<li> Lebowitz-Lockard, Noah
+<ul>
+<li> On the Number of Ordered Factorizations of an Integer, <a href="vol20.html">Vol 20</a>
+<li> (with Victor Souza) A Note on the Number of Egyptian Fractions, <a href="vol23.html">Vol 23</a>
+

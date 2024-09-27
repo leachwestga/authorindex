@@ -1,0 +1,9 @@
+
+<li> Steiner, Wolfgang 
+<ul>
+<li> (with Wieb Bosma and Michel Dekking) A Remarkable Integer Sequence Related to &pi; and &radic;2, <a href="vol18a.html">Vol 18A</a>
+<li> Parry Extensions of Polynomial Sequences, <a href="vol2.html">Vol 2</a>
+<li> (with Emilie Charlier and Michel Rigo)
+Abstract Numeration Systems on Bounded Languages
+and Multiplication by a Constant, <a href="vol8.html">Vol 8(1)</a>
+

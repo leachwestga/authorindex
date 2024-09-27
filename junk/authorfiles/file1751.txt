@@ -1,0 +1,9 @@
+
+<li> St&#259;nic&#259;, Pantelimon
+<ul>
+<li> (with Furman Smith) Comply/Constrain Games or Games with a Muller Twist, <a href="vol2.html">Vol 2</a>
+<li> Cholesky Factorizations of Matrices Associated with r-order Recurrent Sequences, <a href="vol5-2.html">Vol 5(2)</a>
+<li> Graph Eigenvalues and Walsh Spectrum of Boolean Functions, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Thomas W. Cusick and Yuan Li) On a Combinatorial Conjecture, <a href="vol11.html">Vol 11</a>
+<li> (with Santanu Sarkar, Sourav Sen Gupta, Subhamoy Maitra, and Nirupam Kar) Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
+

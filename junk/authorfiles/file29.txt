@@ -1,0 +1,6 @@
+
+<li>Albert, Michael H.
+<ul>
+<li> (with Richard J. Nowakowski) Nim Restrictions, <a href="vol4.html">Vol 4</a>
+<li> (with J. P. Grossman, Richard J. Nowakowski, and David Wolfe) An Introduction to Clobber, <a href="vol5-2.html">Vol 5(2)</a>
+

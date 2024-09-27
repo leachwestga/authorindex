@@ -1,0 +1,5 @@
+
+<li> Li, Zhangyuan 
+<ul>
+<li> (with Nikolai A. Krylov) A Congruence Property of Irreducible Laguerre Polynomials in Two Variables, <a href="vol16.html">Vol 16</a>
+

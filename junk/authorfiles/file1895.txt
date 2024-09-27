@@ -1,0 +1,5 @@
+
+<li> Vanegas, Elkin Quintero 
+<ul>
+<li> (with Jorge Fl&oacute;rez and Cihan Karabulut) The Distribution of the Generalized Greatest Common Divisor and Visibility of Lattice Points, <a href="vol20.html">Vol 20</a>
+

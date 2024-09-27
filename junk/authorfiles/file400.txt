@@ -1,0 +1,11 @@
+
+<li> Das Adhikari, Sukumar
+<ul>
+<li> (with Purusottam Rath)  Davenport Constant with Weights and Some Related Questions, <a href="vol6.html">Vol 6</a>
+<li> (with Chantal David and Jorge Jim&eacute;nez Urroz) Generalizations
+of Some Zero-sum Theorems, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Mohan N. Chintamani) Number of Weighted Subsequence Sums With Weights in <i>{1, -1}</i>, <a href="vol11.html">Vol 11</a>
+<li> (with Eshita Mazumdar) Modifications of Some Methods in the Study of Zero-Sum Constants, <a href="vol14.html">Vol 14</a>
+<li> (with Eshita Mazumdar and B. K. Moriya) Relation Between Two Weighted Zero-sum Constants, <a href="vol16.html">Vol 16</a>
+<li> (with Shruti Hedge, Md Ibrahim Molla, and Subha Sarkar) Inverse Problems Related to Some Weighted Zero-sum Constants for Cyclic Groups, <a href="vol22.html">Vol 22</a>
+

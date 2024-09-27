@@ -1,0 +1,5 @@
+
+<li> K&ouml;ppe, Matthias
+<ul>
+<li> (with Velleda Baldoni, Nicole Berline, Jes&uacute;s A. De Loera, Brandon E. Dutra,  and Mich&egrave;le Vergne) Coefficients of Sylvester's Denumerant, <a href="vol15.html">Vol 15</a>
+

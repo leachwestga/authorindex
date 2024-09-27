@@ -1,0 +1,6 @@
+
+<li> Evans, C. D. A.
+<ul>
+<li> (with Joel David Hamkins) Transfinite Game Values in Infinite Chess, <a href="vol14.html">Vol 14</a>
+<li> (with Joel David Hamkins and Norman Lewis Perlmutter) A Position in Infinite Chess With Game Value &omega;<sup>4</sup>, <a href="vol17.html">Vol 17</a>
+

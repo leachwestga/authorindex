@@ -1,0 +1,5 @@
+
+<li> Mishra, Bhawesh
+<ul>
+<li> Minimally Intersective Polynomials with Arbitrarily Long Factorization, <a href="vol22.html">Vol 22</a>
+

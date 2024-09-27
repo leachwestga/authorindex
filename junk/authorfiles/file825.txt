@@ -1,0 +1,5 @@
+
+<li> J&auml;rleberg, Erik
+<ul>
+<li> (with Jonas Sj&ouml;strand) Pomax Games -- A Family of Integer-valued Partizan Games Played on Posets, <a href="vol16.html">Vol 16</a>
+

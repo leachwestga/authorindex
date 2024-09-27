@@ -1,0 +1,11 @@
+
+<li> Cochrane, Todd
+<ul>
+<li> (with Christopher Pinner) Sum-product Estimates Applied to
+Waring's Problem Mod <i>p</i>, <a href="vol8.html">Vol 8(1)</a>
+<li> (with James Cipra) Sum-Product Estimates Applied to Waring's Problem Over Finite Fields, <a href="vol11.html">Vol 11</a>
+<li> (with Anwar Ayyad and Sanying Shi) Modular Hyperbolas and the Congruence <i>ax<sub>1</sub>x<sub>2</sub>&hellip;x<sub>k</sub> + bx<sub>k+1</sub>x<sub>k+2</sub>&hellip;x<sub>2k</sub> &equiv; c</i> mod <i>m</i>, <a href="vol18.html">Vol 18</a>
+<li class="fragment"> (with Sanying Shi) Sum-Products mod <i>m</i> and the Congruence \(ax_1x_2 \cdots x_k + bx_{k+1}x_{k+2}\cdots x_{2k} \equiv c \pmod {m}\), <a href="vol20.html}>Vol 20</a>
+<li class="fragment"> (with Sanying Shi) Small Solutions of \(ax_1\cdots x_k + bx_{k+1}\cdots x_{2k} \equiv c \pmod {m}\) under the Lindel&ouml;f Hypothesis, <a href="vol21.html">Vol 21</a>
+<li class=fragment> (with Albert Cochrane and Craig Spencer) Doubling Constant for  Subgroups of \(\mathbb Z_p^*\), <a href="vol23.html">Vol 23</a>
+

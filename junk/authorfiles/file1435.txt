@@ -1,0 +1,6 @@
+
+<li> Pirsic, Gottlieb
+<ul>
+<li> An Inverse of the Fa&agrave; di Bruno Formula,
+<a href="vol7.html">Vol 7</a>
+

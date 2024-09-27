@@ -1,0 +1,8 @@
+
+<li> De, Dibyendu
+<ul>
+<li> Combined Algebraic Properties of Central* Sets,
+<a href="vol7.html">Vol 7</a>
+<li> Additive and Multiplicative Structures of <i>C<sup>&#9733;</sup></i>-Sets, <a href="vol14.html">Vol 14</a>
+<li> (with Subhajit Jana) Image Partition Regularity over the Gaussian Integers, <a href="vol17.html">Vol 17</a>
+

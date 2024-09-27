@@ -1,0 +1,6 @@
+
+<li> Hegarty, Peter 
+<ul>
+<li> (with Urban Larsson) Permutations of the Natural Numbers
+with Prescribed Difference Multisets, <a href="vol6.html">Vol 6</a>
+

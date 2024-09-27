@@ -1,0 +1,5 @@
+
+<li> McAnally, Nathan 
+<ul>
+<li> (with Rigoberto Fl&oacute;rez and Antara Mukherjee) Identities for the Generalized Fibonacci Polynomial, <a href="vol18b.html">Vol 18B</a>
+

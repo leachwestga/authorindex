@@ -1,0 +1,5 @@
+
+<li> Fujisawa, Yusuke
+<ul>
+<li> Elementary Estimates for the Number of Pure Number Fields of Degree <i>p</i>, <a href="vol15.html">Vol 15</a>
+

@@ -1,0 +1,5 @@
+
+<li> Knapp, Michael P.
+<ul>
+<li> (with Michael D. Paul) On Weakly Complete Sequences Formed by the Greedy Algorithm, <a href="vol12.html">Vol 12</a>
+

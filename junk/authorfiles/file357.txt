@@ -1,0 +1,5 @@
+
+<li> Cohen, Graeme L.
+<ul>
+<li> (with Ronald M. Sorli) On Odd Perfect Numbers and Even 3-Perfect Numbers, <a href="vol12a.html">Vol 12A</a>
+

@@ -1,0 +1,10 @@
+
+<li> Andrews, George E.
+<ul>
+<li> The Finite Heine Transform,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> (with Emeric Deutsch) A Note On a Method of Erd&#337;s and the Stanley-Elder Theorems, <a href="vol16.html">Vol 16</a>
+<li> (with David Newman) Binary Representations and Theta Function, <a href="vol18.html">Vol 18</a>
+<li> (with Greg Simay) Parity Palindrome Compositions, <a href="vol21.html">Vol 21</a>
+<li> (with Sreerupa Bhattacharjee and Manosij G. Dastidar) Sequences in Partitions, <a href="vol22.html">Vol 22</a>
+

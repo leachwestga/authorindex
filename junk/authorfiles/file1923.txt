@@ -1,0 +1,5 @@
+
+<li> Voss, K. 
+<ul>
+<li> (with C. Augspurger,  M. Minter, K. Shoukry, and P. Sissokho) Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers, <a href="vol17.html">Vol 17</a>
+

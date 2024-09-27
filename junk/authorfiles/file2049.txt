@@ -1,0 +1,8 @@
+
+<li> Zaharescu, Alexandru
+<ul>
+<li> (with Cristian Cobeli and Adrian Iordache) The Relative Size of Consecutive Odd Denominators in Farey Series, <a href="vol3.html">Vol 3</a>
+<li> (with A. H. Ledoan) Square-Full Divisors of Square-Full Integers, <a href="vol10.html">Vol 10</a>
+<li> (with Andrew Ledoan and Paul Spiegelhalter) Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>), <a href="vol14.html">Vol 14</a>
+<li> (with Andrew Ledoan) A Divisibility Obstruction for Certain Walks on Gaussian Integers, <a href="vol14.html">Vol 14</a>
+

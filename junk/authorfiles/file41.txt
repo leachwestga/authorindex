@@ -1,0 +1,6 @@
+
+<li> Altman, Harry
+<ul>
+<li> (with Joshua Zelinsky) Numbers With Integer Complexity Close to the Lower Bound, <a href="vol12a.html">Vol 12A</a>
+<li> Integer Complexity: Algorithms and Computational Results, <a href="vol18.html">Vol 18</a>
+

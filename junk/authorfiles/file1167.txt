@@ -1,0 +1,6 @@
+
+<li> Matsuda, Kazuhide 
+<ul>
+<li> Mixed Sums of Triangular Numbers and Certain Binary Quadratic Forms, <a href="vol15.html">Vol 15</a>
+<li> On Certain Quaternary Quadratic Forms, <a href="vol18.html">Vol 18</a>
+

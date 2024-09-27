@@ -1,0 +1,5 @@
+
+<li> Frougny, Christiane
+<ul>
+<li> (with Guy Barat and Attila Petho) A Note on Linear Recurrent Mahler Numbers, <a href="vol5-3.html">Vol 5(3)</a>
+

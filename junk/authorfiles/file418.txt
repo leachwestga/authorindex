@@ -1,0 +1,5 @@
+
+<li> de Jesus, M. N.
+<ul>
+<li> (with Armando Gon&ccedil;alves) The Generating Function of the Generalized Fibonacci Sequence, <a href="vol15.html">Vol 15</a>
+

@@ -1,0 +1,5 @@
+
+<li> Finch, Steven R.
+<ul>
+<li> (with Neil J. Calkin and Timothy B. Flowers) Difference Density and Aperiodic Sum-Free Sets, <a href="vol5-2.html">Vol 5(2)</a>
+

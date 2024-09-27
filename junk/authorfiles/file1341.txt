@@ -1,0 +1,5 @@
+
+<li> Omar, Mohamed 
+<ul>
+<li> (with Pamela E. Harris) Lattice Point Visibility on Power Functions, <a href="vol18.html">Vol 18</a>
+

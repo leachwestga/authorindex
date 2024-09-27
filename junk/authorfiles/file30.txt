@@ -1,0 +1,5 @@
+
+<li> Alekseyev, Max A.
+<ul>
+<li> On the Intersections of Fibonacci, Pell, and Lucas Numbers, <a href="vol11a.html">Vol 11A</a>
+

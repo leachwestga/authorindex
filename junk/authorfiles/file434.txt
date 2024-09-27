@@ -1,0 +1,5 @@
+
+<li> Deng, Guixin
+<ul>
+<li> (with Pingzhi Yuan) On a Combinatorial Conjecture of Tu and Deng, <a href="vol12.html">Vol 12</a>
+

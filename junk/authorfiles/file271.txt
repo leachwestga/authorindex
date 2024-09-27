@@ -1,0 +1,5 @@
+
+<li> Carlos, Elise
+<ul>
+<li> (with Nestor Iwanojko, Reece Keller, and Leanne Robertson) Coprime Mappings on Gaussian Lines, <a href="vol23.html">Vol 23</a>
+

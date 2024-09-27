@@ -1,0 +1,5 @@
+
+<li> Finch-Smith, Carrie
+<ul>
+<li> (with Joshua Harrington and Tony W. H. Wong) Sums of Distinct Polynomial Residues, <a href="vol23.html">Vol 23</a>
+

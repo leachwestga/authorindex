@@ -1,0 +1,6 @@
+
+<li> Lee, Sunyoung
+<ul>
+<li> (with Sylvie Corteel and Carla D. Savage)
+Five Guidelines for Partition Analysis with Applications to Lecture Hall-type Theorems, <a href="vol7-2.html">Vol 7(2)</a>
+

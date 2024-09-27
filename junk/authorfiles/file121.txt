@@ -1,0 +1,6 @@
+
+<li> Baril, Jean-Luc
+	<ul>
+		<li> (with Sergey Kirgizov and Armen Petrossian) Motzkin Paths With a Restricted First Return Decomposition, <a href="vol19.html">Vol 19</a>
+<li> (with Jos&eacute; Luis Ram&iacute;rez and Lina Maria Simbaqueba) Equivalence Classes of Skew Dyck Paths Modulo Some Patterns, <a href="vol22.html">Vol 22</a>
+	

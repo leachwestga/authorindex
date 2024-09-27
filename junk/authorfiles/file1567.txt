@@ -1,0 +1,6 @@
+
+<li> Sadahiro, Taizo
+<ul>
+<li> (with Shunji Ito) Beta-Expansions With Negative Bases, <a href="vol9.html">Vol 9</a>
+<li> (with Fumihiko Nakano) A &beta;-Expansion Associated to Sturmian Sequences, <a href="vol12.html">Vol 12</a>
+

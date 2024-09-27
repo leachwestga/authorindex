@@ -1,0 +1,8 @@
+
+<li> Schneider, Carsten
+<ul>
+<li> (with Peter Paule) Truncating Binomial Series with Symbolic
+Summation, <a href="vol7.html">Vol 7</a>
+<li> (with Markus Kuba and Helmut Prodinger) Generalized
+Reciprocity Laws for Sums of Harmonic Numbers, <a href="vol8.html">Vol 8(1)</a>
+

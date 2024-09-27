@@ -1,0 +1,5 @@
+
+<li> Goldwasser, John 
+<ul>
+<li> (with Maria Axenovich, Bernard Lidick&yacute;, Ryan R. Martin, David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+

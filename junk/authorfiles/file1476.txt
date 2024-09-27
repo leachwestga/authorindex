@@ -1,0 +1,8 @@
+
+<li> Quaintance, Jocelyn
+<ul>
+<li> (with H. W. Gould) Floor and Roof Function Analogs of the Bell Numbers,
+<a href="vol7.html">Vol 7</a>
+<li> (with H. W. Gould) Bell Numbers and Variant Sequences Derived from a General Functional Differential Equation, <a href="vol9.html">Vol 9</a>
+<li> (with Harris Kwong) A Combinatorial Interpretation of the Catalan and Bell Number Difference Tables, <a href="vol13.html">Vol 13</a>
+

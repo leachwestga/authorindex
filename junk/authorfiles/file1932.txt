@@ -1,0 +1,7 @@
+
+<li> Wagstaff, S. S., Jr.
+<ul>
+<li> The Search for Aurifeuillian-Like Factorizations, <a href="vol12a.html">Vol 12A</a>
+<li> Primary Carmichael Numbers, <a href="vol22.html">Vol 22</a>
+<li> Pseudoprimes and Fermat Numbers, <a href="vol24.html">Vol 24</a>
+

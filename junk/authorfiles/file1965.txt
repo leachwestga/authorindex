@@ -1,0 +1,5 @@
+
+<li> Warnick, Merrill
+<ul>
+<li> (with Victoria Iba and Paul Jenkins) Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels, <a href="vol19.html">Vol 19</a>
+

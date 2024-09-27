@@ -1,0 +1,9 @@
+
+<li> Yuan, Pingzhi 
+<ul>
+<li> (with Jiagui Luo and Alain Togb&eacute;) On Some Equations Related to Ma's Conjecture, <a href="vol11.html">Vol 11</a>
+<li> (with Guixin Deng) On a Combinatorial Conjecture of Tu and Deng, <a href="vol12.html">Vol 12</a>
+<li> (with Li Feng and Yongzhong Hu) On the Diophantine Equation <i>x<sup>2</sup>-kxy+y<sup>2</sup>+lx=0</i>, <a href="vol13.html">Vol 13</a>
+<li> (with Zhongfeng Zhang) A Note on a Conjecture of Erd&#337;s, Graham, and Spencer, <a href="vol13.html">Vol 13</a>
+<li class="fragment"> (with Wenyu Luo) On the Diophantine Equation \(\frac{ax^{n+2l}+c}{abt^2x^n+d}=by^2\), <a href="vol20.html">Vol 20</a>
+

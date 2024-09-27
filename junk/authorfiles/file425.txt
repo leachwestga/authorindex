@@ -1,0 +1,7 @@
+
+<li> de Reyna, J. Arias
+<ul>
+<li> Arithmetic of the Fabius Function, <a href="vol18.html">Vol 18</a>
+<li> Complexity of Natural Numbers, <a href="vol24.html">Vol 24</a>
+<li> Arithmetical Self-Similar Compact Sets, <a href="vol24.html">Vol 24</a>
+

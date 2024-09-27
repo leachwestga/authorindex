@@ -1,0 +1,6 @@
+
+<li> Sheikh, Numan  
+<ul>
+<li> (with Sarmad Abbasi) Some Hardness Results for Question/Answer Games,
+<a href="vol7.html">Vol 7</a>
+

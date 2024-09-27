@@ -1,0 +1,6 @@
+
+<li> Farhangi, Sohail
+<ul>
+<li> (with Jaros&lstrok;aw Grytczuk) Distance Graphs and Arithmetic Progressions, <a href="vol21A.html">Vol 21A</a>
+<li class=fragment> (with Richard Magner) On The Partition Regularity of \(ax+by = cw^mz^n\), <a href="vol23.html">Vol 23</a>
+

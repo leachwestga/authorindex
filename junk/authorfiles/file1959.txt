@@ -1,0 +1,7 @@
+
+<li> Wang, Xiaoyuan
+<ul>
+<li> (with Wenchang Chu) Multiple Convolution Formulae on Classical
+Combinatorial Numbers, <a href="vol7.html">Vol 7</a>
+<li> (with Wenchang Chu) Binomial Series Identities Involving Generalized Harmonic Numbers, <a href="vol20.html">Vol 20</a>
+

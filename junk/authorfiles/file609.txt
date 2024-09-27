@@ -1,0 +1,8 @@
+
+<li> Frontczak, Robert
+<ul>
+<li> Sums of Cubes over Odd-Index Fibonacci Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Zivorad Tomovski) Generalized Euler-Genocchi Polynomials and Lucas Numbers, <a href="vol20.html">Vol 20</a>
+<li> (with Taras Goy) Chebyshev-Fibonacci Polynomial Relations Using Generating Functions, <a href="vol21.html">Vol 21</a>
+<li> (with Kunle Adegoke and Taras Goy) Fibonacci-Catalan Series, <a href="vol22.html">Vol 22</a>
+

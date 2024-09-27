@@ -1,0 +1,5 @@
+
+<li> Bidar, Mohammadreza
+<ul>
+<li> Partition of an Integer into Distinct Bounded Parts, Identities and Bounds, <a href="vol12.html">Vol 12</a>
+

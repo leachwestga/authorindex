@@ -1,0 +1,5 @@
+
+<li> Boyer, Robert P.
+<ul>
+<li> (with William J. Keith) Stabilization of Coefficients for Partition Polynomials, <a href="vol13.html">Vol 13</a>
+

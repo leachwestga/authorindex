@@ -1,0 +1,12 @@
+
+<li> Baruah, Nayandeep Deka
+<ul>
+<li> (with Jonali Bora) 
+Further Analogues of the Rogers-Ramanujan Functions with Applications to Partitions, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Bidyut Boruah) Two Theta Function Identities of Ramanujan and Representation of a Number as a Sum of Three Squares and as a Sum of Three Triangular Numbers, <a href="vol12.html">Vol 12</a>
+<li> (with Bipul Kumar Sarmah) The Number of Representations of a Number as Sums of Various Polygonal Numbers, <a href="vol12.html">Vol 12</a>
+<li> (with Kanan Kumari Ojah) Partitions With Designated Summands in Which All Parts Are Odd, <a href="vol15.html">Vol 15</a>
+<li> (with Mandeep Kaur) A Note on Some Recent Results of Da Silva and Sellers on Congruences for <i>k</i>-regular Partitions With Designated Summands, <a href="vol20.html">Vol 20</a>
+<li> (with Subhajit Bandyopadhyay) The <i>n</i>-color Partition Function and Some Counting Theorems, <a href="vol21.html">Vol 21</a>
+<li> (with Subhajit Bandyopadhyay) A Note on the Number of Representations of a Positive Integer as a Sum of Generalized Polygonal Numbers, <a href="vol23.html">Vol 23</a>
+

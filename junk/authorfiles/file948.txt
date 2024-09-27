@@ -1,0 +1,6 @@
+
+<li> Komornik, Vilmos
+<ul>
+<li> (with Paola Loreti) Universal Expansions in Negative and Complex Bases, <a href="vol10.html">Vol 10</a>
+<li> Expansions in Noninteger Bases, <a href="vol11b.html">Vol 11b</a>
+

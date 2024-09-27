@@ -1,0 +1,5 @@
+
+<li> Huntemann, Svenja
+<ul>
+<li> (with Lexi Nash) The Polynomial Profile of Distance Games on Paths and Cycles, <a href="vol22.html">Vol 22</a>
+

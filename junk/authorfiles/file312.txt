@@ -1,0 +1,5 @@
+
+<li> Chen, Li-Chung
+<ul>
+<li> (with Sami Assaf, Tegan Cheslack-Postava, Benjamin Cooper, Alexander Diesl, Thomas Garrity, Mathew Lepinski, and Adam Schuyler) A Dual Approach to Triangle Sequences:  A Multidimensional Continued Fraction Algorithm, <a href="vol5.html">Vol 5(1)</a>
+

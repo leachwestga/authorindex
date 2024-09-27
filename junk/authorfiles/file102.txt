@@ -1,0 +1,7 @@
+
+<li> Balasubramanian, R.
+<ul>
+<li> (with Gautami Bhowmik), Upper Bounds for the Davenport Constant,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Florian Luca) On the Number of Factorizations of an Integer, <a href="vol11.html">Vol 11</a>
+

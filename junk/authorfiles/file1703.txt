@@ -1,0 +1,7 @@
+
+<li> Skula, Ladislav
+<ul>
+<li> (with Karl Dilcher) The Cube of the Fermat Quotient,
+<a href="vol6.html">Vol 6</a>
+<li> Prime Power Divisors of Mersenne Numbers and Wieferich Primes of Higher Order, <a href="vol19.html">Vol 19</a>
+

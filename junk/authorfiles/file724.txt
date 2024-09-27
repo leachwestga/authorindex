@@ -1,0 +1,13 @@
+
+<li> Harrington, Joshua
+<ul>
+<li> (with Lenny Jones) On the Iteration of a Function Related to Euler's &phi;-Function, <a href="vol10.html">Vol 10</a>
+<li> (with Kenneth A. Brown and Scott M. Dunn) Arithmetic Progressions in the Polygonal Numbers, <a href="vol12.html">Vol 12</a>
+<li> (with Lenny Jones) Extending a Theorem of Pillai to Quadratic Sequences, <a href="vol15a.html">Vol 15A</a>
+<li> (with James Hammer and Lenny Jones) On the Congruence <i>x<sup>x</sup> &equiv; x</i> (mod <i>n</i>), <a href="vol16.html">Vol 16</a>
+<li> (with Lenny Jones) An Equation Involving Arithmetic Functions and Riesel Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Ashley Armbruster, Grace Barger, Sofya Bykova, Tyler Dvoracheck, Emily Eckard,  Yewen Sun, and Tony W. H. Wong) On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Breille Duncan and Andrew Vincent) Exceptional Totient Numbers, <a href="vol21.html">Vol 21</a>
+<li> (with Carrie Finch-Smith and Tony W. H. Wong) Sums of Distinct Polynomial Residues, <a href="vol23.html">Vol 23</a>
+<li> (with Katherine Franzone) Sierpi&nacute;ski and Riesel Numbers in Narayana's Cow Sequence, <a href="vol24.html">Vol 24</a>
+

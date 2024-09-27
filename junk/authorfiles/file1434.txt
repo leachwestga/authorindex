@@ -1,0 +1,9 @@
+
+<li> Pinner, Christopher
+<ul>
+<li> (with Todd Cochrane) Sum-product Estimates Applied to
+Waring's Problem Mod <i>p</i>, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Vincent Pigno and Wasin Vipismakul) The Lind-Lehmer Constant for <i>Z<sub>m</sub> x Z<sup>n</sup></i>, <a href="vol16.html">Vol 16</a>
+<li> (with Stian Clem) The Lind-Lehmer Constant for  3-groups, <a href="vol18.html">Vol 18</a>
+<li> (with Bishnu Paudel) Integer Circulant Determinants of Order 15, <a href="vol22.html">Vol 22</a>
+

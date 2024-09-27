@@ -1,0 +1,7 @@
+
+<li> Dupuy, Benjamin
+<ul>
+<li> Note on the Diophantine Equation <i>X<sup>t</sup> + Y<sup>t</sup> = BZ<sup>t</sup></i>, <a href="vol11.html">Vol 11</a>
+<li> Note on a Determinant, <a href="vol20.html">Vol 20</a>
+<li> Note on a Determinant (II), <a href="vol21.html">Vol 21</a>
+

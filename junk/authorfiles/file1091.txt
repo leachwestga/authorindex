@@ -1,0 +1,6 @@
+
+<li> Loehr, Nicholas A.
+<ul>
+<li> (with Carla D. Savage) Generalizing the Combinatorics of Binomial Coefficients Via <i>l</i>-Nomials, <a href="vol10.html">Vol 10</a>
+<li> (with T. S. Michael) The Combinatorics of Evenly Spaced Binomial Coefficients, <a href="vol18.html">Vol 18</a>
+

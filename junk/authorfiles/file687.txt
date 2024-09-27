@@ -1,0 +1,8 @@
+
+
+<li> Grantham, Jon
+<ul>
+<li> (with Hester Graves) Brazilian Primes Which Are Also Sophie Germain Primes, <a href="vol20.html">Vol 20</a>
+<li> Proof of Two Conjectures of Andrica and Bagdasar, <a href="vol21.html">Vol 21</a>
+<li> Finding a Widely Digitally Delicate Prime, <a href="vol23.html">Vol 23</a>
+

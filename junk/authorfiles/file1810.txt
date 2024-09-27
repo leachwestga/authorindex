@@ -1,0 +1,7 @@
+
+<li> Tan, Elif 
+<ul>
+<li> (with Emrah Kili&ccedil;) Binomial Sums for the General Second Order Linear Recurrence, <a href="vol10.html">Vol 10</a>
+<li> General Sum Formula for Bi-periodic Fibonacci and Lucas Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with Ho-Hon Leung) On Leonardo <i>p</i>-Numbers, <a href="vol23.html">Vol 23</a>
+

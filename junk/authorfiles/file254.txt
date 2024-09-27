@@ -1,0 +1,7 @@
+
+<li> Caballero, Jos&eacute; Manuel Rodr&iacute;guez
+<ul>
+<li> On a Set of Fixed Points Related to Both Fermat and Mersenne Primes, <a href="vol18.html">Vol 18</a>
+<li> Integers Which Cannot Be Partitioned Into an Even Number of Consecutive Parts, <a href="vol19.html">Vol 19</a>
+<li> Jordan's Expansion of the Reciprocal of Theta Functions and 2-densely Divisible Numbers, <a href="vol20.html">Vol 20</a>
+

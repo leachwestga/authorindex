@@ -1,0 +1,6 @@
+
+<li> Maamra, Mohammed Said
+<ul>
+<li> (with Miloud Mihoubi) The (<i>r<sub>1</sub>,...,r<sub>p</sub></i>)-Stirling Numbers of the Second Kind, <a href="vol12.html">Vol 12</a>
+<li> (with Miloud Mihoubi) The <i>(r<sub>1</sub>,...,r<sub>p</sub>)</i>-Bell Polynomials, <a href="vol14.html">Vol 14</a>
+

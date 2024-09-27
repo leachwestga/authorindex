@@ -1,0 +1,5 @@
+
+<li> Mintos, Alexia S. 
+<ul>
+<li> (with Douglas E. Iannucci) On Consecutive Integer Pairs with the Same Sum of Distinct Prime Divisors, <a href="vol5.html">Vol 5(1)</a>
+

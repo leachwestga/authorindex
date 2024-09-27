@@ -1,0 +1,6 @@
+
+<li> Fu, Shishuo
+<ul>
+<li> (with James Sellers) Enumeration of the Degree Sequences of Line--Hamiltonian Multigraphs, <a href="vol12.html">Vol 12</a>
+<li> (with Ting Hua) On the Slack Euler Pair for Vector Partition, <a href="vol18.html">Vol 18</a>
+

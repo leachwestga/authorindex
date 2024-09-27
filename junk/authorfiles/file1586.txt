@@ -1,0 +1,6 @@
+
+<li> Sanna, Carlo
+<ul>
+<li> On the Exponential Sum With the Sum of Digits of Hereditary Base <i>b</i> Notation, <a href="vol14.html">Vol 14</a>
+<li> Pairwise Modular Multiplicative Inverses and Fibonacci Numbers, <a href="vol23.html">Vol 23</a>
+

@@ -1,0 +1,5 @@
+
+<li> Asplund, John
+<ul>
+<li> (with N. Bradley Fox) Minimum Coprime Labelings for Operations on Graphs, <a href="vol19.html">Vol 19</a>
+

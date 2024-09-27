@@ -1,0 +1,6 @@
+
+<li> Backman, Spencer
+<ul>
+<li> (with Ernie Croot, Mariah Hamel, and Derrick Hart) Sum-Product Inequalities With Perturbation,
+<a href="vol11a.html">Vol 11A</a>
+

@@ -1,0 +1,6 @@
+
+<li> &Aacute;rend&aacute;s, P&eacute;ter
+<ul>
+<li> (with Ferenc Bencs, Zolt&aacute;n L. Bl&aacute;zsik, and Csaba Szab&oacute;) Compositions of Complements of Graphs, <a href="vol16.html">Vol 16</a>
+<li> (with Zolt&aacute;n L. Bl&aacute;zsik, Bertalan Bodor, and Csaba Szab&oacute;) On the Complexity and Topology of Scoring Games: of Pirates and Treasure, <a href="vol17.html">Vol 17</a>
+

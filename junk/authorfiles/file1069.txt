@@ -1,0 +1,7 @@
+
+<li> Lichtblau, Daniel 
+<ul>
+<li> (with David Einstein, Adam Strzebonski, and Stan Wagon)
+Frobenius Numbers by Lattice Point Enumeration,
+<a href="vol7.html">Vol 7</a>
+

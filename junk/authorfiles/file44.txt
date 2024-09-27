@@ -1,0 +1,6 @@
+
+<li> Alves, Francisco Regis Vieira 
+<ul>
+<li> (with Milena Carolina dos Santos Mangueira, Renata Passos Machado Vieira,  Paula Maria Machado Cruz Catarino, and Renata Te&oacute;filo de Sousa) Two-Dimensional, Three-Dimensional and <i>n</i>-Dimensional Recurrence Relations of Jacobsthal, <a href="vol22.html">Vol 22</a>
+<li> (with Paula Catarino and Helena Campos) On Hyper <i>k</i>-Pell, Hyper <i>k</i>-Pell-Lucas and Hyper Modified <i>k</i>-Pell Sequences, <a href="vol22.html">Vol 22</a>
+

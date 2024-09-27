@@ -1,0 +1,5 @@
+
+<li> Kainhofer, Reinhold
+<ul>
+<li> (with Jurgen Hartinger and Volker Ziegler) On the Corner Avoidance Properties of Various Low-discrepancy Sequences, <a href="vol5-3.html">Vol 5(3)</a>
+

@@ -1,0 +1,5 @@
+
+<li> Duan, Shu-Juan
+<ul>
+<li> (with Dan Liu and Tai-Man Tang) A Planar Integral Self-Affine Tile with Cantor Set Intersections With Its Neighbors, <a href="vol9.html">Vol 9</a>
+

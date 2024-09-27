@@ -1,0 +1,7 @@
+
+<li> Tokaz, Jacent 
+<ul>
+<li> (with Dusty Sabo and Daniel Schaal) Disjunctive Rado Numbers for
+<i>x<sub>1</sub> + x<sub>2</sub> + c = x<sub>3</sub></i>,
+<a href="vol7.html">Vol 7</a>
+

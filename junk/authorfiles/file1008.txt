@@ -1,0 +1,5 @@
+
+<li> Lanning, Charles 
+<ul>
+<li> (with Daniel Gray and Hua Wang) Pattern Containment in Circular Permutations, <a href="vol18b.html">Vol 18B</a>
+

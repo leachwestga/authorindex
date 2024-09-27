@@ -1,0 +1,5 @@
+
+<li> Thornton, DJ 
+<ul>
+<li> (with Paul Jenkins) Weakly Holomorphic Modular Forms in Prime Power Levels of Genus Zero, <a href="vol18.html">Vol 18</a>
+

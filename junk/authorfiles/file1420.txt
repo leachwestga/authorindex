@@ -1,0 +1,5 @@
+
+<li> Pham, Thang 
+<ul>
+<li> (with Tanbir Ahmed, Arie Bialostocki, and Le Anh Vinh) Power Sum Polynomials as Relaxed EGZ Polynomials, <a href="vol19.html">Vol 19</a>
+

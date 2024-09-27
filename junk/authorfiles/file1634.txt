@@ -1,0 +1,6 @@
+
+<li> Sen Gupta, Sourav 
+<ul>
+<li> (with Pantelimon St&#259;nic&#259;, Santanu Sarkar, Subhamoy Maitra, and Nirupam
+ Kar) Counting Heron triangles with Constraints, <a href="vol13.html">Vol 13</a>
+

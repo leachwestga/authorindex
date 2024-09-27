@@ -1,0 +1,7 @@
+
+<li> Doyle, Greg
+<ul>
+<li> (with Kenneth S. Williams) A Positive-Definite Ternary Quadratic Form Does Not Represent All Positive Integers, <a href="vol17.html">Vol 17</a>
+<li> (with Joseph B. Muskat, Lerna Pehlivan, and Kenneth S. Williams) Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms, <a href="vol19.html">Vol 19</a>
+<li> (with Zafer Selcuk Aygin, Florian M&uuml;nkel, Lerna Pehlivan, and Kenneth S. Williams) Representation Numbers of Spinor Regular Ternary Quadratic Forms, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,6 @@
+
+<li> Spindler, Mark
+<ul>
+<li> Equality Classes of Nim Positions under Mis&egrave;re Play, <a href="vol16.html">Vol 16</a>
+<li> An Extension of the Normal Play Convention to <i>N</i>-player combinatorial games, <a href="vol20a.html">Vol 20a</a>
+

@@ -1,0 +1,5 @@
+
+<li> Klaudiusz W&oacute;jcik, Klaudiusz
+<ul>
+<li> Newton Sequences and Dirichlet Convolution, <a href="vol21.html">Vol 21</a>
+

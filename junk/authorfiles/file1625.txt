@@ -1,0 +1,5 @@
+
+<li> Scott, Reese
+<ul>
+<li> (with Robert Styer) Handling a Large Bound for a Problem on the Generalized Pillai Equation <i>&plusmn; r a<sup>x</sup> &plusmn; s b<sup>y</sup>=c</i>, <a href="vol14.html">Vol 14</a>
+

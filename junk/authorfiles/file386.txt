@@ -1,0 +1,6 @@
+
+<li> Curran, Stephen J.
+<ul>
+<li> (with Daniel Gray, Stephen C. Locke, and Richard M. Low) Pyramid Nim, <a href="vol22.html">Vol 22</a>
+<li> (with Stephen C. Locke and Richard M. Low) A Variant of Nim Played on Boolean Matrices, <a href="vol23.html">Vol 23</a>
+

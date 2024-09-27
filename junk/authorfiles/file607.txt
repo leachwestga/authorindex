@@ -1,0 +1,6 @@
+
+<li> Friedlander, John B.
+<ul>
+<li> (with Florian Luca and Mihai Stoiciu) On the Irrationality
+of a Divisor Function Series, <a href="vol7.html">Vol 7</a>
+

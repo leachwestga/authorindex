@@ -1,0 +1,5 @@
+
+<li> Adolphson, Alan
+<ul>
+<li> (with Steven Sperber) On the Integrality of Factorial Ratios and Mirror Maps, <a href="vol20.html">Vol 20</a>
+

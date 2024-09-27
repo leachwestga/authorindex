@@ -1,0 +1,5 @@
+
+<li> Jenkins, Hugo
+<ul>
+<li> Repeated Binomial Coefficients and High-Degree Curves, <a href="vol16.html">Vol 16</a>
+

@@ -1,0 +1,5 @@
+
+<li> Yamamoto, Shuji
+<ul>
+<li> (with Ken Kamano and Yasuo Ohno) Weighted Lonesum Matrices and Their Generating Function, <a href="vol13.html">Vol 13</a>
+

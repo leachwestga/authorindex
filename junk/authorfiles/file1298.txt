@@ -1,0 +1,22 @@
+
+<li> Nathanson, Melvyn B.
+<ul>
+<li> Affine Invariants,
+Relatively Prime Sets, and a phi Function for Subsets of
+<em>{1, 2, ..., n}</em>, <a href="vol7.html">Vol 7</a>
+<li> Linear Quantum Addition Rules,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Brooke Orosz) Asymptotic Estimates for Phi Functions
+for Subsets of <em>{m+1,m+2,...,n}</em>, <a href="vol7.html">Vol 7</a>
+<li> (with Blair D. Sullivan) Heights in Finite Projective Space,
+and a Problem on Directed Graphs, <a href="vol8.html">Vol 8(1)</a>
+<li> Tennenbaum at Penn and Rochester, <a href="vol8-2.html">Vol 8(2)</a>
+<li> Phase Transitions in Infinitely Generated Groups, and Related Problems in 
+Additive Number Theory, <a href="vol11a.html">Vol 11A</a>
+<li> (with i&#381;eljka Ljuji&#263;) On a Partition Problem of Canfield and Wilf, <a href="vol12a.html">Vol 12A</a>
+<li> (with Kevin O'Bryant) On Sequences without Geometric Progressions, <a href="vol13.html">Vol 13</a>
+<li> (with Kevin O'Bryant) Irrational Numbers Associated to Sequences Without Geometric Progressions, <a href="vol14.html">Vol 14</a>
+<li> Commutative Algebra and the Linear Diophantine Problem of Frobenius, <a href="vol18b.html">Vol 18B</a>
+<li> Alternate Minimization and Doubly Stochastic Matrices, <a href="vol20a.html">Vol 20a</a>
+<li> Curious Convergent Series of Integers with Missing Digits, <a href="vol21A.html">Vol 21A</a>
+

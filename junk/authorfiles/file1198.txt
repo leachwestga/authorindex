@@ -1,0 +1,12 @@
+
+<li> Mc Laughlin, James
+<ul>
+<li> Combinatorial Identities Deriving from the nth Power of a 2 x 2 Matrix, <a href="vol4.html">Vol 4</a>
+<li> (with B. Sury) Powers of a Matrix and Combinatorial Identities, <a href="vol5.html">Vol 5(1)</a>
+<li> (with B. Sury) Some Observations on Khovanskii's Matrix Methods for
+Extracting  Roots
+of Polynomials, <a href="vol7.html">Vol 7</a>
+<li> (with Andrew V. Sills) Combinatorics of Ramanujan-Slater Type Identities,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+<li> Refinements of Some Partition Inequalities, <a href="vol16.html">Vol 16</a>
+

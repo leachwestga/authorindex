@@ -1,0 +1,11 @@
+
+<li> Choudhry, Ajai
+<ul>
+<li> Equal Sums of Like Powers with Minimum Number of Terms, <a href="vol16.html">Vol 16</a>
+<li> A Diophantine System, <a href="vol20.html">Vol 20</a>
+<li> (with Arman Shamsi Zargar) A Sextic Diophantine Chain and a Related Mordell Curve, <a href="vol21.html">Vol 21</a>
+<li> Some Diophantine Problems Concerning a Pair of Rational Triangles with a Common Circumradius, <a href="vol21.html">Vol 21</a>
+<li> Ideal Solutions of the Tarry-Escott Problem of Degree Seven, <a href="vol22.html">Vol 22</a>
+<li> Two Pairs of Biquadrates with Equal Sums, <a href="vol23.html">Vol 23</a>
+<li> Expressing an Integer as a Sum of Cubes of Polynomials, <a href="vol24.html">Vol 24</a>
+

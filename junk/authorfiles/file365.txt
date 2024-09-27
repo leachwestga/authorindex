@@ -1,0 +1,5 @@
+
+<li> Cooper, Joshua
+<ul>
+<li> (with Grant Fickes) Recurrence Ranks and Moment Sequences, <a href="vol21A.html">Vol 21A</a>
+

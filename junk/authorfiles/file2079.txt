@@ -1,0 +1,5 @@
+
+<li> Zheng, Qi-Yang
+<ul>
+<li> Distribution of 3-Regular and 5-Regular Partitions, <a href="vol23.html">Vol 23</a>
+

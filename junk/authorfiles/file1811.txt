@@ -1,0 +1,6 @@
+
+<li> Tan, Eng-Tjioe 
+<ul>
+<li> (with Hsuan-Chu Li and Young-Ming Chen) Determinants of Fibonacci
+-Hessenberg Matrices Using LU Factorizations, <a href="vol9.html">Vol 9</a>
+

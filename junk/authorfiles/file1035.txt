@@ -1,0 +1,6 @@
+
+<li> Leroy, Julien
+<ul>
+<li> (with Gwen&auml;el Richomme) A Combinatorial Proof of <i><b>S</b></i>-adicity for Sequences with Linear Complexity, <a href="vol13.html">Vol 13</a>
+<li> (with Michel Rigo and Manon Stipulanti) Counting Subword Occurrences in Base-<i>b</i> Expansions, <a href="vol18a.html">Vol 18A</a>
+

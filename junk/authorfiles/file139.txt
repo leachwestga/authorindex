@@ -1,0 +1,5 @@
+
+<li> Behloul, Djilali 
+<ul>
+<li> (with Lyes Ait-Amrane) Generalized Hyper-Fibonacci Numbers and Applications, <a href="vol22.html">Vol 22</a>
+

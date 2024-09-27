@@ -1,0 +1,5 @@
+
+<li> Yip, Chi Hoi
+<ul>
+<li> On the Directions Determined by Cartesian Products and the Clique Number of Generalized Paley Graphs, <a href="vol21.html">Vol 21</a>
+

@@ -1,0 +1,6 @@
+
+<li> Cohen, Joel E.
+<ul>
+<li> Multiplicative Inequalities for Primes and the Prime Counting Function, <a href="vol22.html">Vol 22</a>
+<li> Integer Sequences with Regularly Varying Counting Functions Have Power-law Variance Functions, <a href="vol23.html">Vol 23</a>
+

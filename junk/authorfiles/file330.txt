@@ -1,0 +1,5 @@
+
+<li> Choliy, Yuriy
+<ul>
+<li> (with Louis W. Kolitsch and Andrew V. Sills) Partition Recurrences, <a href="vol18b.html">Vol 18B</a>
+

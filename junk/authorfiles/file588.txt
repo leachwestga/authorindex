@@ -1,0 +1,6 @@
+
+<li> Flowers, Timothy B.
+<ul>
+<li> (with Neil J. Calkin and Steven R. Finch) Difference Density and Aperiodic Sum-Free Sets, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Shannon R. Lockard) Identifying an <i>m</i>-ary Partition Identity Through an <i>m</i>-ary Tree, <a href="vol16.html">Vol 16</a>
+

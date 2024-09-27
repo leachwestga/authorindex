@@ -1,0 +1,5 @@
+
+<li> Tarnu, Daniel
+<ul>
+<li class=fragment> (with Stephen Choi) The  Order of the Fundamental Solution  of \(x^2-Dy^2 =1\) in \(\mathbb{Z}[\sqrt{D}]/\langle D \rangle\), <a href="vol22.html">Vol 22</a>
+

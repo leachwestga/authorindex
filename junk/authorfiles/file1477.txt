@@ -1,0 +1,7 @@
+
+<li> Radder, Jeanne
+<ul>
+<li> (with Neil Calkin, Nate Drake, Kevin James, Shirley Law, Philip Lee, and David Penniston)
+Divisibility Properties of the 5-regular and 13-regular Partition Functions,
+<a href="vol8.html">Vol 8(1)</a>
+

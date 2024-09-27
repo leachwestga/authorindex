@@ -1,0 +1,5 @@
+
+<li> Ericksen, Larry 
+<ul>
+<li> (with Karl Dilcher) Factors and Irreducibility of Generalized Stern Polynomials, <a href="vol15.html">Vol 15</a>
+

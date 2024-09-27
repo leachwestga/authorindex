@@ -1,0 +1,6 @@
+
+<li> Sundberg, Eric 
+<ul>
+<li> (with Klay Kruczek) A Maker--Breaker Game on the Boolean Hypercube With Subcubes as Winning Sets, <a href="vol18.html">Vol 18</a>
+<li> (with Ramin Naimi) A Combinatorial Problem Solved by a Meta-Fibonacci Recurrence Relation, <a href="vol19.html">Vol 19</a>
+

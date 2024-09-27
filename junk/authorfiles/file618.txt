@@ -1,0 +1,5 @@
+
+<li> Gaede, Tao
+<ul>
+<li> (with Peter J. Dukes) Families of Modular Arithmetic Progressions with an Interval of Distance Multiplicities, <a href="vol23.html">Vol 23</a>
+

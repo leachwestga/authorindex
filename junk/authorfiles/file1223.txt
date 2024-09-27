@@ -1,0 +1,5 @@
+
+<li> Michael, T. S. 
+<ul>
+<li> (with Nicholas A. Loehr) The Combinatorics of Evenly Spaced Binomial Coefficients, <a href="vol18.html">Vol 18</a>
+

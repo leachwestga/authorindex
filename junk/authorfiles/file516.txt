@@ -1,0 +1,5 @@
+
+<li> Eldredge, Michael G.
+<ul>
+<li> (with Tanbir Ahmed, Jonathan J. Marler, and Hunter S. Snevily) Strict Schur Numbers, <a href="vol13.html">Vol 13</a>
+

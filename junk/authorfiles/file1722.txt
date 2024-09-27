@@ -1,0 +1,7 @@
+
+<li> Somer, Lawrence 
+<ul>
+<li> (with Lenny Jones) Primes in Shifted Sums of Lucas Sequences, <a href="vol17.html">Vol 17</a>
+<li> (with Michal K&#345;&iacute;&#382;ek) Nondefective Integers With Respect to Certain Lucas Sequences of the Second Kind, <a href="vol18.html">Vol 18</a>
+<li> (with Michal K&rcaron;&iacute;&zcaron;ek) Period Lengths Modulo <i>n</i> and Average of Terms of Second Order Linear Recurrences, <a href="vol24.html">Vol 24</a>
+

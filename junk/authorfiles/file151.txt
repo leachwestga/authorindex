@@ -1,0 +1,5 @@
+
+<li> B&eacute;nyi, Be&aacute;ta
+<ul>
+<li> (with P&eacute;ter Hajnal) Combinatorial Properties of Poly-Bernoulli Relatives, <a href="vol17.html">Vol 17</a>
+

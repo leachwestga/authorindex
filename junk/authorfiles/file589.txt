@@ -1,0 +1,5 @@
+
+<li> Foo, Timothy
+<ul>
+<li> On the Sum of Integers From Some Multiplicative Sets and Some Powers of Integers, <a href="vol18.html">Vol 18</a>
+

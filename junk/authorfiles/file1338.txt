@@ -1,0 +1,5 @@
+
+<li>Oliveira e Silva, Tom&aacute;s 
+<ul>
+<li> (with Jonathan Bayless and Dominic Klyve) New Bounds and Computations on Prime-Indexed Primes, <a href="vol13.html">Vol 13</a>
+

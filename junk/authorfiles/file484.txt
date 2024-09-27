@@ -1,0 +1,6 @@
+
+<li> Dutour, Mathieu
+<ul> 
+<li>(with Robert Erdahl and Konstantin Rybnikov) Perfect Delaunay
+Polytopes in Low Dimensions, <a href="vol7.html">Vol 7</a>
+

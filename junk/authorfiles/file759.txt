@@ -1,0 +1,7 @@
+
+<li> Hiller, Josh
+<ul>
+<li> (with Ye&scedil;im Ak&uuml;z&uuml;m and &Ouml;m&uuml;r Deveci) The Adjacency-Pell-Hurwitz Numbers, <a href="vol18.html">Vol 18</a>
+<li> (with Mark Budden and Andrew Penland) Constructive Methods in Gallai-Ramsey Theory for Hypergraphs, <a href="vol20a.html">Vol 20a</a>
+<li> (with Mark Budden, Tommy Meek, and Andrew Penland) Algebraic Properties of a Hypergraph Lifting Map, <a href="vol21.html">Vol 21</a>
+

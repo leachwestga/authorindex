@@ -1,0 +1,6 @@
+
+<li> Renault, Gabriel
+<ul>
+<li> Binary Dicots, a Core of Dicot Games, <a href="vol15.html">Vol 15</a>
+<li> (with Urban Larsson, Rebecca Milley, Richard Nowakowski, and Carlos Santos) Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play, <a href="vol21b.html">Vol 21b</a>
+

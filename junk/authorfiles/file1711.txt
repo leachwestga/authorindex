@@ -1,0 +1,6 @@
+
+<li> Smati, A. 
+<ul>
+<li> (with S. Nyandwi) Distribution Laws of Pairs of Divisors, <a href="vol13.html">Vol 13</a>
+<li> (with S. Nyandwi) Distribution Laws of Friable Divisors, <a href="vol20.html">Vol 20</a>
+

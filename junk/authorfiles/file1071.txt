@@ -1,0 +1,5 @@
+
+<li> Lidick&yacute;, Bernard 
+<ul>
+<li> (with Maria Axenovich, John Goldwasser, Ryan R. Martin, David Offner, John Talbot, and Michael Young) Polychromatic Colorings on the Integers, <a href="vol19.html">Vol 19</a>
+

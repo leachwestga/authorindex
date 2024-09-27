@@ -1,0 +1,6 @@
+
+<li> Deshouillers, Jean-Marc
+<ul>
+<li> (with Gyan Prakash) Large Zero-Free Subsets of <i>Z/pZ</i>, <a href="vol11a.html">Vol 11A</a>
+<li> (with R. Thangadurai) A Sufficient Condition for (&theta;<sup>n</sup>)<sub>n</sub> to Have a Distribution Modulo One, When &theta; is in F<sub>2</sub>(<i>X</i>), <a href="vol18a.html">Vol 18A</a>
+

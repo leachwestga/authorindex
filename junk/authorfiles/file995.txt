@@ -1,0 +1,5 @@
+
+<li> Lagarias, Jeffrey C. 
+<ul>
+<li> (with P&auml;r Kurlberg and Carl Pomerance) On Sets of Integers Which Are Both Sum-Free and Product-Free, <a href="vol12b.html">Vol 12B</a>
+

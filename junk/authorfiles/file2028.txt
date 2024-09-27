@@ -1,0 +1,7 @@
+
+<li> Yankov, Christian L.
+<ul>
+<li> (with Dennis Eichhorn, Mizan R. Khan, and Alan H. Stein)
+Sums and Differences of the Coordinates of Points on Modular Hyperbolas,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+

@@ -1,0 +1,5 @@
+
+<li> Hines, Taylor 
+<ul>
+<li> (with Dawn Curtis, Glenn Hurlbert, and Tatiana Moyer) On Pebbling Graphs By Their Blocks, <a href="vol9.html">Vol 9</a>
+

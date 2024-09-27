@@ -1,0 +1,5 @@
+
+<li> Kouril, Michal
+<ul>
+<li> Computing the Van der Waerden Number <i>W(3,4)=293</i>, <a href="vol12.html">Vol 12</a>
+

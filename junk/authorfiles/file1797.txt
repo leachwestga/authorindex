@@ -1,0 +1,9 @@
+
+<li> Szab&oacute;, S&aacute;ndor
+<ul>
+<li> Some Fourth Degree Diophantine Equations in Gaussian Integers, <a href="vol4.html">Vol 4</a>
+<li> Factorizations and Paige's Theorem on Complete Maps,
+<a href="vol6.html">Vol 6</a>
+<li> (with Kereszt&eacute;ly Corr&aacute;di) Factorization Results with Combinatorial Proofs, <a href="vol9.html">Vol 9</a>
+<li> An Elementary Computer Assisted Unique Factorization Test, <a href="vol21.html">Vol 21</a>
+

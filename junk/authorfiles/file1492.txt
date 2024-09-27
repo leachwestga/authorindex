@@ -1,0 +1,5 @@
+
+<li> Randrianantenaina, Jean Lucien
+<ul>
+<li class=fragment> (with Florian Luca) There Is No Carmichael Number of the Form \(2^n p^2+1\) With \(p\) Prime, <a href="vol23.html">Vol 23</a>
+

@@ -1,0 +1,6 @@
+
+<li> McGaughlin, James 
+<ul>
+<li> (with Andrew V. Sills)  Combinatorics of Ramanujan-Slater Type Identities,
+<a href="vol9supp.html">Volume 9 Supplement</a>
+

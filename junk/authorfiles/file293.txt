@@ -1,0 +1,6 @@
+
+<li> Chandler, Ray
+<ul> 
+<li> (with Eugen J. Ionascu) A Characterization of All Equilateral
+Triangles in <b>Z</b><sup>3</sup>, <a href="vol8.html">Vol 8(1)</a>
+

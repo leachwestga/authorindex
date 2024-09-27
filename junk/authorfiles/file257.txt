@@ -1,0 +1,7 @@
+
+<li> Cairns, Grant
+<ul>
+<li> (with Nhan Bao Ho) Min, A Combinatorial Game Having a Connection With Prime Numbers, <a href="vol10.html">Vol 10</a>
+<li> (with Christian Aebi) A Property of Twin Primes, <a href="vol12.html">Vol 12</a>
+<li> (with Christian Aebi) The Quartic Residues Latin Square, <a href="vol17.html">Vol 17</a>
+

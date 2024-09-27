@@ -1,0 +1,7 @@
+
+<li> Bachman, Gennady
+<ul>
+<li> On Ternary Inclusion-Exclusion Polynomials, <a href="vol10.html">Vol 10</a>
+<li> (with Pieter Moree) On a Class of Ternary Inclusion-Exclusion Polynomials, <a href="vol11.html">Vol 11</a>
+<li> Coefficients of Unitary Cyclotomic Polynomials of Order Three, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,5 @@
+
+<li> Elias, Yara
+<ul>
+<li> (with Pierre McKenzie) On Generalized Addition Chains, <a href="vol14.html">Vol 14</a>
+

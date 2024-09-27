@@ -1,0 +1,5 @@
+
+<li> Li, Hsuan-Chu
+<ul>
+<li> (with Young-Ming Chen and Eng-Tjioe Tan) Counting Determinants of Fibonacci-Hessenberg Matrices Using LU Factorizations, <a href="vol9.html">Vol 9</a>
+

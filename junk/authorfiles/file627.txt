@@ -1,0 +1,5 @@
+
+<li> Gao, Zhenguang 
+<ul>
+<li> (with Thomas Koshy) Triangular Numbers in the Jacobsthal Family, <a href="vol12.html">Vol 12</a>
+

@@ -1,0 +1,5 @@
+
+<li> Markstr&ouml;m, Klas
+<ul>
+<li> The Straight Line Complexity of Small Factorials and Primorials, <a href="vol15.html">Vol 15</a>
+

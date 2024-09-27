@@ -1,0 +1,5 @@
+
+<li> Imbert, Laurent 
+<ul>
+<li> (with Filippo Disanto and Fabrice Philippe) On the Maximal Weight of <i>(P,Q)</i>-ary Chain Partitions With Bounded Parts, <a href="vol14.html">Vol 14</a>
+

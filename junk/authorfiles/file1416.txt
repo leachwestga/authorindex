@@ -1,0 +1,5 @@
+
+<li> Petrenko, B. V.
+<ul>
+<li> On the Distribution of Distances between the Points of Affine Curves over Finite Fields, <a href="vol5.html">Vol 5(1)</a>
+

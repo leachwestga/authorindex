@@ -1,0 +1,6 @@
+
+<li> Rubinstein, Michael O.
+<ul>
+<li> The Distribution of Solutions to <i>xy = N </i> (MOD <i>a</i>) with an Application to Factoring Integers, <a href="vol13.html">Vol 13</a>
+<li> The South Caicos Factoring Algorithm, <a href="vol21.html">Vol 21</a>
+

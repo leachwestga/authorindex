@@ -1,0 +1,7 @@
+
+<li> Bhoi, Kisan
+<ul>
+<li> (with Prasanta Kumar Ray) On the <i>x</i>-Coordinates of Pell Equations Which Are Narayana Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with Prasanta Kumar Ray) Fermat Numbers in Narayana's Cows Sequence, <a href="vol22.html">Vol 22</a>
+<li> (with Prasanta Kumar Ray) Narayana Numbers Which Are Concatenations of Two Base <i>b</i> Repdigits, <a href="vol24.html">Vol 24</a>
+

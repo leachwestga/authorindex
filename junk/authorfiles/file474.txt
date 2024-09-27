@@ -1,0 +1,10 @@
+ 
+<li> Duch&ecirc;ne, Eric 
+<ul>
+<li> (with Lois Blanc and Sylvain Gravier) A Deletion Game on Graphs:
+Le Pic Ar&ecirc;te,
+<a href="vol6.html">Vol 6</a>
+<li> (with Paul Dorbec and Sylvain Gravier) Solitaire Clobber Played
+on Hamming Graphs, <a href="vol8.html">Vol 8(1)</a>
+<li> (with Marc Heinrich, Richard Nowakowski, and Aline Parreau) Partizan Subtraction Games, <a href="vol21b.html">Vol 21b</a>
+

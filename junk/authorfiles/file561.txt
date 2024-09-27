@@ -1,0 +1,5 @@
+
+<li> Fellman, Tasha
+<ul>
+<li> (with Dominic Klyve) Existence of Cycles in Ducci’s Four-Number Game with Modular Multiplication, <a href="vol23.html">Vol 23</a>
+

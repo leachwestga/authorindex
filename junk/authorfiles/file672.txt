@@ -1,0 +1,5 @@
+
+<li> Goins, Edray Herber
+<ul>
+<li> Palindromes in Different Bases:  A Conjecture of J. Ernest Wilkins, <a href="vol9.html">Vol 9</a>
+

@@ -1,0 +1,5 @@
+
+<li> Bray, Patrick F.
+<ul>
+<li> (with Hieu D. Nguyen) The Area of the Mandelbrot Set and Zagier's Conjecture, <a href="vol18.html">Vol 18</a>
+

@@ -1,0 +1,5 @@
+
+<li> Pohoata, Cosmin
+<ul>
+<li> Boole's Formula as a Consequence of Lagrange's Interpolating Polynomial Theorem, <a href="vol8.html">Vol 8(1)</a>
+

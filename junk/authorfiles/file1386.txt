@@ -1,0 +1,5 @@
+
+<li> Paterson, Mike 
+<ul>
+<li> (with Nikolay Chikin, Vladimir Gurvich, Konstantin Knop,  and Michael Vyalyi) More about Exact Slow <i>k</i>-Nim, <a href="vol21.html">Vol 21</a>
+

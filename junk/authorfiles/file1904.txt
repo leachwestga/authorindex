@@ -1,0 +1,6 @@
+
+<li> Vella, David C.
+<ul>
+<li> Explicit Formulas for Bernoulli and Euler Numbers, <a href="vol8.html">
+Vol 8(1)</a>
+

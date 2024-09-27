@@ -1,0 +1,5 @@
+
+<li> Ambrose, Christopher
+<ul>
+<li> On the Least Primitive Root Expressible as a Sum of Two Squares, <a href="vol13.html">Vol 13</a>
+

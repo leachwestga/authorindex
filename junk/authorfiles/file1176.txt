@@ -1,0 +1,5 @@
+
+<li> Mayle, Jacob 
+<ul>
+<li> (with Sarah Manski and Nathaniel Zbacnik) The Asymptotic Distribution of a Hybrid Arithmetic Function, <a href="vol15.html">Vol 15</a>
+

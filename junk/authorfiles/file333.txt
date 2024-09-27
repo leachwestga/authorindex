@@ -1,0 +1,9 @@
+
+<li> Christopher, A. David
+<ul>
+<li> (with M. Davamani Christober) On Asymptotic Formula of the Partition Function <i>p<sub>A</sub>(n)</i>, <a href="vol15.html">Vol 15</a>
+<li> Euler-type Recurrence Relation for Arbitrary Arithmetical Function, <a href="vol19.html">Vol 19</a>
+<li> The Number of Parts in the (Distinct) Partitions With Parts From a Set, <a href="vol21.html">Vol 21</a>
+<li> A Class of Graphs Based on a Set of Moduli, <a href="vol22.html">Vol 22</a>
+<li> (with S. Sriram) Congruences Relating Regular Partition Functions, a Generalized Tau Function and Partition Function Weighted Composition Sums, <a href="vol24.html">Vol 24</a>
+

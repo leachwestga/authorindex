@@ -1,0 +1,12 @@
+
+<li> Gao, Weidong
+<ul>
+<li> Zero Sums in Finite Cyclic Groups, <a href="vol0.html">Vol 0</a>
+<li> (with Alfred Geroldinger) On Zero-Sum Sequences in Z/nZ + Z/nZ, <a href="vol3.html">Vol 3</a>
+<li> (with Q. H. Hou, W. A. Schmid, and R. Thangadurai)
+On Short Zero-Sum Subsequences II, <a href="vol7.html">Vol 7</a>
+<li> (with Jiangtao Peng) On the Number of Zero-Sum Subsequences of Restricted Size, <a href="vol9.html">Vol 9</a>
+<li> (with Linlin Wang) The Maximal Cross Number of Unique Factorization Zero-sum Sequences Over A Finite Abelian Group, <a href="vol12.html">Vol 12</a>
+<li> (with Yushuang Fan, Jiangtao Peng, Linlin Wang, and Qinghai Zhong) Remarks on Tiny Zero-Sum Sequences, <a href="vol13.html">Vol 13</a>
+<li> (with Yuanlin Li, Yongke Qu, and Qinghong Wang) Additive Bases of Finite Abelian Groups of Rank 2, <a href="vol22.html">Vol 22</a>
+

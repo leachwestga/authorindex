@@ -1,0 +1,11 @@
+
+<li> Croot, Ernie
+<ul>
+<li> Sums of the Form 1/x<sub>1</sub><sup>k</sup> + ... +
+1/x<sub>n</sub><sup>k</sup> Modulo a Prime, <a href="vol4.html">Vol 4</a>
+<li> (with Imre Ruzsa and Tomasz Schoen)
+Arithmetic Progressions in Sparse Sumsets, <a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Spencer Backman, Mariah Hamel, and Derrick Hart) Sum-Product Inequalities With Perturbation,
+<a href="vol11a.html">Vol 11A</a>
+<li> (with Gagik Amirkhanyan and Albert Bush) Order-Preserving Freiman Isomorphisms, <a href="vol18.html">Vol 18</a>
+

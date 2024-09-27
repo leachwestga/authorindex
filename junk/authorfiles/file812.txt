@@ -1,0 +1,5 @@
+
+<li> Irie, Yuki
+<ul>
+<li> A Base-<i>p</i> Sprague-Grundy Type Theorem for <i>p</i>-calm Subtraction Games: Welter's Game and Representations of Generalized Symmetric Groups, <a href="vol21b.html">Vol 21b</a>
+

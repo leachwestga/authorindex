@@ -1,0 +1,7 @@
+
+<li> Ram&iacute;rex Alfons&iacute;n, J.L. 
+<ul>
+<li> (with J.M. Mar&iacute;n and M.P. Revuelta)
+On the Frobenius Number of Fibonacci Numerical Semigroups,
+<a href="vol7.html">Vol 7</a>
+

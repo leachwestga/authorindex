@@ -1,0 +1,5 @@
+
+<li> Fl&oacute;rez, Rigoberto
+<ul>
+<li> (with J. C. Saunders) Irreducibility of Generalized Fibonacci Polynomials, <a href="vol22.html">Vol 22</a>
+

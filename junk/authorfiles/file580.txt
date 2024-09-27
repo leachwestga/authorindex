@@ -1,0 +1,6 @@
+
+<li> Fisher, Michael
+<ul>
+<li> (with Neil McKay, Richard J. Nowakowski, Paul Ottaway, and Carlos Pereira dos Santos) Atomic Weight Calculus of Spindly Games, <a href="vol20.html">Vol 20</a>
+<li> (with Kyle Burke,  Matthew Ferland,  Valentin Gledel, and Craig Tennenhouse) The Game of Blocking Pebbles, <a href="vol21b.html">Vol 21b</a>
+

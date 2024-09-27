@@ -1,0 +1,5 @@
+
+<li class="fragment"> Tsumura, Yu
+<ul>
+<li> On the Finiteness of Carmichael Numbers with Fermat Factors and \(L=2^{\alpha}P^2\), <a href="vol20.html">Vol 20</a>
+

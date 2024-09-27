@@ -1,0 +1,7 @@
+
+<li> Beck, Matthias
+<ul>
+<li> (with Curtis Kifer) An Extreme Family of Generalized Frobenius Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Serkan Ho&scedil;ten and Matthias Schymura) Lonely Runner Polyhedra, <a href="vol19.html">Vol 19</a>
+<li> (with Sophia Elia and Sophie Rehberg) Rational Ehrhart Theory, <a href="vol23.html">Vol 23</a>
+

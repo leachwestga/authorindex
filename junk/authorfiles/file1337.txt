@@ -1,0 +1,5 @@
+
+<li> Olafson, Hailey 
+<ul>
+<li> (with Tom Edgar and James Van Alstine) Approximating the Fibonacci Sequence, <a href="vol16.html">Vol 16</a>
+

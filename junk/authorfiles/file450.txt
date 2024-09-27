@@ -1,0 +1,5 @@
+
+<li> Diffenderfer, James D.
+<ul>
+<li> Building a Better Bijection Between Classes of Compositions, <a href="vol14.html">Vol 14</a>
+

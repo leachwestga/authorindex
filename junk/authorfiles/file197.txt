@@ -1,0 +1,6 @@
+
+<li> Bordell&egrave;s, Olivier
+<ul>
+<li> A Note on a Unitary Analog to Redheffer's Matrix, <a href="vol20.html">Vol 20</a>
+<li> (with L&aacute;szl&oacute; T&oacute;th) Mean Values of the Product of an Integer and Its Modular Inverse, <a href="vol24.html">Vol 24</a>
+

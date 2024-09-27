@@ -1,0 +1,5 @@
+
+<li> Momihara, Koji
+<ul>
+<li> (with Sho Suda) Conference Matrices With Maximum Excess and  Two-intersection Sets, <a href="vol17.html">Vol 17</a>
+

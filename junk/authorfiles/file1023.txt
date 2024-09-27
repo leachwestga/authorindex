@@ -1,0 +1,5 @@
+
+<li> Lee, Jun Ho
+<ul>
+<li class=fragment> Classification for Existence of the Continued Fraction Expansions of \(\sqrt{D}\) and \((1+\sqrt{D})/2\), <a href="vol24.html">Vol 24</a>
+

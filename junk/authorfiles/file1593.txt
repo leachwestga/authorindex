@@ -1,0 +1,5 @@
+
+<li> Sankaranarayanan, Ayyadurai 
+<ul>
+<li> (with Anubhav Sharma) Average Behavior of the Fourier Coefficients of the Symmetric Square <i>L</i>-Function over Some Sequence of Integers, <a href="vol22.html">Vol 22</a>
+

@@ -1,0 +1,5 @@
+
+<li> Parshall, Hans 
+<ul>
+<li> (with Pete L. Clark, Jacob Hicks, and Katherine Thompson) GoNI: Primes Represented by Binary Quadratic Forms, <a href="vol13.html">Vol 13</a>
+

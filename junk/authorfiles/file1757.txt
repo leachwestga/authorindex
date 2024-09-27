@@ -1,0 +1,6 @@
+
+<li> Stein, Martin
+<ul>
+<li> (with Carsten Elsner) On the Value Distribution of Error Sums for Approximati
+ons With Rational Numbers, <a href="vol12.html">Vol 12</a>
+

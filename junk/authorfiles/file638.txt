@@ -1,0 +1,7 @@
+
+<li> Geneson, Jesse
+<ul>
+<li> A Generalization of the K&#337;v&aacute;ri--S&oacute;s--Tur&aacute;n Theorem, <a href="vol21.html">Vol 21</a>
+<li> (with Peter Tian and Katherine Tung) Formations and Generalized Davenport-Schinzel Sequences, <a href="vol22.html">Vol 22</a>
+<li> Continuous Tur&aacute;n Numbers, <a href="vol24.html">Vol 24</a>
+

@@ -1,0 +1,6 @@
+
+<li> Dwivedi, Srashti
+<ul>
+<li class=fragment> (with Amitabha Tripathi) On the Two-color Rado Number for \(x_1+ax_2-x_3=c\), <a href="vol20.html">Vol 20</a>
+<li> (with Amitabha Tripathi) On the Two-Color Rado Number for \(\sum_{i=1}^{m-2} x_i+ax_{m-1}-x_m=c\), <a href="vol22.html">Vol 22</a>
+

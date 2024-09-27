@@ -1,0 +1,5 @@
+
+<li> Bruno, Jorge
+<ul>
+<li> (with Edwin O'Shea) Relaxed Complete Partitions:  An Error-correcting Bachet’s Problem, <a href="vol18.html">Vol 18</a>
+

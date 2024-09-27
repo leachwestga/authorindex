@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+Author Index
+</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body bgcolor="white" link="#0000B3" vlink="#0000B3" alink="white">
+<style type="text/css">
+a {text-decoration:none;}
+</style>
+<center>
+<img src="smallbanner.gif">
+<p>
+</center>
+<pre>
+
+</pre>
+<ul>
+<li> Abbasi, Sarmad
+<ul>
+<li> (with Numan Sheikh) Some Hardness Results for Question/Answer Games,
+<a href="vol7.html">Vol 7</a>
+

@@ -1,0 +1,5 @@
+
+<li> Newman, David 
+<ul>
+<li> (with George E. Andrews) Binary Representations and Theta Function, <a href="vol18.html">Vol 18</a>
+

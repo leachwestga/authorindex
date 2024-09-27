@@ -1,0 +1,6 @@
+
+<li> Zemyan, Stephen M.
+<ul>
+<li> Cyclemaster Matrices and Collatz Cycles, <a href="vol20.html">Vol 20</a>
+<li> (with Marcin Mazur) Cyclemaster Matrices and Primality Testing, <a href="vol23.html">Vol 23</a>
+

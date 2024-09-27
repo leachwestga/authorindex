@@ -1,0 +1,6 @@
+
+<li> Magner, Richard
+<ul>
+<li> (with Mizan R. Khan, Steven Senger, and Arne Winterhof) Two Combinatorial Geometric Problems involving Modular Hyperbolas, <a href="vol14.html">Vol 14</a>
+<li class=fragment> (with Sohail Farhangi) On The Partition Regularity of \(ax+by = cw^mz^n\), <a href="vol23.html">Vol 23</a>
+

@@ -1,0 +1,5 @@
+
+<li> Zhuang, Yan 
+<ul>
+<li> (with Anant Godbole, Samuel Gutekunst, and Vince Lyzinski) Logarithmic Representability of Integers as <i>k</i>-Sums, <a href="vol15a.html">Vol 15A</a>
+

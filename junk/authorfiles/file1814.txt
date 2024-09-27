@@ -1,0 +1,5 @@
+
+<li> Tanabe, Naomi
+<ul>
+<li class=fragment> (with Nawapan Wattanawanichkul) An Alternative Approach to Computing \(\beta(2k+1)\), <a href="vol23.html">Vol 23</a>
+

@@ -1,0 +1,5 @@
+
+<li> Stipulanti, Manon 
+<ul>
+<li> (with Julien Leroy and Michel Rigo) Counting Subword Occurrences in Base-<i>b</i> Expansions, <a href="vol18a.html">Vol 18A</a>
+

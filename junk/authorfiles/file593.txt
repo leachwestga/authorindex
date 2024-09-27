@@ -1,0 +1,7 @@
+
+<li> Fox, Nathan 
+<ul>
+<li> (with F. Blanchet-Sadri, James D. Currie, and Narad Rampersad) Abelian Complexity of Fixed Point of Morphism <i>0 &#8614; 012, 1 &#8614; 02, 2 &#8614; 1</i>, <a href="vol14.html">Vol 14</a>
+<li> Quasipolynomial Solutions to the Hofstadter Q-Recurrence, <a href="vol16.html">Vol 16</a>
+<li> A New Approach to the Hofstadter <i>Q</i>-Recurrence, <a href="vol20a.html">Vol 20a</a>
+

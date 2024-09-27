@@ -1,0 +1,5 @@
+
+<li> Straub, Armin
+<ul>
+<li> (with David Borwein, Jonathan M. Borwein, and James Wan) Log-Sine Evaluations of Mahler Measures, II, <a href="vol12a.html">Vol 12A</a>
+

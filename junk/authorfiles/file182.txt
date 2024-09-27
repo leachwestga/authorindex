@@ -1,0 +1,10 @@
+
+<li> Blecksmith, Richard
+<ul>
+<li> (with Geoffrey Apel and John Brillhart)
+Algorithms for Finding and Proving Balanced <i>Q<sup>2</sup></i> Identities,
+<a href="vol7-2.html">Vol 7(2)</a>
+<li> (with Geoffrey Apel and John Brillhart)
+Proving Balanced <i>T<sup>2</sup></i> and <i>Q<sup>2</sup></i> Identities Using Modular Forms,
+<a href="vol11a.html">Vol 11A</a>
+

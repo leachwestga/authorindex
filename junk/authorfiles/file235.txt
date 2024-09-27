@@ -1,0 +1,7 @@
+
+<li> Brunotte, Horst
+<ul>
+<li> Symmetric CNS Polynomials, <a href="vol9.html">Vol 9</a>
+<li> A Class of Quadrinomial Garsia Numbers, <a href="vol11b.html">Vol 11b</a>
+<li> A Unified Proof of Two Classical Theorems on CNS Polynomials, <a href="vol12.html">Vol 12</a>
+

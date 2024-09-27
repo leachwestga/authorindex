@@ -1,0 +1,6 @@
+
+<li> Marques, Diego 
+<ul>
+<li> (with Tam&aacute;s Lengyel) The 2-adic Order of Some Generalized Fibonacci Numbers, <a href="vol17.html">Vol 17</a>
+<li> (with G&eacute;rsica Freitas and Jos&eacute; Othon Lopes) On Congruences Involving Some Fibonomial Coefficients, <a href="vol19.html">Vol 19</a>
+

@@ -1,0 +1,12 @@
+
+<li> Savchev, Svetoslav 
+<ul>
+<li> (with Fang Chen) 
+Minimal Zero-sum Sequences of Maximum Length in
+the Group <i>C<sub>3</sub> &#x2295; C<sub>3k</sub></i>,
+<a href="vol7.html">Vol 7</a>
+<li> (with Fang Chen) Long Minimal Zero-Sum Sequences in the Group <i>C<sub>2</sub>&oplus; C<sub>2k</sub></i>, <a href="vol12.html">Vol 12</a>
+<li> (with Fang Chen) Long Minimal Zero-Sum Sequences in the Groups <i>C
+<sub>2</sub><sup>r-1</sup> &oplus; C<sub>2k</sub></i>, <a href="vol14.html">Vol
+14</a>
+

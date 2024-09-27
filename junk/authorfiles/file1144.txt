@@ -1,0 +1,6 @@
+
+<li> Manski, Sarah
+<ul>
+<li> (with Jacob Mayle and Nathaniel Zbacnik) The Asymptotic Distribution of a Hybrid Arithmetic Function, <a href="vol15.html">Vol 15</a>
+<li> (with David Burt, Eli Goldstein, Steven J. Miller, Eyvindur Ari Palsson, and Hong Suh) Crescent Configurations, <a href="vol16.html">Vol 16</a>
+

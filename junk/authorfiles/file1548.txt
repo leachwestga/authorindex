@@ -1,0 +1,6 @@
+
+<li> Rote, G&uuml;nter
+<ul>
+<li> (with Gill Barequet, Micha Moffie, and Ares Rib&oacute;) Counting
+Polyominoes on Twisted Cylinders, <a href="vol6.html">Vol 6</a>
+

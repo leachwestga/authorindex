@@ -1,0 +1,5 @@
+
+<li> Gordon, Russell A.
+<ul>
+<li> Lucas Type Sequences and Sums of Binomial Coefficients, <a href="vol23.html">Vol 23</a>
+

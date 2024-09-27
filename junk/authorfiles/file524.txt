@@ -1,0 +1,5 @@
+
+<li> Elledge, Shawn
+<ul>
+<li> (with Glenn H. Hurlbert) An Application of Graph Pebbling to Zero-Sum Sequences in Abelian Groups, <a href="vol5.html">Vol 5(1)</a>
+

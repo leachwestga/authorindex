@@ -1,0 +1,5 @@
+
+<li> N&eacute;meth, L&aacute;szl&oacute;
+<ul>
+<li> Tetrahedron Trinomial Coefficient Transform, <a href="vol19.html">Vol 19</a>
+

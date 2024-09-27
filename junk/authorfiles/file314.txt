@@ -1,0 +1,12 @@
+
+<li> Chen, Yong-Gao
+<ul>
+<li> (with Li-Xia Dai) Congruences with Factorials Modulo <it>p</it>,
+<a href="vol6.html">Vol 6</a>
+<li> (with Jin-Hui Fang) Triangular Numbers in Geometric Progression,
+<a href="vol7.html">Vol 7</a>
+<li> (with Jin-Hui Fang) On N | &phi;(N)D(N)+2 and N | &phi;(N)&sigma;(N)+1, 
+<a href="vol8.html">Vol 8(1)</a>
+<li> (with Wen Jiang) Catalan Numbers Modulo a Prime Power, <a href="vol13.html">Vol 13</a>
+<li> (with Vsevolod F. Lev) Integer Sets with Identical Representation Functions, <a href="vol16.html">Vol 16</a>
+

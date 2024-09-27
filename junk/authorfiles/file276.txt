@@ -1,0 +1,9 @@
+
+<li> Carvalho, Alda
+<ul>
+<li> (with Carlos P. Santos, C&aacute;tia Lente Dias, Francisco Coelho, Jo&atilde;o Pedro Neto,  and S
+andra Vinagre) A Recursive Process Related to a Partizan Variation of Wythoff, <a href="vol12.html">Vo
+l 12</a>
+<li> (with Melissa A. Huggan, Richard J. Nowakowski, and Carlos Pereira dos Santos) A Note on Numbers, <a href="vol21b.html">Vol 21b</a>
+<li> (with Melissa A. Huggan, Richard J. Nowakowski, and Carlos Pereira dos Santos) Ordinal Sums, Clockwise Hackenbush, and Domino Shave, <a href="vol21b.html">Vol 21b</a>
+

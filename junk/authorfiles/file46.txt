@@ -1,0 +1,11 @@
+
+<li> Alzer, Horst
+<ul>
+<li> (with Helmut Prodinger) On Combinatorial Identities of Engbers and Stocker, <a href="vol17.html">Vol 17</a>
+<li> (with Helmut Prodinger) Identities and Inequalities for Sums Involving Binomial Coefficients, <a href="vol20.html">Vol 20</a>
+<li> (with G&aacute;bor V. Nagy) Some Identities Involving Central Binomial Coefficients and Catalan Numbers, <a href="vol20.html">Vol 20</a>
+<li> (with Emanuele Munarini) A New Class of Polynomials Related to the Stirling Numbers and Series Representations for Some Mathematical Constants, <a href="vol21.html">Vol 21</a>
+<li> (with Man Kam Kwong) Extension of an Inequality for Fibonacci Numbers, <a href="vol22.html">Vol 22</a>
+<li> (with P&eacute;ter K&oacute;rus) Harmonic Numbers: Combinatorial Identities and Series Representations, <a href="vol23.html">Vol 23</a>
+<li> (with Man Kam Kwong) Two Identities for Complex Numbers with Applications to Special Sequences and Functions, <a href="vol23.html">Vol 23</a>
+

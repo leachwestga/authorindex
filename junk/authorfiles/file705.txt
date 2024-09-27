@@ -1,0 +1,5 @@
+
+<li> Guo, Yu-Hong
+<ul>
+<li> Short Proofs of Euler-type Identities for Compositions, <a href="vol19.html">Vol 19</a>
+

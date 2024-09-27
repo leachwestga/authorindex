@@ -1,0 +1,5 @@
+
+<li> Naimi, Ramin
+<ul>
+<li> (with Eric Sundberg) A Combinatorial Problem Solved by a Meta-Fibonacci Recurrence Relation, <a href="vol19.html">Vol 19</a>
+

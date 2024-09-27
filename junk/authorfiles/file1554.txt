@@ -1,0 +1,5 @@
+
+<li> Roy, Bidisha 
+<ul>
+<li> (with Aaron Robertson and Subha Sarkar) The Determination of 2-color Zero-sum Generalized Schur Numbers, <a href="vol18.html">Vol 18</a>
+

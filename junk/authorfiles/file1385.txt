@@ -1,0 +1,5 @@
+
+<li> Patel, Bijan Kumar
+<ul>
+<li> (with Bibhu Prasad Tripathy) Sums of Three Fibonacci Numbers Close to a Power of 2, <a href="vol23.html">Vol 23</a>
+

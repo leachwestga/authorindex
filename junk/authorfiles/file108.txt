@@ -1,0 +1,6 @@
+
+<li> Ballot, Christian
+<ul>
+<li> An Elementary Method to Compute Prime Densities in <b>F</b><sub><i>Q</i></sub>, <a href="vol7-2.html">Vol 7(2)</a>
+<li> Prime Density of Lehmer Sequences, <a href="vol23.html">Vol 23</a>
+

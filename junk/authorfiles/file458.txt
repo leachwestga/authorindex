@@ -1,0 +1,6 @@
+
+<li> Dorbec, Paul
+<ul>
+<li> (with Eric Duch&ecirc;ne and Sylvain Gravier) Solitaire
+Clobber Played on Hamming Graphs, <a href="vol8.html">Vol 8(1)</a>
+

@@ -1,0 +1,5 @@
+
+<li> Lewis, Scott 
+<ul>
+<li> (with Marcia Edson and Omer Yayenie) The <i>k</i>-Periodic Fibonacci Sequence and an Extended Binet's Formula, <a href="vol11.html">Vol 11</a>
+

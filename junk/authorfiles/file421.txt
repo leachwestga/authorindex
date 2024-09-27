@@ -1,0 +1,8 @@
+
+<li> de Koninck, Jean-Marie
+<ul>
+<li> (with Florian Luca) On Strings of Consecutive Economical Numbers of Arbitrary Length, <a href="vol5-2.html">Vol 5(2)</a>
+<li> (with Nicolas Doyon) On the Distance Between Smooth Numbers, <a href="vol11.html">Vol 11</a>
+<li> (with Nicolas Doyon and Vincent Ouellet) The Limit Distribution of the Middle Prime Factors of an Integer, <a href="vol19.html">Vol 19</a>
+<li> (with Nicolas Doyon and William Verreault) Repetitions of Multinomial Coefficients and a Generalization of Singmaster's Conjecture, <a href="vol21.html">Vol 21</a>
+

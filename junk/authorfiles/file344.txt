@@ -1,0 +1,5 @@
+
+<li> Cipu, Mihai
+<ul>
+<li> Quadratic Diophantine Equations with Infinitely Many Solutions in Positive Integers, <a href="vol15.html">Vol 15</a>
+

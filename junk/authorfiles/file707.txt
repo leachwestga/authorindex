@@ -1,0 +1,5 @@
+
+<li> Gutekunst, Samuel 
+<ul>
+<li> (with Anant Godbole, Vince Lyzinski, and Yan Zhuang) Logarithmic Representability of Integers as <i>k</i>-Sums, <a href="vol15a.html">Vol 15A</a>
+
