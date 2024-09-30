@@ -52,7 +52,7 @@
 53;;A Combinatorial Proof on Partition Function Parity;;14
 54;;A Combinatorial Viewpoint on Preserving Notions of Largeness and an Abstract Rado Theorem;;21
 55;;A Common Generalization of Some Identities;;5(1)
-56;;A Congruence Identity on Ordered Partition Using Permutation Polynomials;;24
+56;;A Congruence Identity on Ordered Partitions Using Permutation Polynomials;;24
 57;;A Congruence Property of Irreducible Laguerre Polynomials in Two Variables;;16
 58;;A Congruence for Products of Binomial  Coefficients Modulo a Composite;;7
 59;;A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>;;16
