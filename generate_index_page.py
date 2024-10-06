@@ -46,6 +46,8 @@ f3.close()
 def firstnamefirst(input):
 ##    print(input)
     n = input.split(',')
+    if len(n)==1:
+        return input
     return n[1].strip() + " " + n[0].strip()
 
 

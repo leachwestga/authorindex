@@ -1,6 +1,6 @@
 import re
-
-
+import os
+from datetime import datetime
 
 class Author:
     def __init__(self, ID, name):
@@ -29,6 +29,7 @@ class Paper:
         s  = str(self.ID) + ";;"
         s += self.title + ";;"
         s += self.volume
+        s += '\n'
         return s
 
 class Authorship:
@@ -74,7 +75,7 @@ f3.close()
 
 prevmax=max(existingPapers.keys())
 nextPaperID = max(existingPapers.keys()) + 1
-
+newpapers={}
 # check to see if the papers are already listed in uniquepaperlist.txt        
 for i in newtitles:
     print(i[:60], end=" ")
@@ -87,12 +88,24 @@ for i in newtitles:
     except:
         print("--> not found")
         existingPapers[nextPaperID]=Paper(nextPaperID, i, volumeNumber)
+        newpapers[nextPaperID]=Paper(nextPaperID, i, volumeNumber)
         nextPaperID = nextPaperID + 1;
 
 
 for i in range(prevmax,nextPaperID):
     print(existingPapers[i].todelimitedstring())
 
+f=open("newpapers.txt", "w")
+for i in newpapers.keys():
+    f.write(newpapers[i].todelimitedstring())
+f.close()
+
+now = datetime.today().strftime('%Y-%m-%d')
+backupfilename = "uniquepaperlist_" + str(now) + ".txt"
+
+os.system("cp uniquepaperlist.txt " + backupfilename)
+os.system("cat uniquepaperlist.txt newpapers.txt > a")
+os.system("mv a uniquepaperlist.txt")
 
 ## REMAINING TO DO
 ## append the new papers to uniquepaperlist.txt        

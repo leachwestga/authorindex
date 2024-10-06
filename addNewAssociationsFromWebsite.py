@@ -2,6 +2,22 @@ import re
 import os
 from datetime import datetime
 
+class Paper:
+    def __init__(self, ID, title, volume):
+        self.ID=ID
+        self.title=title
+        self.volume = volume
+
+    def addauthor(self,newauth):
+        self.authors.append(newauth)
+
+    def todelimitedstring(self):
+        s  = str(self.ID) + ";;"
+        s += self.title + ";;"
+        s += self.volume
+        s += '\n'
+        return s
+
 class Author:
     def __init__(self, ID, name):
         self.ID=ID
@@ -53,6 +69,8 @@ def lastnamefirst(n):
     return -1
 
 
+
+
 # Read in the authorlist.txt
 existingAuthors={}
 f = open("authorlist.txt","r")
@@ -60,8 +78,6 @@ for line in f:
     b = line.split(";;")
     existingAuthors[int(b[0])]=b[1].strip()
 f.close()
-
-
 
 
 # Read in the webpage (later change this to get it via an
@@ -75,15 +91,15 @@ f.close
 articles = ijpage.split("<li class=fragment>")
 articles.pop(0) #remove the first element because it's header information, not an article
 
-### extract the titles
-##newtitles = []
-##for i in range(len(articles)):
-##    articles[i] = re.sub("errata.pdf.*</ul>","",articles[i].replace('\n',' '))
-##    articles[i] = re.sub("addendum.pdf.*</ul>","",articles[i].replace('\n',' '))
-##    articles[i] = re.sub(".*blank>","",articles[i].replace('\n',' '))
-##    newtitles.append(articles[i])
-##    
-##    newtitles[i] = re.sub("</a>.*","",newtitles[i]).strip()
+# extract the titles
+newtitles = []
+for i in range(len(articles)):
+   articles[i] = re.sub("errata.pdf.*</ul>","",articles[i].replace('\n',' '))
+   articles[i] = re.sub("addendum.pdf.*</ul>","",articles[i].replace('\n',' '))
+   articles[i] = re.sub(".*blank>","",articles[i].replace('\n',' '))
+   newtitles.append(articles[i])
+   
+   newtitles[i] = re.sub("</a>.*","",newtitles[i]).strip()
 
 
 # extract the author names
@@ -101,9 +117,9 @@ for i in range(len(newnames)):
     j=0;
     while j < len(words):
         words[j]=words[j].strip()
-        print(j, end="")
+        # print(j, end="")
         if j>0 and re.match("Jr.*|Sr.*", words[j]):
-            print("FOUND:  ", end="")
+            # print("FOUND:  ", end="")
 ##            print(words)
             words[j-1] = words[j-1] + " " + words[j]
             words.pop(j)
@@ -111,7 +127,7 @@ for i in range(len(newnames)):
     
     for j in words:
         j = j.strip()
-        j = re.sub("^and ","",j)
+        j = re.sub("^and ","",j)    
         if re.search(" and ",j):
             h = j.split(" and ")
             tmplist.append(h[0])
@@ -120,52 +136,52 @@ for i in range(len(newnames)):
             tmplist.append(j)
     newnames[i]=tmplist
 
+existingPapers={}
+f3 = open('uniquepaperlist.txt','r')
+for line in f3:
+    b = line.split(";;")
+    existingPapers[int(b[0])]=Paper(b[0],b[1],b[2].strip());
+f3.close()
 
-# make a flat list of the authors of the new papers
-authornames=[]
-nextAuthorID = max(existingAuthors.keys())+1
-for i in newnames:
-    for j in i:
-        authornames.append(lastnamefirst(j))
-newAuthors = []
-
-# Find authors who are not already in authorlist.txt
-for i in authornames:
-    theirIDNumber = 0;
-##    print(i + " ", end="")
+IDnums = []
+for i in newtitles:
+    print(i[:60], end=" ")
+##    paperIDNumber = 0;
+##    print(i + "> ", end="")
     try:
-        theirIDNumber=list(existingAuthors.keys())[list(existingAuthors.values()).index(i)]
-##        print ("-->" + str(theirIDNumber))
+        inospace = re.sub(r"[^A-Za-z0–9]","",i)
+        paperIDNumber = list({ii for ii in existingPapers if re.sub(r"[^A-Za-z0–9]","",existingPapers[ii].title)==inospace})[0]
+        IDnums.append(paperIDNumber)
+        print ("-->" + str(paperIDNumber))
     except:
-##        print("not found")
-        newAuthors.append(Author(nextAuthorID,i))
-        nextAuthorID = nextAuthorID + 1;
+        print("--> not found")
+
+newassociations = []
+for i in range(len(newnames)):
+        for j in newnames[i]:
+            try:
+                theirIDNumber=list(existingAuthors.keys())[list(existingAuthors.values()).index(lastnamefirst(j))]
+#                print ("-->" + str(theirIDNumber))
+                print(newtitles[i][:50], theirIDNumber, IDnums[i])
+                newassociations.append([theirIDNumber, IDnums[i]])
+            except:
+                print(newtitles[i][:50], " not found ", IDnums[i])
 
 
-for i in newAuthors:
-    print(i.todelimitedstring())
+f3 = open("newassociations.txt", "w")
 
-# add the new authors to the list
+for i in newassociations:
+    f3.write(str(i[0]) + ";;" + str(i[1]) + '\n')
+f3.close()
 
-f=open("newauthors.txt", "a")
-for i in newAuthors:
-    f.write(i.todelimitedstring())
-f.close()
+
 now = datetime.today().strftime('%Y-%m-%d')
-backupfilename = "authorlist_" + str(now) + ".txt"  
-
-f=open("newauthors.txt", "w")
-for i in newAuthors:
-    f.write(i.todelimitedstring())
-f.close()
-0
-now = datetime.today().strftime('%Y-%m-%d')
-backupfilename = "uniquepaperlist_" + str(now) + ".txt"
+backupfilename = "associationtable_" + str(now) + ".txt"
 
 
-os.system("cp authorlist.txt " + backupfilename)
-os.system("cat authorlist.txt newauthors.txt > a")
-os.system("mv a authorlist.txt")
+os.system("cp associationtable.txt " + backupfilename)
+os.system("cat associationtable.txt newassociations.txt > a")
+os.system("mv a associationtable.txt")
 
 
 
