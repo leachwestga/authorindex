@@ -69,7 +69,7 @@ f.close()
 # Read in the webpage (later change this to get it via an
 #     http request)
 #f = open("shortsite.html","r")
-f = open("integerssite.html","r")
+f = open("latest.html","r")
 ijpage = f.read()
 f.close
 

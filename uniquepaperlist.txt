@@ -1941,3 +1941,22 @@
 1942;;The Log-Behavior of Some Sequences Related to the Generalized Leonardo Numbers;;24
 1943;;A Heuristic for Discrete Mean Values of the Derivatives of the Riemann Zeta Function;;24
 1944;;Alternating Sums in the Generalized Hyperbolic Pascal Triangle;;24
+1945;;Computations and Observations on Congruence Covering Systems;;24A
+1946;;Balanced <i>n</i>-Color Compositions;;24A
+1947;;Computing Four-Term  Arithmetic Progressions of Powerful Numbers;;24A
+1948;;Combinatorial Identities for  Vacillating Tableaux;;24A
+1949;;Odd Vector Cycles in \(\mathbb{Z}^m\);;24A
+1950;;Powered Numbers in Short Intervals;;24A
+1951;;Schreier Multisets and the <i>s</i>-Step Fibonacci Sequences;;24A
+1952;;Tabulating Absolute Lucas Pseudoprimes;;24A
+1953;;Henrik Eriksson's Bulgarian Solitaire Variant;;24A
+1954;;On a Generalization of a Theorem of Ibukiyama to Evaluate Three Imprimitive Character Sums;;24A
+1955;;Composition-Theoretic Series and False Theta Functions;;24A
+1956;;On the Constants in Mertens’ Theorems for Primes in Arithmetic Progressions;;24A
+1957;;Dot Product Chains;;24A
+1958;;Permutation Patterns of the Iterated Syracuse Function;;24A
+1959;;An Upper Bound on the Inhomogeneous Approximation Constants;;24A
+1960;;On the Minimum Number of Monochromatic 2-Dimensional Schur Triples;;24A
+1961;;The Scholz Conjecture on Addition Chains Is True for Infinitely Many Integers with \(\ell(2n)= \ell(n)\);;24A
+1962;;Digital Problems in the Theory of Partitions;;24A
+1963;;A Combinatorial Proof of a Partition Perimeter Inequality;;24A

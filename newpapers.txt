@@ -1,37 +1,19 @@
-1908;;A Congruence Identity on Ordered Partitions Using Permutation Polynomials;;24
-1909;;Enumerating <i>k</i>-Naples Parking Functions through Catalan Objects;;24
-1910;;New Series Representations for the Riemann Zeta Function and Its Associated Functions;;24
-1911;;Elementary Symmetric Functions and Deep Power-Sum Congruences;;24
-1912;;On a Model of \(([k];p;s)\)-Generalized Padovan-Perrin  and Fibonacci Fundamental System;;24
-1913;;Lexicographically Minimal Extension of a Finite Binomid Index;;24
-1914;;The Distribution of the Number of Fixed Points in <i>k</i>-Permutations;;24
-1915;;The Log Moments of Smallest Denominators;;24
-1916;;Casting Light on Integer Partitions;;24
-1917;;Sums of Distinct Eisenstein Primes;;24
-1918;;Weighted File Placements on Singleton Boards;;24
-1919;;Asymptotic Products of Binomial and Multinomial Coefficients Revisited;;24
-1920;;The Integer Decomposition Property and Weighted Projective Space Simplices;;24
-1921;;On 2-Near Perfect Numbers;;24
-1922;;Large Zsigmondy Primes;;24
-1923;;Farey Fractions with Equal Numerators and the Rank of Unit Fractions;;24
-1924;;On the Equation \((-1)^\alpha p^x+(-1)^\beta (2^k(2p-1))^y=z^2\) for Prime Pairs \((p, 2p-1)\);;24
-1925;;On the Distribution of \(\phi(\sigma(n))\);;24
-1926;;Explicit Improvements to the Burgess Bound via P&oacute;lya--Vinogradov;;24
-1927;;Metrical Properties of Functions of Consecutive Digits in L&uuml;roth Series;;24
-1928;;On the Diophantine Equation \(n^x+(5p)^y=z^2\);;24
-1929;;On Minimum-Base Palindromic Representations of Powers of 2;;24
-1930;;On Hypersequences of an Arbitrary Sequence and Their Weighted Sums;;24
-1931;;On an Irreducibility Question Concerning Palindromic Non-cyclotomic <i>0,1</i>-Polynomials;;24
-1932;;\( F_4 F_5^6 F_7 F_8^4 F_9 F_{10}^2 F_{12}^5 F_{14} F_{15}^{-1} F_{18} F_{24} F_{30}=36!\);;24
-1933;;Sums of Products of Binomial Coefficients Mod 2 and 2-Regular Sequences;;24
-1934;;An Analogue to the Infinitary Hales-Jewett Theorem;;24
-1935;;Weighted Summation of Dirichlet Convolutions and Applications to  Some Divisor Problems over <i>k</i>-Free and <i>B</i>-Free Integers;;24
-1936;;Inversion Sequences Avoiding a Set of Length-3 Patterns;;24
-1937;;A Generalization of the Landen Connection Formula and Generalized Poly-Bernoulli Numbers;;24
-1938;;Walking to Infinity Along Some Number Theory Sequences;;24
-1939;;New Congruences for Partitions Where the Even Parts Are Distinct;;24
-1940;;Divisibility Properties for Overcubic Partition Triples;;24
-1941;;Some Direct and Inverse Problems for the Restricted Signed Sumset in the Set of Integers;;24
-1942;;The Log-Behavior of Some Sequences Related to the Generalized Leonardo Numbers;;24
-1943;;A Heuristic for Discrete Mean Values of the Derivatives of the Riemann Zeta Function;;24
-1944;;Alternating Sums in the Generalized Hyperbolic Pascal Triangle;;24
+1945;;Computations and Observations on Congruence Covering Systems;;24A
+1946;;Balanced <i>n</i>-Color Compositions;;24A
+1947;;Computing Four-Term  Arithmetic Progressions of Powerful Numbers;;24A
+1948;;Combinatorial Identities for  Vacillating Tableaux;;24A
+1949;;Odd Vector Cycles in \(\mathbb{Z}^m\);;24A
+1950;;Powered Numbers in Short Intervals;;24A
+1951;;Schreier Multisets and the <i>s</i>-Step Fibonacci Sequences;;24A
+1952;;Tabulating Absolute Lucas Pseudoprimes;;24A
+1953;;Henrik Eriksson's Bulgarian Solitaire Variant;;24A
+1954;;On a Generalization of a Theorem of Ibukiyama to Evaluate Three Imprimitive Character Sums;;24A
+1955;;Composition-Theoretic Series and False Theta Functions;;24A
+1956;;On the Constants in Mertens’ Theorems for Primes in Arithmetic Progressions;;24A
+1957;;Dot Product Chains;;24A
+1958;;Permutation Patterns of the Iterated Syracuse Function;;24A
+1959;;An Upper Bound on the Inhomogeneous Approximation Constants;;24A
+1960;;On the Minimum Number of Monochromatic 2-Dimensional Schur Triples;;24A
+1961;;The Scholz Conjecture on Addition Chains Is True for Infinitely Many Integers with \(\ell(2n)= \ell(n)\);;24A
+1962;;Digital Problems in the Theory of Partitions;;24A
+1963;;A Combinatorial Proof of a Partition Perimeter Inequality;;24A
