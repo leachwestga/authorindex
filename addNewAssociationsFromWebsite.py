@@ -1,6 +1,7 @@
 import re
 import os
 from datetime import datetime
+import sys
 
 class Paper:
     def __init__(self, ID, title, volume):
@@ -175,15 +176,16 @@ for i in newassociations:
 f3.close()
 
 
-now = datetime.today().strftime('%Y-%m-%d')
-backupfilename = "associationtable_" + str(now) + ".txt"
-
-
-os.system("cp associationtable.txt " + backupfilename)
-os.system("cat associationtable.txt newassociations.txt > a")
-os.system("mv a associationtable.txt")
-
-
+# if update is specified on command line, update the uniquepaperlist.txt file
+if (len(sys.argv)>1):
+    if (sys.argv[1]=="update"):
+        now = datetime.today().strftime('%Y-%m-%d')
+        backupfilename = "associationtable_" + str(now) + ".txt"
+        os.system("cp associationtable.txt " + backupfilename)
+        os.system("cat associationtable.txt newassociations.txt > a")
+        os.system("mv a associationtable.txt")
+    else:
+        print("Argument " + sys.argv[1] + " not recognized.")
 
 ##
 ##for i in range(len(newtitles)):

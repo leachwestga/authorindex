@@ -1,6 +1,8 @@
 import re
 import os
 from datetime import datetime
+import sys
+
 
 class Author:
     def __init__(self, ID, name):
@@ -101,9 +103,9 @@ for i in range(len(newnames)):
     j=0;
     while j < len(words):
         words[j]=words[j].strip()
-        print(j, end="")
+##        print(j, end="")
         if j>0 and re.match("Jr.*|Sr.*", words[j]):
-            print("FOUND:  ", end="")
+##            print("FOUND:  ", end="")
 ##            print(words)
             words[j-1] = words[j-1] + " " + words[j]
             words.pop(j)
@@ -127,47 +129,42 @@ nextAuthorID = max(existingAuthors.keys())+1
 for i in newnames:
     for j in i:
         authornames.append(lastnamefirst(j))
+
+# remove duplicates
+authornames = list(set(authornames))
 newAuthors = []
 
 # Find authors who are not already in authorlist.txt
 for i in authornames:
     theirIDNumber = 0;
-##    print(i + " ", end="")
     try:
         theirIDNumber=list(existingAuthors.keys())[list(existingAuthors.values()).index(i)]
-##        print ("-->" + str(theirIDNumber))
     except:
-##        print("not found")
         newAuthors.append(Author(nextAuthorID,i))
         nextAuthorID = nextAuthorID + 1;
 
 
 for i in newAuthors:
-    print(i.todelimitedstring())
+    print(i.todelimitedstring().strip())
 
-# add the new authors to the list
-
-f=open("newauthors.txt", "a")
-for i in newAuthors:
-    f.write(i.todelimitedstring())
-f.close()
-now = datetime.today().strftime('%Y-%m-%d')
-backupfilename = "authorlist_" + str(now) + ".txt"  
-
+# create a file containing new authors
 f=open("newauthors.txt", "w")
 for i in newAuthors:
     f.write(i.todelimitedstring())
 f.close()
-0
-now = datetime.today().strftime('%Y-%m-%d')
-backupfilename = "uniquepaperlist_" + str(now) + ".txt"
 
 
-os.system("cp authorlist.txt " + backupfilename)
-os.system("cat authorlist.txt newauthors.txt > a")
-os.system("mv a authorlist.txt")
 
-
+# if update is specified on command line, update the authorlist.txt file
+if (len(sys.argv)>1):
+    if (sys.argv[1]=="update"):
+        now = datetime.today().strftime('%Y-%m-%d')
+        backupfilename = "authorlist_" + str(now) + ".txt"  
+        os.system("cp authorlist.txt " + backupfilename)
+        os.system("cat authorlist.txt newauthors.txt > a")
+        os.system("mv a authorlist.txt")
+    else:
+        print("Argument " + sys.argv[1] + " not recognized.")
 
 ##
 ##for i in range(len(newtitles)):
