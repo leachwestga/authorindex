@@ -1,19 +1,33 @@
-1945;;Computations and Observations on Congruence Covering Systems;;24A
-1946;;Balanced <i>n</i>-Color Compositions;;24A
-1947;;Computing Four-Term  Arithmetic Progressions of Powerful Numbers;;24A
-1948;;Combinatorial Identities for  Vacillating Tableaux;;24A
-1949;;Odd Vector Cycles in \(\mathbb{Z}^m\);;24A
-1950;;Powered Numbers in Short Intervals;;24A
-1951;;Schreier Multisets and the <i>s</i>-Step Fibonacci Sequences;;24A
-1952;;Tabulating Absolute Lucas Pseudoprimes;;24A
-1953;;Henrik Eriksson's Bulgarian Solitaire Variant;;24A
-1954;;On a Generalization of a Theorem of Ibukiyama to Evaluate Three Imprimitive Character Sums;;24A
-1955;;Composition-Theoretic Series and False Theta Functions;;24A
-1956;;On the Constants in Mertens’ Theorems for Primes in Arithmetic Progressions;;24A
-1957;;Dot Product Chains;;24A
-1958;;Permutation Patterns of the Iterated Syracuse Function;;24A
-1959;;An Upper Bound on the Inhomogeneous Approximation Constants;;24A
-1960;;On the Minimum Number of Monochromatic 2-Dimensional Schur Triples;;24A
-1961;;The Scholz Conjecture on Addition Chains Is True for Infinitely Many Integers with \(\ell(2n)= \ell(n)\);;24A
-1962;;Digital Problems in the Theory of Partitions;;24A
-1963;;A Combinatorial Proof of a Partition Perimeter Inequality;;24A
+1964;;Analytic Continuation of the \(\ell\)-Generalized Fibonacci Zeta Function;;24
+1965;;Congruences for \(\ell\)-Regular Tripartitions for \(\ell \in \{ 2,3 \} \);;24
+1966;;Wilson's Theorem Modulo \(p^2\) Derived from Faulhaber Polynomials;;24
+1967;;A Method for Finding All Permutiples with a Fixed Set of Digits from a Single Known Example;;24
+1968;;Sparse Admissible Sets and a Problem of Erd&#337;s and Graham;;24
+1969;;Permutation Polynomials of the Form \(\sum_{n=1}^k h(n) X^n\);;24
+1970;;Runs of Integers with Constant Values of the Carmichael Function;;24
+1971;;On the Brocard-Ramanujan Equation with Tribonacci and Tetranacci Numbers;;24
+1972;;Thresholds for Zero-Sums with Small Cross Numbers in Abelian Groups;;24
+1973;;A Binary Version of the Mahler-Popken Complexity Function;;24
+1974;;A Study on Generalized Zumkeller Numbers;;24
+1975;;On The Minimum Cardinality of MPTQ Sets;;24
+1976;;Carmichael Numbers with a Prime Number of Prime Factors;;24
+1977;;No New Goormaghtigh Primes up to 10<sup>700<sup>;;24
+1978;;Almost Primes of Almost Prime Index;;24
+1979;;Dense Sets of Natural Numbers with Unusually Large Least Common Multiples;;24
+1980;;Some New Congruences for \(\ell\)-Regular Cubic Partitions with Odd Parts Overlined;;24
+1981;;Analogues of Alder-Type Partition Inequalities for Fixed Perimeter Partitions;;24
+1982;;Modular Relations for the Rogers-Ramanujan-Slater Type Functions of Order Eighteen with Applications to Partitions;;24
+1983;;Flattened Stirling Permutations;;24
+1984;;Rainbow-Free Colorings and Rainbow Numbers for \(x-y=z^k\);;24
+1985;;The Odd/Even Dichotomy for the Set of Numbers That Are Both \(k\)-Full and \(\ell\)-Free;;24
+1986;;Intersections in  Pairs of Words;;24
+1987;;On the Parallelogram Uniqueness of Square Numbers for Multiplicative Functions;;24
+1988;;The 2-Complexity of Even Positive Integers;;24
+1989;;On the Distribution of the Restricted Sequence of Integers \(2^{\omega(n)}\);;24
+1990;;General Pell's Equations and Angle Bisectors between Planar Lines with Rational Slopes;;24
+1991;;Dumont-Thomas Complement Numeration Systems for \(\mathbb{Z}\);;24
+1992;;On Remoteness Functions of Exact Slow <i>k</i>-NIM with <i>k+1</i> Piles;;24
+1993;;On Winning Strategies in Sylver Coinage When 4 Has Been Chosen;;24
+1994;;Olympic Games: Three Impartial Games with Infinite Octal Codes;;24
+1995;;Cycle Games on Graphs;;24
+1996;;Maximum Nim and the Josephus Problem;;24
