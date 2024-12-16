@@ -18,14 +18,15 @@ To update the author index page:
 9. run "python3 generate_index_page.py"
    this will generate a file called out.html that is the newest author index page
 
-   
+Notes:
+  1. don't run any commands with "update" until you are happy with the output
+  2. when running these scripts with "update", a backup of the existing file will be created 
+     with today's date added to the end.
 
 
+File Descriptions:
 
-
-This folder contains files use to maintain the author index page.
-
-Author Index.html: the last manually-maintained author index page
+Author Index.html: the last manually-maintained author index page (should be deleted eventually)
 
 README.txt: the file you are reading now
 
@@ -35,4 +36,4 @@ authorlist.txt: list of all authors
 
 uniquepaperlist.txt: list of all papers
 
-
+There are many files that should probably be deleted; Leach will get around to that eventually. 
