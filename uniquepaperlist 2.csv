@@ -1,0 +1,1906 @@
+2;;(<i>k,l</i>)-Universality of Ternary Quadratic Forms <i>ax<sup>2</sup>+by<sup>2</sup>+cz<sup>2</sup></i>;;18
+3;;2-adic Valuations of Generalized Fibonacci Numbers of Odd Order;;18
+4;;2184: An Absurd (and Adsurd) Tale;;18
+5;;<i>&phi;(F<sub>n</sub>)=F<sub>m</sub></i>;;9
+6;;<i>2</i>-Pile Nim with a Restricted Number of Move-size Imitations;;9
+7;;<i>2</i>-adic Properties of Generalized Fibonacci Numbers;;20
+8;;<i>2<sup>3</sup></i> Quantified Boolean Formula Games and Their Complexities;;15A
+9;;<i>9</i>-Modularity and GCD Properties of Generalized Fibonacci Numbers;;14
+10;;<i>K</i>-Fixed-Points-Permutations;;7
+11;;<i>Q</i>-Binomials and the Greatest Common Divisor;;8(1)
+12;;<i>S</i>-Diophantine Quadruples with Two Primes Congruent to <i>3</i> Modulo <i>4</i>;;13
+13;;<i>k</i>-Fibonacci Numbers and M&ouml;bius Functions;;22
+14;;<i>k</i>-Lehmer and <i>k</i>-Carmichael Numbers;;16
+15;;<i>p</i>-Adic Order of Positive Integers via Binomial Coefficients;;22
+16;;<i>q</i>-multiparameter-Bernoulli Polynomials and <i>q</i>-multiparameter-Cauchy Polynomials by Jackson's Integrals;;16
+17;;<i>r</i>-Completeness of Sequences of Positive Integers;;16
+18;;A &beta;-Expansion Associated to Sturmian Sequences;;12
+19;;A <i>q</i>-Analogue of Granville's Congruence;;22
+20;;A Base-<i>p</i> Sprague-Grundy Type Theorem for <i>p</i>-calm Subtraction Games: Welter's Game and Representations of Generalized Symmetric Groups;;21b
+21;;A Bijection Between Symmetric Valleys in Dyck Paths and Even Degree Interval Vertices in Ordered Trees;;22
+22;;A Bijection Between Two Different Classes of Partitions Enumerated by <i>p<sub>&#x3BD;</sub>(n)</i>;;21
+23;;A Bijection Between the Triangulations of Convex Polygons and Ordered Trees;;20
+24;;A Bijection for Partitions Simultaneously <i>s</i>-Regular and <i>t</i>-Distinct;;23
+25;;A Bijective Proof of f<sub>n+4</sub>+f<sub>1</sub> + 2f<sub>2</sub> + ... + n f<sub>n</sub> = (n+1)f<sub>n+2</sub>+3;;6
+26;;A Binary Tree Representation for the <i>2</i>-Adic Valuation of a Sequence Arising From a Rational Integral;;10
+27;;A Brownian Quasi-helix in R<sup>4</sup>, Built From an Automatic Sequence;;18A
+28;;A Cameron and Erd&#337;s Conjecture on Counting Primitive Sets;;18
+29;;A Canonical Coloring Theorem for Piecewise Syndetic Subsets of \(\mathbb{N}\);;23
+30;;A Characterization of All EquilateralTriangles in <b>Z</b><sup>3</sup>;;8(1)
+31;;A Characterization of Lattice-ordered Graphs;;7(2)
+32;;A Characterization of Minimal Zero-Sequences of Index One in Finite Cyclic Groups;;5(1)
+33;;A Characterization of Primes Based on Eulerian Numbers;;23
+34;;A Characterization of Wilson-Lerch Primes;;16
+35;;A Characterization of the Sum and Integral Sum Labellings of Some Classes of Graphs;;20
+36;;A Class of Graphs Based on a Set of Moduli;;22
+37;;A Class of Quadrinomial Garsia Numbers;;11b
+38;;A Class of Wythoff-Like Games;;12B
+39;;A Codex of <i>N</i>- and <i>P</i>-positions in Harary's `Caterpillar Game';;21
+40;;A Combinatorial Approach to Hyperharmonic Numbers;;3
+41;;A Combinatorial Identity for the Sum of Divisors Function Involving \(p_{r}(n)\);;20
+42;;A Combinatorial Interpretation of the Catalan and Bell Number Difference Tables;;13
+43;;A Combinatorial Interpretation of the Poly-Bernoulli Numbers and Two Fermat Analogues;;8(1)
+44;;A Combinatorial Problem Solved by a Meta-Fibonacci Recurrence Relation;;19
+45;;A Combinatorial Proof of <i><b>S</b></i>-adicity for Sequences with Linear Complexity;;13
+46;;A Combinatorial Proof of Guo's Multi-Generalization of Munarini's Identity;;11
+47;;A Combinatorial Proof of Sun's "Curious" Identity;;4
+48;;A Combinatorial Proof of Two Equivalent Identities by Free 2-Motzkin Paths;;13
+49;;A Combinatorial Proof of a Family of Multinomial-Fibonacci Identities;;14
+50;;A Combinatorial Proof of a Recursive Formula for Multipartitions;;11
+51;;A Combinatorial Proof of a Result from Number Theory;;4
+52;;A Combinatorial Proof of an Ordered-partition Expansion of Determinants Given by Insko, Johnson and Sullivan;;19
+53;;A Combinatorial Proof on Partition Function Parity;;14
+54;;A Combinatorial Viewpoint on Preserving Notions of Largeness and an Abstract Rado Theorem;;21
+55;;A Common Generalization of Some Identities;;5(1)
+56;;A Congruence Identity on Ordered Partition Using Permutation Polynomials;;24
+57;;A Congruence Property of Irreducible Laguerre Polynomials in Two Variables;;16
+58;;A Congruence for Products of Binomial  Coefficients Modulo a Composite;;7
+59;;A Congruence for the Fermat Quotient Modulo <i>p<sup>3</sup></i>;;16
+60;;A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients;;4
+61;;A Congruential Identity and the 2-adic Order of Lacunary Sums of Binomial Coefficients;;4
+62;;A Conjecture of Chu et al. and a New Family of MSTD Sets;;24
+63;;A Connection Between Ordinary Partitions and Tilings with Dominoes and Squares;;7
+64;;A Correlation Identity for Stern's Sequence;;12
+65;;A Curious Identity Involving Binomial Coefficients;;2
+66;;A Deletion Game on Graphs:Le Pic Ar&ecirc;te;;6
+67;;A Deletion Game onGraphs:  Le Pic Ar&ecirc;te;;6
+68;;A Density Chinese Remainder Theorem;;14
+69;;A Determinant of the Artin-Hasse Exponential Coefficients;;22
+70;;A Digit Reversal Property for Stern Polynomials;;17
+71;;A Diophantine Problem Related to a Nim-like Game;;19
+72;;A Diophantine System;;20
+73;;A Divisibility Obstruction for Certain Walks on Gaussian Integers;;14
+74;;A Dombi Counterexample with Positive Lower Density;;23
+75;;A Dual Approach to Triangle Sequences:  A Multidimensional Continued Fraction Algorithm;;5(1)
+76;;A Dual Approach to TriangleSequences:  A Multidimensional Continued Fraction Algorithm;;5(1)
+77;;A Family of Fibonacci-Like Conditional Sequences;;13
+78;;A Family of Partitions Equinumerous With the Set of Nodes of a Family of Trees;;20
+79;;A Family of Unsplittable Minimal Zero-sum Sequences;;22
+80;;A Finite Ring Polynomial;;4
+81;;A Formula for the Number of Overpartitions of <i>n</i> in Terms of the Number of Representations of <i>n</i> as a Sum of <i>r</i> Squares;;21
+82;;A Further Investigation of Positions in Sylver Coinage for Which Four Has Been Chosen;;23
+83;;A Generalization of Congruence Properties for a Restricted Partition Function;;18
+84;;A Generalization of Quasi-Shuffle Algebras and an Application to Multiple Zeta Values;;22
+85;;A Generalization of Schauz and Brink's Restricted-Variable Version of Chevalley's Theorem;;17
+86;;A Generalization of Selfridge's Question;;21
+87;;A Generalization of an IMO Problem;;6
+88;;A Generalization of an Identity Due to Kimura and Ruehr;;18A
+89;;A Generalization of an Inequality by Graham;;22
+90;;A Generalization of the Hardy-Littlewood Conjecture;;22
+91;;A Generalization of the K&#337;v&aacute;ri--S&oacute;s--Tur&aacute;n Theorem;;21
+92;;A Generalization of the Smarandache Functionto Several Variables;;6
+93;;A Generalized Binet Formula That Counts the Tilings of a <i>(2</i> x <i> n)</i>-board;;18
+94;;A Generalized Diagonal Wythoff Nim;;12
+95;;A Generalized Ramanujan-Nagell Equation Related to Certain Strongly Regular Graphs;;14
+96;;A Generalized Stern-Brocot Tree;;17
+97;;A Generating Functions Proof of a Curious Identity;;2
+98;;A Graph Theoretic Formula for the Number of Primes &pi;(<i>n</i>);;20
+99;;A GraphicGeneralization of Arithmetic;;7
+100;;A Jacobi Symbol Criterion Involving <i>k</i>-Fibonacci and <i>k</i>-Lucas numbers and Integer Points on Elliptic Curves;;23
+101;;A Maker--Breaker Game on the Boolean Hypercube With Subcubes as Winning Sets;;18
+102;;A Matrix Generalization of a Theorem of Fine;;18A
+103;;A Matrix Related to Stern Polynomials and the Prouhet-Thue-Morse Sequence;;22
+104;;A Method for Generating Permutation Polynomials Modulo <i>p<sup>n</sup></i>;;21
+105;;A Method for Obtaining Fibonacci Identities;;18
+106;;A Mixing of Prouhet-Thue-Morse Sequences and Rademacher Functions;;15
+107;;A Mock Theta Function for the Delta-Function;;ume 9 Supplement
+108;;A Modular Identity for the Ramanuajan Identity Modulo 35;;2
+109;;A Multiple Hook Removing Game Whose Starting Position is a Rectangular Young Diagram with Unimodal Numbering;;23
+110;;A Multiplicity ProblemRelated to Schur Numbers;;8(1)
+111;;A Multitude of Expressions for the Stirling Numbers of the First Kind;;10
+112;;A Multivariate Arithmetic Function of Combinatorial and Topological Significance;;10
+113;;A Negative Answer to Two Questions about the Smallest Prime Numbers Having Given Digital Sums;;5(1)
+114;;A New Approach to the Fraenkel Conjecture for Low <i>n</i> Values;;19
+115;;A New Approach to the Hofstadter <i>Q</i>-Recurrence;;20a
+116;;A New Approach to the Results of K&ouml;vari, S&oacute;s, and Tur&aacute;n Concerning Rectangle-Free Subsets of the Grid;;12
+117;;A New Class of Ordinary Generating Functions for Binary Products of Mersenne Numbers and Gaussian Numbers with Parameters (p) and (q);;23
+118;;A New Class of Polynomials Related to the Stirling Numbers and Series Representations for Some Mathematical Constants;;21
+119;;A New Class of the <i>r</i>-Stirling Numbers and the Generalized Bernoulli Polynomials;;20
+120;;A New Constraint on Perfect Cuboids;;17
+121;;A New Estimate on Complexity of Binary Generalized Pseudostandard Words;;17
+122;;A New Generalization of Fibonacci Sequence and Extended Binet's Formula;;9
+123;;A New Proof of Winquist's Identity;;11
+124;;A New Proof of the Prouhet-Tarry-Escott Problem;;16
+125;;A New Property of Appell Sequences and Its Application;;21
+126;;A New Upper Bound on the Star Discrepancy of (0,1)-sequences;;5(3)
+127;;A Non-classical Quadratic Form of Hessian Discriminant 4 is Universal Over <i>Q</i>[&radic;<span style="text-decoration: overline">5</span>];;16
+128;;A Note On a Method of Erd&#337;s and the Stanley-Elder Theorems;;16
+129;;A Note of the Wilson Quotient;;22
+130;;A Note on 3-free Permutations;;17
+131;;A Note on <i>B<sub>2</sub>[G]</i> Sets;;8(1)
+132;;A Note on Applications from Extending Abel's Lemma;;20
+133;;A Note on Boolean Lattices and Farey Sequences II;;8(1)
+134;;A Note on Boolean Lattices and Farey Sequences;;7
+135;;A Note on Carmichael Numbers in Residue Classes;;21A
+136;;A Note on Colored Tornheim's Double Series;;10
+137;;A Note on Concurrent Graph Sharing Games;;16
+138;;A Note on Deaconescu's ResultConverning Lehmer's Problem;;8(1)
+139;;A Note on Diophantine Fractals for &alpha;--L&uuml;roth systems;;11b
+140;;A Note on Fibonacci Numbers of Even Index;;18
+141;;A Note on Fibonacci-Type Polynomials;;10
+142;;A Note on Finite Sums of Products of Bernstein Basis Polynomials and Hypergeometric Polynomials;;18
+143;;A Note on Incomplete Leonardo Numbers;;20
+144;;A Note on Integers That Are Uniquely Expressible by Integral Geometric Sequences;;21
+145;;A Note on Irregularities of Distribution;;13
+146;;A Note on Lerch’s Formulae for Euler Quotients;;15
+147;;A Note on Linear Recurrent Mahler Numbers;;5(3)
+148;;A Note on Numbers;;21b
+149;;A Note on P-sets;;4
+150;;A Note on Partitions With Short Profile Steps;;20
+151;;A Note on Partitions and Compositions Defined by Inequalities;;5(1)
+152;;A Note on Partitions of Natural Numbers and Their Representation Functions;;12
+153;;A Note on Public Key Cryptography Based on  Williams-Guy Functions;;23
+154;;A Note on Some Recent Results of Da Silva and Sellers on Congruences for <i>k</i>-regular Partitions With Designated Summands;;20
+155;;A Note on Stirling Series;;10
+156;;A Note on Sums of Two Squares and Sum-of-divisors Functions;;20
+157;;A Note on a Conjecture of Erd&#337;s, Graham, and Spencer;;13
+158;;A Note on a Generalization of Fundamental Gaps in Numerical Semigroups;;20
+159;;A Note on a Generalization of Two Well-Known Combinatorial Identities via a Hypergeometric Series Approach;;22
+160;;A Note on a Subtraction--Transfer Game;;20
+161;;A Note on a Unitary Analog to Redheffer's Matrix;;20
+162;;A Note on the <i>q</i>-Binomial Rational Root Theorem;;9
+163;;A Note on the Converse of Wolstenholme's Theorem;;18
+164;;A Note on the Decimal Expansion of Reciprocals of Mersenne Primes;;24
+165;;A Note on the Erd&#337;s-Straus Conjecture;;21
+166;;A Note on the Exact Expected Length of the <i>k</i>th Part of a Random Partition;;10
+167;;A Note on the Exponential Diophantine Equation \((44m^2+1)^x+(5m^2-1)^y=(7m)^z\);;23
+168;;A Note on the Minimal Number of Representations in  <i>A+A</i>;;12
+169;;A Note on the Multiplicative Structure of an Additively Shifted Product Set <i>AA+1</i>;;13
+170;;A Note on the Number of Egyptian Fractions;;23
+171;;A Note on the Number of Representations of a Positive Integer as a Sum of Generalized Polygonal Numbers;;23
+172;;A Note on the Permutation Behaviour of the Polynomial <i>g<sub>n,q</sub></i>;;19
+173;;A Novel Approach to the Discovery of Binary BBP-Type Formulas for Polylogarithm Constants;;11
+174;;A Number Theoretic Problem on the Distribution of Polynomials With Bounded Roots;;15
+175;;A Parametrized Set of Explicit Elements of &#1064;\((E/\mathbb{Q})[3]\);;22
+176;;A Partition of the Non-Negative Integers, with Applications;;5(2)
+177;;A Periodic Approach to Plane Partition Congruences;;16
+178;;A Planar Integral Self-Affine Tile with Cantor Set Intersections With Its Neighbors;;9
+179;;A Position in Infinite Chess With Game Value &omega;<sup>4</sup>;;17
+180;;A Positive-Definite Ternary Quadratic Form Does Not Represent All Positive Integers;;17
+181;;A Probabilistic Look at Series Involving Euler's Totient Function;;12
+182;;A Probabilistic Proof of a Power Sum Identity;;23
+183;;A Probabilistic Proof that \(\sum_{j=1}^{n}H_j^{(s)}=(n+1)H_n^{(s)}-H_n^{(s-1)}\);;23
+184;;A Problem Related to a Conjecture of Polignac;;16
+185;;A Proof of Catalan's Convolution Formula;;12
+186;;A Proof of Euler's Theorem via Quandles;;22
+187;;A Proof of the Continued Fraction Expansion of <i>e<sup>2/s</sup></i>;;7
+188;;A Proof of the Infinitude of Primes Via Continued Fractions;;20
+189;;A Proof of the Mann-Shanks Primality Criterion Conjecture for Extended Binomial Coefficients;;14
+190;;A Property of Twin Primes;;12
+191;;A Quantitative Result on Diophantine Approximation for Intersective Polynomials;;15A
+192;;A Quaternionic Proof of the Universality of Some Quadratic Forms;;8(2)
+193;;A Question of Sierpinski on Triangular Numbers;;5(1)
+194;;A Recurrence Related to the Bell Numbers;;11
+195;;A Recurring Pattern in Natural Numbers of a Certain Property;;21
+196;;A Recursive Process Related to a Partizan Variation of Wythoff;;12
+197;;A Refinement of a Partition Theorem of Sellers;;4
+198;;A Relation Between Triangular Numbers and Prime Numbers;;11
+199;;A Remark on  <i>A+B</i> and <i>A-A</i> for Compact Sets in R<sup><i>n</i></sup>;;16
+200;;A Remark on Fine's Arithmetic Functions;;23
+201;;A Remark on Periods of Periodic Sequences Modulo <i>m</i>;;20
+202;;A Remark on Relatively Prime Sets;;13
+203;;A Remark on Singular Duals of Moebius Maps;;24
+204;;A Remark on a Paper of Luca and Walsh;;11
+205;;A Remark on the Boros-Moll Sequence;;11
+206;;A Remark on the Chebotarev Theorem About Roots of Unity;;7
+207;;A Remarkable Integer Sequence Related to &pi; and &radic;2;;18A
+208;;A Result on Ramanujan-Like Congruence Properties of the Restricted Partition Function <i>p(n,m)</i> Across Both Variables;;12
+209;;A Reverse Order Property of Correlation Measures of the Sum-of-Digits Function;;12
+210;;A Riordan Array Proof of a Curious Identity;;2
+211;;A Riordan Array Proof of a Curious Identity;;5(1)
+212;;A Sextic Diophantine Chain and a Related Mordell Curve;;21
+213;;A Short Note on Reduced Residues;;17
+214;;A Short Note on the Difference Between Inverses of Consecutive Integers Modulo <i>p</i>;;9
+215;;A Short Proof of a Result of Gica and Luca;;13
+216;;A Short Proof of a Series Evaluation in Terms of Harmonic Numbers;;9
+217;;A Simple Proof of a Conjecture of Dou on (3,7)-Regular Bipartitions Modulo 3;;17
+218;;A Study of Eulerian Numbers for Permutations in the Alternating Group;;6
+219;;A Sufficient Condition for (&theta;<sup>n</sup>)<sub>n</sub> to Have a Distribution Modulo One, When &theta; is in F<sub>2</sub>(<i>X</i>);;18A
+220;;A Sum Involving the Greatest-Integer Function;;19
+221;;A Supercongruence Involving Cubes of Catalan Numbers;;20
+222;;A Tiling Interpretation of a Generalized Zeckendorf's Theorem;;22
+223;;A Unified Approach to \(q\)-MZVs;;24
+224;;A Unified Approach to the Study of General and Palindromic Compositions;;4
+225;;A Unified Generalization of Touchard and Fubini Polynomial Extensions;;23
+226;;A Unified Proof of Two Classical Theorems on CNS Polynomials;;12
+227;;A Variant of Nim Played on Boolean Matrices;;23
+228;;A Variant of the Frobenius Problem and Generalized Suzuki Semigroups;;7(2)
+229;;A Variation on Perfect Numbers;;4
+230;;A Vertex and Edge Deletion Game on Graphs;;18
+231;;A WZ Proof of a "Curious" Identity;;3
+232;;A Zero-Sum Theorem Over Z;;13
+233;;Abel's Lemma and Identities on Harmonic Numbers;;15
+234;;Abelian Complexity and Synchronization;;21
+235;;Abelian Complexity of Fixed Point of Morphism <i>0 &#8614; 012, 1 &#8614; 02, 2 &#8614; 1</i>;;14
+236;;Abstract Numeration Systems on Bounded Languagesand Multiplication by a Constant;;8(1)
+237;;Abundance of Arithmetic Progressions in Some Combinatorially Rich Sets by Elementary Means;;21
+238;;Accurate Asymptotic Estimates of Catalan's Sequence;;17
+239;;Achieving Snaky;;7
+240;;Additive Bases of Finite Abelian Groups of Rank 2;;22
+241;;Additive Energy and the Falconer Distance Problem in Finite Fields;;13
+242;;Additive Representations of Natural Numbers;;22
+243;;Additive Volume of Sets Contained in Few Arithmetic Progressions;;19
+244;;Additive and Multiplicative Structures of <i>C<sup>&#9733;</sup></i>-Sets;;14
+245;;Adjugates of Diophantine Quadruples;;10
+246;;Advances in Finding Ideal Play on Poset Games;;21b
+247;;Affine Invariants, Relatively Prime Sets, and a phi Function for Subsets of <em>{1, 2, ..., n}</em>;;7
+248;;Algebraic Proof for the Geometric Structure of Sumsets;;11A
+249;;Algebraic Properties of a Hypergraph Lifting Map;;21
+250;;Algorithms and Bounds on the Sums of Powers of Consecutive Primes;;24
+251;;Algorithms for Finding and Proving Balanced <i>Q<sup>2</sup></i> Identities;;7(2)
+252;;Algorithms for the Multiplication Table Problem;;21
+253;;Alice and Bob Go to Dinner: A Variation on <i>m&eacute;nage</i>;;16
+254;;Aliquot Cycles of Repdigits;;11
+255;;Aliquot Sequences With Small Starting Values;;18
+256;;Almost Gap Balancing Numbers;;18
+257;;Alternate Minimization and Doubly Stochastic Matrices;;20a
+258;;Alternating <i>N</i>-Expansions;;22
+259;;Alternative Formulations of the Generalized Cosecand and Secant Numbers;;21
+260;;Alternative Proofs on the <i>2</i>-Adic Order of Stirling Numbers of the Second Kind;;10
+261;;Alternative Solutions to Linear Recurrence Equations;;19
+262;;Amalgamation Nim;;21
+263;;An <i>n</i>-in-a-row Game;;15
+264;;An Achievement Game on a Cycle;;20
+265;;An Adaptive Upper Bound on the Ramsey Numbers \(R(3,\dots,3)\);;20
+266;;An Alternative Approach to Computing \(\beta(2k+1)\);;23
+267;;An Alternative Proof of Melham's Identities;;19
+268;;An Analogue of <i>k</i>-marked Durfee Symbols for Strongly Unimodal Sequences;;21
+269;;An Analogue of Artin's Primitive Root Conjecture;;16
+270;;An Analogue of the Erd&#337;s-Ginzburg-Ziv Theorem for Quadratic Symmetric Polynomials;;9
+271;;An Application of Graph Pebbling to Zero-Sum Sequences in Abelian Groups;;5(1)
+272;;An Application of van der Waerden's Theorem in Additive Number Theory;;0
+273;;An Approach to <i>q</i>-Series;;14
+274;;An Asymptotic Gilber-Varshamov Bound for (t,m,s)-nets;;5(3)
+275;;An Asymptotic Robin Inequality;;16
+276;;An Atlas of <i>N</i>- and <i>P</i>-positions in `Nim With a Pass';;15
+277;;An Effective Version of a Theorem of Shioda on the Ranks of Elliptic Curves Given by \(y^2=f(x)+m^2\);;22
+278;;An Elementary Computer Assisted Unique Factorization Test;;21
+279;;An Elementary Method to Compute Prime Densities in <b>F</b><sub><i>Q</i></sub>;;7(2)
+280;;An Equation Involving Arithmetic Functions and Riesel Numbers;;18
+281;;An Erd&#337;s-Fuchs Type Theorem for Finite Groups;;11A
+282;;An Euler Phi Function for the Eisenstein Integers and Some Applications;;20
+283;;An Explicit Bound for Aliquot Cycles of Repdigits;;12
+284;;An Explicit Evaluation of the Gosper Sum;;10
+285;;An Explicit Formula for Hecke <i>L</i>-functions;;8(2)
+286;;An Explicit Formula for Higher Order Bernoulli Polynomials of the Second Kind;;13
+287;;An Exponential Limit Shape of Random <i>q</i>-proportion Bulgarian Solitaire;;18
+288;;An Expression for the Legendre Symbol from a Product-Sum Formula;;22
+289;;An Extension of a Formula of Jovovic;;19
+290;;An Extension of the Normal Play Convention to <i>N</i>-player combinatorial games;;20a
+291;;An Extreme Family of Generalized Frobenius Numbers;;11
+292;;An Identity Involving Binomial Coefficients Equivalent to an Identity of Lagrange;;20
+293;;An Identity Involving Multiplicative Orders;;8(1)
+294;;An Identity for Sums of Polylogarithm Functions;;8(1)
+295;;An Identity in the Generalized Fibonacci Numbers and its Applications;;9
+296;;An Improved Exponential Upper Bound for the Erd&#337;s-Ginzburg-Ziv Constant;;20
+297;;An Improved Inequality of Rosser and Schoenfled and Its Application;;20
+298;;An Improved Upper Bound for Ramanujan Primes;;15
+299;;An Improvement of an Inequality of Ochem and Rao Concerning Odd Perfect Numbers;;18
+300;;An Inequality for the Distribution of Numbers Free of Small Prime Factors;;22
+301;;An Infinite Family of Congruences for &#x2113;-regular Overpartitions;;16
+302;;An Infinite Family of Dual Sequence Identities;;5(1)
+303;;An Infinite Family of Overpartition Congruences Modulo 12;;5(1)
+304;;An Infinite Family of Quartic Polynomials Whose Products of Consecutive Values are Finitely Often Perfect Squares;;17
+305;;An Infinite Family of Recursive Formulas Generating Power Moments of Kloosterman Sums with Trace One Arguments: <i>O(2n+1, 2<sup>r</sup>)</i> Case;;13
+306;;An Introduction to Clobber;;5(2)
+307;;An Invariant Sum Related to Record Statistics;;7
+308;;An Inverse of the Fa&agrave; di Bruno Formula;;7
+309;;An Observation of Rankin on Hankel Determinants;;19
+310;;An Observation on the Extension of Abel's Lemma;;10
+311;;An Ordered Partition Expansion of the Determinant;;17
+312;;An Update on Domineering on Rectangular Boards;;14
+313;;An Upper Bound for Odd Perfect Numbers;;3
+314;;An Upper Bound for Ramanujan Primes;;14
+315;;An Upper Bound for the Representative Number of Graphs with Fixed Order;;3
+316;;Analogs of the Stern Sequence;;11
+317;;Analogues of Jacobi's Two-Square Theorem:  An Informal Account;;10
+318;;Analogues of Two Classical Theorems on the Representations of a Number;;8(1)
+319;;Analytic Continuation of Apostol-Vu Multiple Balancing Zeta Functions;;20a
+320;;Analyzing Two-Color Babylon;;11
+321;;Another Topological Proof of the Infinitude of Prime Numbers;;24
+322;;Appearance of Balancing and Related Number Sequences in Steady State Probabilities of Some Markov Chains;;20a
+323;;Applying Modular Arithmetic to Diophantine Equations;;18
+324;;Approaching Cusick's Conjecture on the Sum-of-digits Function;;19
+325;;Approximate Polynomial Structure in Additively Large Sets;;16
+326;;Approximating the Fibonacci Sequence;;16
+327;;Approximations of Additive Squares in Infinite Words;;12
+328;;Arithmetic Convergence of Double-Iterated Polynomials;;22
+329;;Arithmetic Progressions in Sparse Sumsets;;7(2)
+330;;Arithmetic Progressions in Sumsets of Sparse Sets;;21A
+331;;Arithmetic Progressions in the Polygonal Numbers;;12
+332;;Arithmetic Progressions of Length Three in Multiplicative Subgroups of \(\mathbb{F}_{p}\);;20a
+333;;Arithmetic Progressions of Polygonal Numbers With Common Difference a Polygonal Number;;17
+334;;Arithmetic Properties For Overpartition Triples with Odd Parts;;23
+335;;Arithmetic Properties for Hyper m-ary Partition Functions;;4
+336;;Arithmetic Properties of Lacunary Sums of Binomial Coefficients;;18
+337;;Arithmetic Properties of the Ternary Quadratic Form \(3x^2+6y^2+14z^2+4yz+2zx+2xy\);;22
+338;;Arithmetic Structures in Random Sets;;8(1)
+339;;Arithmetic Subsequences in a Random Ordering of an Additive Set;;21
+340;;Arithmetic of 3<sup>t</sup>-Core Partition Functions;;15
+341;;Arithmetic of the Fabius Function;;18
+342;;Arithmetic on Blocks;;4
+343;;Arithmetical Self-Similar Compact Sets;;24
+344;;Arithmetical Structures on Paths With a Doubled Edge;;20
+345;;Arndt Compositions: A Generating Functions Approach;;24
+346;;Artin's Primitive Root Conjecture -- A Survey --;;12A
+347;;Asymptotic Analysis of Sums of Powers of Multinomial Coefficients: A Saddle Point Approach;;17
+348;;Asymptotic Estimates for Phi Functionsfor Subsets of <em>{m+1,m+2,...,n}</em>;;7
+349;;Asymptotic Order of  the Square-free Part of N!;;2
+350;;Asymptotics for the Partial Fractions of the Restricted Partition Generating Function II;;16
+351;;Atomic Weight Calculus of Spindly Games;;20
+352;;Augmented Hilbert Series of Numerical Semigroups;;19
+353;;Average Behavior of the Fourier Coefficients of the Symmetric Square <i>L</i>-Function over Some Sequence of Integers;;22
+354;;Avoiding Type <i>(1,2)</i> or <i>(2,1)</i> Patterns in a Partition of a Set;;12
+355;;Avoiding Zero-Sum Sequences of Prescribed Length Over the Integers;;17
+356;;Balanced Subset Sums in Dense Sets of Integers;;9
+357;;Balancing and Lucas-balancing Numbers Expressible as Sums of Two Repdigits;;21
+358;;Beatty Sequences and Trigonometric Functions;;16
+359;;Bell Numbers and Variant Sequences Derived from a General Functional Differential Equation;;9
+360;;Bernoulli Numbers and Generalized Factorial Sums;;11A
+361;;Bernoulli-Stirling Numbers;;20
+362;;Beta-Conjugates of Real Algebraic Numbers as Puiseux Expansions;;11b
+363;;Beta-Expansions With Negative Bases;;9
+364;;Bijective Proofs of Vajda's Ninetieth Fibonacci Number Identity and Related Identities;;12
+365;;Binary Dicots, a Core of Dicot Games;;15
+366;;Binary Recurrences with Prime Powers as Fixed Points of Their Discriminator;;21
+367;;Binary Representations and Theta Function;;18
+368;;Binomial Coefficient-Harmonic Sum Identities Associated to Supercongruences;;11
+369;;Binomial Collisions and Near Collisions;;17
+370;;Binomial Probability of Prime Number of Successes;;20
+371;;Binomial Series Identities Involving Generalized Harmonic Numbers;;20
+372;;Binomial Sums for the General Second Order Linear Recurrence;;10
+373;;Boole's Formula as a Consequence of Lagrange's Interpolating Polynomial Theorem;;8(1)
+374;;Brazilian Primes Which Are Also Sophie Germain Primes;;20
+375;;Breaking Symmetry on Complete Bipartite Graphs of Odd Size;;3
+376;;Brun Meets Selmer;;13
+377;;Building a Better Bijection Between Classes of Compositions;;14
+378;;Bumby's Technique and a Result of Liouville on a Quadratic Form;;8(2)
+379;;Captured-Reversible Moves and Star Decomposition Domination in Hex;;13
+380;;Cardinality of a Floor Function Set;;19
+381;;Carleman's Inequality Over Prime Numbers;;21
+382;;Carmichael Numbers with <i>(p+1) | (n-1)</i>;;14
+383;;Carries and the Arithmetic Progression Structure of Sets;;17
+384;;Cartesian Products of Some Combinatorially Rich Sets;;20
+385;;Catalan Numbers Modulo a Prime Power;;13
+386;;Central and Local Limit Theorems for Excedances by Conjugacy Class and by Derangement;;2
+387;;Champion Primes For Elliptic Curves;;14
+388;;Character Sums and Ramsey Properties of Generalized Paley Graphs;;6
+389;;Characterization of Substitution Invariant Words CodingExchange of Three Intervals;;8(1)
+390;;Characterization of the Strong Divisibility Property for Generalized Fibonacci Polynomials;;18
+391;;Characterizations of Midy's Property;;9
+392;;Characterizations of Words With Many Periods;;9
+393;;Characterizing Congruence Preserving Functions <i> Z/nZ &rarr; Z/mZ</i> Via Rational Polynomials;;16
+394;;Chebyshev-Fibonacci Polynomial Relations Using Generating Functions;;21
+395;;Cholesky Factorizations of Matrices Associated with r-order Recurrent Sequences;;5(2)
+396;;Christoffel Words and Markoff Triples;;9
+397;;Circular Binary Strings without ZigZags;;3
+398;;Circular Nim Games CN(7,4);;21b
+399;;Classification for Existence of the Continued Fraction Expansions of \(\sqrt{D}\) and \((1+\sqrt{D})/2\);;24
+400;;Closed Form Expressions for the Stirling Numbers of the First Kind;;17
+401;;Codes Associated With <i>O<sup>+</sup>(2n,2<sup>r</sup>)</i> and Power Moments of Kloosterman Sums;;11
+402;;Coefficients in Powers of the Log Series;;11
+403;;Coefficients of Sylvester's Denumerant;;15
+404;;Coefficients of Unitary Cyclotomic Polynomials of Order Three;;22
+405;;Cofinite Induced Subgraphs of Impartial Combinatorial Games: An Analysis of CIS-Nim;;13
+406;;Coincidences of Catalan and <i>q</i>-Catalan Numbers;;11A
+407;;Colored Partitions and the Hooklength Formula: Partition Statistic Identities;;20a
+408;;Coloring and Boundary Invariants for Polyominoes;;23
+409;;Column-To-Row Operations on Partitions: The Envelopes;;ume 9 Supplement
+410;;Combinatorial Formulas for Arithmetic Density;;22
+411;;Combinatorial Identities Deriving from the nth Power of a 2 x 2 Matrix;;4
+412;;Combinatorial Identities Involving Harmonic Numbers;;20
+413;;Combinatorial Interpretations of Binomial Coefficient Analogues Related to Lucas Sequences;;10
+414;;Combinatorial Interpretations of Convolutions of the Catalan Numbers;;11
+415;;Combinatorial Proof of Some Moriarty-Type Binomial Coefficient Identities;;6
+416;;Combinatorial Proofs of Identities of Alzer and Prodinger and Some Generalizations;;18
+417;;Combinatorial Proofs of Merca's Identities Involving the Sum of Different Parts Congruent to \(r\) Modulo \(m\) in All Partitions of \(n\);;24
+418;;Combinatorial Proofs of Some Identities for the Fibonacci and Lucas Numbers;;11
+419;;Combinatorial Proofs of Some Simon-Type Binomial Coefficient Identities;;7
+420;;Combinatorial Properties of Poly-Bernoulli Relatives;;17
+421;;Combinatorial Properties of the Antichains of a Garland;;9
+422;;Combinatorial Sums and Identities Involving Generalized Sum-of-Divisors Functions with Bounded Divisors;;20
+423;;Combinatorics of Integer Partitions in Arithmetic Progression;;10
+424;;Combinatorics of Ramanujan-Slater Type Identities;;ume 9 Supplement
+425;;Combined Algebraic Properties of Central* Sets;;7
+426;;Communal Partitions of Integers;;11
+427;;Commutative Algebra and the Linear Diophantine Problem of Frobenius;;18B
+428;;Complementary Families of the Fibonacci-Lucas Relations;;19
+429;;Complementary Numerical Sets;;22
+430;;Complete Additivity, Complete Multiplicativity, and Leibniz-additivity on Rationals;;21
+431;;Complete Characterization of Substitution Invariant Sturmian Sequences;;5(1)
+432;;Completely Multiplicative Automatic Functions;;11
+433;;Complex Cantor Series, Cantor Products and Their Independence;;19
+434;;Complexity of Natural Numbers;;24
+435;;Comply/Constrain Games or Games with a Muller Twist;;2
+436;;Composite Covering Systems of Minimum Cardinality;;3
+437;;Compositions Constrained by Graph Laplacian Minors;;13
+438;;Compositions That Are Palindromic Modulo <i>m</i>;;23
+439;;Compositions of Complements of Graphs;;16
+440;;Compositions of Integers With Bounded Parts;;14
+441;;Computation of <em>q</em>-Partial Fractions;;7
+442;;Computation of an Improved Lower Bound to Giuga's Primality Conjecture;;13
+443;;Computational Rediscovery of Ramanujan's Tau Numbers;;18A
+444;;Computing the Van der Waerden Number <i>W(3,4)=293</i>;;12
+445;;Concerning Partition Regular Matrices;;17
+446;;Conference Matrices With Maximum Excess and  Two-intersection Sets;;17
+447;;Congruence Properties for the Trinomial Coefficients;;20
+448;;Congruences Associated with the Modular <i>j</i>-Invariant;;17
+449;;Congruences For Fractional Partition Functions;;21
+450;;Congruences Related to the Ankeny-Artin-Chowla Conjecture;;16
+451;;Congruences Related to the Wilson Quotient;;22
+452;;Congruences Relating Regular Partition Functions, a Generalized Tau Function and Partition Function Weighted Composition Sums;;24
+453;;Congruences for 1-Shell Totally Symmetric Plane Partitions;;17
+454;;Congruences for 3-Regular Partitions With Designated Summands;;16
+455;;Congruences for <i>m</i>-regular Partitions Modulo 4;;15A
+456;;Congruences for Certain Lacunary Sums of Products of Binomial Coefficients;;21
+457;;Congruences for Generalized Frobenius Partitions with an Arbitrarily Large Number of Colors;;14
+458;;Congruences for Hyper <i>M</i>-ary Overpartitioin Functions;;10
+459;;Congruences for Hyper <i>m</i>-ary Overpartition Functions;;10
+460;;Congruences for Overpartition <i>k</i>-Tuples;;10
+461;;Congruences for Overpartition Pairs and <i>5</i> Dots Bracelet Partitions Modulo <i>25</i>;;20
+462;;Congruences for Weighted Number of Labeled Forests;;16
+463;;Congruences of Concave Composition Functions;;13
+464;;Congruences with Factorials Modulo <it>p</it>;;6
+465;;Conjugacy Classes and Class Number;;9
+466;;Conjugate Sequences in a Fibonacci-LucasSense and Some Identities for Sums of Powersof Their Elements;;7
+467;;Connected Components of the Graph Generated by Power Maps in Prime Finite Fields;;18A
+468;;Connected Subtraction Games on Subdivided Stars;;19
+469;;Consecutive Integers and the Collatz Conjecture;;15
+470;;Consecutive Primes Which Are Widely Digitally Delicate and Brier Numbers;;23
+471;;Consecutive Primes Which Are Widely Digitally Delicate;;21A
+472;;Constructive Methods in Gallai-Ramsey Theory for Hypergraphs;;20a
+473;;Continuants and Some Decompositions Into Squares;;15
+474;;Continued Fractions and Linear Fractional Transformations;;15
+475;;Continued Fractions of Certain Series;;19
+476;;Continuous Tur&aacute;n Numbers;;24
+477;;Contributions to the Theory of de Bruijn Cycle;;14A
+478;;Convergence in M&ouml;bius Number Systems;;9
+479;;Convergence of David's <i>2</i>-dimensional Continued Fraction;;15
+480;;Convolution Identities for Stirling Numbers of the First Kind Via Involution;;12
+481;;Convolution Identities for Stirling Numbers of the First Kind;;10
+482;;Convolution Sums Involving Legendre-Jacobi Symbol and Divisor Functions;;13
+483;;Convolution and Reciprocity Formulas for Bernoulli Polynomials;;11
+484;;Coordinate Sum and Difference Sets of <i>d</i>-Dimensional Modular Hyperbolas;;13
+485;;Coprime Mappings on <i>n</i>-sets;;17
+486;;Coprime Mappings on Gaussian Lines;;23
+487;;Coprime Matchings;;22
+488;;Coprime Permutations;;22
+489;;Corrigendum to Article A1, Volume 2(2002) (On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind);;5(1)
+490;;Corrigendum to Article A19, Volumer 6 (The General gcd-Product Function);;6
+491;;Corrigendum to Article A4, Volume 3(2003) (Extending A Recent Result of Santos on Partitions into Odd Parts);;4
+492;;Counting Depth Zero Patterns in Ballot Paths;;11
+493;;Counting Determinants of Fibonacci-Hessenberg Matrices Using LU Factorizations;;9
+494;;Counting Eisenstein Polynomials Satisfying a Condition From Genus Theory;;20
+495;;Counting Finite Languages by Total Word Length;;11
+496;;Counting Functions andFinite Differences;;7
+497;;Counting Heron triangles with Constraints;;13
+498;;Counting Optimal Joint Digit Expansions;;5(3)
+499;;Counting Ordered Patterns in Words Generated by Morphisms;;8(1)
+500;;Counting Rises, Levels, and Drops in Compositions;;5(1)
+501;;Counting Subword Occurrences in Base-<i>b</i> Expansions;;18A
+502;;Counting Tamely Ramified Extensions of Local Fields up to Isomorphism;;16
+503;;CountingPolyominoes on Twisted Cylinders;;6
+504;;Crescent Configurations in Normed Spaces;;20
+505;;Crescent Configurations;;16
+506;;Critical Exponent of Infinite Words Coding Beta-Integers Associated with Non-Simple Parry Numbers;;11B
+507;;Critical Exponent of Infinite Words Coding Beta-Integers Associated with Non-Simple Parry Numbers;;11b
+508;;Cubes  in <i>{0,1,...,n}<sup>3</sup></i>;;12A
+509;;Curious Convergent Series of Integers with Missing Digits;;21A
+510;;Cutthroat, an All-Small Game on Graphs;;5(2)
+511;;Cyclemaster Matrices and Collatz Cycles;;20
+512;;Cyclemaster Matrices and Primality Testing;;23
+513;;Cycles in Repeated Exponentiation Modulo <i>p<sup>n</sup></i>;;13
+514;;Cycles in War;;10
+515;;Cycles in the Coprime Hypergraph of Integers;;19
+516;;Cyclic Complexity of Some Infinite Words and Generalizations;;18A
+517;;Cyclotomic Points and Algebraic Properties of Polygon Diagonals;;21
+518;;Davenport Constant with Weights and Some Related Questions;;6
+519;;Davenport Constantwith Weights and Some Related Questions;;6
+520;;De Bruijn Sequences with Varying Combs;;14A
+521;;Decimal Expansion of 1/p and Subgroup Sums;;5(1)
+522;;Decomposition of Pascal's Kernels Mod ps;;2
+523;;Degrees of Streams;;11b
+524;;Density of Singular Pairs of Integers;;18
+525;;Derivative of an Ideal in a Number Ring;;14
+526;;Derived Palintiple Families and Their Palinomials;;16
+527;;Deriving Divisibility Theorems with Burnside's Theorem;;5(1)
+528;;Detailed Structure for Freiman's <i>3k-3</i> Theorem;;15A
+529;;Determinantal Expressions for Bernoulli Polynomials;;19
+530;;Determinants of Fibonacci-Hessenberg Matrices Using LU Factorizations;;9
+531;;Diagonal Peg Solitaire;;7
+532;;Difference Density and Aperiodic Sum-Free Sets;;5(2)
+533;;Differences of Multiple Fibonacci Numbers;;9
+534;;Diffusion and Polyominoes;;22
+535;;Digital Sums and Functional Equations;;11
+536;;Diophantine Equations Coming From Binomial Near-collisions;;20
+537;;Diophantine Equations of Matching Games I;;11
+538;;Diophantine Problems with Linear Recurrences via the Subspace Theorem;;5(3)
+539;;Direct and Inverse Problems for Subset Sums with Certain Restrictions;;22
+540;;Dirichlet Convolution and the Binet Formula;;23
+541;;Dirichlet Series With Trigonometric Coefficients;;21
+542;;Dirichlet's Theorem and Jacobsthal's Function;;18
+543;;Discrete Correlations of Order 2 of Generalized Golay-Shapiro Sequences:  A Combinatorial Approach;;21
+544;;Discrete Measures and the Riemann Hypothesis of Some <i>L</i>-Function in the Selberg Class;;23
+545;;Discriminators and <i>k</i>-Regular Sequences;;16
+546;;Disjoint Beatty Sequences;;4
+547;;Disjunctive Rado Numbers for <i>ax<sub>1</sub>+x<sub>2</sub>=x<sub>3</sub></i> and <i>bx<sub>1</sub>+x<sub>2</sub>=x<sub>3</sub></i>;;13
+548;;Disjunctive Rado Numbers for<i>x<sub>1</sub> + x<sub>2</sub> + c = x<sub>3</sub></i>;;7
+549;;Distance Graphs From <i>p</i>-Adic Norms;;10
+550;;Distance Graphs and Arithmetic Progressions;;21A
+551;;Distance in the Affince Buildings of <i>SL<sub>n</sub></i> and <i>Sp<sub>n</sub></i>;;8(1)
+552;;Distinct Covering Systems in Number Fields;;20
+553;;Distinct Distances From Points on a Circle to a Generic Set;;21
+554;;Distribution Functions of the Sequence <i>&phi;(M)/M, M &isin; (K,K+N]</i> As <i>K, N</i> Go to Infinity;;10
+555;;Distribution Laws of Friable Divisors;;20
+556;;Distribution Laws of Pairs of Divisors;;13
+557;;Distribution and Additive Properties of Sequences With Terms Involving Sumsets in Prime Fields;;12
+558;;Distribution of 3-Regular and 5-Regular Partitions;;23
+559;;Distribution of Differences Between Inverses of Consecutive Integers Modulo p;;4
+560;;Distribution of Eigenvalues of Weighted, Structured Matrix Ensembles;;15
+561;;Distribution of Points on Arcs;;5(2)
+562;;Distributions of Fourier Coefficients of Cusp Forms over Arithmetic Progressions;;22
+563;;Divisibility Properties for Integer Sequences;;23
+564;;Divisibility Properties of Coefficients of Modular Functions in Genus Zero Levels;;19
+565;;Divisibility Properties of the 5-regular and 13-regular Partition Functions;;8(1)
+566;;Divisibility and Arithmetic Properties of a Class of Sparse Polynomials;;22
+567;;Divisibility by 2 and 3 of Certain Stirling Numbers;;8(1)
+568;;Divisor Functions and the Number of Sum Systems;;20
+569;;Doubling Constant for  Subgroups of \(\mathbb Z_p^*\);;23
+570;;Duals of the Bernoulli Numbers and Polynomials and the Euler Numbers and Polynomials;;17
+571;;Ducci Sequences in Higher Dimensions;;7
+572;;Dynamical Zeta Functions;;11b
+573;;Edge Animal Weak <i>(1,2)</i>-Achievement Games;;12
+574;;Edge Deletion Games with Parity Rules;;14
+575;;Edge Growth in Graph Squares;;13
+576;;Edge-weighted Cayley Graphs and <i>p</i>-ary Bent Functions;;16
+577;;Effective Estimates for Some Functions Defined over Primes;;24
+578;;Efficient Computation of Terms of Linear Recurrence Sequences of  Any Order;;18
+579;;Egyptian Fractions with Each Denominator Having Three Distinct Prime Divisors;;15
+580;;Ehrhart Polynomials of Integral Simplices With Prime Volumes,;;14
+581;;Eigenvalues and Arithmetic Functions on PSL<sub><i>2</i></sub>(<i>Z</i>);;14
+582;;Elementary Estimates for the Number of Pure Number Fields of Degree <i>p</i>;;15
+583;;Elliptic Curves Arising From the Triangular Numbers;;19
+584;;Elliptic Curves over Finite Fields and Ramanujan Graphs on Two Vertices;;24
+585;;Elliptic Fermat Numbers and Elliptic Divisibility Sequences;;20
+586;;Embeddability Properties of Difference Sets;;14
+587;;Embedding Theory of Lattices and Its Application to 2-Integrable Lattices;;22
+588;;Ensembles B2[2]:  L'Etau se Resserre;;2
+589;;Enumerating Restricted Dyck Paths With Context Free Grammars;;21
+590;;Enumerating Segmented Patterns in Compositions and Encoding by Restricted Permutations;;6
+591;;Enumeration Schemes for Words Avoiding Patterns With Repeated Letters;;8(1)
+592;;Enumeration of 3-letter Patterns in Compositions;;7(2)
+593;;Enumeration of Generalized Hook Partitions;;5(1)
+594;;Enumeration of Triangles in Quartic Residue Graphs;;11
+595;;Enumeration of the Degree Sequences of Line--Hamiltonian Multigraphs;;12
+596;;Enumerations of Generalized Hook Partitions;;5(1)
+597;;Equal Sums of Like Powers with Minimum Number of Terms;;16
+598;;Equality Classes of Nim Positions under Mis&egrave;re Play;;16
+599;;Equality of Dedekind Sums Modulo 24Z;;17
+600;;Equivalence Classes of Skew Dyck Paths Modulo Some Patterns;;22
+601;;Erd&#337;s-Kac Theorem for Smooth and Ultra-smooth Integers;;20
+602;;Erd&#337;s-Szekeres Results for Set Partitions;;15
+603;;Estimates for &pi;(<i>x</i>) for Large Values of <i>x</i> and Ramanujan's Prime Counting Inequality;;18
+604;;Estimating the Density of the Abundant Numbers;;19
+605;;Eta Quotients, Eisenstein Series and Elliptic Curves;;18
+606;;Euler Pseudoprimes for Half of the Bases;;12A
+607;;Euler's Pentagonal Number Theorem Implies the Jacobi Triple Product Identity;;11
+608;;Euler-type Identities for Integer Compositions Via Zig-Zag Graphs;;12
+609;;Euler-type Recurrence Relation for Arbitrary Arithmetical Function;;19
+610;;Evaluating the Generalized Buchstab Function and Revisiting the Variance of the Distribution of the Smallest Components of Combinatorial Objects;;24
+611;;Evaluation of Convolution Sums Involving Cubic Divisor Functions for a Class of Levels;;21
+612;;Evaluation of Convolution Sums involving the Sum of Divisors Function for Levels 48 and 64;;17
+613;;Evaluationally Coprime Linear Polynomials;;16
+614;;Every Natural Number is the Sum of Forty-nine Palindromes;;16
+615;;Exact Enumeration of Garden of Eden Partitions;;7(2)
+616;;Exact Formulas for the Generalized Sum-of-Divisors Functions;;21
+617;;Exceptional Sets for Spinor-Regular Ternary Quadratic Forms;;23
+618;;Exceptional Totient Numbers;;21
+619;;Existence of Cycles in Ducci’s Four-Number Game with Modular Multiplication;;23
+620;;Expansions in Non-Integer Bases: Lower Order Revisited;;14
+621;;Expansions in Noninteger Bases;;11b
+622;;Explicit Constructions of Large Families of Generalized More Sums Than Differences Sets;;12
+623;;Explicit Examples of <i>p</i>-adic Numbers With Prescribed Irrationality Exponent;;18A
+624;;Explicit Expressions for a Certain Subset of Appell Polynomials: A Probabilistic Perspective;;21
+625;;Explicit Expressions for the Moments of the Size of an <i>(n,dn-1)</i>-core Partition With Distinct Parts;;19
+626;;Explicit Formulas for Bernoulli and Euler Numbers;;8(1)
+627;;Explicit Mertens Sums;;17
+628;;Explicit Solutions of Certain Systems of Pell Equations;;12A
+629;;Exponential Sums Over Subgroups Generated by 2;;18
+630;;Expressing an Integer as a Sum of Cubes of Polynomials;;24
+631;;Extended Sprague-Grundy Theory for Locally Finite Games, and Applications to Random Game-trees;;21b
+632;;Extending Nathanson Heights to Arbitrary Finite Fields;;12
+633;;Extending a Recent Result of Santos on Partitions into Odd Parts;;3
+634;;Extending a Theorem of Pillai to Quadratic Sequences;;15A
+635;;Extension of an Inequality for Fibonacci Numbers;;22
+636;;Extensions of Midy's Theorem for Periodic Decimals;;21
+637;;Extensions of Sury's Relation Involving Fibonacci <i>k</i>-step and Lucas <i>k</i>-step Polynomials;;23
+638;;Extensions of the Gauss-Wilson Theorem;;8(1)
+639;;Extrema of Luroth Digits and a Zeta Function Limit Relation;;21
+640;;Extremal Orders of Compositions of Certain Arithmetical Functions;;8(1)
+641;;Extremal Sequences Related to the Jacobi Symbol;;23
+642;;Extremal Sequences for a Weighted Zero-Sum Constant;;22
+643;;Extremal Sequences for the Unit-Weighted Gao Constant of \(\mathbb{Z}_n\);;23
+644;;Extremal Set Theory, Cubic Forms on F<sub>2</sub><sup>n</sup> and Hurwitz Square Identities;;16
+645;;Factor Complexity of Infinite Words Associated With Non-Simple Parry Numbers;;9
+646;;Factor Frequencies in Languages Invariant under Symmetries Preserving Factor Frequencies;;12
+647;;Factorization Results with Combinatorial Proofs;;9
+648;;Factorization of Constants Involved in Conjectural Moments of Zeta-functions;;8(1)
+649;;Factorizations and Paige's Theorem on Complete Maps;;6
+650;;Factors and Irreducibility of Generalized Stern Polynomials;;15
+651;;Families of Modular Arithmetic Progressions with an Interval of Distance Multiplicities;;23
+652;;Families of Nets of Low and Medium Strength;;5(3)
+653;;Families of Nets of Low and Medium Strengths;;5(3)
+654;;Families of Non-congruent Numbers With Arbitrarily Many Pairs of Prime Factors;;20
+655;;Faulhaber's Formula, Odd Bernoulli Numbers, and the Method of Partial Sums;;22
+656;;Fermat Numbers in Narayana's Cows Sequence;;22
+657;;Fibonacci Colored Compositions and Applications;;21
+658;;Fibonacci Numbers with Prime Sums of Complementary Divisors;;14
+659;;Fibonacci Variations of a Conjecture of Polignac;;12
+660;;Fibonacci-Catalan Series;;22
+661;;Filters and Subgroups Associated with Hartman Measurable Functions;;5(3)
+662;;Finding Almost Squares II;;5(1)
+663;;Finding Almost Squares III;;ume 9 Supplement
+664;;Finding Almost Squares V;;10
+665;;Finding Almost Squares VII;;22
+666;;Finding Sums of Four Squares via Complex Continued Fractions;;24
+667;;Finding a Widely Digitally Delicate Prime;;23
+668;;Finding the Four Squares in Lagrange's Theorem;;18A
+669;;Fine-Wilf Graphs and the Generalized Fine-Wilf Theorem;;13
+670;;Finite Field Models of Polynomials Interpolating Fourier Coefficients of Modular Functions for Hecke Groups;;24
+671;;Finite Reciprocal Sums in Which the Denominator of the Summand Contains Squares of Generalized Fibonacci Numbers;;16
+672;;Finite Reciprocal Sums of Products Involving Squares of Sines or Cosines With Arguments in Arithmetic Progression;;17
+673;;Finite Representability of Integers as 2-Sums;;18B
+674;;Finite Representations of the Summatory Divisor Function and Ramanujan’s  &tau;-Function;;17
+675;;Finite Searches, Chowla's Cosine Problem, and Large Newman Polynomials;;19
+676;;Finite Sums of Arithmetic Progressions;;21
+677;;Finite Sums of Consecutive Terms of a Second Order Linear Recurrence Relation;;21
+678;;Finite Sums of the Floor Functions Series;;20
+679;;Finite Sums that Involve Reciprocals of Products of Generalized Fibonacci Numbers;;13
+680;;First Remark on a &zeta;-Analogue of the Stirling Numbers;;11
+681;;Five Guidelines for Partition Analysis with Applications to Lecture Hall-type Theorems;;7(2)
+682;;Fixed Divisors of Products of Polynomials;;23
+683;;Fixed Points of Morphisms Among Binary Generalized Pseudostandard Words;;18
+684;;Flat Cyclotomic Polynomials of Order Four and Higher;;10
+685;;Floor and Roof Function Analogs of the Bell Numbers;;7
+686;;Formations and Generalized Davenport-Schinzel Sequences;;22
+687;;Four Perspectives on Secondary Terms in the Davenport-Heilbronn Theorems;;12B
+688;;Fourier Coefficients of a Class of Eta Quotients;;16
+689;;Fraenkel's Partition and Brown's Decomposition;;3
+690;;Frobenius Numbers and Automatic Sequences;;21
+691;;Frobenius Numbers by Lattice Point Enumeration;;7
+692;;Frobenius Numbers of Generalized Fibonacci Semigroups;;ume 9 Supplement
+693;;From a Hungary-Israel Contest Problem;;21
+694;;Full <i>K</i>-Complete Partitions;;22
+695;;Further Analogues of the Rogers-Ramanujan Functions with Applications to Partitions;;7(2)
+696;;Further Analysis on the "King and Rook vs.King on a Quarter-infinite Board" Problem;;7
+697;;Further Analysis on the "King and Rookvs. King on a Quarter-infinite Board" Problem;;7
+698;;Further Multivariate Generalizations of Euler's Pentagonal Number Theorem and the Rogers-Ramanujan Identities;;16
+699;;GCD of Truncated Rows in Pascal's Triangle;;4
+700;;Game Values of Arithmetic Functions;;21b
+701;;Games on Arbitrarily Large Rats and Playability;;19
+702;;Gap Distribution of Farey Fractions under Some Divisibility Constraints;;13
+703;;Gaps in Dense Sidon Sets;;0
+704;;Gaps in Intervals of <i>N</i>-Expansions;;23
+705;;Gaps in the Spectrum of Nathanson Heights of Projective Points;;7
+706;;Gaussian Distribution of the Number of Summands in Generalized Zeckendorf Decompositions in Small Intervals;;16
+707;;General Sum Formula for Bi-periodic Fibonacci and Lucas Numbers;;17
+708;;Generalization of Universal Partition and Bipartition Theorems;;13
+709;;Generalization of a Binomial Identity of Simons;;5(1)
+710;;Generalizations of Midy's Theorem on Repeating Decimals;;7
+711;;Generalizations of Wolstenholme's Theorem Via the <i>p</i>-adic Logarithm;;20
+712;;Generalizations of a Curious Family of MSTD Sets Hidden by Interior Blocks;;20a
+713;;Generalizations on a Problem of Saffari;;15
+714;;Generalizationsof Some Zero-sum Theorems;;8(1)
+715;;Generalized Binomial Expansions and Bernoulli Polynomials;;13
+716;;Generalized Cauchy Determinants;;8(1)
+717;;Generalized Convolution Identities for Stirling Numbers of the Second Kind;;8(1)
+718;;Generalized Convolution Identities forStirling Numbers of the Second Kind;;8(1)
+719;;Generalized Cosecant Numbers and the Hurwitz Zeta Function;;19
+720;;Generalized Davenport-Schinzel Sequences:  Results, Problems, and Applications;;2
+721;;Generalized Degenerate Harmonic Numbers and Their Applications with Riordan Arrays;;24
+722;;Generalized Euler-Genocchi Polynomials and Lucas Numbers;;20
+723;;Generalized Eulerian Polynomials and Some Applications;;18
+724;;Generalized Fibonacci Numbers and Their <i>2</i>-adic Order;;20
+725;;Generalized Folding Lemmas in the Field of Formal Series and Their Applications;;15
+726;;Generalized Golden Ratios Over Integer Alphabets;;14
+727;;Generalized Hyper-Fibonacci Numbers and Applications;;22
+728;;Generalized Levinson-Durbin Sequences and Binomial Coefficients;;9
+729;;Generalized Nonaveraging Integer Sequences;;11
+730;;GeneralizedReciprocity Laws for Sums of Harmonic Numbers;;8(1)
+731;;Generalizing Delannoy Numbers via Counting Weighted Lattice Paths;;13
+732;;Generalizing the Combinatorics of Binomial Coefficients Via <i>l</i>-Nomials;;10
+733;;Generating <i>d</i>-Composite Sandwich Numbers;;15A
+734;;Genetically Modified Games;;21b
+735;;Geography Played on an N-cycle Times a 4-cycle;;3
+736;;Geometric Patterns in The Determinant Hosoya Triangle;;21
+737;;Gibonacci Extensions of a Lucas Delight;;19
+738;;Gibonacci Polynomial Products with Implications;;21
+739;;GoNI: Primes Represented by Binary Quadratic Forms;;13
+740;;GoNII: Universal Quaternary Quadratic Forms;;12
+741;;GoNIII: More Universal Quaternary Quadratic Forms;;16
+742;;Graph Compositions I:  Basic Enumeration;;1
+743;;Graph Compositions: Deleting Edges from Complete Graphs;;15
+744;;Graph Eigenvalues and Walsh Spectrum of Boolean Functions;;7(2)
+745;;Graphical Enumeration and Stained Glass Windows, 1: Rectangular Grids;;21A
+746;;Groups and Monoid in the Set of Pythagorean Triples;;24
+747;;Grundy Numbers of Impartial Chocolate Bar Games;;20
+748;;Grundy Numbers of Impartial Three-Dimensional Chocolate-Bar Games;;21b
+749;;Handling a Large Bound for a Problem on the Generalized Pillai Equation <i>&plusmn; r a<sup>x</sup> &plusmn; s b<sup>y</sup>=c</i>;;14
+750;;Harmonic Numbers and the Prime Counting Function;;21
+751;;Harmonic Numbers: Combinatorial Identities and Series Representations;;23
+752;;Hausdorff Dimension of Sets of Numbers With Large L&uuml;roth Elements;;21
+753;;Hecke Groups, Linear Recurrences, and Kepler Limits;;19
+754;;Heights in Finite Projective Space, anda Problem on Directed Graphs;;8(1)
+755;;Heights in Finite Projective Space,and a Problem on Directed Graphs;;8(1)
+756;;Heights of Divisors of <i>x<sup>n</sup>-1</i>;;11A
+757;;Hereditary Tiling Sets of the Integers;;8(1)
+758;;Heron Sequences and Their Modifications;;ume 9 Supplement
+759;;High Degree <i>b</i>-Niven Numbers;;21
+760;;High Order Complementary Bases of Primes;;2
+761;;High rank Elliptic Curves with Torsion Z/4Z Induced by  Kihara's Elliptic Curves;;16
+762;;Higher Correlations of Divisor Sums Related to Primes I:  Triple correlations;;3
+763;;Higher Degree Davenport Constants over Finite Commutative Rings;;21
+764;;Higher Degree Erd&#337;s-Ginzburg-Ziv Constants;;22
+765;;How to Write a Permutation as a Product of Involutions (and Why You Might Care);;13
+766;;Human Proofs of Identities by Osburn and Schneider;;8(1)
+767;;Hyper <i>b</i>-ary Expansions and Stern Polynomials;;20
+768;;Hypergeometric Bernoulli Polynomials and <i>r</i>-Associated Stirling Numbers of the Second Kind;;22
+769;;Hypergraph Ramsey Numbers Involving Trees, Stars, and Complete Hypergraphs;;22
+770;;Hyperharmonic Numbers Can Rarely Be Integers;;18
+771;;Ideal Solutions of the Tarry-Escott Problem of Degree Seven;;22
+772;;Identifying an <i>m</i>-ary Partition Identity Through an <i>m</i>-ary Tree;;16
+773;;Identities Between Polynomials Related to Stirling and Harmonic Numbers;;14
+774;;Identities and Inequalities for Sums Involving Binomial Coefficients;;20
+775;;Identities for the Generalized Fibonacci Polynomial;;18B
+776;;Image Partition Regularity over the Gaussian Integers;;17
+777;;Images of <i>C</i>-Sets and Related Large Sets under Nonhomogeneous Spectra;;12B
+778;;Impartial Chocolate Bar Games with a Pass;;16
+779;;Impartial Chocolate Bar Games;;15
+780;;Impartial Games with Entailing Moves;;21b
+781;;Implicit Function Theorem for Formal Power Series;;18A
+782;;Improved Bounds on the Number of Ways of Expressing t as a Binomial Coefficient;;7
+783;;Improvements on Chomp;;2
+784;;Improving the Chen and Chen Result for Odd Perfect Numbers;;13
+785;;Inclusion-Exclusion Polynomials with Large Coefficients;;13
+786;;Independent Divisibility Pairs on the Set of Integers from <i>1</i> to <i>N</i>;;13
+787;;Index Divisibility in the Orbit of <i>0</i> for Integral Polynomials;;20
+788;;Inductive Methods and Zero-sum Free Sequences;;9
+789;;Infinite Families of Divisibility Properties Modulo 4 For Non-Squashing Partitions Into Distinct Parts;;9
+790;;Infinite Families of Partitions Into MSTD Subsets;;19
+791;;Infinite Hex Is a Draw;;23
+792;;Infinite Series Containing Generalized <i>q</i>-harmonic Numbers;;21
+793;;Infinite Summation Formulas Involving the Riemann--Zeta Function;;20
+794;;Infinitely Often Dense Bases for the Integers with a Prescribed Representation Function;;10
+795;;Integer Addition and Hamming Weight;;16
+796;;Integer Circulant Determinants of Order 15;;22
+797;;Integer Complexity: Algorithms and Computational Results;;18
+798;;Integer Group Determinants for \(\mathrm{C}_{4}^{2}\);;24
+799;;Integer Partitions into Arithmetic Progressions with an Odd Common Difference;;9
+800;;Integer Sequences and <i>k</i>-commuting Permutations;;15
+801;;Integer Sequences with Regularly Varying Counting Functions Have Power-law Variance Functions;;23
+802;;Integer Sets Having the Maximum Number ofDistinct Differences;;7
+803;;Integer Sets with Identical Representation Functions;;16
+804;;Integer Subsets with High Volume and Low Perimeter;;12
+805;;Integers Which Cannot Be Partitioned Into an Even Number of Consecutive Parts;;19
+806;;Integers Without Large Prime Factors: from Ramanujan to de Bruijn;;14A
+807;;Integers with a Large Smooth Divisor;;7
+808;;Integral Representations of Catalan Numbers and Sums Involving Central Binomial Coefficients;;23
+809;;Integrality of Quotients of Wronskians of the Andrews-Gordon Series;;6
+810;;Intersecting Rational Beatty Sequences;;13
+811;;Intersections of Sets of Distance;;16
+812;;Introducing Shift-constrained Rado Numbers;;21A
+813;;Introduction of Nonstandard Methods for Number Theorists;;8(2)
+814;;Invariance of the Sprague-Grundy Function for Variants of Wythoff's Game;;16
+815;;Invariant Measures for Continued Fractions With Variable Numerators;;17
+816;;Invariant Measures for New Classes of Piecewise Fractional Linear Maps;;19
+817;;Invariant measures for <i>2</i>-dimensional maps and associated R&eacute;nyi maps;;21
+818;;Inverse Problems Related to Some Weighted Zero-sum Constants for Cyclic Groups;;22
+819;;Inverse Theorems in  Z/<i>p</i>Z When a Subset is Contained in a Short  Arithmetic Progression;;17
+820;;Inverses of Motzkin and Schr&ouml;der Paths;;12
+821;;Inversion Sequences Avoiding Quadruple Length-3 Patterns;;23
+822;;Inversion of Two Cyclotomic Matrices;;19
+823;;Irrational Numbers Associated to Sequences Without Geometric Progressions;;14
+824;;Irreducibility of Generalized Fibonacci Polynomials;;22
+825;;Irreducible Radical Extensions and Euler-function Chains;;7(2)
+826;;Irregularities of Distribution of Digital (0,1)-sequences in Prime Base;;5(3)
+827;;Isomorphism Classes of Distance Graphs in \(\mathbb{Q}^3\);;21
+828;;Isosceles Triangles in Q<sup>3</sup>;;18
+829;;Iterated Exponents in Number Theory;;7
+830;;Jacobi-Type Continued Fractions and Congruences for Binomial Coefficients;;18
+831;;Jensen Proof of a Curious Binomial Identity;;3
+832;;Jordan's Expansion of the Reciprocal of Theta Functions and 2-densely Divisible Numbers;;20
+833;;K-distance Sets, Falconer Conjecture, and Discrete Analogs;;5(2)
+834;;King and Rook Vs. King on a Quarter-Infinite Board;;6
+835;;King and Rook Vs. King on aQuarter-Infinite Board;;6
+836;;Kirkman's Hypothesis Revisited;;1
+837;;Konane has Infinite Nim-dimension;;8(1)
+838;;Lagrange Inversion and Stirling Number Convolutions;;8(1)
+839;;Large Zero-Free Subsets of <i>Z/pZ</i>;;11A
+840;;Lattice Configurations Determining Few Distances;;20
+841;;Lattice Equable Quadrilaterals III: Tangential and Extangential Cases;;23
+842;;Lattice Point Visibility on Power Functions;;18
+843;;Lecture Hall Partitions and the Wreath Products <i>C<sub>k</sub> &#8768; S<sub>n</sub></i>;;12B
+844;;Left Weighted Catalan Extension;;10
+845;;Length of the Continued Logarithm Algorithm on Rational Inputs;;20
+846;;Lerch's Theorems Over Function Fields;;10
+847;;Les Endomorphismes de Q<sub>+</sub><sup>*</sup> pour l'Addition des Cancres;;18
+848;;Limiting Behavior in Growth of Bulgarian Solitaire Orbits;;23
+849;;Line Sidon Sets;;23
+850;;Linear Combinations of Two Polygonal Numbers That Take Infinitely Often a Square Value;;20
+851;;Linear Equations Involving Iterates of &sigma;(N);;ume 9 Supplement
+852;;Linear Equations in the Stone-Cech Compactification of N;;0
+853;;Linear Quantum Addition Rules;;7(2)
+854;;Linear Recurrence Sequences With Indices in Arithmetic Progression and Their Sums;;16
+855;;Linear Recurrences for Bernoulli Polynomials Involving Different Kinds of Sums;;21
+856;;Linear Recurrent Sequences and Powersof a Square Matrix;;6
+857;;Local Differences Determined by Convex Sets;;23
+858;;Locally Nilpotent Polynomials over \(\mathbb{Z}\);;24
+859;;Log-Sine Evaluations of Mahler Measures, II;;12A
+860;;Logarithmic Representability of Integers as <i>k</i>-Sums;;15A
+861;;Lonely Runner Polyhedra;;19
+862;;Long Arithmetic Progressions in Small Sumsets;;10
+863;;Long Fully Commutative Elements in Affine Coxeter Groups;;15
+864;;Long Minimal Zero-Sum Sequences in the Group <i>C<sub>2</sub>&oplus; C<sub>2k</sub></i>;;12
+865;;Long Minimal Zero-Sum Sequences in the Groups <i>C<sub>2</sub><sup>r-1</sup> &oplus; C<sub>2k</sub></i>;;14
+866;;Loop Decompositions of Random Walks and Nontrivial Identities of Bernoulli and Euler Polynomials;;22
+867;;Lots and Lots of Perrin-Type Primality Tests and Their Pseudo-Primes;;23
+868;;Lower Bounds for Numbers With Three Prime Factors;;19
+869;;Lower Bounds for Sumsets of Multisets in F<sub><i>p</sub><sup>2</sup></i>;;13
+870;;Lower Bounds for the Principal Genus of Definite Binary Quadratic Forms;;10
+871;;Lower Bounds on the Weak Schur Numbers Up to 9 Colors;;17
+872;;Lower Rational Approximations and Farey Staircases;;24
+873;;Lower and Upper Bounds On Irregularities of Distribution;;20
+874;;Lucas Congruences  for the Ap&eacute;ry Numbers Modulo <i>p<sup>2</sup></i>;;21
+875;;Lucas Diophantine Triples;;9
+876;;Lucas Numbers and Determinants;;11
+877;;Lucas Type Sequences and Sums of Binomial Coefficients;;23
+878;;Lucas-Lehmer Primality Tests for Certain Prime Curios;;21
+879;;M&ouml;bius Maps and Continued Fractions;;24
+880;;Maharaja Nim: Wythoff's Queen meets the Knight;;14
+881;;Mahler Takes a Regular View of Zaremba;;18A
+882;;Maier Matrices Beyond <b><i>Z</i></b>;;ume 9 Supplement
+883;;Major Index Over Descent for Pattern-avoiding Permutations;;18
+884;;Maker-Breaker Rado Games for Equations with Radicals;;24
+885;;Mathematics of Ghaly's Machine;;6
+886;;Maximal Continuants and Periodicity;;6
+887;;Maximal Entries of Elements in Certain Matrix Monoids;;20
+888;;Maximum <i>GCD</i> Among Pairs of Random Integers;;11
+889;;Maximum Distances in the Four-digit Kaprekar Process;;21
+890;;Maximum StirlingNumbers of the Second Kind;;8(1)
+891;;Mean Values of the Product of an Integer and Its Modular Inverse;;24
+892;;Mean-Value Theorems for Multiplicative Arithmetic Functions of Several Variables;;12
+893;;Memorial to Javier Cilleruelo: A Problem List;;18
+894;;Mertens' Prime Product Formula, Dissected;;21A
+895;;Midy's Theorem for Periodic Decimals;;7
+896;;Min, A Combinatorial Game Having a Connection With Prime Numbers;;10
+897;;Minimal Zero Sequences of Finite Cyclic Groups;;4
+898;;Minimal Zero-sum Sequences of Maximum Length inthe Group <i>C<sub>3</sub> &#x2295; C<sub>3k</sub></i>;;7
+899;;Minimally Intersective Polynomials with Arbitrarily Long Factorization;;22
+900;;Minimum Coprime Labelings for Operations on Graphs;;19
+901;;Mis&egrave;re Domineering on <i>2</i> x <i>n</i> Boards;;21b
+902;;Miscellaneous Series Identities with Cauchy and Harmonic Numbers, and Their Interpretation as Ramanujan Summation;;23
+903;;Mixed Sums of Squaresand Triangular Numbers (II);;7
+904;;Mixed Sums of Triangular Numbers and Certain Binary Quadratic Forms;;15
+905;;Modifications of Some Methods in the Study of Zero-Sum Constants;;14
+906;;Modular Hyperbolas and the Coefficients of <i>(x<sup>-1</sup>+6+x)<sup>k</sup></i>;;11A
+907;;Modular Hyperbolas and the Congruence <i>ax<sub>1</sub>x<sub>2</sub>&hellip;x<sub>k</sub> + bx<sub>k+1</sub>x<sub>k+2</sub>&hellip;x<sub>2k</sub> &equiv; c</i> mod <i>m</i>;;18
+908;;Monochromatic Forests of Finite Subsets of N;;0
+909;;Monochromatic Solutions of Exponential Equations;;15A
+910;;Monochromatic Sums Equal to Products Near Zero;;20
+911;;Monochromatic Sums Equal to Products in <i>N</i>;;11A
+912;;More Kolakoski Sequences;;11b
+913;;More about Exact Slow <i>k</i>-Nim;;21
+914;;More on Finite Sums that Involve Reciprocals of Products of Generalized Fibonacci Numbers;;14
+915;;More on Points and Arcs;;7(2)
+916;;More on the Fibonacci Sequence and Hassenberg Matrices;;6
+917;;Motzkin Paths With a Restricted First Return Decomposition;;19
+918;;Multi-Poly-Bernoulli-Star Numbers and Finite Multiple Zeta-Star Values;;14
+919;;Multidimensional Euclidean Algorithms, Numeration  and Substitutions;;11b
+920;;Multidimensional Pad&eacute; Approximation of Binomial Functions: Equalities;;21A
+921;;Multidimensional Small Divisor Functions;;21
+922;;Multiple Convolution Formulae on ClassicalCombinatorial Numbers;;7
+923;;Multiple Harmonic Sums and Multiple Harmonic Star Sums are (Nearly) Never  Integers;;17
+924;;Multiple Set Addition in Zp;;3
+925;;Multiple Zeta Values and Rota-Baxter Algebras;;8(2)
+926;;Multiplicative Functions <i>k</i>-Additive on Generalized Pentagonal Numbers;;22
+927;;Multiplicative Functions Which Are Additive on Sums of Two Nonzero Squares;;22
+928;;Multiplicative Functions with \(f(p+q-n_0) = f(p)+f(q)-f(n_0)\);;21
+929;;Multiplicative Inequalities for Primes and the Prime Counting Function;;22
+930;;Multiplicities of Integer Arrays;;10
+931;;Multivariable Lucas Polynomials and Lucanomials;;21
+932;;Multivariate Difference Gon&ccaron;arov Polynomials;;21A
+933;;Narayana Numbers Which Are Concatenations of Two Base <i>b</i> Repdigits;;24
+934;;Neither &#x220F;<i> <sup>n</sup><sub>k=1</sub> (4k<sup>2</sup>+1)</i> Nor &#x220F;<i><sup>n</sup><sub>k=1</sub> (2k(k-1)+1)</i> is a Perfect Square;;9
+935;;Nested Interval Sequences of Positive Real Numbers;;17
+936;;New Bounds and Computations on Prime-Indexed Primes;;13
+937;;New Bounds for the Prime Counting Function;;16
+938;;New Bounds on the Number of Representations of t as a Binomial Coefficient;;4
+939;;New Congruences Involving Triangular Numbers;;20
+940;;New Congruences and Finite Difference Equations for Generalized Factorial Functions;;18
+941;;New Congruences for <i>3</i>-regular Partitions With Designated Summands;;20a
+942;;New Congruences for <i>l</i>-Regular Overpartitions;;17
+943;;New Congruences for Overpartitions Into Odd Parts;;18
+944;;New Estimates for Some Functions Defined Over Primes;;18
+945;;New Formulas for the Riemann Zeta Function;;23
+946;;New Games Related to Old and New Sequences;;4
+947;;New Infinite Families of Congruences Modulo Powers of 2 for 2-Regular Partitions with Designated Summands;;24
+948;;New Lower Bounds for Weak Schur Partitions;;21
+949;;New Proof of Kemperman's Theorem;;15
+950;;New Proofs for the <i>p,q</i>-Analogue of Chu-Vandermonde's Identity;;13
+951;;New Results on the <i>p</i>-Adic Valuation of Stirling Numbers;;22
+952;;New Sequences That Converge to a Generalization of Euler's Constant;;11
+953;;New Temperatures in Domineering;;5(1)
+954;;Newman Polynomials Not Vanishing on the Unit Circle;;12
+955;;Newman Polynomials, Reducibility, and Roots on the Unit Circle;;12
+956;;Newton Basis Relations and Applications to Integer-Valued Polynomials and <i>q</i>-Binomial Coefficients;;14
+957;;Newton Sequences and Dirichlet Convolution;;21
+958;;Nim Restrictions;;4
+959;;Nim with a Modular Muller Twist;;4
+960;;Non-Regularity of &lfloor; &alpha; + <i>log<sub>k</sub> n</i> &rfloor;;;10
+961;;Non-canonical Extensions of Erdos-Ginzburg-Ziv Theorem;;2
+962;;Non-intersectivity of Paperfolding Dragon Curves and of Curves Generated by Automatic Sequences;;18A
+963;;Nondefective Integers With Respect to Certain Lucas Sequences of the Second Kind;;18
+964;;Nonexistence of a Geometric Progression that Contains Four Triangular Numbers;;7
+965;;Norm Euclidean Quaternionic Orders;;11
+966;;Normality, Projective Normality and EGZ Theorem;;11
+967;;Note on Leech-type Questions of Trees;;16
+968;;Note on Odd/Odd Vertex Removal Games on Bipartite Graphs;;14
+969;;Note on Restricted Parts in Cyclic Compositions;;18
+970;;Note on Sets without Geometric Progressions;;22
+971;;Note on a Congruence InvolvingProducts of Binomial Coefficients;;7
+972;;Note on a Determinant (II);;21
+973;;Note on a Determinant;;20
+974;;Note on a Result of Chung on Weil Type Sums;;15
+975;;Note on a Result of Haddad and Helou;;10
+976;;Note on the Diophantine Equation <i>X<sup>t</sup> + Y<sup>t</sup> = BZ<sup>t</sup></i>;;11
+977;;Notes on Primes <i>p&equiv; 1 (mod d)</i> and <i>a<sup>p-1/d</sup>&equiv; 1 (mod p)</i>;;15
+978;;Number Theory, Balls in Boxes,  the Asymptotic Uniqueness of Maximal Discrete Order Statistics;;0
+979;;Number Theory, Balls in Boxes, and the Asymptotic Uniqueness of Maximal Discrete Order Statistics;;0
+980;;Number of Binomial Coefficeints Divisible by a Fixed Power of a Prime;;8(1)
+981;;Number of Weighted Subsequence Sums With Weights in <i>{1, -1}</i>;;11
+982;;Numbers With Integer Complexity Close to the Lower Bound;;12A
+983;;Numbers with Three Close Factorizations and Lattice Points on Hyperbolas;;18
+984;;Numerical Semigroups With Embedding Dimension Three and Minimal Catenary Degree;;20
+985;;Observations on the Parity of the Total Numbers of Parts in Odd-part Partitions;;7
+986;;Obtaining All or Half of <i><b>U<sub>n</sub></b></i> as <i>&lang; x &rang; x &lang; x+1 &rang;</i>;;12
+987;;Odd Catalan Numbers Modulo <i>2<sup>k</sup></i>;;11
+988;;Odd Deficient-Perfect Numbers with Four Distinct Prime Factors;;23
+989;;Odd Incongruent Restricted Disjoint Covering Systems;;12A
+990;;Odd Repdigits to Small Bases are Not Perfect;;12
+991;;Odd and Even Linear Divisibility Sequences of Order 4;;15
+992;;On  <i>(4, 5)</i>-regular Partitions With Odd Parts Overlined;;20
+993;;On  <i>q</i>-Analog of Wolstenholme Type Congruences for Multiple Harmonic Sums;;13
+994;;On  Divisibility of Generalized Fibonacci Numbers;;15
+995;;On  the Prime <I>k</I>-tuple Conjecture;;14
+996;;On &#x2113;-th Order Gap Balancing Numbers;;18
+997;;On (Self-) Reciprocal Appell Polynomials: Symmetry and Faulhaber-type Polynomials;;21
+998;;On (Yet Another) Family of Stirling Polynomials of the Second Kind;;21
+999;;On 2-Adic Orders of Stirling Numbers of the Second Kind;;5(1)
+1000;;On <i>3</i>-Adic Valuations of Generalized Harmonic Numbers;;11
+1001;;On <i>5</i>-regular Bipartitions Into Distinct Parts;;20
+1002;;On <i>K</i>-Imperfect Numbers;;9
+1003;;On <i>k</i>-Lehmer Numbers;;12
+1004;;On <i>p</i>-adic Properties of Some Fibonacci and Lucas Numbers;;19
+1005;;On Abelian and Additive Complexity in Infinite Words;;12
+1006;;On Algorithms to Calculate Integer Complexity;;19
+1007;;On Asymptotic Approximate Groups of Integers;;17
+1008;;On Asymptotic Constants Related to Products of Bernoulli Numbers and Factorials;;9
+1009;;On Asymptotic Formula of the Partition Function <i>p<sub>A</sub>(n)</i>;;15
+1010;;On Bases With a <i>T</i>-Order;;11
+1011;;On Binary Representations of Integers with Digits -1, 0, 1;;0
+1012;;On Binomial Coefficients Associated With Sierpi&#324;ski and Riesel Numbers;;21
+1013;;On Binomial Coefficients Modulo Squares of Primes;;19
+1014;;On Bivariate and Trivariate Miki-type Identities for Bernoulli Polynomials;;20
+1015;;On Bounds for Two Davenport-type Constants;;13
+1016;;On Carmichael and Polygonal Numbers, Bernoulli Polynomials, and Sums of Base-<i>p</i> Digits;;21
+1017;;On Certain Diophantine Equations Involving Triangular Numbers;;21
+1018;;On Certain Quaternary Quadratic Forms;;18
+1019;;On Certain Sums Involving the Legendre Symbol;;16
+1020;;On Changes in the Frobenius and Sylvester Numbers;;18B
+1021;;On Combinatorial Identities of Engbers and Stocker;;17
+1022;;On Computation of Exact Van Der Waerden Numbers;;11
+1023;;On Congruence Conditions for Primality;;10
+1024;;On Congruence Properties of Consecutive Values of <em>p(n,m)</em>;;7
+1025;;On Congruences Involving Some Fibonomial Coefficients;;19
+1026;;On Congruent Numbers With Three Prime Factors;;11
+1027;;On Consecutive Integer Pairs with the Same Sum of Distinct Prime Divisors;;5(1)
+1028;;On Covering Numbers;;7(2)
+1029;;On David's <i>2</i>-Dimensional Continued Fraction;;14
+1030;;On Denseness of Certain Direction and Generalized Direction Sets;;22
+1031;;On Diophantine Equations Involving Sums of Fibonacci Numbers and Powers of 2;;18
+1032;;On Directions Determined by Subsets of Vector Spaces Over Finite Fields;;11
+1033;;On Divisibility Properties of Some Differences of the Central Binomial Coefficients and Catalan Numbers;;13
+1034;;On Divisibility of Some Power Sums;;7
+1035;;On Double <i>3</i>-Term Arithmetic Progressions;;14
+1036;;On Eisenstein Primes;;18
+1037;;On Elementary Lower Bounds for the Partition Function;;3
+1038;;On Elliptic Carmichael Numbers in Arithmetic Progressions;;22
+1039;;On Exactly <i>k</i>-deficient-perfect Numbers;;19
+1040;;On Factorization of Integers with Restrictions onthe Exponents;;7
+1041;;On Finite Semi-regular Continued Fractions;;16
+1042;;On Finite Sums and Integral Representations;;13
+1043;;On Finite Sums of Good and Shar that Involve Reciprocals of Fibonacci Numbers;;12
+1044;;On Freiman's <i>3k-4</i> Theorem;;18
+1045;;On Generalized Addition Chains;;14
+1046;;On Generalized Derangements and Some Orthogonal Polynomials;;19
+1047;;On Generalized Euler Numbers and Polynomials Related to Values of the Lerch Zeta Function;;20
+1048;;On Generalized Fibonacci and Lucas Numbers of the Form <i>wkx<sup>2</sup> &plusmn; 1</i>;;16
+1049;;On Hensel's Roots and a Factorization Formula in <b>Z[[x]]</b>;;14
+1050;;On Higher Moments of Dirichlet Coefficients Attached to Symmetric Power <i>L</i>-Functions  Over Certain Sequences of Positive Integers;;24
+1051;;On Hyper <i>k</i>-Pell, Hyper <i>k</i>-Pell-Lucas and Hyper Modified <i>k</i>-Pell Sequences;;22
+1052;;On Inequalities Involving Counts of the Prime Factors of an Odd Perfect Number;;23
+1053;;On Kotzig's Nim;;14
+1054;;On Leonardo <i>p</i>-Numbers;;23
+1055;;On Levine's Notorious Hat Puzzle;;21A
+1056;;On Means of Near Continued Fractions;;23
+1057;;On Miki's Identity for Bernoulli Numbers;;16
+1058;;On Minimimal Colorings without Monochromatic Solutions to a Linear Equation;;7(2)
+1059;;On Mod p Logarithms log<sub>a</sub> b and lob<sub>b</sub> a;;6
+1060;;On Monchromatic Subsets of a RectangularGrid;;8(1)
+1061;;On Monochromatic Ascending Waves;;7(2)
+1062;;On Monochromatic Sets of Integers Whose Diameters Form a Monotone Sequence;;9
+1063;;On Monochromatic Subsets of a RectangularGrid;;8(1)
+1064;;On Mullin's Second Sequence of Primes;;12A
+1065;;On Multi-avoidance of Right Angled Numbered Polyomino Patterns;;4
+1066;;On Multiplicative Bases of Finite Sets;;20
+1067;;On Multiplicative Functions with Bounded Partial Sums;;12
+1068;;On Multiplicative Sidon Sets;;13
+1069;;On N | &phi;(N)D(N)+2 and N | &phi;(N)&sigma;(N)+1;;8(1)
+1070;;On Natural Leaping Convergents of Regular Continued Fractions and an Application to Linear Fractional Transformations;;23
+1071;;On Newman's Conjecture and Prime Trees;;9
+1072;;On Normal Numbers and Powers of Algebraic Numbers;;10
+1073;;On Numbers That Cannot be Expressed as a Plus-Minus Weighted Sum of a Fibonacci Number and a Prime;;14
+1074;;On Numerical Semigroups Generated by Compound Sequences;;21
+1075;;On Numerical Semigroups Generated by Primitive Pythagorean Triplets;;20
+1076;;On Odd Perfect Numbers and Even 3-Perfect Numbers;;12A
+1077;;On Optimal Play in the Game of Hex;;4
+1078;;On Ozanam's Rule;;18
+1079;;On Partition Configurations of Andrews-Deutsch;;17
+1080;;On Partitions and Cyclotomic Polynomials;;0
+1081;;On Pattern Avoiding Indecomposable Permutations;;18
+1082;;On Pebbling Graphs By Their Blocks;;9
+1083;;On Permutiples Having a Fixed Set of Digits;;17
+1084;;On Pillai's  Problem  with Lucas Numbers and Powers of 3;;21
+1085;;On Primary Carmichael Numbers;;22
+1086;;On Product Difference Fibonacci Identities;;11
+1087;;On Products and Shifted Products of Residues Modulo <i>p</i>;;8(2)
+1088;;On Proofs of Generalized Knuth's Old Sum;;23
+1089;;On Pseudosquares and Pseudopowers;;ume 9 Supplement
+1090;;On RATS Sequences in General Bases;;14
+1091;;On Rainbow Solutions to an Equation with a Quadratic Term;;9
+1092;;On Rapid Generation of <i>SL<sub>2</sub>(<b>F</b><sub>q</sub>)</i>;;9
+1093;;On Ratios of Consecutive Prime Gaps;;23
+1094;;On Reciprocal Sums Formed by Solutions of Pell's Equation;;16
+1095;;On Reducible and Primitive Subsets of F<sub><i>p</i></sub>, I;;15A
+1096;;On Related Binomial Harmonic Identities;;18
+1097;;On Relatively Prime Sets Counting Functions;;10
+1098;;On Relatively Prime Sets;;9
+1099;;On Relatively Prime Subsets and Supersets;;10
+1100;;On Representations of the Riemann Zeta Function, Its Square and of the Positive Integers;;21
+1101;;On Restricted Sumsets in Abelian Groups of Odd Order;;8(1)
+1102;;On Sequences without Geometric Progressions;;13
+1103;;On Sets Whose Subsets Have Integer Mean;;21
+1104;;On Sets of Integers Which Are Both Sum-Free and Product-Free;;12B
+1105;;On Sets with More Restricted Sums than Differences;;13
+1106;;On Short Zero-Sum Subsequences II;;7
+1107;;On Short Zero-sum Sequences Over Abelian p-groups;;17
+1108;;On Shortened Recurrence Relations for Genocchi Numbers and Polynomials;;18
+1109;;On Sierpi&nacute;ski Numbers of the Form  &phi;(N)/2<sup>n</sup>;;16
+1110;;On Solutions to Erd&#337;s' Last Equation;;21
+1111;;On Solving Games Constructed Using Both Short and Long Conjunctive Sums;;10
+1112;;On Some <i>p</i>-adic Properties and Supercongruences of Delannoy and Schr&ouml;der Numbers;;21
+1113;;On Some Congruences for Andrews' Singular Overpartitions;;18
+1114;;On Some Conjectures Concerning Stern's Sequence and Its Twist;;11
+1115;;On Some Equations Related to Ma's Conjecture;;11
+1116;;On Some Generalizations to Floor Function Identities of Ramanujan;;22
+1117;;On Some Problems of Gyarmati and S&aacute;rk&ouml;zy;;12
+1118;;On Some Results on Practical Numbers;;23
+1119;;On Sparsely Schemmel Totient Numbers;;15
+1120;;On Strings of Consecutive Economical Numbers of Arbitrary Length;;5(2)
+1121;;On Subsets of Ordered Trees Enumerated by a Subsequence of Fibonacci Numbers;;15A
+1122;;On Subwords in the Base-<i>q</i> Expansion of Polynomial and Exponential Functions;;18A
+1123;;On Sums of Consecutive Triangular Numbers;;20a
+1124;;On Sums of Primes from Beatty Seqeuences;;8(1)
+1125;;On Sums of Squares of Pell-Lucas Numbers;;6
+1126;;On Supplements of <i> 2 x m</i>  Board in Toppling Towers;;12
+1127;;On Symmetric and Antisymmetric Balanced Binary Sequences;;5(1)
+1128;;On Ternary Inclusion-Exclusion Polynomials;;10
+1129;;On The Limiting Distributions of the Total Height On Families of Trees;;18
+1130;;On The Partition Regularity of \(ax+by = cw^mz^n\);;23
+1131;;On Third-order Pell Polynomials;;21
+1132;;On Three-rowed Chomp;;5(1)
+1133;;On Totient Abundant Numbers;;8(1)
+1134;;On Tripling Constant of Multiplicative Subgroups;;16
+1135;;On Two-point Configurations in a Random Set;;9
+1136;;On Unavoidable Obstructions in Gaussian Walks;;16
+1137;;On Unit-Weighted Zero-Sum Constants of \(\mathbb{Z}_n\);;24
+1138;;On Universal Binary Hermitian Forms;;9
+1139;;On Upper Bounds for the Count of Elite Primes;;20
+1140;;On Vanishing Sums of Distinct Roots of Unity;;10
+1141;;On Weak Twins and Up-and-down Sub-permutations;;21A
+1142;;On Weakly Complete Sequences Formed by the Greedy Algorithm;;12
+1143;;On Weighted Zero Sum Subsequences of Short Length;;14
+1144;;On Z.-W. Sun's Disjoint Congruence Classes Conjecture;;7(2)
+1145;;On Zero-Sum Sequences in Z/nZ + Z/nZ;;3
+1146;;On Zero-Sum Subsequences in Finite Abelian Groups;;1
+1147;;On Zero-sum Partitions of Abelian Groups;;15
+1148;;On \(abc\) Triples of the Form \((1,c-1,c)\);;23
+1149;;On a Certain Inverse Problem for Carousel Numbers;;20
+1150;;On a Class of  Ternary  Inclusion-Exclusion Polynomials;;11
+1151;;On a Class of Ternary Inclusion-Exclusion Polynomials;;11
+1152;;On a Combinatorial Conjecture of Tu and Deng;;12
+1153;;On a Combinatorial Conjecture;;11
+1154;;On a Conjecture Regarding Balancing With Powers of Fibonacci Numbers;;12A
+1155;;On a Conjecture of De Koninick;;18
+1156;;On a Conjecture of Victor Guo;;20
+1157;;On a Cubic Moment for Sums of Hecke Eigenvalues;;16
+1158;;On a Diophantine Equation With Three Prime Variables;;19
+1159;;On a Family of Cubic Thue Equations Involving Fibonacci and Lucas Numbers;;22
+1160;;On a Formula and Some Properties of Carmichael Indices;;24
+1161;;On a Generalization of a Theorem by Vosper;;0
+1162;;On a Generalization of the Cauchy-Davenport Theorem;;16
+1163;;On a Generalized Family of Euler-Genocchi Polynomials;;21
+1164;;On a Linear Diophantine Problem Involving the Fibonacci and Lucas Sequences;;15
+1165;;On a Linear Diophantine Problem of Frobenius;;6
+1166;;On a Multi-parameter Family of Newman Phenomenon Triples;;5(3)
+1167;;On a Partition Problem of Canfield and Wilf;;12A
+1168;;On a Problem of Molluzzo Concerning Steinhaus Triangles in Finite Cyclic Groups;;8(1)
+1169;;On a Problem of Ore;;7(2)
+1170;;On a Relation Between the Riemann Zeta Function and the Stirling Numbers;;8(1)
+1171;;On a Relation between Schreier-Type Sets and a Modification of Tur&aacute;n Graphs;;23
+1172;;On a Result of Bambah and Chowla;;19
+1173;;On a Sequence of Polynomials with Hypothetically Integer Coefficients;;13
+1174;;On a Set of Fixed Points Related to Both Fermat and Mersenne Primes;;18
+1175;;On a Special Congruence of Carlitz;;6
+1176;;On a Symmetricity Property Connected to the Euclidean Algorithm;;20
+1177;;On a Theorem of Prachar Involving Prime Powers;;11
+1178;;On a Variant of Van Der Waerden's Theorem;;10
+1179;;On a Variation of Perfect Numbers;;6
+1180;;On a Variation of the Coin Exchange Problem for Arithmetic Progressions;;3
+1181;;On an Analogue to the Lucas-Lehmer-Riesel Test Using Elliptic Curves;;13
+1182;;On an Exponential Power Sum;;23
+1183;;On an Incomplete Argument of Erd&#337;s on the Irrationality of Lambert Series;;13
+1184;;On an Inequality in a 1970 Paper of R. L. Graham;;21A
+1185;;On the &#X3B2;-Expansion of an Algebraic Number in an Algebraic Base &#X3B2;;9
+1186;;On the 2-Adic Valuation of Generalized Fibonacci Sequences;;22
+1187;;On the <i>2</i>-Adic Valuation of Differences of Harmonic Numbers;;24
+1188;;On the <i>X</i>--coordinates of Pell Equations that are Products of Two Padovan Numbers;;20
+1189;;On the <i>x</i>-Coordinates of Pell Equations Which Are Narayana Numbers;;22
+1190;;On the Additive Period Length of the Sprague-Grundy Function of Certain Nim-like Games;;21
+1191;;On the Almkvist--Meurman Theorem for Bernoulli Polynomials;;23
+1192;;On the Asymptotic Behavior of Density of Sets Defined by Sum-of-digits Function in Base 2;;17
+1193;;On the Average Asymptotic Behavior of a Certain Type of Sequence of Integers;;9
+1194;;On the Average Orders of a Class of Divisor Functions;;7
+1195;;On the Averages of Factors of an Infinite Word on a Finite Set of Integers;;20
+1196;;On the Binary Digits of &radic;2;;18
+1197;;On the Boundary of the Set of the Closure of Contractive Polynomials;;9
+1198;;On the Brousseau Sums \(\sum_{i=1}^n i^p F_i\);;22
+1199;;On the Combinatorial Value of Hex Positions;;22
+1200;;On the Combinatorics of Placing Balls into Ordered Bins;;21
+1201;;On the Complete Tree of Primitive Pythagorean Quadruples;;20
+1202;;On the Complexity and Topology of Scoring Games: of Pirates and Treasure;;17
+1203;;On the Complexity of <i>N</i>-Player Hackenbush;;9
+1204;;On the Complexity of Chooser-Picker Positional Games;;11
+1205;;On the Complexity ofChooser-Picker Positional Games;;11
+1206;;On the Computation of Fundamental Periods of <i>v</i>-Palindromic Numbers;;22
+1207;;On the Conditioned Binomial Coefficients;;11
+1208;;On the Congruence <i>N &#x2261; A (mod &#981;(N))</i>;;8(1)
+1209;;On the Congruence <i>N &#x2261; A (mod&#981;(N))</i>;;8(1)
+1210;;On the Congruence <i>x<sup>x</sup> &equiv; x</i> (mod <i>n</i>);;16
+1211;;On the Corner Avoidance Properties of Various Low-discrepancy Sequences;;5(3)
+1212;;On the Counting Function of Semiprimes;;21
+1213;;On the Degree of Regularity of Generalized van der Waerden Triples;;5(1)
+1214;;On the Density of Happy Numbers;;13
+1215;;On the Density of Integral Sets with Missing Differences;;ume 9 Supplement
+1216;;On the Differences Between Consecutive Prime Numbers, I;;12B
+1217;;On the Diophantine Equation &Pi; <i>x<sub>i</sub></i> = &Sigma; <i>x<sub>i</sub></i>;;12
+1218;;On the Diophantine Equation <i>x<sup>2</sup> + 3<sup>m</sup> = y<sup>n</sup></i>;;8(1)
+1219;;On the Diophantine Equation <i>x<sup>2</sup>-kxy+y<sup>2</sup>+lx=0</i>;;13
+1220;;On the Diophantine Equation \(7^{x}+32^{y}=z^{2}\) and its Generalization;;22
+1221;;On the Diophantine Equation \(\frac{ax^{n+2l}+c}{abt^2x^n+d}=by^2\);;20
+1222;;On the Directions Determined by Cartesian Products and the Clique Number of Generalized Paley Graphs;;21
+1223;;On the Distance Between Smooth Numbers;;11
+1224;;On the Distribution of Distances between the Points of Affine Curves over Finite Fields;;5(1)
+1225;;On the Distribution of Exponential Sums;;0
+1226;;On the Divisibility of <i>a<sup>n</sup> &plusmn; b<sup>n</sup></i> by Powers of <i>n</i>;;13
+1227;;On the Divisibility of Odd Perfect Numbers, Quasiperfect Numbers and Amicable Numbers by a High Power of a Prime;;20
+1228;;On the Entry Sum of Cyclotomic Arrays;;6
+1229;;On the Equality of Dedekind Sums;;21
+1230;;On the Equation &phi;(n+k)=2&phi;(n);;21
+1231;;On the Equation <i>a<sup>x</sup> &#8801;x</i> mod <i>b</i>;;9
+1232;;On the Equation \(\sigma^*(n)=1+Mn\);;23
+1233;;On the Equation m-1 = a <IMG SRC="varphi.gif"  HEIGHT="10" WIDTH="10">(m);;6
+1234;;On the Euler Product of Some Zeta Functions;;ume 9 Supplement
+1235;;On the Exponential Sum With the Sum of Digits of Hereditary Base <i>b</i> Notation;;14
+1236;;On the Family of Elliptic Curves <i>X + 1/X + Y + 1/Y + t = 0</i>;;21
+1237;;On the Finiteness of Carmichael Numbers with Fermat Factors and \(L=2^{\alpha}P^2\);;20
+1238;;On the Fourier Transform of the Greatest Common Divisor;;13
+1239;;On the Frobenius Conjecture;;21
+1240;;On the Frobenius Number of Fibonacci Numerical Semigroups;;7
+1241;;On the Frobenius Problem for <i>{a<sup>k</sup>, a<sup>k</sup>+1, a<sup>k</sup>+a, ..., a<sup>k</sup>+a<sup>k-1</sup>}</i>;;10
+1242;;On the Frobenius Problem for Geometric Sequences;;8(1)
+1243;;On the Growth of a van der Waerden-like Function;;6
+1244;;On the Higher-Dimensional Generalization of a Problem of Roth;;13
+1245;;On the Increases of the Sequence <sub>&#8970;</sub> <i>k&#8730;n</i> <sub>&#8971;</sub>;;15
+1246;;On the Index of Odd Perfect Numbers;;22
+1247;;On the Integer Solutions of the Diophantine Equation \((x+y+z)^2=xyw\);;23
+1248;;On the Integers Nonrepresentable by a Generalized Arithmetic Progression;;5(2)
+1249;;On the Integrality of Factorial Ratios and Mirror Maps;;20
+1250;;On the Intersections of Fibonacci, Pell, and Lucas Numbers;;11A
+1251;;On the Irrationalityof a Divisor Function Series;;7
+1252;;On the Irreducibility of {-1,0,1}-Quadrinomials;;6
+1253;;On the Iterates of Digit Maps;;18
+1254;;On the Iteration of a Function Related to Euler's &phi;-Function;;10
+1255;;On the Kernel of the Coprime Graph of Integers;;9
+1256;;On the Lambek-Moser Theorem;;14
+1257;;On the Largest <em>k</em>-primitive Subset of <em>[1,n]</em>;;6
+1258;;On the Least Positive Solution to a Proportionally Modular Diophantine Inequality;;16
+1259;;On the Least Primitive Root Expressible as a Sum of Two Squares;;13
+1260;;On the Least Significant 2-Adic and Ternary Digits of Certain Stirling Numbers;;13
+1261;;On the Least Significant <i>p</i>-adic Digits of Certain Lucas Numbers;;14
+1262;;On the Maximal Density of Integral Sets Whose Differences Avoiding the Weighted Fibonacci Numbers;;17
+1263;;On the Maximal Weight of <i>(P,Q)</i>-ary Chain Partitions With Bounded Parts;;14
+1264;;On the Miki and Matiyasevich Identities for Bernoulli Numbers;;14
+1265;;On the Minimum Cardinality of Generalized Sumsets in Finite Cyclic Groups;;21
+1266;;On the Monotonicity of Additive Representation Functions;;20
+1267;;On the Multiplicative Order of <i>F<sub>n+1</sub>/F<sub>n</sub></i> Modulo <i>F<sub>m</sub></i>;;12B
+1268;;On the Nested Local Postage Stamp Problem;;18
+1269;;On the Nonintegrality of Certain Generalized Binomial Sums;;23
+1270;;On the Number of Carries Occurring in an Addition Mod <i>2<sup>k</sup>-1</i>;;12
+1271;;On the Number of Certain Relatively Prime Subsets of <i>{1, 2, ..., n}</i>;;10
+1272;;On the Number of Factorizations of an Integer;;11
+1273;;On the Number of Hyper <i>m</i>-ary Partitions;;18
+1274;;On the Number of Ordered Factorizations of an Integer;;20
+1275;;On the Number of Points in a Lattice Polytope;;11
+1276;;On the Number of Primes for Which a Polynomial is Eisenstein;;18
+1277;;On the Number of Solutions of a Diophantine Equation Over a Finite Field;;16
+1278;;On the Number of Subsets of <i>[1,m]</i> Relatively Prime to <i>n</i> and Asymptotic Estimates;;8(1)
+1279;;On the Number of Ways of Writing t as a Product of Factorials;;5(1)
+1280;;On the Number of Zero-Sum Subsequences of Restricted Size;;9
+1281;;On the Order of Lacunary Sums of Binomial Coefficients;;3
+1282;;On the Order of Points on Curves Over Finite Fields;;7
+1283;;On the Periodicity of Genus Sequences of Quaternary Games;;7
+1284;;On the Periodicity of Irreducible Elements  in Arithmetical Congruence Monoids;;17
+1285;;On the Prime Factors of  &Phi;<sub>p</sub>(M);;21
+1286;;On the Problem of Molluzzo for the Modulus <i>4</i>;;12
+1287;;On the Problem of Uniqueness for the Maximum Stirling Number(s) of the Second Kind;;2
+1288;;On the Product of Log-Concave Polynomials;;6
+1289;;On the Property <em>P<sub>-1</sub></em>;;7
+1290;;On the Range of the Iterated Euler Function;;ume 9 Supplement
+1291;;On the Reducibility of Exact Covering Systems;;15
+1292;;On the Relationship Between the Number of Solutions of Congruence Systems and the Resultant of Two Polynomials;;16
+1293;;On the Residue Classes of <i>&pi;(n)</i> Modulo <i>t</i>;;13
+1294;;On the Riemann Hypothesis and the Dedekind Psi Function;;23
+1295;;On the Slack Euler Pair for Vector Partition;;18
+1296;;On the Small Prime Factors of a Non-deficient Number;;23
+1297;;On the Sprague-Grundy Function of Compound Games;;23
+1298;;On the Stern Sequence and Its Twisted Version;;12
+1299;;On the Structure of Mis&egrave;re Impartial Games;;21b
+1300;;On the Structure of Sets Which Have Coinciding Representation Functions;;19
+1301;;On the Structure of Sets with Small Doubling Property on the Plane (II);;8(2)
+1302;;On the Sum of Integers From Some Multiplicative Sets and Some Powers of Integers;;18
+1303;;On the Sum of Reciprocal Generalized Fibonacci Numbers;;11A
+1304;;On the Sum of Reciprocals of Amicable Numbers;;11A
+1305;;On the Sum of Two Squares and at Most <i>k</i> Powers of 2;;21
+1306;;On the Symmetry Graph of Prime Numbers;;21
+1307;;On the Symmetry of Divisor Sums Functions in Almost All Short Intervals;;4
+1308;;On the Tennis Ball Problem;;11
+1309;;On the Theorem of N. P. Romanoff;;20
+1310;;On the Third Largest Prime Divisor of an Odd Perfect Number;;21
+1311;;On the Total Number of Prime Factors of an Odd Perfect Number;;21
+1312;;On the Two-Color Rado Number for \(\sum_{i=1}^{m-2} x_i+ax_{m-1}-x_m=c\);;22
+1313;;On the Two-color Rado Number for \(x_1+ax_2-x_3=c\);;20
+1314;;On the Value Distribution of Error Sums for Approximations With Rational Numbers;;12
+1315;;On the Weakly Prime-Additive Numbers with Length 4;;24
+1316;;On the \(a\)-Points of the  \(k^{\mathrm{th}}\) Derivative of an \(L\)-Function in the Selberg Class;;24
+1317;;On the corner Avoidance Properties of Various Low-discrepancy Sequences;;5(3)
+1318;;Optimal Point Sets Determining Few Distinct Triangles;;18
+1319;;Optimal Primitive Sets with Restricted Primes;;13
+1320;;Order Types of Shifts of Morphic Words;;23
+1321;;Order-Preserving Freiman Isomorphisms;;18
+1322;;Ordinal Sums, Clockwise Hackenbush, and Domino Shave;;21b
+1323;;Ordre Maximum d'une Fonction Li&eacute;e aux Diviseurs d'un Nombre Entier;;12
+1324;;Origami Constructions of Rings of Integers of Imaginary Quadratic Fields;;17
+1325;;Outcomes of Partizan Euclid;;12B
+1326;;Overlap Cycles for Permutations:  Necessary and Sufficient Conditions;;14
+1327;;Packing Polynomials on Sectors of R<sup>2</sup>;;14
+1328;;Packing Sets over Finite Abelian Groups;;18
+1329;;Pairwise Modular Multiplicative Inverses and Fibonacci Numbers;;23
+1330;;Palindromes in Different Bases:  A Conjecture of J. Ernest Wilkins;;9
+1331;;Palindromic Sums of Proper Divisors;;15A
+1332;;Parity Palindrome Compositions;;21
+1333;;Parity Sequences of the <i>3x+1</i> Map on the 2-adic Integers and Euclidean Embedding;;19
+1334;;Parity Theorems for Statistics on Permutations and Catalan Words;;5(1)
+1335;;Parry Extensions of Polynomial Sequences;;2
+1336;;Partial Dyck paths with Air Pockets;;22
+1337;;Partial Nim;;5(1)
+1338;;Partial Sums of Horadam Sequences: Sum-free Representations via Generating Functions;;22
+1339;;Partial Transposes of Permutation Matrices;;8(1)
+1340;;Particular Pell-Fermat Equations Revisited;;21
+1341;;Partition Inequalities and Applications to Sum-Product Conjectures of Kanade-Russell;;20
+1342;;Partition Recurrences;;18B
+1343;;Partition Regularity of Matrices;;7(2)
+1344;;Partition Regularity of Nonlinear Polynomials: A Nonstandard Approach;;14
+1345;;Partition Regularity of a System of De and Hindman;;14
+1346;;Partition of an Integer into Distinct Bounded Parts, Identities and Bounds;;12
+1347;;Partitions Related to Positive Definite Binary Quadratic Forms;;19
+1348;;Partitions Which are p- and q-Core;;1
+1349;;Partitions With Designated Summands in Which All Parts Are Odd;;15
+1350;;Partitions into Sum-free Sets;;6
+1351;;Partitions of Natural Numbers and Their Representative Functions;;4
+1352;;Partitions with Designated Summands Not Divisible by \(2^\ell\), 2 and \(3^\ell\) modulo 2, 4, and 3;;23
+1353;;Partizan Geography on <i>K<sub>n</sub></i> x <i>K<sub>2</sub></i>;;7(2)
+1354;;Partizan Kayles and Mis&egrave;re Invertibility;;15
+1355;;Partizan Subtraction Games;;21b
+1356;;Patrolling the Border of a Striking Conjecture;;22
+1357;;Pattern Containment in Circular Permutations;;18B
+1358;;Pattern Occurrence in the Dyadic Expansion of Square Root of Two and an Analysis of Pseudorandom Number Generators;;10
+1359;;Peg Solitaire on Caterpillars;;17
+1360;;Pell Equation: A Revisit through Periodic \(\mathcal{F}_{2^{{\ell}}}\)-Continued Fractions;;20a
+1361;;Perfect DelaunayPolytopes in Low Dimensions;;7
+1362;;Perfect Numbers With Identical Digits;;11A
+1363;;Perfect Numbers and Fibonacci Primes II;;19
+1364;;Perfect Powers With Few Ternary Digits;;12A
+1365;;Period Lengths Modulo <i>n</i> and Average of Terms of Second Order Linear Recurrences;;24
+1366;;Periodic Multiplicative Algorithms of Selmer Type;;5(1)
+1367;;Periodicity and the Index of Integer Partitions;;23
+1368;;Periodicity of Some Recurrence SequencesModulo <i>m</i>;;8(1)
+1369;;Periodicity of Some RecurrenceSequences Modulo <i>m</i>;;8(1)
+1370;;Permanents of 3 x 3 Invertible Matrices Modulo <i>n</i>;;22
+1371;;Permutations of the Natural Numberswith Prescribed Difference Multisets;;6
+1372;;Perron Numbers and Positive Matrices of Minimal Order;;21
+1373;;Phase Transitions in Infinitely Generated Groups, and Related Problems in Additive Number Theory;;11A
+1374;;Piecewise Syndetic Sets in \(\mathbb{N}^t \) and \(\mathbb{N}^X\);;24
+1375;;Pilesize Dynamic One-pile Nim and Beatty's Theorem;;4
+1376;;Pirates and Treasure;;13
+1377;;Pisot Numbers and Chromatic Zeros;;13
+1378;;Place-Difference-Value Patterns: A Generalization of Generalized Permutation and Word Patterns;;10
+1379;;Plane Partition Diamonds and Generalizations;;3
+1380;;Playing Bynum's Game Cautiously;;21b
+1381;;Playing End-Nim with a Muller Twist;;17
+1382;;Playing Simple Loony Dots-and-Boxes Endgames Optimally;;14
+1383;;Polychromatic Colorings on the Integers;;19
+1384;;Polygonal Balancing Numbers I;;22
+1385;;Polygonal-Sierpi&nacute;ski-Riesel Sequences with Terms Having at Least Two Distinct Prime Divisors;;16
+1386;;Polynomial Interpolation of Modular Forms for Hecke Groups;;21
+1387;;Polynomial Sequences on Quadratic Curves;;15
+1388;;Polynomial Time Graph Families for Arc Kayles;;16
+1389;;Polynomials Related to Harmonic Numbers and Evaluation of Harmonic Number Series I;;12
+1390;;Polynomials Related to Powers of the Dedekind Eta Function;;18
+1391;;Pomax Games -- A Family of Integer-valued Partizan Games Played on Posets;;16
+1392;;Poset Game Periodicity;;3
+1393;;Positions of Value *2 in Generalized Domineering and Chess;;5(1)
+1394;;Positive Integers Represented by Regular Primitive Positive-definite Integral Ternary Quadratic Forms;;19
+1395;;Positive-Definite Ternary Quadratic Forms Which are (4,1)-universal and (4,3)-universal;;18
+1396;;Positive-definite Quadratic Forms Representing Finite Sets of Integers;;19
+1397;;Powder Diffraction from a Combinatorialand Analytic Viewpoint;;8(2)
+1398;;Powder Diffraction from aCombinatorial and Analytic Viewpoint;;8(2)
+1399;;Power Maps in Finite Groups;;19
+1400;;Power Sum Polynomials as Relaxed EGZ Polynomials;;19
+1401;;Power Totients With Almost Primes;;11A
+1402;;Power of a 3 x 3 Matrix, Subgroups and Tiling;;22
+1403;;Powers in Prime Bases and a Problem on Central Binomial Coefficients;;15
+1404;;Powers of Sierpi&#x00144;ski Numbers Base <i>B</i>;;10
+1405;;Powers of Sierpi&nacute;ski Numbers Base <i>B</i>;;10
+1406;;Powers of Two as Sums of Two Padovan Numbers;;18
+1407;;Powers of a Matrix and Combinatorial Identities;;5(1)
+1408;;Practical Aspects of Testing the Irreducibility of the Non-reciprocal Part of a <i>0,1</i>-polynomial;;20a
+1409;;Preserving Integer Images of Matrices;;18B
+1410;;Primary Carmichael Numbers;;22
+1411;;Prime Density of Lehmer Sequences;;23
+1412;;Prime Divisors of \(a^{n}-b^{n}\);;23
+1413;;Prime Factors of \(Phi_3(x)\) of the Same Form;;22
+1414;;Prime Factors of \(\Phi_3(x)\) of the Same Form;;22
+1415;;Prime Floor and Prime Ceiling Functions;;22
+1416;;Prime Number Conjectures From the Shapiro Class Structure;;20
+1417;;Prime Power Divisors of Mersenne Numbers and Wieferich Primes of Higher Order;;19
+1418;;Prime-Perfect Numbers;;12A
+1419;;Primes <i>p &equiv; 1</i> mod <i>d</i> and <i>a<sup>(p-1)/d</sup> &equiv; 1</i> mod <i>p</i>;;19
+1420;;Primes <i>p</i> Having at Most One Divisor of <i>p-1</i> of a Specified Multiplicative Order;;19
+1421;;Primes in Floor Function Sets;;22
+1422;;Primes in Shifted Sums of Lucas Sequences;;17
+1423;;Primes of Prescribed Congruence Class in Short Intervals;;12
+1424;;Primitive Prime Divisors in Polynomial Arithmetic Dynamics;;7
+1425;;Primitive Prime Divisors in Zero Orbits of Polynomials;;12
+1426;;Primitive Pythagorean Triangles with Sides of Certain Forms;;24
+1427;;Product of a Number and its Multiplicative Inverse, Moments of <i>L</i>-functions and Exponential Sums;;16
+1428;;Projective <i>p</i>-Orderings and Homogeneous Integer-Valued Polynomials;;11
+1429;;Proof Trees for Weak Achievement Games;;8(1)
+1430;;Proof of Irvine’s Conjecture via Mechanized Guessing;;24
+1431;;Proof of Two Conjectures of Andrica and Bagdasar;;21
+1432;;Proof of a Conjecture of Krawchuk and Rampersad on the Cyclic Complexity of the Thue-Morse Sequence;;23
+1433;;Proof of the Prime Ladder Conjecture;;17
+1434;;Proofs of Chappelon and Ram&iacute;rez Alfons&iacute;n Conjectures on Square Frobenius Numbers and Their Relationship to Simultaneous Pell Equations;;23
+1435;;Proofs of Ruehr's Identities;;14
+1436;;Proper Divisor Graph of a Positive Integer;;21
+1437;;Properties of a Restricted Binary Partition Function a la Andrews and Lewis;;15
+1438;;Proving Balanced <i>T<sup>2</sup></i> and <i>Q<sup>2</sup></i> Identities Using Modular Forms;;11A
+1439;;Pseudoprimes and Fermat Numbers;;24
+1440;;Pyramid Nim;;22
+1441;;Pythagorean Primes and Palindromic Continued Fractions;;5(1)
+1442;;Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations II;;15
+1443;;Quadrant Marked Mesh Patterns in <i>132</i>-Avoiding Permutations III;;15
+1444;;Quadrant Marked Mesh Patterns in <i>132</i>-avoiding Permutations III;;15
+1445;;Quadratic Diophantine Equations with Infinitely Many Solutions in Positive Integers;;15
+1446;;Quadratic Forms and Four Partition Functions Modulo <i>3</i>;;11
+1447;;Quadrinomial-Like Versions for Wolstenholme, Morley and Glaisher Congruences;;23
+1448;;Quasiperfect Numbers With the Same Exponent;;19
+1449;;Quasipolynomial Solutions to the Hofstadter Q-Recurrence;;16
+1450;;Quotients of Hurwitz Primes;;21
+1451;;Quotients of Palindromic and Antipalindromic Numbers;;22
+1452;;Rainbow 3-term Arithmetic Progressions;;3
+1453;;Rainbow Numbers for \(x_1+x_2=kx_3\) in \(\mathbb{Z}_n\);;20
+1454;;Rainbow Numbers of \([m]\times [n]\) for \(x_1+x_2 = x_3\);;23
+1455;;Rainbow Numbers of \(\mathbb{Z}_n\) for \(a_1x_1+a_2x_2+a_3x_3 =b\);;20
+1456;;Rainbow Ramsey Theory;;5(2)
+1457;;Ramsey Functions for Generalized Progressions;;15
+1458;;Ramsey Theoretic Consequences of Some New Results About Algebra in the Stone-Cech Compactification;;5(2)
+1459;;Ramsey Type Results on the Solvability of Certain Equation in <i><b>Z<sub>m</sub></b></i>;;13
+1460;;Random <em>B<sub>h</sub></em> Sets and Additive Bases in <b>Z</b><sub>n</sub>;;7
+1461;;Ranges of Unitary Divisor Functions;;18
+1462;;Rates of Convergence for Linear Actions of Cocompact Lattices on the Complex Plane;;11B
+1463;;Rational Ehrhart Theory;;23
+1464;;Raw Moments and Entropy Associated with the Last Part in a Composition;;23
+1465;;Recent Progress in Ramsey Theory on the Integers;;7(2)
+1466;;Reciprocal Power Sums;;12
+1467;;Recounting Determinants for a Class ofHessenberg Matrices;;7
+1468;;Recounting Determinants for a Classof Hessenberg Matrices;;7
+1469;;Recounting the Number of Rises, Levels, and Descents in Finite Set Partitions;;10
+1470;;Recurrence Formulae for Multi-poly-BernoulliNumbers;;7
+1471;;Recurrence Ranks and Moment Sequences;;21A
+1472;;Recurrence Relations for Generalized Laguerre Polynomials;;21
+1473;;Recurrences in Terms of Special Polynomials for Exponential Sums of Elementary Symmetric Polynomials over Finite Fields;;23
+1474;;Recursive Comparison Tests for Dicot and Dead-ending Games Under Mis&egrave;re Play;;21b
+1475;;Recursively Self-Conjugate Partitions;;11A
+1476;;Reducibility of Polynomials Over Algebraic Number Fields;;17
+1477;;Reducing the Erd&#337;s-Moser Equation <i>1<sup>n</sup> + 2<sup>n</sup> + ... + k<sup>n</sup> = (k+1)<sup>n</sup></i> Modulo <i>k</i> and <i>k<sup>2</sup></i>;;11
+1478;;Refinements of Some Partition Inequalities;;16
+1479;;Reformed Permutations in Mousetrap and Its Generalizations;;10
+1480;;Regular Primes, Non-Wieferich Primes, and Finite Multiple Zeta Values of Level <i>N</i>;;24
+1481;;Regularity in the G-Sequences of Octal Games with a Pass;;3
+1482;;Relating Fibonacci Numbers to the Infinitudes of Certain Primes;;23
+1483;;Relation Between Two Weighted Zero-sum Constants;;16
+1484;;Relations Among Fourier Coefficients of Certain Eta Products;;5(1)
+1485;;Relations between Derangement and Factorial Numbers;;22
+1486;;Relator Games on Groups;;21b
+1487;;Relaxed Complete Partitions:  An Error-correcting Bachet's Problem;;18
+1488;;Relaxed Complete Partitions:  An Error-correcting Bachet’s Problem;;18
+1489;;Remarks on Tiny Zero-Sum Sequences;;13
+1490;;Remarks on the P&oacute;lya-Vinogradov Inequality;;11A
+1491;;Repdigits as Sums of Two Fibonacci Numbers and Two Lucas Numbers;;19
+1492;;Repeated Binomial Coefficients and High-Degree Curves;;16
+1493;;Repetitions of Multinomial Coefficients and a Generalization of Singmaster's Conjecture;;21
+1494;;Representation Numbers of Spinor Regular Ternary Quadratic Forms;;21
+1495;;Representation Numbers of Stars;;10
+1496;;Representation of Integers by Ternary Quadratic Forms:  A Geometric Approach;;16
+1497;;Representation of Numbers by Sums of Squares and the Forms of Type <i>x<sub>1</sub><sup>2</sup>+ x<sub>1</sub>x<sub>2</sub>+x<sub>2</sub><sup>2</sup></i>;;17
+1498;;Representation of Real Numbers by the Alternating Cantor Series;;17
+1499;;Representations by Certain Octonary Quadratic Forms With Coefficients 1, 2, 3, and 6;;15
+1500;;Representations by Quaternary Quadratic Forms with Coefficients 1, 2, 7 or 14;;16
+1501;;Representations by Quaternary Quadratic Forms with Coefficients <i>1, 3, 5,</i> or <i>15</i>;;18
+1502;;Representations of Split Graphs, Their Complements, Stars, andHypercubes;;7
+1503;;Representations of Squares by Certain Septenary Quadratic Forms;;13
+1504;;Representations of Squares by Certain Ternary Quadratic Forms;;14
+1505;;Representations of Stirling Numbers of the First Kind by Multiple Integrals;;15
+1506;;Representing Ordinal Numbers with Arithmetically Interesting Sets of Real Numbers;;20a
+1507;;Resolution of Mathar's Conjectures on Counting Power Residues;;23
+1508;;Resolution of the Mixed Sierpi&#324;ski Problem;;8(1)
+1509;;Restricted Integer Partition Functions;;13
+1510;;Restricted Nim with a Pass;;23
+1511;;Restricted Permutations, Fibonacci Numbers, and k-generalized Fibonacci Numbers;;5(1)
+1512;;Restricted Sumsets in Finite Vector Spaces:  The Case p=3;;1
+1513;;Revitalized Automatic Proofs: Demonstrations;;17
+1514;;Richness of Arithmetic Progressions in Commutative Semigroups;;20
+1515;;Robin's Inequality for 11-free Integers;;15
+1516;;Robin's Inequality for 20-free Integers;;21
+1517;;Robin's Inequality for New Families of Integers;;18
+1518;;Robin's Theorem, Primes, and a New Elementary Reformulation of the Riemann Hypothesis;;11
+1519;;Rook Domination on Hexagonal Hexagon Boards;;21A
+1520;;Round Formulas for Exponential Polynomials and the Incomplete Gamma Function;;16
+1521;;Ruehr's Identities with Two Additional Parameters;;16
+1522;;Ruth-Aaron Pairs Containing Riesel or Sierpi&nacute;ski Numbers;;18
+1523;;Schur's Theorem in Integer Lattices;;22
+1524;;Searching for Strange Hypergeometric Identities by Sheer Brute Force;;8(1)
+1525;;Self Generating Sets and Numeration Systems;;ume 9  Supplement
+1526;;Self Generating Sets and Numeration Systems;;ume 9 Supplement
+1527;;Selmer's Multiplicative Algorithm;;11
+1528;;Semigroups with the Erd&#337;s-Tur&aacute;n Property;;7(2)
+1529;;Sequences in Partitions;;22
+1530;;Sequences of Density &zeta;(<i>k</i>) - 1;;10
+1531;;Sequences on Sets of Four Numbers;;16
+1532;;Series of Height One Multiple Zeta Functions;;24
+1533;;Sets of Cardinality 6 Are Not Sum-dominant;;20
+1534;;Sets of Lengths Do Not Characterize Numerical Monoids;;7
+1535;;Sets of Lengths Do Not Characterize NumericalMonoids;;7
+1536;;Sharp Threshold Asymptotics for the Emergence of Additive Bases;;13
+1537;;Shifted Convolution Sums of Arithmetic Functions of Two Variables and Ramanujan Expansions;;21
+1538;;Shifts of the Prime Divisor Function of Alladi and Erd&#337;s;;20
+1539;;Short Effective Intervals Containing Primes;;14
+1540;;Short Proofs of Euler-type Identities for Compositions;;19
+1541;;Shortest Distance in Modular Cubic Polynomials;;17
+1542;;Sierpi&#324;ski Numbers in Imaginary Quadratic Fields;;12A
+1543;;Sierpi&nacute;ski and Riesel Numbers in Narayana's Cow Sequence;;24
+1544;;Significant Digits of Primes in Subsets;;23
+1545;;Simplification of Partizan Games inMis&egrave;re Play;;7
+1546;;Simplification on Dynamic Range of a Generalized  Chinese Remainder Theorem for Multiple Integers;;17
+1547;;Simpson's Paradox in the Farey Sequence;;6
+1548;;Simpson's Paradox in the FareySequence;;6
+1549;;Simultaneous Approximations to &zeta;(2) and &zeta;(4);;18
+1550;;Slow <i>k</i>-Nim;;20
+1551;;Small Sets Satisfying the Central Sets Theorem;;ume 9 Supplement
+1552;;Small Solutions of \(ax_1\cdots x_k + bx_{k+1}\cdots x_{2k} \equiv c \pmod {m}\) under the Lindel&ouml;f Hypothesis;;21
+1553;;Smith Numbers With Extra Digital Features;;14
+1554;;Snaky is a 41-dimensional Winner;;4
+1555;;Solitaire Clobber Playedon Hamming Graphs;;8(1)
+1556;;Solitaire Clobber as an Optimization Problem on Words;;8(1)
+1557;;SolitaireClobber Played on Hamming Graphs;;8(1)
+1558;;Some 2-Adic Conjectures Concerning Polyomino Tilings of Aztec Diamonds;;23
+1559;;Some <i>q</i>-binomial Identities Involving the Generalized <i>q</i>-Fibonacci Numbers;;18
+1560;;Some Applications of Symmetric Functions;;15
+1561;;Some Arithmetic Properties of Overpartition <i>k</i>-Tuples;;9
+1562;;Some Combinatorial Properties of the Leaping Convergents;;7(2)
+1563;;Some Combinatorial Series and Reciprocal Relations Involving Multifold Convolutions;;14
+1564;;Some Congruences for <i>(2,5)</i>-regular Cubic Partition Pairs;;20
+1565;;Some Congruences for <i>(s,t)</i>-regular Bipartitions Modulo <i>t</i>;;21
+1566;;Some Congruences for Balancing and Lucas-Balancing Numbers and Their Applications;;14
+1567;;Some Congruences for Regular Partitions with Distinct Odd Parts;;23
+1568;;Some Diophantine Problems Concerning a Pair of Rational Triangles with a Common Circumradius;;21
+1569;;Some Divisibility Properties of Binomial Coefficients andthe Converse of Wolstenholme's Theorem;;10
+1570;;Some Explicit Formulas for Euler-Genocchi Polynomials;;19
+1571;;Some Fourth Degree Diophantine Equations in Gaussian Integers;;4
+1572;;Some General Results and Open Questions on Palintiple Numbers;;14
+1573;;Some Hardness Results for Question/Answer Games;;7
+1574;;Some Identities Involving Central Binomial Coefficients and Catalan Numbers;;20
+1575;;Some Monoapparitic Fourth Order Linear Divisibility Sequences;;12A
+1576;;Some Nested Sums in Terms of the Riemann Zeta Function and the Dirichlet Beta Function;;21
+1577;;Some New Exact van der Waerden Numbers;;5(2)
+1578;;Some New Examples of Infinite Image Partition Regular Matrices;;19
+1579;;Some New Van der Waerden Numbers and Some Van der Waerden-type Numbers;;9
+1580;;Some Nonlinear Rado Numbers;;18B
+1581;;Some Observations and Solutions to Short and Long Global Nim;;8(1)
+1582;;Some Observations on Khovanskii's Matrix Methods forExtracting  Rootsof Polynomials;;7
+1583;;Some Observations on Khovanskii's Matrix Methodsfor Extracting  Rootsof Polynomials;;7
+1584;;Some Observations on Subset Sum Representations;;6
+1585;;Some Partition Theorems for Infinite and Finite Matrices;;14
+1586;;Some Primality Conditions for <i>N=2 p<sup>n</sup>-1</i>;;22
+1587;;Some Problems in Combinatorial Number Theory, ;;8(2)
+1588;;Some Problems in View of Recent Developments of the Erd&#337;s Ginzburg Ziv Theorem;;7(2)
+1589;;Some Properties of Even Moments of Uniform Random Walks;;16
+1590;;Some Properties of the Euler Quotient Matrix;;6
+1591;;Some Remarks on Harmonic Type Matrices;;22
+1592;;Some Remarks on a Paper of V. A. Liskovets;;11
+1593;;Some Results for Generalized Harmonic Numbers;;9
+1594;;Some Results for Sums of the Inverses of Binomial Coefficients;;5(1)
+1595;;Some Results on Balancing, Cobalancing, <i>(a,b)</i>-Type Balancing, and <i>(a,b)</i>-Type Cobalancing Numbers;;13
+1596;;Some Summation and Transformation Formulas from Inversion Techniques;;22
+1597;;Some Theta Functions Identities Associated with the Modular Equations of Degree 5;;1
+1598;;Some Variations of <i>q</i>-Analogues of Sun and Tauraso's Congruence;;23
+1599;;Some Weighted Sums of Powers of Fibonacci Polynomials;;13
+1600;;Some Weighted Sums of Products of Lucas Sequences;;13
+1601;;Spanning Trees and Domination in Hypercubes;;21A
+1602;;Special Sets of Primes in Function Fields;;14
+1603;;Spotted Tilings and <i>n</i>-Color Compositions;;12B
+1604;;Sprague-Grundy Values of Modular Nim;;19
+1605;;Square Classes and Divisibility Properties of Stern Polynomials;;18
+1606;;Square Roots with Many Good Approximants;;5(3)
+1607;;Square-Full Divisors of Square-Full Integers;;10
+1608;;Squares and Difference Sets in Finite Fields;;13
+1609;;Squares in <i> (1<sup>2</sup>+m<sup>2</sup>)...(n<sup>2</sup>+m<sup>2</sup>)</i>;;9
+1610;;Squares in Lucas Sequences with Rational Roots;;5(3)
+1611;;Stabilization of Coefficients for Partition Polynomials;;13
+1612;;Staircases in <i>Z<sup>2</sup></i>;;10
+1613;;Statistical Distribution of Roots of a Polynomial Modulo Primes;;17
+1614;;Steinhaus Triangles Generated by Vectors of the Canonical Basis;;18
+1615;;Stirling Numbers and the Partition Method for a Power Series Expansion;;23
+1616;;Strict Schur Numbers;;13
+1617;;Strings-and-Coins and Nimstring are PSPACE-complete;;21b
+1618;;Strong Normality and Generalized Copeland--Erd&#337;s Numbers;;16
+1619;;Strongly Image Partition Regular Matrices;;21A
+1620;;Sturm Numbers and Substitution Invariance of3iet Words;;8(1)
+1621;;Sturmian Expansions and Entropy;;11b
+1622;;Sturmian Words and Constant Additive Complexity;;15
+1623;;Sub-Ramsey Numbers for Arithmetic Progressions and Schur Triples;;7(2)
+1624;;Subprime Factorization and the Numbers of Binomial Coefficients Exactly Divided by Powers of a Prime;;11
+1625;;Subsets of Z With Simultaneous Orderings;;10
+1626;;Substitution Invariant Sturmian Words and Binary Trees;;18A
+1627;;Subtraction with a Muller Twist;;8(1)
+1628;;Subword Complexity and Laurent Series;;11b
+1629;;Sum and Mod Sum Graphs of Arithmetic Sets;;22
+1630;;Sum of Two Repdigits a Square;;17
+1631;;Sum-Product Estimates Applied to Waring's Problem Over Finite Fields;;11
+1632;;Sum-Product Inequalities With Perturbation;;11A
+1633;;Sum-Products Estimates with Several Sets and Applications;;12
+1634;;Sum-Products mod <i>m</i> and the Congruence \(ax_1x_2 \cdots x_k + bx_{k+1}x_{k+2}\cdots x_{2k} \equiv c \pmod {m}\);;20
+1635;;Sum-product Estimates Applied toWaring's Problem Mod <i>p</i>;;8(1)
+1636;;Sumbers -- Sums of Ups and Downs;;5(1)
+1637;;Sums and Convolutions of <i>k</i>-bonacci and <i>k</i>-Lucas Numbers;;21
+1638;;Sums and Differences of the Coordinates of Points on Modular Hyperbola;;ume 9 Supplement
+1639;;Sums and Differences of the Coordinates of Points on Modular Hyperbolas;;ume 9 Supplement
+1640;;Sums and Products of Distinct Sets and Distinct Elements in <i>C</i>;;10
+1641;;Sums of &omega;(<i>N</i>) and &Omega;(<i>N</i>) over the <i>K</i>-Free Parts and <i>K</i>-Full Parts of Some Particular Sequences;;22
+1642;;Sums of Consecutive Prime Squares;;22
+1643;;Sums of Cubes over Odd-Index Fibonacci Numbers;;18
+1644;;Sums of Distinct Polynomial Residues;;23
+1645;;Sums of Generalized Harmonic Series;;14
+1646;;Sums of Powers Over Equally Spaced Fibonacci Numbers;;20
+1647;;Sums of Products of Binomial Coefficients Mod 2 and Run Length Transforms of Sequences;;22
+1648;;Sums of Reciprocals of the Central Binomial Coefficients;;6
+1649;;Sums of Three Fibonacci Numbers Close to a Power of 2;;23
+1650;;Sums of the Form 1/x<sub>1</sub><sup>k</sup> + ... + 1/x<sub>n</sub><sup>k</sup> Modulo a Prime;;4
+1651;;Sums over Primes;;21
+1652;;Supercongruences for a Truncated Hypergeometric Series;;12
+1653;;Supersaturation in the Boolean Lattice;;14A
+1654;;Supremum of Representation Functions;;11
+1655;;Sylvester:  Ushering in the Modern Era of Research on Odd Perfect Numbers;;3
+1656;;Symbol-Crunching with the Transfer-Matrix Method in Order to Count Skinny Physical Creatures;;0
+1657;;Symbolic Moment Calculus II: Why is Ramsey Theory Sooooo Eeeenormously Hard?;;7(2)
+1658;;Symmetric (Not Complete Intersection) Numerical Semigroups Generated by Five Elements;;18
+1659;;Symmetric CNS Polynomials;;9
+1660;;Symmetric Numerical Semigroups Generated by Fibonacci and Lucas Triples;;9
+1661;;Symmetric Primes Revisited;;19
+1662;;Symmetric Subsets of Lattice Paths;;0
+1663;;Symmetries in  <i>k</i>-Bonacci Adic Systems;;11b
+1664;;Symmetries in Steinhaus Triangles and in Generalized Pascal Triangles;;11
+1665;;Symmetry in Maximal (<i>s-1,s+1</i>) Cores;;16
+1666;;Systematic Counting of Restricted Partitions;;20
+1667;;Szemer&eacute;di-Trotter Type Results in Arbitrary Finite Fields;;20
+1668;;Tableau Cycling and Catalan Numbers;;7
+1669;;Tail Of A Moebius Sum With Coprimality Conditions;;18
+1670;;Taking the Convoluted Out of Bernoulli Convolutions: A Discrete Approach;;13
+1671;;Taming the Wild in Impartial Combinatorial Games;;5(1)
+1672;;Tangent Power Sums and Their Applications;;14
+1673;;Tennenbaum at Penn and Rochester;;8(2)
+1674;;Ternary  Smirnov Words and Generating Functions;;18
+1675;;Tetrahedron Trinomial Coefficient Transform;;19
+1676;;The  Order of the Fundamental Solution  of \(x^2-Dy^2 =1\) in \(\mathbb{Z}[\sqrt{D}]/\langle D \rangle\);;22
+1677;;The (<i>r<sub>1</sub>,...,r<sub>p</sub></i>)-Stirling Numbers of the Second Kind;;12
+1678;;The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part I;;11
+1679;;The (Exponential) Bipartitional Polynomials and Polynomial Sequences of Trinomial Type: Part II;;11
+1680;;The 2-Adic, Binary and Decimal Periods of <i>1/3<sup>k</sup></i> Approach Full Complexity for Increasing <i>k</i>;;12
+1681;;The 2-adic Order of Some Generalized Fibonacci Numbers;;17
+1682;;The 392 Problem;;12A
+1683;;The 4-Color Cubes Puzzle;;18
+1684;;The <i>(r<sub>1</sub>,...,r<sub>p</sub>)</i>-Bell Polynomials;;14
+1685;;The <i>3x+1</i> Conjugacy Map Over a Sturmian Word;;9
+1686;;The <i>k</i>-Periodic Fibonacci Sequence and an Extended Binet's Formula;;11
+1687;;The <i>n</i>-color Partition Function and Some Counting Theorems;;21
+1688;;The <i>r<sup>th</sup></i> Smallest Part Size of a Random Integer Partition;;14A
+1689;;The Abelian Complexity of Infinite Words and the Frobenius Problem;;21
+1690;;The Adjacency-Pell-Hurwitz Numbers;;18
+1691;;The Akiyama-Tanigawa Algorithm for Carlitz's <em>q</em>-Bernoulli Numbers;;6
+1692;;The Akiyama-Tanigawa Transformation;;5(1)
+1693;;The Area of the Mandelbrot Set and Zagier's Conjecture;;18
+1694;;The Asymptotic Distribution of a Hybrid Arithmetic Function;;15
+1695;;The Average Behavior of a Hybrid Arithmetic Function Involving Hecke Eigenvalues;;23
+1696;;The Average Largest Prime Factor;;13
+1697;;The Bi-periodic Fibonacci-Horadam Matrix;;21
+1698;;The Bidirectional Ballot Polytope;;18
+1699;;The Characteristic Sequence and <i>p</i>-Orderings of the Set of <i>d</i>-th Powers of Integers;;12
+1700;;The Combinatorics of Evenly Spaced Binomial Coefficients;;18
+1701;;The Combinatorics of Frieze Patterns and Markoff Numbers;;20
+1702;;The Continued Fraction Map Composed with  Fractional Linear Maps;;22
+1703;;The Cube of the Fermat Quotient;;6
+1704;;The Denominators of Power Sums of Arithmetic Progressions;;18
+1705;;The Determination of 2-color Zero-sum Generalized Schur Numbers;;18
+1706;;The Dinner Table Problem:  The Rectangular Case;;6
+1707;;The Diophantine Equation <i>F<sub>n</sub><sup>y</sup> + F<sub>n+1</sub><sup>x</sup> = F<sub>m</sub><sup>x</sup></i>;;13
+1708;;The Diophantine Equation <i>X<sup>4</sup>+Y<sup>4</sup>=D<sup>2</sup>Z<sup>4</sup></i> in Quadratic Fields;;12
+1709;;The Diophantine Equation \(\sum_{j=1}^{k}jF_j^p=L_n^q\);;22
+1710;;The Direct and Inverse Theorems on Integer Subsequence Sums Revisited;;16
+1711;;The Distribution of Solutions to <i>xy = N </i> (MOD <i>a</i>) with an Application to Factoring Integers;;13
+1712;;The Distribution of the Generalized Greatest Common Divisor and Visibility of Lattice Points;;20
+1713;;The Distributions of High Moments of Cusp Form Coefficients over Arithmetic Progressions;;23
+1714;;The Divisibility of <i>a<sup>n</sup>-b<sup>n</sup></i> by Powers of <i>n</i>;;10
+1715;;The Dying Rabbit Problem Revisited;;9
+1716;;The Euclidean Algorithm as a Sequence of Modular Inverse Switching Formulas;;24
+1717;;The Euler Series Transformation and the Binomial Identities of Ljunggren, Munarini, and Simons;;10
+1718;;The Factorial Moments of the Generalized Bernoulli-Fibonacci Distribution;;21
+1719;;The Figure of Merit of 2-dimensional Rank 2 Lattice Rules;;5(3)
+1720;;The Finite Heine Transform;;ume 9 Supplement
+1721;;The Finite Heine Transformation and Conjugate Durfee Squares;;9
+1722;;The Finiteness Property for Shift Radix Systems With General Parameters;;19
+1723;;The Fourier Transform of Functions of the Greatest Common Divisor;;8(1)
+1724;;The Fractal Nature of the  Fibonomial Triangle;;14
+1725;;The Frobenius Number of GeometricSequences;;8(1)
+1726;;The Frobenius Problem for Extended Thabit Numerical Semigroups;;21
+1727;;The Gallai-Ramsey Number for a Tree Versus Complete Graphs;;21A
+1728;;The Game of Blocking Pebbles;;21b
+1729;;The Game of Flipping Coins;;21b
+1730;;The Game of Take Turn;;7(2)
+1731;;The General Divisor Problem of Cusp Form Coefficients over Arithmetic Progressions;;24
+1732;;The General gcd-Product Function;;6
+1733;;The Generalized Tribonacci Numbers with Negative Subscripts;;14
+1734;;The Generating Function of the Generalized Fibonacci Sequence;;15
+1735;;The Googol-th Bit of the Erd&#337;s--Borwein Constant;;12
+1736;;The Impossibility of Certain Types of Carmichael Numbers;;12
+1737;;The Independence Number of a Subset of an Abelian Group;;3
+1738;;The Intrinsic Periodic Behaviour of Sequences Related to a Rational Integral;;11
+1739;;The Largest  \( (k, \ell) \)-sum-free Sets in Compact Abelian Groups;;20
+1740;;The Largest Known Wieferich Numbers;;18
+1741;;The Limit Distribution of the Middle Prime Factors of an Integer;;19
+1742;;The Lind-Lehmer Constant for  3-groups;;18
+1743;;The Lind-Lehmer Constant for <i>Z<sub>m</sub> x Z<sup>n</sup></i>;;16
+1744;;The Location of the First Ascent in a 123-Avoiding Permutation;;15
+1745;;The Maximal Cross Number of Unique Factorization Zero-sum Sequences Over A Finite Abelian Group;;12
+1746;;The Mean Value of a Hybrid Arithmetic Function Associated to Fourier Coefficieints of Cusp Forms;;19
+1747;;The Minimal Automaton Recognizing <i>m<b>N</b></i> in a Linear Numeration System;;11b
+1748;;The Minimum Size Required of a Solitaire Army;;7
+1749;;The Mis&egrave;re Monoid of One-Handed Alternating Games;;12B
+1750;;The Mondrian Puzzle: A Bound Concerning the <i>M(n)=0</i> Case;;21
+1751;;The Monotonicity of Some Sequences Related to Hyperharmonic Numbers;;17
+1752;;The Natural Density of Some Sets of Square-free Numbers;;21
+1753;;The Number of Optimal Strategies in the Penney-Ante Game;;21
+1754;;The Number of Parts in the (Distinct) Partitions With Parts From a Set;;21
+1755;;The Number of Permutations with Prescribed Up-Down Structure as a Function of Two Variables;;12
+1756;;The Number of Relatively Prime Subsets and Phi Functions for \{m, m+1, ..., n\};;7
+1757;;The Number of Relatively Prime Subsets of <i>{1, 2, ..., n}</i>;;9
+1758;;The Number of Representations by Sums of Squares and Triangular Numbers;;7
+1759;;The Number of Representations of a Number as Sums of Various Polygonal Numbers;;12
+1760;;The Number of Solutions of <i>&lambda;(x)=n</i>;;11A
+1761;;The Overpartition Function Modulo 128;;8(1)
+1762;;The Periodicity of Nim-Sequences in Two-Element Subtraction Games;;20
+1763;;The Polynomial Profile of Distance Games on Paths and Cycles;;22
+1764;;The Practicality of Shifted Primes;;18
+1765;;The Product of Parts or "Norm" of a Partition;;20a
+1766;;The Quartic Residues Latin Square;;17
+1767;;The Raleigh Game;;7(2)
+1768;;The Ramsey Numbers of Large Cycles versus Small Wheels;;4
+1769;;The Reciprocals of Tails of the Alternating Riemann Zeta Function;;23
+1770;;The Relative Size of Consecutive Odd Denominators in Farey Series;;3
+1771;;The Relative Sizes of Sumsets and Difference Sets;;15
+1772;;The Repetends of Reduced Fractions <i>a/b<sup>k</sup></i> Approach Full Complexity with an Increasing <i>k</i>;;22
+1773;;The Robin Inequality for <i>7</i>-Free Integers;;11
+1774;;The Search for Aurifeuillian-Like Factorizations;;12A
+1775;;The Self-Referential Impartial Game Minnie;;20
+1776;;The Sequential Join of Combinatorial Games;;7
+1777;;The Shortest Game of Chinese Checkers and Related Problems;;9
+1778;;The Sierpi&#324;ski Sieve of Nim-varieties and Binomial Coefficients;;7(2)
+1779;;The Signum Equation for Erd&#337;s-Sur&aacute;nyi Sequences;;15A
+1780;;The Size of the Largest Part of Random Plane Partitions of Large Integers;;6
+1781;;The Smoothed P&oacute;lya--Vinogradov Inequality;;15
+1782;;The Smoothed P&oacute;lya-Vinogradov Inequality;;15
+1783;;The South Caicos Factoring Algorithm;;21
+1784;;The Spectrum of Nim-Values for Achievement Games for Generating Finite Groups;;23
+1785;;The Sprague-Grundy Function for Some Selective Compound Games;;20
+1786;;The Stern-Brocot Continued Fraction;;14
+1787;;The Straight Line Complexity of Small Factorials and Primorials;;15
+1788;;The Structure of Base Phi Expansions;;24
+1789;;The Structure of Distributive Lattice of Games Born by Day n;;5(2)
+1790;;The Structure of Rainbow-free Colorings for Linear Equations on Three Variables in Z<sub><i>p</i></sub>;;15A
+1791;;The Structure of Zeckendorf Expansions;;21
+1792;;The Structure of a Sequence With Prescribed Zero-sum Subsequences;;20
+1793;;The Structure of the Distributive Lattice of Games Born by Day n;;5(2)
+1794;;The Sum of Binomial Coefficients and Integer Factorization;;16
+1795;;The Sum of Digits Function of the Base Phi Expansion of the Natural Numbers;;20
+1796;;The Sum of Digits of Polynomial Values;;15
+1797;;The Three Gap Theorem and Periodic Functions;;22
+1798;;The Triangle Algorithm for Bernoulli Polynomials;;23
+1799;;The Tribonacci Substitution;;5(3)
+1800;;The Umbral Transfer-Matrix Method  V: The Goulden-Jackson Cluster Method for Infinitely Many Mistakes;;2
+1801;;The Union of Two Arithmetic Progressions with the Same Common Difference Is Not Sum-dominant;;20
+1802;;The Unit Structure in a Quotient Ring of a Quadratic Number Field;;19
+1803;;The Valuative Capacities of the Sets of Sums of Two and of Three Squares;;16
+1804;;The \(\{1,s\}\)-Weighted Davenport Constant in \(C_{n}^{k}\);;22
+1805;;The structure of the Distributive Lattice of Games Born by Day n;;5(2)
+1806;;Theory and Practice of Sylver Coinage;;2
+1807;;There Are No Multiply-Perfect Fibonacci Numbers;;11A
+1808;;There Are No Socialist Primes Less Than <i>10<sup>9</sup></i>;;14
+1809;;There Is No Carmichael Number of the Form \(2^n p^2+1\) With \(p\) Prime;;23
+1810;;There Is No Carmichael Number of the Form \(2^n p^2+1\) with \(p\) Prime;;23
+1811;;Theta-Function Identities, Explicit Values for Ramanujan's Continued Fractions of Order Sixteen and Applications to Partition Theory;;23
+1812;;Thick Subsets that Do Not Contain Arithmetic Progressions;;13
+1813;;Thinning Thickets;;18
+1814;;Three Imprimitive Character Sums;;21
+1815;;Three Notes on Ser's and Hasse's Representations for the Zeta-functions;;18A
+1816;;Tight Instances of the Lonely Runner;;6
+1817;;Tiling Proofs of Some Fibonacci-Lucas Relations;;8(1)
+1818;;Tiling Proofs of Some Formulas for the Pell Numbers of Odd Index;;9
+1819;;Tilings Associated with Beta-numeration and Substitutions;;5(3)
+1820;;Tilted Corners in Integer Grids;;21A
+1821;;Total Positivity of Toeplitz Matrices of Hyperlucas Sequence;;20
+1822;;Totienomial Coefficients;;14
+1823;;Trace and Discriminant Criteria for a Matrix to Be a Sum of Sixth and Eighth Powers of Matrices;;22
+1824;;Transcendence of Some Power Series in Function Fields;;23
+1825;;Transfinite Game Values in Infinite Chess;;14
+1826;;Transformations Generating Negative &beta;-Expansions;;11b
+1827;;Transverse Wave: An Impartial Color-propagation Game Inspried by Social Influence and Quantum Nim;;21b
+1828;;Triangular Numbers in Geometric Progression;;7
+1829;;Triangular Numbers in the Jacobsthal Family;;12
+1830;;Triangular Ramsey Numbers;;19
+1831;;Triangulations with Few Ears:  Symmetry Classes and Disjointness;;16
+1832;;Trivial Selmer Groups and Even Partitions of a Graph;;6
+1833;;Tromping Games: Tiling With Trominoes;;11A
+1834;;Truncating Binomial Series with SymbolicSummation;;7
+1835;;Twelfth Power Qualified Residue Difference Sets;;9
+1836;;Twist Untangle and Related Knot Games;;14
+1837;;Two Combinatorial Geometric Problems involving Modular Hyperbolas;;14
+1838;;Two Combinatorial Proofs of Identities Involving Sums of Powers of Binomial Coefficients;;16
+1839;;Two Complementary Relations for the Rogers-Ramanujan Continued Fraction;;22
+1840;;Two Congruence Identities on Ordered Partitions;;18
+1841;;Two Explicit Formulas of the Schr&ouml;der Numbers;;16
+1842;;Two Extensions of Hilbert's Cube Lemma;;21A
+1843;;Two Generalized Constants related to Zero-Sum Problems for Two Special Sets;;7
+1844;;Two Identities for Complex Numbers with Applications to Special Sequences and Functions;;23
+1845;;Two Infinite Families of Elliptic Curves with Rank Greater than One;;22
+1846;;Two New Explicit Formulas for the Bernoulli Numbers;;20
+1847;;Two New Van der Waerden Numbers: <i>w(2;3,17)</i> and <i>w(2;3,18)</i>;;10
+1848;;Two Pairs of Biquadrates with Equal Sums;;23
+1849;;Two Theta Function Identities of Ramanujan and Representation of a Number as a Sum of Three Squares and as a Sum of Three Triangular Numbers;;12
+1850;;Two Trees Enumerating the Positive Rationals;;18A
+1851;;Two Very Short Proofs of a Combinatorial Identity;;5(1)
+1852;;Two q-identities from the Theory of Fountains and Histograms Proved with a Tri-Diagonal Determinant;;5(1)
+1853;;Two-Color Babylon;;12
+1854;;Two-Dimensional, Three-Dimensional and <i>n</i>-Dimensional Recurrence Relations of Jacobsthal;;22
+1855;;Ulam Sequences and Ulam Sets;;18
+1856;;Ulam Sets in New Settings;;20
+1857;;Unavoidable Sets of a Certain Size in a Finite Set;;5(2)
+1858;;Unbounded Discrepancy in Frobenius Numbers;;11
+1859;;Unchained <i>r</i>-sequences and a Generalized Cassini Formula;;15
+1860;;Under What Conditions on the Exponents Does \(x^{m} + y^{n}  = z^{r}\) Have Solutions?;;24
+1861;;Understanding Ergodicity;;11b
+1862;;Une Forme Effective d'un Th&eacute;or&egrave;me de Bateman sur la Fonction Phi d'Euler;;9
+1863;;Unfair Distributions Counted by the Generalized Stirling Numbers;;22
+1864;;Uniqueness for Sums of Nonvanishing Squares;;20
+1865;;Uniqueness of Optimal Point Sets Determining Two Distinct Triangles;;21
+1866;;Unitary Cyclotomic Polynomials;;20
+1867;;Units from Square-Roots of Rational Numbers;;23
+1868;;Universal Expansions in Negative and Complex Bases;;10
+1869;;Universal Juggling Cycles;;7(2)
+1870;;Universal Sets and the Vector Game;;8(1)
+1871;;Upper Bounds for <i>B<sub>h</sub>[g]</i>-sets With Small <i>h</i>;;16
+1872;;Upper Bounds for the Davenport Constant;;7(2)
+1873;;Upper and Lower Bounds for a Function Related to Brown's Lemma;;10
+1874;;Upper and Lower Bounds on <i>B<sub>k</sub><sup>+</sup></i>-Sets;;14
+1875;;Valuations and Combinatorics of Truncated Exponential Sums;;13
+1876;;Values of Weighted Davenport Constants;;21
+1877;;Values of the Euler and Carmichael Functions Which Are Sums of Three Squares;;11
+1878;;Van der Waerden's Theorem and Avoidability in Words;;11
+1879;;Van der Waerden's Theorem on Homothetic Copies of <i>{1,1+s, 1+s+t}</i>;;12
+1880;;Varga's Theorem in Number Fields;;18
+1881;;Variants of Bulgarian Solitaire;;16
+1882;;Variations of the Poincar&eacute; Map;;11
+1883;;Variations on Narrow Dots-and-Boxes and Dots-and-Triangles;;17
+1884;;Variations on a Theme of Euclid;;5(1)
+1885;;Variations on an Error-sum Function for the Convergents of Some Powers of <i>e</i>;;16
+1886;;Vertex Deletion Games with Parity Rules;;5(2)
+1887;;Volume as a Measure of Approximation for the Jacobi-Perron Algorithm;;10
+1888;;WZ Proofs for Lemniscate-like Constant Evaluations;;21
+1889;;Walking to Infinity Along Gaussian Lines;;21
+1890;;Wang-Sun Formula in \(\overrightarrow{GL}(\mathbb{Z}/2k\mathbb{Z})\);;23
+1891;;Waring's Number in a Finite Field;;9
+1892;;Weakened Ramsey Numbers and Their Hypergraph Analogues;;17
+1893;;Weakly Holomorphic Modular Forms in Prime Power Levels of Genus Zero;;18
+1894;;Weighted Free Lattice Paths and Legendre Polynomials;;22
+1895;;Weighted Lonesum Matrices and Their Generating Function;;13
+1896;;Weighted Partitions and Generalized <i>r</i>-Lah Numbers;;21
+1897;;When Almost All Sets Are Difference Dominated in <i>Z/nZ</i>;;17
+1898;;When are Translations of <i>P</i>-positions of Wythoff's Game <i>P</i>-positions?;;15A
+1899;;When the Small Divisors of a Natural Number Are in Arithmetic Progression;;18
+1900;;Will the Real Hardy--Ramanujan Formula Please Stand Up?;;21
+1901;;Winning Paths in N-by-Infinity Hex;;7
+1902;;Witten Volume Formulas for Semi-Simple Lie Algebras;;11A
+1903;;Zero Sums in Finite Cyclic Groups;;0
+1904;;Zero-sum Balanced Binary Sequences;;7(2)
+1905;;Zero-sum-free Tuples and Hyperplane Arrangements;;22
+1906;;\(p\)-Adic Valuation of \(\prod_{k=m+1}^{n} (k^2-m^2)\);;23
+1907;;yValues of Weighted Davenport Constants;;21
