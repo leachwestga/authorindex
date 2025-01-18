@@ -1993,3 +1993,8 @@
 1994;;Olympic Games: Three Impartial Games with Infinite Octal Codes;;24
 1995;;Cycle Games on Graphs;;24
 1996;;Maximum Nim and the Josephus Problem;;24
+1997;;Rearranging Small Sets for Distinct Partial Sums;;24
+1998;;Improved Upper Bounds for Odd Perfect Numbers -- Part I;;24
+1999;;On the Recurrence Formula for Fixed Points of the Josephus Function;;24
+2000;;Subset and Subsequence Sums with Bounded Numbers of Terms;;24
+2001;;A Note on Sylvester's Sequence;;24

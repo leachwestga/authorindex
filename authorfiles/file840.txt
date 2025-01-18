@@ -1,5 +1,0 @@
-
-<li> Jones, Edna 
-<ul>
-<li> (with William Linz) <i>r</i>-Completeness of Sequences of Positive Integers, <a href="vol16.html">Vol 16</a>
-
