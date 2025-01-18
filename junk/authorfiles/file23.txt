@@ -1,5 +1,0 @@
-
-<li> Akula, Aditya
-<ul>
-<li> (with Ghaith Hiary) New Formulas for the Riemann Zeta Function, <a href="vol23.html">Vol 23</a>
-

@@ -1,6 +1,0 @@
-
-<li> Gianella, Gian Mario 
-<ul>
-<li> (with &#268;erin, Zvonko) On Sums of Squares of Pell-Lucas Numbers,
-<a href="vol6.html">Vol 6</a>
-

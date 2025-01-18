@@ -1,5 +1,0 @@
-
-<li> Lelis, Jean
-<ul>
-<li> (with G&eacute;rsica Freitas and Elaine Silva) A Jacobi Symbol Criterion Involving <i>k</i>-Fibonacci and <i>k</i>-Lucas numbers and Integer Points on Elliptic Curves, <a href="vol23.html">Vol 23</a>
-

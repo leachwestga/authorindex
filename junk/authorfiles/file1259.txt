@@ -1,5 +1,0 @@
-
-<li> Mori, Katsuya
-<ul>
-<li> On a Certain Inverse Problem for Carousel Numbers, <a href="vol20.html">Vol 20</a>
-

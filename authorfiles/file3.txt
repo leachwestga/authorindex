@@ -1,5 +1,0 @@
-
-<li> Abrate, Marco
-<ul>
-<li> (with Stefano Barbero, Umberto Cerruti, and Nadir Murru) Polynomial Sequences on Quadratic Curves, <a href="vol15.html">Vol 15</a>
-

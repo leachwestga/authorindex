@@ -1,5 +1,0 @@
-
-<li> Rezig, Boualam
-<ul>
-<li> (with Moussa Ahmia) Total Positivity of Toeplitz Matrices of Hyperlucas Sequence, <a href="vol20.html">Vol 20</a>
-

@@ -1,5 +1,0 @@
-
-<li> Rafilipojaona, Fanasina
-<ul>
-<li> Lower Bounds on the Weak Schur Numbers Up to 9 Colors, <a href="vol17.html">Vol 17</a>
-

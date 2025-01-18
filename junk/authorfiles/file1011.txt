@@ -1,5 +1,0 @@
-
-<li> Lapointe, M&eacute;lodie
-<ul>
-<li> (with Christophe Reutenauer) On the Frobenius Conjecture, <a href="vol21.html">Vol 21</a>
-

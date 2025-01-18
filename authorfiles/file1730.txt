@@ -1,6 +1,0 @@
-
-<li> Specker, Ernst
-<ul>
-<li> (with Norbert Hungerbuhler) A Generalization of the Smarandache Function
-to Several Variables, <a href="vol6.html">Vol 6</a>
-

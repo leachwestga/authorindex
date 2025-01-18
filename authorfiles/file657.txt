@@ -1,5 +1,0 @@
-
-<li> Girgensohn, Roland
-<ul>
-<li> Digital Sums and Functional Equations, <a href="vol11.html">Vol 11</a>
-

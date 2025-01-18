@@ -1,5 +1,0 @@
-
-<li> Hu, Yining
-<ul>
-<li> Implicit Function Theorem for Formal Power Series, <a href="vol18a.html">Vol 18A</a>
-

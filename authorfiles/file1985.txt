@@ -1,5 +1,0 @@
-
-<li> Wiechert, Veit
-<ul>
-<li> (with Steven Chaplick, Piotr Micek, and Torsten Ueckerdt) A Note on Concurrent Graph Sharing Games, <a href="vol16.html">Vol 16</a>
-

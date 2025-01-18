@@ -1,5 +1,0 @@
-
-<li> Chabert, Jean-Luc 
-<ul>
-<li> (with David Adam and Youssef Fares) Subsets of Z With Simultaneous Orderings, <a href="vol10.html">Vol 10</a>
-

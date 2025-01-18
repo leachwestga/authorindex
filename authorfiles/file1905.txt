@@ -1,5 +1,0 @@
-
-<li> Verbitsky, Oleg
-<ul>
-<li> Symmetric Subsets of Lattice Paths, <a href="vol0.html">Vol 0</a>
-

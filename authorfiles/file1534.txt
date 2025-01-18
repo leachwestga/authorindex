@@ -1,5 +1,0 @@
-
-<li> Rivera, Luis Manuel
-<ul>
-<li> Integer Sequences and <i>k</i>-commuting Permutations, <a href="vol15.html">Vol 15</a>
-

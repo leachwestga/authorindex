@@ -1,5 +1,0 @@
-
-<li> Chaney, Zachary
-<ul>
-<li> (with Jed Menard, Connor Mattes, and Timothy Trujillo) Triangular Ramsey Numbers, <a href="vol19.html">Vol 19</a>
-

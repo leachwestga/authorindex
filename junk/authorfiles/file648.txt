@@ -1,5 +1,0 @@
-
-<li> Gibson, D. Jason
-<ul>
-<li> A Density Chinese Remainder Theorem, <a href="vol14.html">Vol 14</a>
-

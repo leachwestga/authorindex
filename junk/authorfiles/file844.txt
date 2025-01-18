@@ -1,5 +1,0 @@
-
-<li> Jouhet, Fr&eacute;d&eacute;ric
-<ul>
-<li> (with Philippe Nadeau) Long Fully Commutative Elements in Affine Coxeter Groups, <a href="vol15.html">Vol 15</a>
-

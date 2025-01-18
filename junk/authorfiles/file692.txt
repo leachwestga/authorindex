@@ -1,5 +1,0 @@
-
-<li> Grinberg, Darij
-<ul>
-<li> On Binomial Coefficients Modulo Squares of Primes, <a href="vol19.html">Vol 19</a>
-

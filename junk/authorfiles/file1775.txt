@@ -1,5 +1,0 @@
-
-<li> Strimling, Pontus
-<ul>
-<li> (with Hillevi Gavel) Nim with a Modular Muller Twist, <a href="vol4.html">Vol 4</a>
-

@@ -1,6 +1,0 @@
-
-
-<li> Choi, Yunseo
-<ul>
-<li> Congruences For Fractional Partition Functions, <a href="vol21.html">Vol 21</a>
-

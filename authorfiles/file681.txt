@@ -1,5 +1,0 @@
-
-<li> Gotou, Rin
-<ul>
-<li> Arithmetic Convergence of Double-Iterated Polynomials, <a href="vol22.html">Vol 22</a>
-

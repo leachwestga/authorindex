@@ -1,6 +1,0 @@
-
-<li> Chang, Mei-Chu
-<ul>
-<li> Some Problems in Combinatorial Number Theory, 
-<a href="vol8-2.html">Vol 8(2)</a>
-

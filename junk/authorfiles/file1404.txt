@@ -1,5 +1,0 @@
-
-<li> Pejkovi&cacute;, Tomislav 
-<ul>
-<li> (with Yann Bugeaud) Explicit Examples of <i>p</i>-adic Numbers With Prescribed Irrationality Exponent, <a href="vol18a.html">Vol 18A</a>
-

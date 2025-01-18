@@ -1,5 +1,0 @@
-
-<li> Tseng, Dennis
-<ul>
-<li> Generalized Nonaveraging Integer Sequences, <a href="vol11.html">Vol 11</a>
-

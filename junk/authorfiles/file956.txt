@@ -1,5 +1,0 @@
-
-<li> Kops, J. Christopher
-<ul>
-<li> Selmer's Multiplicative Algorithm, <a href="vol11.html">Vol 11</a>
-

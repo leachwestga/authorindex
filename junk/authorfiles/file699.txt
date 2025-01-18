@@ -1,5 +1,0 @@
-
-<li> Gugg, Chadwick
-<ul>
-<li> (with Andrew Ledoan) On the Theorem of N. P. Romanoff, <a href="vol20.html">Vol 20</a>
-

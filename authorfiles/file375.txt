@@ -1,5 +1,0 @@
-
-<li> Courtright, Kevin M.
-<ul>
-<li> (with James A. Sellers) Arithmetic Properties for Hyper m-ary Partition Functions, <a href="vol4.html">Vol 4</a>
-

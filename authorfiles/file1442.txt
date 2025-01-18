@@ -1,5 +1,0 @@
-
-<li> Pleasant, Kendra 
-<ul>
-<li> (with Neil Hindman) Preserving Integer Images of Matrices, <a href="vol18b.html">Vol 18B</a>
-

@@ -1,5 +1,0 @@
-
-<li> Nienborg, Hauke 
-<ul>
-<li> (with Heiko Harborth) Rook Domination on Hexagonal Hexagon Boards, <a href="vol21A.html">Vol 21A</a>
-

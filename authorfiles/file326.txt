@@ -1,5 +1,0 @@
-
-<li> Chipeniuk, Karsten
-<ul>
-<li> Sums and Products of Distinct Sets and Distinct Elements in <i>C</i>, <a href="vol10.html">Vol 10</a>
-

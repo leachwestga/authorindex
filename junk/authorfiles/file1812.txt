@@ -1,5 +1,0 @@
-
-<li> Tan, Xin Lu
-<ul>
-<li> (with Mark Daniel Ward) On Kotzig's Nim, <a href="vol14.html">Vol 14</a>
-

@@ -1,5 +1,0 @@
-
-<li> Knopfmacher, A.
-<ul>
-<li> (with M. E. Mays) Graph Compositions I:  Basic Enumeration, <a href="vol1.html">Vol 1</a>
-

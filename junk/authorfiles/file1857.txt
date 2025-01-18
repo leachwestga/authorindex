@@ -1,5 +1,0 @@
-
-<li> Tongsomporn, Janyarak
-<ul>
-<li> (with Saeree Wananiyakul and J&ouml;rn Steuding) Sums of Consecutive Prime Squares, <a href="vol22.html">Vol 22</a>
-

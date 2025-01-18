@@ -1,5 +1,0 @@
-
-<li> Vyncke, Pieter 
-<ul>
-<li> (with Sean Bibby and Joshua Zelinsky) On the Third Largest Prime Divisor of an Odd Perfect Number, <a href="vol21.html">Vol 21</a>
-

@@ -1,5 +1,0 @@
-
-<li> Wright, Thomas
-<ul>
-<li> The Impossibility of Certain Types of Carmichael Numbers, <a href="vol12.html">Vol 12</a>
-

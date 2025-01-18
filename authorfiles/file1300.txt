@@ -1,5 +1,0 @@
-
-<li> Nedela, Roman
-<ul>
-<li> (with Carl Pomerance) Density of Singular Pairs of Integers, <a href="vol18.html">Vol 18</a>
-

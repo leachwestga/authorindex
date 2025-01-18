@@ -1,5 +1,0 @@
-
-<li> Hayward, Ryan B. 
-<ul>
-<li> (with Philip Henderson) Captured-Reversible Moves and Star Decomposition Domination in Hex, <a href="vol13.html">Vol 13</a>
-

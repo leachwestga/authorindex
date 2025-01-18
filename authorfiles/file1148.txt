@@ -1,5 +1,0 @@
-
-<li> Maresch, Gabriel
-<ul>
-<li> Filters and Subgroups Associated with Hartman Measurable Functions, <a href="vol5-3.html">Vol 5(3)</a>
-

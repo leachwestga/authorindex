@@ -1,5 +1,0 @@
-
-<li> Levy, Karl
-<ul>
-<li> Lower and Upper Bounds On Irregularities of Distribution, <a href="vol20.html">Vol 20</a>
-

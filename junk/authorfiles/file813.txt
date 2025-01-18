@@ -1,5 +1,0 @@
-
-<li> Isaacson, Brad
-<ul>
-<li> Three Imprimitive Character Sums, <a href="vol21.html">Vol 21</a>
-

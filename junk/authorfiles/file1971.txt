@@ -1,5 +1,0 @@
-
-<li> Weba, Michael
-<ul>
-<li> Finite Representations of the Summatory Divisor Function and Ramanujan’s  &tau;-Function, <a href="vol17.html">Vol 17</a>
-

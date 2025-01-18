@@ -1,6 +1,0 @@
-
-<li> Pluh&aacute;r, Andr&aacute;s
-<ul>
-<li> (with Andr&aacute;s Csernenszky and Ryan R. Martin) On the Complexity of
-Chooser-Picker Positional Games, <a href="vol11.html">Vol 11</a>
-

@@ -1,5 +1,0 @@
-
-<li> Sukruan, Lalitphat
-<ul>
-<li> (with Kantaphon Kuhapatanakul) The Generalized Tribonacci Numbers with Negative Subscripts, <a href="vol14.html">Vol 14</a>
-

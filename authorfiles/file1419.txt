@@ -1,5 +1,0 @@
-
-<li> Pham, Nhung
-<ul>
-<li> Limiting Behavior in Growth of Bulgarian Solitaire Orbits, <a href="vol23.html">Vol 23</a>
-

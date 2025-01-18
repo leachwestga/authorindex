@@ -1,5 +1,0 @@
-
-<li> Mayers, Nicholas W.
-<ul>
-<li> Periodicity and the Index of Integer Partitions, <a href="vol23.html">Vol 23</a>
-

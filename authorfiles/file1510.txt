@@ -1,5 +1,0 @@
-
-<li> Reiter, Harold
-<ul>
-<li> (with Arthur Holshouser and James Rudzinski) Pilesize Dynamic One-pile Nim and Beatty's Theorem, <a href="vol4.html">Vol 4</a>
-

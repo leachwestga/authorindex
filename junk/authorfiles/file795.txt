@@ -1,5 +1,0 @@
-
-<li> Humby, George
-<ul>
-<li> An Alternative Proof of Melham's Identities, <a href="vol19.html">Vol 19</a>
-

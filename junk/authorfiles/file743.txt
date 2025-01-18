@@ -1,5 +1,0 @@
-
-<li> Hennecart, Fran&ccedil;ois 
-<ul>
-<li> (with Norbert Hegyv&aacute;ri) Note on a Result of Chung on Weil Type Sums, <a href="vol15.html">Vol 15</a>
-

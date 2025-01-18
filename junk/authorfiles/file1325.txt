@@ -1,5 +1,0 @@
-
-<li> Nuida, Koji
-<ul>
-<li> Pattern Occurrence in the Dyadic Expansion of Square Root of Two and an Analysis of Pseudorandom Number Generators, <a href="vol10.html">Vol 10</a>
-

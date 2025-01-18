@@ -1,5 +1,0 @@
-
-<li> Rehmert, Jonathan 
-<ul>
-<li> (with Brandt Kronholm) A Generalization of Congruence Properties for a Restricted Partition Function, <a href="vol18.html">Vol 18</a>
-

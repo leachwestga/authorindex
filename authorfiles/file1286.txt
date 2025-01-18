@@ -1,5 +1,0 @@
-
-<li> Nakano, Fumihiko
-<ul>
-<li> (with Taizo Sadahiro) A &beta;-Expansion Associated to Sturmian Sequences, <a href="vol12.html">Vol 12</a>
-

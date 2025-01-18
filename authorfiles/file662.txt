@@ -1,5 +1,0 @@
-
-<li> Glenn, Jeske
-<ul>
-<li> (with Christopher O'Neill, Vadim Ponomarenko, and Benjamin Sepanski) Augmented Hilbert Series of Numerical Semigroups, <a href="vol19.html">Vol 19</a>
-

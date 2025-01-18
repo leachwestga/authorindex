@@ -1,5 +1,0 @@
-
-<li> Stanton, Caitlin
-<ul>
-<li> Packing Polynomials on Sectors of R<sup>2</sup>, <a href="vol14.html">Vol 14</a>
-

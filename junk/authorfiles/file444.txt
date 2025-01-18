@@ -1,5 +1,0 @@
-
-<li> Di Biagio, Lorenzo
-<ul>
-<li> Euler Pseudoprimes for Half of the Bases, <a href="vol12a.html">Vol 12A</a>
-

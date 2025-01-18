@@ -1,5 +1,0 @@
-
-<li> Larson, Matt
-<ul>
-<li> Power Maps in Finite Groups, <a href="vol19.html">Vol 19</a>
-

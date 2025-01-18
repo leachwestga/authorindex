@@ -1,5 +1,0 @@
-
-<li> Shonhiwa, Temba
-<ul>
-<li> On Relatively Prime Sets Counting Functions, <a href="vol10.html">Vol 10</a>
-

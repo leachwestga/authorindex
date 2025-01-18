@@ -1,5 +1,0 @@
-
-<li> Garc&iacute;a, Victor Cuauhtemoc
-<ul>
-<li> Distribution and Additive Properties of Sequences With Terms Involving Sumsets in Prime Fields, <a href="vol12.html">Vol 12</a>
-

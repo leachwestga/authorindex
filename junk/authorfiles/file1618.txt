@@ -1,5 +1,0 @@
-
-<li> Schumacher, Paul R. F.
-<ul>
-<li> Left Weighted Catalan Extension, <a href="vol10.html">Vol 10</a>
-
