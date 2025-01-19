@@ -98,7 +98,7 @@ authornames = list(set(authornames))
 print("AUTHORNAMES")
 print(authornames)
 print("++++++++++++++++++++++++++++++++++")
-print("++++++++++++++++++++++++++++++++++")
+print("+                                +")
 print("++++++++++++++++++++++++++++++++++")
 newAuthors = []
 nextAuthorID = max(existingAuthors.keys())+1
@@ -108,8 +108,10 @@ for i in authornames:
     theirIDNumber = 0;
     try:
         theirIDNumber=list(existingAuthors.keys())[list(existingAuthors.values()).index(i)]
+        print("found " + i)
     except:
         newAuthors.append(Author(nextAuthorID,i))
+        print("new: ", i)
         nextAuthorID = nextAuthorID + 1;
 
 

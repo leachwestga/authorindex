@@ -47,31 +47,34 @@ ijpage = f.read()
 f.close
 
 # split the html into the articles
-articles = ijpage.split("<li class=fragment>")
-volumeNumber = articles.pop(0) #remove the first element b/c it's not an article, but extract the volume number from ie
+#articles = ijpage.split("<li class=fragment>")
+articles = ijpage.split("<!-- ArticleSectionStart //-->")
+volumeNumber = articles.pop(0) #remove the first element b/c it's not an article, but extract the volume number from it
 volumeNumber = volumeNumber.replace('\n',' ')
 volumeNumber = re.sub(r".*Volume\s*", "", volumeNumber)
 volumeNumber = re.sub(r"\s.*", "", volumeNumber)
 #volumeNumber = int(volumeNumber)
 
 
-
+print("Scanning " + volumeNumber)
 
 # extract the titles
 newtitles = []
 for i in range(len(articles)):
-    articles[i] = re.sub("errata.pdf.*</ul>","",articles[i].replace('\n',' '))
-    articles[i] = re.sub("addendum.pdf.*</ul>","",articles[i].replace('\n',' '))
-    articles[i] = re.sub(".*blank>","",articles[i].replace('\n',' '))
+    articles[i] = re.sub(".*<!-- ArticleTitleStart //-->","",articles[i].replace('\n',' '))
+    articles[i] = re.sub("<!-- ArticleTitleEnd //-->.*","",articles[i].replace('\n',' '))
     newtitles.append(articles[i])
-    newtitles[i] = re.sub("</a>.*","",newtitles[i]).strip()
+    newtitles[i] = newtitles[i].strip()
 
-# Read in the paperlist
+    print("-------------------------\n Article Found:\n")
+    print(newtitles[i])
+
+# Read in the list of titles of papers already in the journal
 existingPapers={}
 f3 = open('uniquepaperlist.txt','r')
 for line in f3:
     b = line.split(";;")
-    print(b)
+#    print(b)
     existingPapers[int(b[0])]=Paper(b[0],b[1],b[2].strip());
 f3.close()
 
@@ -94,7 +97,7 @@ for i in newtitles:
         nextPaperID = nextPaperID + 1;
 
 
-for i in range(prevmax,nextPaperID):
+for i in range(prevmax+1,nextPaperID):
     print(existingPapers[i].todelimitedstring())
 
 f=open("newpapers.txt", "w")
