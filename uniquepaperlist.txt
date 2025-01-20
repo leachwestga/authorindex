@@ -1997,7 +1997,8 @@
 1998;;Improved Upper Bounds for Odd Perfect Numbers -- Part I;;24
 1999;;On the Recurrence Formula for Fixed Points of the Josephus Function;;24
 2000;;Subset and Subsequence Sums with Bounded Numbers of Terms;;24
-2001;;A Note on Sylvester's Sequence;;242002;;Generalization of a Theorem of V&eacute;lez on Uniform Distribution in Second-Order Linear Recurrences;;25
+2001;;A Note on Sylvester's Sequence;;24
+2002;;Generalization of a Theorem of V&eacute;lez on Uniform Distribution in Second-Order Linear Recurrences;;25
 2003;;Local to Global Principle for Higher Moments over Function Fields;;25
 2004;;Arithmetic Density of Certain \(\ell\)-Regular Overpartitions;;25
 2005;;Abundance of Arithmetic Progressions in CR-Sets;;25

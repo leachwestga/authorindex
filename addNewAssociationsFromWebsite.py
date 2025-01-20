@@ -89,54 +89,50 @@ ijpage = f.read()
 f.close
 
 # split the html into the articles
-articles = ijpage.split("<li class=fragment>")
+articles = ijpage.split("<!-- ArticleSectionStart //-->")
 articles.pop(0) #remove the first element because it's header information, not an article
 
-# extract the titles
+# extract the title from each article. Store them in array newtitles[]
+
 newtitles = []
+authorsOfArticle = []
 for i in range(len(articles)):
-   articles[i] = re.sub("errata.pdf.*</ul>","",articles[i].replace('\n',' '))
-   articles[i] = re.sub("addendum.pdf.*</ul>","",articles[i].replace('\n',' '))
-   articles[i] = re.sub(".*blank>","",articles[i].replace('\n',' '))
-   newtitles.append(articles[i])
-   
-   newtitles[i] = re.sub("</a>.*","",newtitles[i]).strip()
+    tmp = articles[i]
+    tmp = re.sub(".*<!-- ArticleTitleStart //-->","",tmp.replace('\n',' '))
+    tmp = re.sub("<!-- ArticleTitleEnd //-->.*","",tmp.replace('\n',' '))
+    newtitles.append(tmp)
+    newtitles[i] = newtitles[i].strip()
+    print("Z-> ", end = "")
+    print(newtitles[i])
+
 
 
 # extract the author names
-newnames = []
-for i in range(len(articles)):
-    articles[i] = re.sub(".*</a> </b>\s*<ul><li> ","",articles[i].replace('\n',' '))
-    newnames.append(articles[i])
-    newnames[i] = re.sub("<ul>.*","",newnames[i]).strip()
+    tmplist = articles[i].split("<!-- AuthorNameStart //-->")
+    tmplist.pop(0) # remove first element b/c it's not a name
+    for i in range(len(tmplist)):
+        tmplist[i] = re.sub("<!-- AuthorNameEnd //-->.*","",tmplist[i].replace('\n',' '))
+        tmplist[i] = re.sub(r",\s*$","",tmplist[i])
+        print("A-> ", end = "")
+        print(tmplist[i])
+    authorsOfArticle.append(tmplist)
 
-# Split the newnames string into a list of author strings
-for i in range(len(newnames)):
-    tmplist = []
-    words = newnames[i].split(',')
 
-    j=0;
-    while j < len(words):
-        words[j]=words[j].strip()
-        # print(j, end="")
-        if j>0 and re.match("Jr.*|Sr.*", words[j]):
-            # print("FOUND:  ", end="")
-##            print(words)
-            words[j-1] = words[j-1] + " " + words[j]
-            words.pop(j)
-        j=j+1
-    
-    for j in words:
-        j = j.strip()
-        j = re.sub("^and ","",j)    
-        if re.search(" and ",j):
-            h = j.split(" and ")
-            tmplist.append(h[0])
-            tmplist.append(h[1])
-        else:
-            tmplist.append(j)
-    newnames[i]=tmplist
+for i in range(len(authorsOfArticle)):
+    print("B-> ", end = "")
+    print(newtitles[i])
+    print("C-> ", end = "")
+    print(authorsOfArticle[i])
 
+
+print("===========================")
+print("===========================")
+print("===========================")
+print("===========================")
+print("===========================")
+
+
+#load in the list of papers (maybe change this to use newpapers.txt instead of uniquepaperlist.txt)
 existingPapers={}
 f3 = open('uniquepaperlist.txt','r')
 for line in f3:
@@ -158,11 +154,12 @@ for i in newtitles:
         print("--> not found")
 
 newassociations = []
-for i in range(len(newnames)):
-        for j in newnames[i]:
+for i in range(len(authorsOfArticle)):
+        for j in authorsOfArticle[i]:
             try:
                 theirIDNumber=list(existingAuthors.keys())[list(existingAuthors.values()).index(lastnamefirst(j))]
 #                print ("-->" + str(theirIDNumber))
+                print("D-> ",end="")
                 print(newtitles[i][:50], theirIDNumber, IDnums[i])
                 newassociations.append([theirIDNumber, IDnums[i]])
             except:
