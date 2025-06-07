@@ -1,5 +1,6 @@
 from unidecode import unidecode
 import html
+import re
 from html.parser import HTMLParser
 
 
@@ -60,7 +61,7 @@ def getPapersByAuthor(author):
     for i in associations:
         if (i.authorID == author):
             plist.append(i.paperID)
-    
+    plist.sort()
     return plist
 
 def getAuthorsOfPaper(paper):
@@ -87,26 +88,18 @@ def authorpapers(aID):
 
 
 
+def numberfy(input):
+    if (type(input)!=int):
+        input=re.sub("[a-z]","",input)
+        input=re.sub("[A-Z]","",input)
+        input=re.sub(r"\(.*\)","",input)
+        input=re.sub(r";*","",input)
+        input=int(input)
+    return input;
 
+def getvolfrompaperid(x):
+    return numberfy(papers[x].volume)
 
-def generateAuthorEntry(author):
-    entry = ""
-    entry += authors[author]
-    entry += "\n"
-    p = getPapersByAuthor(author)
-    for pap in p:
-        entry += "   " + papers[pap].title
-        entry += ", Vol " + papers[pap].volume
-        coau = getCoauthors(pap,author)
-        if len(coau) > 0:
-            entry += " (with "
-            for i in coau:
-                entry += firstnamefirst(authors[i]) + ", "
-            entry = entry[:-2]
-            entry +=")"
-            
-        entry +="\n"
-    return entry
 
 def generateWebAuthorEntry(author):
     entry = "<a name='"
@@ -116,6 +109,7 @@ def generateWebAuthorEntry(author):
     entry += authors[author]
     entry += "\n <ul>"
     p = getPapersByAuthor(author)
+    p.sort(key=getvolfrompaperid)
     for pap in p:
         entry += "<li>" + papers[pap].title
         entry += '<a href="vol'
