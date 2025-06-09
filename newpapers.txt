@@ -33,4 +33,14 @@
 2041;;Locally Integer Polynomial Functions;;25
 2042;;Shifting Lucas Sequences Away from Primes;;25
 2043;;Connecting Ramanujan's Theta Functions, the Rogers-Ramanujan Continued Fraction, and the Golden Ratio;;25
-2044;;The Penults of Tak: Adventures in Impartial, Normal-Play, Positional Games;;25
+2044;;On Smooth Gaps between Primes Using the Maynard-Tao Sieve;;25
+2045;;Inequalities for Inclusion-Exclusion-Like Sums Involving the Ceiling and the Nearest Integer Functions;;25
+2046;;Rational Numbers with Two-Term Odd Greedy Expansion;;25
+2047;;Raney Transducers and the Lowest Point of the <i>n</i>-Lagrange Spectrum;;25
+2048;;Explicit Estimates for Incomplete Exponential Sums;;25
+2049;;Probabilistic Proofs of Pascal’s Recursion Formulas for Sums of Powers;;25
+2050;;A Short Simple Probabilistic Proof of a Well Known Identity and the Derivation of Related New Identities Involving the Bernoulli Numbers and the Euler Numbers;;25
+2051;;On a Conjecture of Ram&iacute;rez Alfons&iacute;n and Ska&lstrok;ba, III;;25
+2052;;A Dilogarithm Series and a Generalization of a Theorem of Bridgeman;;25
+2053;;The Penults of Tak: Adventures in Impartial, Normal-Play, Positional Games;;25
+2054;;Variations of the Nim Game Played on a Cube;;25
