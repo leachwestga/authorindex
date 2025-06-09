@@ -71,6 +71,8 @@ f.close()
 #f = open("shortsite.html","r")
 f = open("latest.html","r")
 ijpage = f.read()
+re.sub("Start//-->", "Start //-->",ijpage)
+re.sub("End//-->", "End //-->",ijpage)
 f.close
 
 # split the html into the articles
