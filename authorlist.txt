@@ -130,7 +130,6 @@
 129;;Bat&#305;r, N.
 130;;Batra, Sanjit Singh
 131;;Bayless, Jonathan
-132;;B&eacute;nyi, Be&aacute;ta
 133;;Beal, Timothy Kevin
 134;;Beck, George
 135;;Beck, Matthias
@@ -458,7 +457,6 @@
 457;;Dougherty-Bliss, Robert
 458;;Douglas, Ian
 459;;Dove, Andrew P.
-460;;Doyon, Nicolas
 461;;Doyle, Greg
 462;;Doyon, Nicolas
 463;;Drake, Nate
@@ -577,7 +575,6 @@
 576;;Fitzgerald, Robert W.
 577;;Fletcher, Peter
 578;;Fl&oacute;rez, Jorge
-579;;Fl&oacute;rez, Rigoberto
 580;;Fl&oacute;rez, Rigoberto
 581;;Flori, Jean-Pierre
 582;;Florian, Josef
@@ -1073,7 +1070,6 @@
 1072;;Liu, Yang P.
 1073;;Liu, Zhi-Guo
 1074;;Ljuji&#263;, &#381;eljka
-1075;;L&oacute;pez, Josefina
 1076;;Lockard, Shannon
 1077;;Locke, Stephen C.
 1078;;Loehr, Nicholas A.
@@ -1358,7 +1354,6 @@
 1357;;Parenti, Salvatore
 1358;;Paris, Richard B.
 1359;;Park, Andrew
-1360;;Park, Poo-Sung
 1361;;Park, Poo-Sung
 1362;;Parreau, Aline
 1363;;Parrish, Joseph
