@@ -359,6 +359,34 @@ mjx-msub {
   text-align: left;
 }
 
+mjx-munderover {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-munderover:not([limits="false"]) {
+  padding-top: .1em;
+}
+
+mjx-munderover:not([limits="false"]) > * {
+  display: block;
+}
+
+mjx-msubsup {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-script {
+  display: inline-block;
+  padding-right: .05em;
+  padding-left: .033em;
+}
+
+mjx-script > mjx-spacer {
+  display: block;
+}
+
 mjx-c::before {
   display: block;
   width: 0;
@@ -605,6 +633,76 @@ mjx-c.mjx-c32::before {
 mjx-c.mjx-c1D439.TEX-I::before {
   padding: 0.68em 0.749em 0 0;
   content: "F";
+}
+
+mjx-c.mjx-c7B::before {
+  padding: 0.75em 0.5em 0.25em 0;
+  content: "{";
+}
+
+mjx-c.mjx-c1D45D.TEX-I::before {
+  padding: 0.442em 0.503em 0.194em 0;
+  content: "p";
+}
+
+mjx-c.mjx-c1D45E.TEX-I::before {
+  padding: 0.442em 0.46em 0.194em 0;
+  content: "q";
+}
+
+mjx-c.mjx-c7D::before {
+  padding: 0.75em 0.5em 0.25em 0;
+  content: "}";
+}
+
+mjx-c.mjx-c2211.TEX-S1::before {
+  padding: 0.75em 1.056em 0.25em 0;
+  content: "\2211";
+}
+
+mjx-c.mjx-c1D45A.TEX-I::before {
+  padding: 0.442em 0.878em 0.011em 0;
+  content: "m";
+}
+
+mjx-c.mjx-c2212::before {
+  padding: 0.583em 0.778em 0.082em 0;
+  content: "\2212";
+}
+
+mjx-c.mjx-c1D456.TEX-I::before {
+  padding: 0.661em 0.345em 0.011em 0;
+  content: "i";
+}
+
+mjx-c.mjx-c3D::before {
+  padding: 0.583em 0.778em 0.082em 0;
+  content: "=";
+}
+
+mjx-c.mjx-c31::before {
+  padding: 0.666em 0.5em 0 0;
+  content: "1";
+}
+
+mjx-c.mjx-c1D465.TEX-I::before {
+  padding: 0.442em 0.572em 0.011em 0;
+  content: "x";
+}
+
+mjx-c.mjx-c2B::before {
+  padding: 0.583em 0.778em 0.082em 0;
+  content: "+";
+}
+
+mjx-c.mjx-c1D44E.TEX-I::before {
+  padding: 0.441em 0.529em 0.01em 0;
+  content: "a";
+}
+
+mjx-c.mjx-c1D450.TEX-I::before {
+  padding: 0.442em 0.433em 0.011em 0;
+  content: "c";
 }
 </style></head><body bgcolor="white" link="#0000B3" vlink="#0000B3" alink="white">
 
@@ -1713,9 +1811,9 @@ The <i>r</i>-Fibonacci Polynomial and Its Companion Sequences Linked with Some C
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Sadjia Abbad<!-- AuthorNameEnd //-->
+<!-- AuthorNameStart //-->Sadjia Abbad <!-- AuthorNameEnd //-->
 and 
-<!-- AuthorNameStart //-->Hacène Belbachir<!-- AuthorNameEnd //-->
+<!-- AuthorNameStart //-->Hacène Belbachir <!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
 <div class="panel">
@@ -2123,9 +2221,8 @@ On an Equation Involving Repdigits and Products of Two <i>k</i>-Fibonacci Number
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Safia Seffah<!-- AuthorNameEnd //-->
-<!-- AuthorNameStart //-->Salah Eddine Rihane<!-- AuthorNameEnd //-->
-, and 
+<!-- AuthorNameStart //-->Safia Seffah<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Salah Eddine Rihane<!-- AuthorNameEnd //-->, and 
 <!-- AuthorNameStart //-->Alain Togbé<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2149,7 +2246,7 @@ Rational Points of Some Genus 3 Curves from the Rank 0 Quotient Strategy
 </b> 
 <ul><li>
 <!-- AuthorNameStart //-->Tony Ezome<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Brice Miayoka Moussolo<!-- AuthorNameEnd //--> , and 
+<!-- AuthorNameStart //-->Brice Miayoka Moussolo<!-- AuthorNameEnd //-->, and 
 <!-- AuthorNameStart //-->Régis Freguin Babindamana<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2244,7 +2341,6 @@ Diagonal Sequences of Integer Partitions
 <ul><li>
 <!-- AuthorNameStart //-->Michael Neubauer<!-- AuthorNameEnd //--> and 
 <!-- AuthorNameStart //-->Harmony Vargas<!-- AuthorNameEnd //-->
-
 <ul><li>
 <button class="accordion">Abstract</button>
 <div class="panel">
@@ -2458,9 +2554,11 @@ On  <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" 
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Harishkumar T<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Shruthi Menezes<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Harishkumar T<!-- AuthorNameEnd //-->,
+<!-- AuthorNameStart //-->Shruthi Menezes<!-- AuthorNameEnd //-->, 
+and 
 <!-- AuthorNameStart //-->M. S. Mahadeva Naika<!-- AuthorNameEnd //-->
+<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
 <div class="panel">
@@ -2483,7 +2581,8 @@ Perrin Squares Which Are Again Perrin
 </b> 
 <ul><li>
 <!-- AuthorNameStart //-->Karen J. Sacanamboy<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Eric F. Bravo<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Eric F. Bravo<!-- AuthorNameEnd //-->, 
+ and 
 <!-- AuthorNameStart //-->Jhon J. Bravo<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2555,8 +2654,10 @@ Metered Parking Functions
 <ul><li>
 <!-- AuthorNameStart //-->Spencer Daugherty<!-- AuthorNameEnd //-->, 
 <!-- AuthorNameStart //-->Pamela E. Harris<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Ian Klein<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Ian Klein<!-- AuthorNameEnd //-->, 
+and 
 <!-- AuthorNameStart //-->Matt McClinton<!-- AuthorNameEnd //-->
+
 <ul><li>
 <button class="accordion">Abstract</button>
 <div class="panel">
@@ -2578,7 +2679,8 @@ An Integral Representation of <i>k</i>-Jacobsthal and <i>k</i>-Jacobsthal-Lucas 
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Weerayuth Nilsrakoo<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Weerayuth Nilsrakoo<!-- AuthorNameEnd //--> 
+ and 
 <!-- AuthorNameStart //-->Achariya Nilsrakoo<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2601,7 +2703,8 @@ A Number-Theoretic Problem Concerning Pseudo-Real Riemann Surfaces
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Gareth A. Jones<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Gareth A. Jones<!-- AuthorNameEnd //--> 
+ and 
 <!-- AuthorNameStart //-->Alexander K. Zvonkin<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2648,7 +2751,8 @@ Cardinalities of <i>g</i>-Difference Sets
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Eric Schmutz<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Eric Schmutz<!-- AuthorNameEnd //-->
+  and 
 <!-- AuthorNameStart //-->Michael Tait<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2696,7 +2800,8 @@ Odd-Indexed Fibonacci Numbers via Pattern-Avoiding Permutations
 </b> 
 <ul><li>
 <!-- AuthorNameStart //-->Juan B. Gil<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Felix H. Xu<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Felix H. Xu<!-- AuthorNameEnd //-->,
+ and 
 <!-- AuthorNameStart //-->William Y. Zhu<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2719,7 +2824,8 @@ Ascent Sequences and Weak Ascent Sequences Avoiding a Quadruple of Length-3 Patt
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->David Callan<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->David Callan<!-- AuthorNameEnd //--> 
+ and 
 <!-- AuthorNameStart //-->Toufik Mansour<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2742,7 +2848,8 @@ Classification of Quadratic Packing Polynomials on Sectors of <mjx-container cla
 </a>
 </b> 
 <ul><li>
-<!-- AuthorNameStart //-->Madeline Brandt<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Madeline Brandt<!-- AuthorNameEnd //--> 
+ and 
 <!-- AuthorNameStart //-->Kåre Schou Gjaldbæk<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2769,7 +2876,8 @@ Arithmetical Structures on Coconut Trees
 <!-- AuthorNameStart //-->Brian Ha<!-- AuthorNameEnd //-->, 
 <!-- AuthorNameStart //-->Pamela E. Harris<!-- AuthorNameEnd //-->, 
 <!-- AuthorNameStart //-->Jonathan Rogers<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Theo Koss<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Theo Koss<!-- AuthorNameEnd //-->, 
+and 
 <!-- AuthorNameStart //-->Dorian Smith<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
@@ -2865,9 +2973,10 @@ On Near <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex=
 </b> 
 <ul><li>
 <!-- AuthorNameStart //-->Flora Jeba S<!-- AuthorNameEnd //-->, 
- <!-- AuthorNameStart //-->Anirban Roy<!-- AuthorNameEnd //-->, 
- <!-- AuthorNameStart //-->Pankaj Jyoti Mahanta<!-- AuthorNameEnd //-->, and 
- <!-- AuthorNameStart //-->Manjil P. Saikia <!-- AuthorNameEnd //-->
+<!-- AuthorNameStart //-->Anirban Roy<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Pankaj Jyoti Mahanta<!-- AuthorNameEnd //-->, 
+ and 
+<!-- AuthorNameStart //-->Manjil P. Saikia<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
 <div class="panel">
@@ -2938,12 +3047,565 @@ An Elementary Characterization of the Gauss-Kuzmin Measure in the Theory of Cont
 </b> 
 <ul><li>
 <!-- AuthorNameStart //-->Shreyas Singh<!-- AuthorNameEnd //-->, 
-<!-- AuthorNameStart //-->Zhuo Zhang<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Zhuo Zhang<!-- AuthorNameEnd //-->, 
+ and 
 <!-- AuthorNameStart //-->AJ Hildebrand<!-- AuthorNameEnd //-->
 <ul><li>
 <button class="accordion">Abstract</button>
 <div class="panel">
 <img src="./latest_files/z89.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a90">A90:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z90/z90.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+A Short Telescoping Proof of Hata's Formula for the Euler-Mascheroni Constant
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Nikita Kalinin 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z90.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a91">A91:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z91/z91.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On the Sidon Ideal
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Andrzej Nowik 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z91.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a92">A92:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z92/z92.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On the Existence of <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="5" style="font-size: 101.6%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mo class="mjx-n"><mjx-c class="mjx-c7B"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45D TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c2C"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="2"><mjx-c class="mjx-c1D45E TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c7D"></mjx-c></mjx-mo></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo fence="false" stretchy="false">{</mo><mi>p</mi><mo>,</mo><mi>q</mi><mo fence="false" stretchy="false">}</mo></math></mjx-assistive-mml></mjx-container>-Diophantine Quadruples and Quintuples
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Volker Ziegler 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z92.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a93">A93:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z93/z93.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On Quotients of a More General Theorem of Wilson
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Ivan V. Morozov 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z93.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a94">A94:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z94/z94.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Enumerating Parts of <i>n</i>-Color  Partitions
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Shruti Sharma<!-- AuthorNameEnd //--> 
+and 
+<!-- AuthorNameStart //-->Amandeep Kaur<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z94.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a95">A95:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z95/z95.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Algorithms for Complementary Sequences
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Chai Wah Wu 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z95.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a96">A96:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z96/z96.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Constancy of an Infinite Cyclotomic Product via Ramanujan Sums
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Hartosh Singh Bal 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z96.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a97">A97:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z97/z97.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Determinantal Representations of Some Classical Recurrent Sequences
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Taras Goy<!-- AuthorNameEnd //-->
+and 
+<!-- AuthorNameStart //-->Mark Shattuck<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z97.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a98">A98:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z98/z98.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+A New Formula for the Sum of Integer Powers Based on Elementary Matrix Theory
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Peiran Ding<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Yanjun Zhu<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Lei Wang<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z98.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a99">A99:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z99/z99.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On the Additive Uniqueness of Generalized Nonagonal Numbers for Multiplicative Functions
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Poo-Sung Park 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z99.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a100">A100:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z100/z100.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+The Log-Behavior of Some Sequences Related to a Linear Recurrence Sequence
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Feng-Zhen Zhao 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z100.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a101">A101:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z101/z101.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+The Higher Power Moments of the Coefficients of the Dedekind Zeta Function over a Polynomial in Six Variables
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Naveen K. Godara<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Prashant Tiwari<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z101.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a102">A102:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z102/z102.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Distributions of Ulam Words up to Length 30
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Paul Adutwum<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Hopper Clark<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Ro Emerson<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Alexandra (Sasha) Sheydvasser<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Arseniy (Senia) Sheydvasser<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Axelle Tougouma<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z102.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a103">A103:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z103/z103.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Nonexistence of Consecutive Powerful Triplets Around Cubes with Prime-Square Factors
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Jialai She 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z103.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a104">A104:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z104/z104.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Decomposition of Beatty and Complementary Sequences
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Geremias Polanco 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z104.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a105">A105:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z105/z105.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+From Schur's Theorem to the Pairwise Sum Theorem
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Mauro Di Nasso<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Renling Jin<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z105.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a106">A106:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z106/z106.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On <i>p</i>-Frobenius Numbers for the Numerical Semigroups Generated by Three Consecutive Star Numbers
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Takao Komatsu<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Tapas Chatterjee<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Palak Narula<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z106.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a107">A107:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z107/z107.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On Lucas and Frobenius Pseudoprimes
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Lawrence Somer<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Michal Křížek<!-- AuthorNameEnd //-->
+
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z107.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a108">A108:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z108/z108.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+On the Two-Color Disjunctive Rado Number for the Equations <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="6" style="font-size: 101.6%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-munderover limits="false"><mjx-mo class="mjx-sop"><mjx-c class="mjx-c2211 TEX-S1"></mjx-c></mjx-mo><mjx-script style="vertical-align: -0.285em; margin-left: 0px;"><mjx-texatom size="s" texclass="ORD"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45A TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-mn class="mjx-n"><mjx-c class="mjx-c32"></mjx-c></mjx-mn></mjx-texatom><mjx-spacer style="margin-top: 0.233em;"></mjx-spacer><mjx-texatom size="s" texclass="ORD"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D456 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mn class="mjx-n"><mjx-c class="mjx-c31"></mjx-c></mjx-mn></mjx-texatom></mjx-script></mjx-munderover><mjx-msub space="2"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.15em;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D456 TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msub><mjx-mo class="mjx-n" space="3"><mjx-c class="mjx-c2B"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="3"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi><mjx-msub><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.15em;"><mjx-texatom size="s" texclass="ORD"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45A TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-mn class="mjx-n"><mjx-c class="mjx-c31"></mjx-c></mjx-mn></mjx-texatom></mjx-script></mjx-msub><mjx-mo class="mjx-n" space="3"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-msub space="3"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.15em;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D45A TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msub><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-msub space="4"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D450 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.15em;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D457 TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msub><mjx-mo class="mjx-n"><mjx-c class="mjx-c2C"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="2"><mjx-c class="mjx-c1D457 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mn class="mjx-n" space="4"><mjx-c class="mjx-c31"></mjx-c></mjx-mn><mjx-mo class="mjx-n"><mjx-c class="mjx-c2C"></mjx-c></mjx-mo><mjx-mn class="mjx-n" space="2"><mjx-c class="mjx-c32"></mjx-c></mjx-mn></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><munderover><mo data-mjx-texclass="OP">∑</mo><mrow data-mjx-texclass="ORD"><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>m</mi><mo>−</mo><mn>2</mn></mrow></munderover><msub><mi>x</mi><mi>i</mi></msub><mo>+</mo><mi>a</mi><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>m</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>−</mo><msub><mi>x</mi><mi>m</mi></msub><mo>=</mo><msub><mi>c</mi><mi>j</mi></msub><mo>,</mo><mi>j</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn></math></mjx-assistive-mml></mjx-container>
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Srashti Dwivedi<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Amitabha Tripathi<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z108.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a109">A109:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z109/z109.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Double Perfect Partitions of Higher Order
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Augustine O. Munagi 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z109.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a110">A110:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z110/z110.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+A Simple Proof of the Formula for the Sum of Tribonacci and Tetranacci Numbers Squared
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Karol Gryszka 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z110.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a111">A111:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z111/z111.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Multigraph Characterization of Permutiple Strings
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->
+Benjamin V. Holt 
+<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z111.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+ 
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="a112">A112:</a> 
+<b>
+<a href="https://math.colgate.edu/~integers/z112/z112.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Integer Solutions of Pell Equation in a Closed Rotated Square Region
+<!-- ArticleTitleEnd //-->
+</a>
+</b> 
+<ul><li>
+<!-- AuthorNameStart //-->Kun Yi Ong<!-- AuthorNameEnd //--> and 
+<!-- AuthorNameStart //-->Eddie Shahril Bin Ismail<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/z112.Abstract.png" width="70%">
 </div>
 </li></ul>
 </li></ul>
@@ -3033,6 +3695,30 @@ Generalizations of Two-Dimensional and Three-Dimensional Chocolate Bar Games
 <button class="accordion">Abstract</button>
 <div class="panel">
 <img src="./latest_files/zg3.Abstract.png" width="70%">
+</div>
+</li></ul>
+</li></ul>
+<!-- ArticleSectionEnd //-->
+
+
+</li><li class="fragment">
+<!-- ArticleSectionStart //-->
+<a id="g4">G4:</a>
+<b>
+<a href="https://math.colgate.edu/~integers/zg4/zg4.pdf" target="_blank">
+<!-- ArticleTitleStart //-->
+Wythoff's Game with a Pass
+<!-- ArticleTitleEnd //-->
+</a>
+</b>
+<ul><li>
+<!-- AuthorNameStart //-->Ryohei Miyadera<!-- AuthorNameEnd //-->, 
+<!-- AuthorNameStart //-->Hikaru Manabe<!-- AuthorNameEnd //-->, and 
+<!-- AuthorNameStart //-->Masanori Fukui<!-- AuthorNameEnd //-->
+<ul><li>
+<button class="accordion">Abstract</button>
+<div class="panel">
+<img src="./latest_files/zg4.Abstract.png" width="70%">
 </div>
 </li></ul>
 </li></ul>
