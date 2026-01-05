@@ -2015,7 +2015,6 @@
 2016;;Balancing and Lucas-Balancing Numbers as the Difference of Two Repdigits;;25
 2017;;On a Ramanujan’s Continued Fraction of Order Sixteen and New Eisenstein Series Identities;;25
 2018;;Congruences for F-partitions with 4 Repetitions;;25
-2019;;Series Associated with a Forgotten Identity of N&ouml;rlund;;25
 2020;;Odd Spoof Multiperfect Numbers;;25
 2021;;A Note on Congruences for Generalized Cubic Partitions Modulo Primes;;25
 2022;;Ramsey Theory on the Integer Grid: The "L" Problem;;25
