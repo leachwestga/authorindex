@@ -2054,7 +2054,6 @@
 2056;;Arithmetic Density of Certain <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="0" style="font-size: 101.6%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c2113"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>ℓ</mi></math></mjx-assistive-mml></mjx-container>-Regular Overpartitions;;25
 2057;;Series Associated with a Forgotten Identity of Nörlund;;25
 2058;;Notes on the Number of Primitive λ-roots mod <i>n</i> and Its Multiplicative Properties;;25
-2059;;Jensen Polynomials Associated with Wright's Circle Method: Hyperbolicity and Turán Inequalities;;25
 2060;;On a Conjecture of Ramírez Alfonsín and Skałba, III;;25
 2061;;Mean Square Estimates  for  GCD-Sum Functions;;25
 2062;;Elementary Patterns from the Erdős-Straus Conjecture;;25
