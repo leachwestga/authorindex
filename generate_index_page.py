@@ -94,7 +94,7 @@ def numberfy(input):
         input=re.sub("[A-Z]","",input)
         input=re.sub(r"\(.*\)","",input)
         input=re.sub(r";*","",input)
-        input=int(input)
+        #input=int(input)
     return input;
 
 def getvolfrompaperid(x):
