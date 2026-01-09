@@ -114,7 +114,7 @@ def generateWebAuthorEntry(author):
         entry += "<li>" + papers[pap].title
         entry += '<a href="vol'
         entry += papers[pap].volume
-        entry += '">'
+        entry += '.html">'
         entry += ", Vol " + papers[pap].volume
         entry += "</a>"
         coau = getCoauthors(pap,author)
