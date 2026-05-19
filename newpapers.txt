@@ -1,26 +1,35 @@
-2123;;Arithmetic Polygons and Sums of Consecutive Squares;;26
-2124;;Power Series Associated with Reciprocals of Generalized Central Binomial Coefficients;;26
-2125;;An Interpretation of Continued Fractions and Farey Graphs in the Field of Rational Functions;;26
-2126;;Extending Recent Work of Nath, Saikia, and Sarma on \(k\)-Tuple \(\ell\)-Regular Partitions;;26
-2127;;Linear Recurrence Relations Satisfied by the General Conditional Sequences;;26
-2128;;Length of the Longest Arithmetic Progressions in a Certain Reduced Residue System;;26
-2129;;On the Length of an Interval That Contains Distinct Multiples of the First \(n\) Positive Integers;;26
-2130;;Counting Symmetric and Non-Symmetric Peaks in a Set Partition;;26
-2131;;An Intrinsic factor of an Alternating Sum Involving Certain Rational Functions;;26
-2132;;A Geometric Relationship between Continued Fractions and Clean Lattice Parallelograms;;26
-2133;;Measures for the Summation of Irwin Series;;26
-2134;;On Sierpi&nacute;ski and Riesel Repdigits and Repintegers;;26
-2135;;MacMahon's Double Vision: Partition Diamonds Revisited;;26
-2136;;A Note on Small Solutions to Diagonal Congruences;;26
-2137;;Cyclic-Pattern-Avoiding Stacks;;26
-2138;;A Note on Multiset Reconstruction from Pairwise Products and Total Sum;;26
-2139;;The Maximum Length for Ducci Sequences on \(\mathbb{Z}_m^n\) when \(n\) is Even;;26
-2140;;Joint Distributions of 10 Classical Statistics over Permutations Avoiding Two Patterns of Length 3;;26
-2141;;A Short Proof of Knuth's Old Sum, Generalizations and Related Sums;;26
-2142;;On Colored Partitions and Euler-Type Identities;;26
-2143;;Generalized Fruit Diophantine Equation over Number Fields;;26
-2144;;Density and Symmetry in the Generalized Motzkin Numbers Modulo \(p\);;26
-2145;;On the Length over Which \(k\)-G&ouml;bel Sequences Remain Integers;;26
-2146;;Anti-Recurrence Sequences;;26
-2147;;On Generalizing the Van Der Waerden Theorem to Some Symmetric Functions;;26
-2148;;High Temperature Domineering Positions;;26
+2149;;Solvability of \(\binom{2k}{k} = \binom{2a}{a} \binom{x+2b}{b}\);;26
+2150;;A New Triangle of Numbers: Properties and Observations;;26
+2151;;Irrationality of the Reciprocal Sum of Doubly Exponential Sequences;;26
+2152;;A Note on the Evaluation of Two Arithmetic Functions of Kronecker;;26
+2153;;Geometric Sums as Sums of Two Squares;;26
+2154;;On the Sumset of Sets of Size \(k\);;26
+2155;;An Extension of Wolstenholme's Theorem by Binomial Coefficients;;26
+2156;;Spoof Lehmer Factorizations;;26
+2157;;Reduced Complexities for Sequences over Finite Alphabets;;26
+2158;;Three  Integers Whose Sum, Product, and the Sum of the Products of the Integers, Taken Two at a Time, Are Perfect Squares;;26
+2159;;On Hypersequences of an Arbitrary Sequence and Their Weighted Sums II;;26
+2160;;Hyperbolic Summation Involving Certain Arithmetic Functions and the Integer Part Function;;26
+2161;;On a Conjecture of Krukenberg and a Problem of Dalton and Trifonov;;26
+2162;;A Topological Proof of the Infinitude of Prime Numbers in Certain Arithmetic Progressions;;26
+2163;;Fast Winning Strategies in a Generalized van der Waerden Game;;26
+2164;;New Proofs of Certain Theta Function Identities via Ramanujan's Function;;26
+2165;;The Erd&#337;s-Straus Conjecture and the Structure of Primes;;26
+2166;;Asymptotics of Partial Sums of Dirichlet Convolutions of Digital Sum Functions in Arbitrary Bases;;26
+2167;;On the Nagell--Ljunggren Equation \(\frac{x^{5}-1}{x-1}=y^{3}\);;26
+2168;;L&uuml;roth Expansions in Diophantine Approximation: Metric Properties and Conjectures;;26
+2169;;A New Asymptotic Formula for \(\pi(n)\) with the Divisor Counting Function;;26
+2170;;Remarks on the Middle Binomial Coefficient;;26
+2171;;A Note on Hyper-Leonardo Numbers;;26
+2172;;Combinatorics of Positional Colored Compositions;;26
+2173;;Counting Appearances of Integers in Sets of Arithmetic Progressions;;26
+2174;;Rank of the Elliptic Curve \(y^2=x^3-2pqx\);;26
+2175;;A Question of Erd&#337;s and Graham on Covering Systems;;26
+2176;;Linear Recurrences from Counting Schreier-Type Multisets;;26
+2177;;Fixed Points of the Josephus Function via Fractional Base Expansions;;26
+2178;;The Log-Balancedness of the Sequence for the Alternating Sums of Motzkin Numbers;;26
+2179;;A Square-Splitting <i>A</i>-Convolution of Narkiewicz Type;;26
+2180;;Certain Algebraic Formal Laurent Series with Bounded Partial Quotients;;26
+2181;;The Union of Two Arithmetic Progressions with Different Common Differences Is Not an MSTD Set;;26
+2182;;King Permutations and Partially Ordered Patterns;;26
+2183;;Linear Relations for Overpartitions into Odd Parts;;26
